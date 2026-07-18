@@ -1,0 +1,48 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 47 – Complete House Knowledge Base
+Purpose
+This manual defines how the House Database is populated with detailed interpretation records.
+Each house becomes a reusable knowledge source for the reasoning engine, timeline engine and
+report composer.
+Knowledge Set
+Coverage
+Target Records
+House Meanings
+12 master records
+12+
+House Lords
+12 × planetary lords
+200+
+Planet in House
+9 × 12 combinations
+108+
+Sign in House
+12 × 12 combinations
+144+
+House Relationships
+House-to-house rules
+500+
+Timeline Patterns
+Life-stage effects
+1000+
+Question Mapping
+User questions
+1000+
+Narrative Blocks
+Reusable paragraphs
+5000+
+Evidence Rules
+Validation objects
+Unlimited
+Knowledge Record Template
+Each record includes ID, house number, astrological condition, interpretation, affected life domains,
+timeline influence, supporting evidence, child explanation, expert explanation, narrative blocks,
+confidence score and cross references.
+Population Strategy
+Create modular knowledge records for every house condition. The report engine combines multiple
+records according to chart context instead of using static articles.
+Developer Specification
+Support multilingual content, semantic indexing, embeddings, graph links, version history,
+validation status and API-ready retrieval.
+Next Volume
+Volume 48 – Complete Nakshatra Knowledge Base.

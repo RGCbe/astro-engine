@@ -1,0 +1,249 @@
+{
+  "birth": {
+    "year": 1996,
+    "month": 5,
+    "day": 25,
+    "hour": 20,
+    "min": 25,
+    "lat": 11.0168,
+    "lon": 76.9558,
+    "place": "Coimbatore, TN",
+    "weekday": "Saturday"
+  },
+  "lagna": "Dhanusu",
+  "lagna_idx": 8,
+  "ayanamsa": 23.8068,
+  "positions": {
+    "Sun": {
+      "rasi": "Rishabam",
+      "rasi_idx": 1,
+      "nak": "Rohini",
+      "nak_lord": "Moon",
+      "pada": 1,
+      "house": 6,
+      "deg": 10.987299999999998,
+      "lon_abs": 40.9873
+    },
+    "Moon": {
+      "rasi": "Simmam",
+      "rasi_idx": 4,
+      "nak": "Magha",
+      "nak_lord": "Ketu",
+      "pada": 4,
+      "house": 9,
+      "deg": 11.311900000000009,
+      "lon_abs": 131.3119
+    },
+    "Mars": {
+      "rasi": "Mesham",
+      "rasi_idx": 0,
+      "nak": "Bharani",
+      "nak_lord": "Venus",
+      "pada": 3,
+      "house": 5,
+      "deg": 23.2941,
+      "lon_abs": 23.2941
+    },
+    "Mercury": {
+      "rasi": "Mesham",
+      "rasi_idx": 0,
+      "nak": "Bharani",
+      "nak_lord": "Venus",
+      "pada": 4,
+      "house": 5,
+      "deg": 26.142,
+      "lon_abs": 26.142
+    },
+    "Jupiter": {
+      "rasi": "Dhanusu",
+      "rasi_idx": 8,
+      "nak": "Purva Ashadha",
+      "nak_lord": "Venus",
+      "pada": 3,
+      "house": 1,
+      "deg": 23.292100000000005,
+      "lon_abs": 263.2921
+    },
+    "Venus": {
+      "rasi": "Mithunam",
+      "rasi_idx": 2,
+      "nak": "Mrigashira",
+      "nak_lord": "Mars",
+      "pada": 4,
+      "house": 7,
+      "deg": 4.0411,
+      "lon_abs": 64.0411
+    },
+    "Saturn": {
+      "rasi": "Meenam",
+      "rasi_idx": 11,
+      "nak": "Uttara Bhadrapada",
+      "nak_lord": "Saturn",
+      "pada": 3,
+      "house": 4,
+      "deg": 11.361400000000003,
+      "lon_abs": 341.3614
+    },
+    "Rahu": {
+      "rasi": "Kanni",
+      "rasi_idx": 5,
+      "nak": "Hasta",
+      "nak_lord": "Moon",
+      "pada": 4,
+      "house": 10,
+      "deg": 21.046099999999996,
+      "lon_abs": 171.0461
+    },
+    "Ketu": {
+      "rasi": "Meenam",
+      "rasi_idx": 11,
+      "nak": "Revati",
+      "nak_lord": "Mercury",
+      "pada": 2,
+      "house": 4,
+      "deg": 21.046100000000024,
+      "lon_abs": 351.0461
+    },
+    "Gulika": {
+      "rasi": "Mithunam",
+      "rasi_idx": 2,
+      "nak": "Punarvasu",
+      "nak_lord": "Jupiter",
+      "pada": 1,
+      "house": 7,
+      "deg": 21.642300000000006,
+      "lon_abs": 81.6423
+    },
+    "Mandi": {
+      "rasi": "Kadagam",
+      "rasi_idx": 3,
+      "nak": "Pushya",
+      "nak_lord": "Saturn",
+      "pada": 3,
+      "house": 8,
+      "deg": 12.290300000000002,
+      "lon_abs": 102.2903
+    },
+    "Lagna": {
+      "rasi": "Dhanusu",
+      "rasi_idx": 8,
+      "nak": "Mula",
+      "nak_lord": "Ketu",
+      "pada": 2,
+      "house": 1,
+      "deg": 5.709900000000005,
+      "lon_abs": 245.7099
+    }
+  },
+  "janma_nakshatra": "Magha",
+  "janma_nakshatra_lord": "Ketu",
+  "moon_rasi": "Simmam",
+  "name": "Manoj Kumar",
+  "lagna_lord": "Sun (Suriyan)",
+  "lagna_deg": 5.709900000000005,
+  "lagna_lon": 245.7099,
+  "truth_report": {
+    "schema_version": "1.0",
+    "report_state": "complete",
+    "data_quality": {
+      "birth_input": "provided",
+      "partial_failures": []
+    },
+    "chart_facts": [
+      {
+        "id": "fact:21f74f25ec114d61",
+        "label": "Birth nakshatra is Magha",
+        "kind": "mechanical_fact"
+      },
+      {
+        "id": "fact:953eaea66dfdf2c3",
+        "label": "Moon sign is Simmam",
+        "kind": "mechanical_fact"
+      },
+      {
+        "id": "fact:b03fb543ddce4b7a",
+        "label": "Lagna is Dhanusu",
+        "kind": "mechanical_fact"
+      },
+      {
+        "id": "fact:e61dc5b9f54b6afb",
+        "label": "Current Vimshottari period is Moon / Jupiter",
+        "kind": "mechanical_fact"
+      }
+    ],
+    "claims": [
+      {
+        "id": "claim:b6001613b739bd2f",
+        "topic": "current_period",
+        "status": "tentative",
+        "statement": "There is one applicable evidence family for the current period theme, but it is not independently corroborated.",
+        "time_window": {
+          "start": "2023-06-17",
+          "end": "2033-06-17"
+        },
+        "confidence_band": "single_method",
+        "why": {
+          "supports": [
+            "fact:e61dc5b9f54b6afb"
+          ],
+          "contradictions": [],
+          "citations": []
+        }
+      }
+    ],
+    "method_coverage": {
+      "ashtakavarga": {
+        "state": "available"
+      },
+      "house_corpus": {
+        "state": "available"
+      },
+      "jaimini": {
+        "state": "available"
+      },
+      "kp": {
+        "state": "available"
+      },
+      "nadi": {
+        "state": "available"
+      },
+      "parashari": {
+        "state": "available"
+      },
+      "strength": {
+        "state": "available"
+      },
+      "tajik": {
+        "state": "available"
+      },
+      "transit": {
+        "state": "available"
+      },
+      "yoga": {
+        "state": "available"
+      }
+    },
+    "graph_summary": {
+      "nodes": 92,
+      "edges": 112,
+      "nodes_by_kind": {
+        "chart": 1,
+        "citation": 53,
+        "claim": 1,
+        "fact": 4,
+        "method": 8,
+        "method_finding": 24,
+        "report": 1
+      },
+      "edges_by_kind": {
+        "APPLIES_TO": 24,
+        "CITES": 53,
+        "CONTAINS": 6,
+        "HAS_FACT": 4,
+        "PRODUCED_BY": 24,
+        "SUPPORTS": 1
+      },
+      "claims": 1
+    }
+  }
+}

@@ -1,0 +1,48 @@
+AstroReport OS Specification
+Volume 11 – Expert Astrologer Decision Engine
+(EADE)
+Purpose
+Define the reasoning process used by an experienced astrologer to convert chart evidence into
+consistent conclusions before report generation.
+Step
+Decision
+Output
+1
+Identify life question
+Target domain
+2
+Select relevant houses
+Evidence set
+3
+Evaluate planets and lords
+Strength profile
+4
+Check yogas and combinations
+Supporting evidence
+5
+Review divisional charts
+Confirmation
+6
+Apply Mahadasha/Bhukti timing
+Active period
+7
+Check transits if applicable
+Current influence
+8
+Resolve conflicting indications
+Balanced conclusion
+9
+Assign confidence score
+High / Medium / Low
+10
+Send structured reasoning to Report Engine
+Narrative input
+Decision Principles
+Never rely on a single indicator. Prefer conclusions supported by multiple independent factors.
+When evidence is mixed, explain both supportive and limiting influences instead of making absolute
+claims.
+Reasoning Output
+Return structured reasoning including: life domain, evidence summary, timing, confidence score,
+narrative theme, guidance and validation status.
+Next Volume
+Volume 12 – Astrological Evidence Weighting & Conflict Resolution System.

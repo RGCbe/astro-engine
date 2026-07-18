@@ -1,0 +1,809 @@
+=== v7 decoder debug ===
+Clean headers: 707
+Rules extracted: 602 / 1296
+Missing: 694
+
+=== Per-subsection detail ===
+  dhanu       /jupiter  : 4 headers, houses=[6, 7, 8, 10]
+  dhanu       /ketu     : 8 headers, houses=[2, 3, 4, 5, 8, 10, 11, 12]
+  dhanu       /mars     : 18 headers, houses=[3, 4, 5, 7, 8, 9, 10, 11, 12]
+  dhanu       /mercury  : 4 headers, houses=[1, 3, 5]
+  dhanu       /moon     : 5 headers, houses=[1, 5, 6, 9, 12]
+  dhanu       /rahu     : 8 headers, houses=[1, 3, 4, 6, 7, 9, 10, 12]
+  dhanu       /saturn   : 8 headers, houses=[2, 3, 4, 6, 8, 10, 11, 12]
+  dhanu       /sun      : 8 headers, houses=[3, 4, 5, 6, 7, 9, 10, 12]
+  dhanu       /venus    : 5 headers, houses=[1, 2, 3, 4, 11]
+  kanya       /jupiter  : 13 headers, houses=[1, 3, 4, 6, 7, 8, 12]
+  kanya       /ketu     : 5 headers, houses=[2, 4, 5, 10, 12]
+  kanya       /mars     : 7 headers, houses=[2, 3, 4, 5, 6, 7, 12]
+  kanya       /mercury  : 17 headers, houses=[1, 2, 3, 4, 5, 6, 7, 8, 11, 12]
+  kanya       /moon     : 2 headers, houses=[8, 10]
+  kanya       /rahu     : 3 headers, houses=[4, 7, 10]
+  kanya       /saturn   : 3 headers, houses=[4, 5, 8]
+  kanya       /sun      : 4 headers, houses=[6, 9, 10, 11]
+  kanya       /venus    : 8 headers, houses=[2, 3, 4, 5, 6, 7, 8, 11]
+  karka       /jupiter  : 7 headers, houses=[1, 2, 4, 7, 8, 9]
+  karka       /ketu     : 6 headers, houses=[2, 3, 4, 6, 8, 9]
+  karka       /mars     : 9 headers, houses=[1, 2, 3, 4, 5, 7, 9, 11, 12]
+  karka       /mercury  : 5 headers, houses=[2, 3, 10, 11]
+  karka       /moon     : 3 headers, houses=[8, 10, 12]
+  karka       /rahu     : 13 headers, houses=[1, 2, 3, 4, 5, 6, 8]
+  karka       /saturn   : 7 headers, houses=[2, 5, 6, 8, 9, 11, 12]
+  karka       /sun      : 6 headers, houses=[1, 2, 5, 7, 8, 10]
+  karka       /venus    : 12 headers, houses=[1, 3, 4, 6, 7, 9, 10, 11]
+  kumbha      /jupiter  : 10 headers, houses=[1, 3, 4, 6, 10, 11, 12]
+  kumbha      /ketu     : 5 headers, houses=[6, 7, 10, 11, 12]
+  kumbha      /mars     : 9 headers, houses=[1, 4, 6, 7, 8, 9, 10, 11, 12]
+  kumbha      /mercury  : 5 headers, houses=[1, 2, 8, 11, 12]
+  kumbha      /moon     : 11 headers, houses=[2, 3, 7, 8, 9, 11, 12]
+  kumbha      /rahu     : 10 headers, houses=[1, 2, 3, 4, 5, 6, 7, 8, 11]
+  kumbha      /saturn   : 4 headers, houses=[3, 4, 6, 12]
+  kumbha      /sun      : 8 headers, houses=[1, 2, 5, 7, 8, 9, 10]
+  kumbha      /venus    : 5 headers, houses=[1, 4, 9, 11, 12]
+  makara      /jupiter  : 3 headers, houses=[3, 8, 10]
+  makara      /ketu     : 5 headers, houses=[7, 10, 11]
+  makara      /mars     : 4 headers, houses=[4, 6, 8, 10]
+  makara      /mercury  : 4 headers, houses=[4, 9, 10, 12]
+  makara      /moon     : 2 headers, houses=[6, 9]
+  makara      /rahu     : 4 headers, houses=[1, 2, 5, 8]
+  makara      /saturn   : 4 headers, houses=[1, 3, 4, 5]
+  makara      /sun      : 3 headers, houses=[5, 10, 11]
+  makara      /venus    : 8 headers, houses=[1, 3, 4, 6, 8, 10, 11, 12]
+  meena       /jupiter  : 10 headers, houses=[1, 2, 3, 6, 8, 10, 12]
+  meena       /ketu     : 7 headers, houses=[4, 5, 6, 7, 8, 9, 12]
+  meena       /mars     : 4 headers, houses=[7, 8, 10, 12]
+  meena       /mercury  : 4 headers, houses=[2, 3, 7, 12]
+  meena       /moon     : 4 headers, houses=[6, 7, 12]
+  meena       /rahu     : 5 headers, houses=[2, 3, 5, 7, 10]
+  meena       /saturn   : 8 headers, houses=[1, 2, 3, 4, 7, 8, 11, 12]
+  meena       /sun      : 7 headers, houses=[2, 4, 7, 8, 10, 11, 12]
+  meena       /venus    : 5 headers, houses=[4, 5, 7, 8, 12]
+  mesha       /jupiter  : 12 headers, houses=[1, 3, 4, 5, 6, 7, 10, 12]
+  mesha       /ketu     : 6 headers, houses=[2, 4, 5, 6, 7, 8]
+  mesha       /mars     : 6 headers, houses=[2, 4, 6, 7, 8, 12]
+  mesha       /mercury  : 4 headers, houses=[1, 2, 7, 10]
+  mesha       /moon     : 6 headers, houses=[2, 3, 6, 7, 9, 12]
+  mesha       /rahu     : 7 headers, houses=[1, 2, 4, 6, 7, 8, 9]
+  mesha       /saturn   : 4 headers, houses=[2, 3, 5, 8]
+  mesha       /sun      : 4 headers, houses=[1, 3, 4, 7]
+  mesha       /venus    : 9 headers, houses=[1, 7, 8, 9, 10, 11, 12]
+  mithuna     /jupiter  : 11 headers, houses=[2, 7, 10]
+  mithuna     /ketu     : 12 headers, houses=[1, 2, 3, 7, 9, 10, 11, 12]
+  mithuna     /mars     : 3 headers, houses=[3, 4, 8]
+  mithuna     /moon     : 3 headers, houses=[5, 8, 10]
+  mithuna     /rahu     : 4 headers, houses=[4, 5, 8, 9]
+  mithuna     /saturn   : 7 headers, houses=[1, 2, 3, 6, 8, 10, 12]
+  mithuna     /sun      : 5 headers, houses=[1, 2, 3, 4, 9]
+  mithuna     /venus    : 14 headers, houses=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+  simha       /jupiter  : 4 headers, houses=[1, 8, 10, 12]
+  simha       /ketu     : 3 headers, houses=[8, 10, 11]
+  simha       /mars     : 7 headers, houses=[2, 3, 5, 8, 9, 10, 11]
+  simha       /mercury  : 7 headers, houses=[2, 3, 5, 6, 7, 11, 12]
+  simha       /moon     : 4 headers, houses=[2, 4, 5, 6]
+  simha       /rahu     : 13 headers, houses=[1, 2, 3, 6, 7, 8, 9, 10]
+  simha       /saturn   : 7 headers, houses=[1, 2, 5, 6, 7, 12]
+  simha       /sun      : 4 headers, houses=[2, 4, 6, 7]
+  simha       /venus    : 7 headers, houses=[1, 3, 5, 6, 8, 10]
+  tula        /jupiter  : 7 headers, houses=[1, 2, 3, 6, 7, 9, 12]
+  tula        /ketu     : 2 headers, houses=[4, 5]
+  tula        /mars     : 10 headers, houses=[3, 5, 8, 10, 11, 12]
+  tula        /mercury  : 1 headers, houses=[3]
+  tula        /moon     : 7 headers, houses=[1, 3, 6, 8, 9, 10, 11]
+  tula        /rahu     : 4 headers, houses=[3, 7, 11]
+  tula        /saturn   : 8 headers, houses=[1, 2, 4, 5, 6, 7, 10, 11]
+  tula        /sun      : 7 headers, houses=[2, 5, 6, 7, 8, 9, 10]
+  tula        /venus    : 5 headers, houses=[3, 4, 5, 6, 7]
+  vrishabha   /jupiter  : 6 headers, houses=[2, 7, 9]
+  vrishabha   /ketu     : 8 headers, houses=[2, 3, 10, 11]
+  vrishabha   /mars     : 6 headers, houses=[3, 4, 6, 8, 9, 12]
+  vrishabha   /mercury  : 6 headers, houses=[2, 3, 5, 7, 9, 12]
+  vrishabha   /moon     : 6 headers, houses=[1, 3, 4, 5, 8, 12]
+  vrishabha   /rahu     : 8 headers, houses=[1, 4, 5, 6, 7, 8, 9, 10]
+  vrishabha   /saturn   : 1 headers, houses=[12]
+  vrishabha   /sun      : 6 headers, houses=[2, 3, 5, 7, 9, 11]
+  vrishabha   /venus    : 8 headers, houses=[2, 3, 4, 6, 8, 12]
+  vrishchika  /jupiter  : 9 headers, houses=[1, 2, 3, 5, 7, 8, 9, 10, 12]
+  vrishchika  /ketu     : 6 headers, houses=[1, 5, 7, 8, 9, 12]
+  vrishchika  /mars     : 4 headers, houses=[1, 7, 10]
+  vrishchika  /mercury  : 7 headers, houses=[2, 5, 6, 7, 11]
+  vrishchika  /moon     : 11 headers, houses=[1, 2, 3, 8, 10, 11, 12]
+  vrishchika  /rahu     : 9 headers, houses=[1, 2, 3, 5, 8, 9, 10, 11, 12]
+  vrishchika  /saturn   : 6 headers, houses=[4, 6, 8, 10, 11, 12]
+  vrishchika  /sun      : 6 headers, houses=[1, 3, 4, 7, 8, 9]
+  vrishchika  /venus    : 10 headers, houses=[3, 4, 6, 7, 8, 10, 11, 12]
+
+=== Missing (694) ===
+  mesha/1/moon
+  mesha/1/mars
+  mesha/1/saturn
+  mesha/1/ketu
+  mesha/2/sun
+  mesha/2/jupiter
+  mesha/2/venus
+  mesha/3/mars
+  mesha/3/mercury
+  mesha/3/venus
+  mesha/3/rahu
+  mesha/3/ketu
+  mesha/4/moon
+  mesha/4/mercury
+  mesha/4/venus
+  mesha/4/saturn
+  mesha/5/sun
+  mesha/5/moon
+  mesha/5/mars
+  mesha/5/mercury
+  mesha/5/venus
+  mesha/5/rahu
+  mesha/6/sun
+  mesha/6/mercury
+  mesha/6/venus
+  mesha/6/saturn
+  mesha/7/saturn
+  mesha/8/sun
+  mesha/8/moon
+  mesha/8/mercury
+  mesha/8/jupiter
+  mesha/9/sun
+  mesha/9/mars
+  mesha/9/mercury
+  mesha/9/jupiter
+  mesha/9/saturn
+  mesha/9/ketu
+  mesha/10/sun
+  mesha/10/moon
+  mesha/10/mars
+  mesha/10/saturn
+  mesha/10/rahu
+  mesha/10/ketu
+  mesha/11/sun
+  mesha/11/moon
+  mesha/11/mars
+  mesha/11/mercury
+  mesha/11/jupiter
+  mesha/11/saturn
+  mesha/11/rahu
+  mesha/11/ketu
+  mesha/12/sun
+  mesha/12/mercury
+  mesha/12/saturn
+  mesha/12/rahu
+  mesha/12/ketu
+  vrishabha/1/sun
+  vrishabha/1/mars
+  vrishabha/1/mercury
+  vrishabha/1/jupiter
+  vrishabha/1/venus
+  vrishabha/1/saturn
+  vrishabha/1/ketu
+  vrishabha/2/moon
+  vrishabha/2/mars
+  vrishabha/2/saturn
+  vrishabha/2/rahu
+  vrishabha/3/jupiter
+  vrishabha/3/saturn
+  vrishabha/3/rahu
+  vrishabha/4/sun
+  vrishabha/4/mercury
+  vrishabha/4/jupiter
+  vrishabha/4/saturn
+  vrishabha/4/ketu
+  vrishabha/5/mars
+  vrishabha/5/jupiter
+  vrishabha/5/venus
+  vrishabha/5/saturn
+  vrishabha/5/ketu
+  vrishabha/6/sun
+  vrishabha/6/moon
+  vrishabha/6/mercury
+  vrishabha/6/jupiter
+  vrishabha/6/saturn
+  vrishabha/6/ketu
+  vrishabha/7/moon
+  vrishabha/7/mars
+  vrishabha/7/venus
+  vrishabha/7/saturn
+  vrishabha/7/ketu
+  vrishabha/8/sun
+  vrishabha/8/mercury
+  vrishabha/8/jupiter
+  vrishabha/8/saturn
+  vrishabha/8/ketu
+  vrishabha/9/moon
+  vrishabha/9/venus
+  vrishabha/9/saturn
+  vrishabha/9/ketu
+  vrishabha/10/sun
+  vrishabha/10/moon
+  vrishabha/10/mars
+  vrishabha/10/mercury
+  vrishabha/10/jupiter
+  vrishabha/10/venus
+  vrishabha/10/saturn
+  vrishabha/11/moon
+  vrishabha/11/mars
+  vrishabha/11/mercury
+  vrishabha/11/jupiter
+  vrishabha/11/venus
+  vrishabha/11/saturn
+  vrishabha/11/rahu
+  vrishabha/12/sun
+  vrishabha/12/jupiter
+  vrishabha/12/rahu
+  vrishabha/12/ketu
+  mithuna/1/moon
+  mithuna/1/mars
+  mithuna/1/mercury
+  mithuna/1/jupiter
+  mithuna/1/rahu
+  mithuna/2/moon
+  mithuna/2/mars
+  mithuna/2/mercury
+  mithuna/2/rahu
+  mithuna/3/moon
+  mithuna/3/mercury
+  mithuna/3/jupiter
+  mithuna/3/rahu
+  mithuna/4/moon
+  mithuna/4/mercury
+  mithuna/4/jupiter
+  mithuna/4/saturn
+  mithuna/4/ketu
+  mithuna/5/sun
+  mithuna/5/mars
+  mithuna/5/mercury
+  mithuna/5/jupiter
+  mithuna/5/saturn
+  mithuna/5/ketu
+  mithuna/6/sun
+  mithuna/6/moon
+  mithuna/6/mars
+  mithuna/6/mercury
+  mithuna/6/jupiter
+  mithuna/6/rahu
+  mithuna/6/ketu
+  mithuna/7/sun
+  mithuna/7/moon
+  mithuna/7/mars
+  mithuna/7/mercury
+  mithuna/7/saturn
+  mithuna/7/rahu
+  mithuna/8/sun
+  mithuna/8/mercury
+  mithuna/8/jupiter
+  mithuna/8/ketu
+  mithuna/9/moon
+  mithuna/9/mars
+  mithuna/9/mercury
+  mithuna/9/jupiter
+  mithuna/9/saturn
+  mithuna/10/sun
+  mithuna/10/mars
+  mithuna/10/mercury
+  mithuna/10/rahu
+  mithuna/11/sun
+  mithuna/11/moon
+  mithuna/11/mars
+  mithuna/11/mercury
+  mithuna/11/jupiter
+  mithuna/11/saturn
+  mithuna/11/rahu
+  mithuna/12/sun
+  mithuna/12/moon
+  mithuna/12/mars
+  mithuna/12/mercury
+  mithuna/12/jupiter
+  mithuna/12/venus
+  mithuna/12/rahu
+  karka/1/moon
+  karka/1/mercury
+  karka/1/saturn
+  karka/1/ketu
+  karka/2/moon
+  karka/2/venus
+  karka/3/sun
+  karka/3/moon
+  karka/3/jupiter
+  karka/3/saturn
+  karka/4/sun
+  karka/4/moon
+  karka/4/mercury
+  karka/4/saturn
+  karka/5/moon
+  karka/5/mercury
+  karka/5/jupiter
+  karka/5/venus
+  karka/5/ketu
+  karka/6/sun
+  karka/6/moon
+  karka/6/mars
+  karka/6/mercury
+  karka/6/jupiter
+  karka/7/moon
+  karka/7/mercury
+  karka/7/saturn
+  karka/7/rahu
+  karka/7/ketu
+  karka/8/mars
+  karka/8/mercury
+  karka/8/venus
+  karka/9/sun
+  karka/9/moon
+  karka/9/mercury
+  karka/9/rahu
+  karka/10/mars
+  karka/10/jupiter
+  karka/10/saturn
+  karka/10/rahu
+  karka/10/ketu
+  karka/11/sun
+  karka/11/moon
+  karka/11/jupiter
+  karka/11/rahu
+  karka/11/ketu
+  karka/12/sun
+  karka/12/mercury
+  karka/12/jupiter
+  karka/12/venus
+  karka/12/rahu
+  karka/12/ketu
+  simha/1/sun
+  simha/1/moon
+  simha/1/mars
+  simha/1/mercury
+  simha/1/ketu
+  simha/2/jupiter
+  simha/2/venus
+  simha/2/ketu
+  simha/3/sun
+  simha/3/moon
+  simha/3/jupiter
+  simha/3/saturn
+  simha/3/ketu
+  simha/4/mars
+  simha/4/mercury
+  simha/4/jupiter
+  simha/4/venus
+  simha/4/saturn
+  simha/4/rahu
+  simha/4/ketu
+  simha/5/sun
+  simha/5/jupiter
+  simha/5/rahu
+  simha/5/ketu
+  simha/6/mars
+  simha/6/jupiter
+  simha/6/ketu
+  simha/7/moon
+  simha/7/mars
+  simha/7/jupiter
+  simha/7/venus
+  simha/7/ketu
+  simha/8/sun
+  simha/8/moon
+  simha/8/mercury
+  simha/8/saturn
+  simha/9/sun
+  simha/9/moon
+  simha/9/mercury
+  simha/9/jupiter
+  simha/9/venus
+  simha/9/saturn
+  simha/9/ketu
+  simha/10/sun
+  simha/10/moon
+  simha/10/mercury
+  simha/10/saturn
+  simha/11/sun
+  simha/11/moon
+  simha/11/jupiter
+  simha/11/venus
+  simha/11/saturn
+  simha/11/rahu
+  simha/12/sun
+  simha/12/moon
+  simha/12/mars
+  simha/12/venus
+  simha/12/rahu
+  simha/12/ketu
+  kanya/1/sun
+  kanya/1/moon
+  kanya/1/mars
+  kanya/1/venus
+  kanya/1/saturn
+  kanya/1/rahu
+  kanya/1/ketu
+  kanya/2/sun
+  kanya/2/moon
+  kanya/2/jupiter
+  kanya/2/saturn
+  kanya/2/rahu
+  kanya/3/sun
+  kanya/3/moon
+  kanya/3/saturn
+  kanya/3/rahu
+  kanya/3/ketu
+  kanya/4/sun
+  kanya/4/moon
+  kanya/5/sun
+  kanya/5/moon
+  kanya/5/jupiter
+  kanya/5/rahu
+  kanya/6/moon
+  kanya/6/saturn
+  kanya/6/rahu
+  kanya/6/ketu
+  kanya/7/sun
+  kanya/7/moon
+  kanya/7/saturn
+  kanya/7/ketu
+  kanya/8/sun
+  kanya/8/mars
+  kanya/8/rahu
+  kanya/8/ketu
+  kanya/9/moon
+  kanya/9/mars
+  kanya/9/mercury
+  kanya/9/jupiter
+  kanya/9/venus
+  kanya/9/saturn
+  kanya/9/rahu
+  kanya/9/ketu
+  kanya/10/mars
+  kanya/10/mercury
+  kanya/10/jupiter
+  kanya/10/venus
+  kanya/10/saturn
+  kanya/11/moon
+  kanya/11/mars
+  kanya/11/jupiter
+  kanya/11/saturn
+  kanya/11/rahu
+  kanya/11/ketu
+  kanya/12/sun
+  kanya/12/moon
+  kanya/12/venus
+  kanya/12/saturn
+  kanya/12/rahu
+  tula/1/sun
+  tula/1/mars
+  tula/1/mercury
+  tula/1/venus
+  tula/1/rahu
+  tula/1/ketu
+  tula/2/moon
+  tula/2/mars
+  tula/2/mercury
+  tula/2/venus
+  tula/2/rahu
+  tula/2/ketu
+  tula/3/sun
+  tula/3/saturn
+  tula/3/ketu
+  tula/4/sun
+  tula/4/moon
+  tula/4/mars
+  tula/4/mercury
+  tula/4/jupiter
+  tula/4/rahu
+  tula/5/moon
+  tula/5/mercury
+  tula/5/jupiter
+  tula/5/rahu
+  tula/6/mars
+  tula/6/mercury
+  tula/6/rahu
+  tula/6/ketu
+  tula/7/moon
+  tula/7/mars
+  tula/7/mercury
+  tula/7/ketu
+  tula/8/mercury
+  tula/8/jupiter
+  tula/8/venus
+  tula/8/saturn
+  tula/8/rahu
+  tula/8/ketu
+  tula/9/mars
+  tula/9/mercury
+  tula/9/venus
+  tula/9/saturn
+  tula/9/rahu
+  tula/9/ketu
+  tula/10/mercury
+  tula/10/jupiter
+  tula/10/venus
+  tula/10/rahu
+  tula/10/ketu
+  tula/11/sun
+  tula/11/mercury
+  tula/11/jupiter
+  tula/11/venus
+  tula/11/ketu
+  tula/12/sun
+  tula/12/moon
+  tula/12/mercury
+  tula/12/venus
+  tula/12/saturn
+  tula/12/rahu
+  tula/12/ketu
+  vrishchika/1/mercury
+  vrishchika/1/venus
+  vrishchika/1/saturn
+  vrishchika/2/sun
+  vrishchika/2/mars
+  vrishchika/2/venus
+  vrishchika/2/saturn
+  vrishchika/2/ketu
+  vrishchika/3/mars
+  vrishchika/3/mercury
+  vrishchika/3/saturn
+  vrishchika/3/ketu
+  vrishchika/4/moon
+  vrishchika/4/mars
+  vrishchika/4/mercury
+  vrishchika/4/jupiter
+  vrishchika/4/rahu
+  vrishchika/4/ketu
+  vrishchika/5/sun
+  vrishchika/5/moon
+  vrishchika/5/mars
+  vrishchika/5/venus
+  vrishchika/5/saturn
+  vrishchika/6/sun
+  vrishchika/6/moon
+  vrishchika/6/mars
+  vrishchika/6/jupiter
+  vrishchika/6/rahu
+  vrishchika/6/ketu
+  vrishchika/7/moon
+  vrishchika/7/saturn
+  vrishchika/7/rahu
+  vrishchika/8/mars
+  vrishchika/8/mercury
+  vrishchika/9/moon
+  vrishchika/9/mars
+  vrishchika/9/mercury
+  vrishchika/9/venus
+  vrishchika/9/saturn
+  vrishchika/10/sun
+  vrishchika/10/mercury
+  vrishchika/10/ketu
+  vrishchika/11/sun
+  vrishchika/11/mars
+  vrishchika/11/jupiter
+  vrishchika/11/ketu
+  vrishchika/12/sun
+  vrishchika/12/mars
+  vrishchika/12/mercury
+  dhanu/1/sun
+  dhanu/1/mars
+  dhanu/1/jupiter
+  dhanu/1/saturn
+  dhanu/1/ketu
+  dhanu/2/sun
+  dhanu/2/moon
+  dhanu/2/mars
+  dhanu/2/mercury
+  dhanu/2/jupiter
+  dhanu/2/rahu
+  dhanu/3/moon
+  dhanu/3/jupiter
+  dhanu/4/moon
+  dhanu/4/mercury
+  dhanu/4/jupiter
+  dhanu/5/jupiter
+  dhanu/5/venus
+  dhanu/5/saturn
+  dhanu/5/rahu
+  dhanu/6/mars
+  dhanu/6/mercury
+  dhanu/6/venus
+  dhanu/6/ketu
+  dhanu/7/moon
+  dhanu/7/mercury
+  dhanu/7/venus
+  dhanu/7/saturn
+  dhanu/7/ketu
+  dhanu/8/sun
+  dhanu/8/moon
+  dhanu/8/mercury
+  dhanu/8/venus
+  dhanu/8/rahu
+  dhanu/9/mercury
+  dhanu/9/jupiter
+  dhanu/9/venus
+  dhanu/9/saturn
+  dhanu/9/ketu
+  dhanu/10/moon
+  dhanu/10/mercury
+  dhanu/10/venus
+  dhanu/11/sun
+  dhanu/11/moon
+  dhanu/11/mercury
+  dhanu/11/jupiter
+  dhanu/11/rahu
+  dhanu/12/mercury
+  dhanu/12/jupiter
+  dhanu/12/venus
+  makara/1/sun
+  makara/1/moon
+  makara/1/mars
+  makara/1/mercury
+  makara/1/jupiter
+  makara/1/ketu
+  makara/2/sun
+  makara/2/moon
+  makara/2/mars
+  makara/2/mercury
+  makara/2/jupiter
+  makara/2/venus
+  makara/2/saturn
+  makara/2/ketu
+  makara/3/sun
+  makara/3/moon
+  makara/3/mars
+  makara/3/mercury
+  makara/3/rahu
+  makara/3/ketu
+  makara/4/sun
+  makara/4/moon
+  makara/4/jupiter
+  makara/4/rahu
+  makara/4/ketu
+  makara/5/moon
+  makara/5/mars
+  makara/5/mercury
+  makara/5/jupiter
+  makara/5/venus
+  makara/5/ketu
+  makara/6/sun
+  makara/6/mercury
+  makara/6/jupiter
+  makara/6/saturn
+  makara/6/rahu
+  makara/6/ketu
+  makara/7/sun
+  makara/7/moon
+  makara/7/mars
+  makara/7/mercury
+  makara/7/jupiter
+  makara/7/venus
+  makara/7/saturn
+  makara/7/rahu
+  makara/8/sun
+  makara/8/moon
+  makara/8/mercury
+  makara/8/saturn
+  makara/8/ketu
+  makara/9/sun
+  makara/9/mars
+  makara/9/jupiter
+  makara/9/venus
+  makara/9/saturn
+  makara/9/rahu
+  makara/9/ketu
+  makara/10/moon
+  makara/10/saturn
+  makara/10/rahu
+  makara/11/moon
+  makara/11/mars
+  makara/11/mercury
+  makara/11/jupiter
+  makara/11/saturn
+  makara/11/rahu
+  makara/12/sun
+  makara/12/moon
+  makara/12/mars
+  makara/12/jupiter
+  makara/12/saturn
+  makara/12/rahu
+  makara/12/ketu
+  kumbha/1/moon
+  kumbha/1/saturn
+  kumbha/1/ketu
+  kumbha/2/mars
+  kumbha/2/jupiter
+  kumbha/2/venus
+  kumbha/2/saturn
+  kumbha/2/ketu
+  kumbha/3/sun
+  kumbha/3/mars
+  kumbha/3/mercury
+  kumbha/3/venus
+  kumbha/3/ketu
+  kumbha/4/sun
+  kumbha/4/moon
+  kumbha/4/mercury
+  kumbha/4/ketu
+  kumbha/5/moon
+  kumbha/5/mars
+  kumbha/5/mercury
+  kumbha/5/jupiter
+  kumbha/5/venus
+  kumbha/5/saturn
+  kumbha/5/ketu
+  kumbha/6/sun
+  kumbha/6/moon
+  kumbha/6/mercury
+  kumbha/6/venus
+  kumbha/7/mercury
+  kumbha/7/jupiter
+  kumbha/7/venus
+  kumbha/7/saturn
+  kumbha/8/jupiter
+  kumbha/8/venus
+  kumbha/8/saturn
+  kumbha/8/ketu
+  kumbha/9/mercury
+  kumbha/9/jupiter
+  kumbha/9/saturn
+  kumbha/9/rahu
+  kumbha/9/ketu
+  kumbha/10/moon
+  kumbha/10/mercury
+  kumbha/10/venus
+  kumbha/10/saturn
+  kumbha/10/rahu
+  kumbha/11/sun
+  kumbha/11/saturn
+  kumbha/12/sun
+  kumbha/12/rahu
+  meena/1/sun
+  meena/1/moon
+  meena/1/mars
+  meena/1/mercury
+  meena/1/venus
+  meena/1/rahu
+  meena/1/ketu
+  meena/2/moon
+  meena/2/mars
+  meena/2/venus
+  meena/2/ketu
+  meena/3/sun
+  meena/3/moon
+  meena/3/mars
+  meena/3/venus
+  meena/3/ketu
+  meena/4/moon
+  meena/4/mars
+  meena/4/mercury
+  meena/4/jupiter
+  meena/4/rahu
+  meena/5/sun
+  meena/5/moon
+  meena/5/mars
+  meena/5/mercury
+  meena/5/jupiter
+  meena/5/saturn
+  meena/6/sun
+  meena/6/mars
+  meena/6/mercury
+  meena/6/venus
+  meena/6/saturn
+  meena/6/rahu
+  meena/7/jupiter
+  meena/8/moon
+  meena/8/mercury
+  meena/8/rahu
+  meena/9/sun
+  meena/9/moon
+  meena/9/mars
+  meena/9/mercury
+  meena/9/jupiter
+  meena/9/venus
+  meena/9/saturn
+  meena/9/rahu
+  meena/10/moon
+  meena/10/mercury
+  meena/10/venus
+  meena/10/saturn
+  meena/10/ketu
+  meena/11/moon
+  meena/11/mars
+  meena/11/mercury
+  meena/11/jupiter
+  meena/11/venus
+  meena/11/rahu
+  meena/11/ketu
+  meena/12/rahu

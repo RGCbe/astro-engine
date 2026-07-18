@@ -1,0 +1,68 @@
+AstroReport OS Specification
+Volume 10E – Career, Employment & Professional
+Growth Knowledge Base
+Purpose
+Define structured question records for career, employment, professional development and
+long-term work life. These records are consumed by the report engine to produce timeline-aware
+career chapters.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0041
+What career suits me best?
+Career
+Young Adult
+Timeline
+Q0042
+When does my career begin to stabilize?
+Career
+Young Adult
+Timeline
+Q0043
+Will I work in government or private sector?
+Employment
+Young Adult
+Timeline
+Q0044
+Am I suited for leadership roles?
+Leadership
+Adult
+Career
+Q0045
+Will I change careers?
+Career
+Adult
+Timeline
+Q0046
+Should I become self-employed?
+Business
+Adult
+Career
+Q0047
+Will I work abroad?
+Foreign Career
+Adult
+Timeline
+Q0048
+How do I handle workplace pressure?
+Career
+Adult
+Timeline
+Q0049
+What brings long-term professional success?
+Career
+Whole Life
+Summary
+Q0050
+How does my career support my life purpose?
+Purpose
+Whole Life
+Summary
+Implementation Rules
+Career questions should evolve through the timeline. Early chapters focus on aptitude and
+preparation, middle chapters on growth and responsibility, and later chapters on leadership,
+mentoring and retirement.
+Next Volume
+Volume 10F – Business, Entrepreneurship & Wealth Creation Knowledge Base.

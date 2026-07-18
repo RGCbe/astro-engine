@@ -1,0 +1,73 @@
+AstroReport OS Specification
+Volume 2 – Human Life Ontology
+Purpose
+Define everything that can happen in a human life so the report engine understands life before
+explaining astrology.
+Core Principle
+Life → Experience → Question → Astrology → Explanation. Never start with planets; start with the
+person's lived experience.
+Master Life Tree
+Identity, Physical Life, Emotional Life, Mental Life, Family, Education, Friends, Love, Marriage,
+Career, Business, Wealth, Property, Children, Health, Travel, Society, Reputation, Spirituality,
+Purpose, Legacy.
+Life Domains
+Identity
+Personality, confidence, thinking, communication, leadership, creativity, discipline, motivation,
+values, talents, weaknesses.
+Physical Life
+Birth, body, energy, appearance, fitness, sleep, food, recovery, ageing, lifestyle.
+Emotional Life
+Love, fear, anger, joy, stress, attachment, resilience, emotional healing.
+Mental Life
+Memory, intelligence, focus, curiosity, imagination, planning, decision making.
+Family
+Mother, father, siblings, grandparents, relatives, home, responsibilities, traditions.
+Education
+School, college, higher studies, mentors, skills, exams, lifelong learning.
+Friends
+Friendships, networking, teamwork, trust, support, influence.
+Love
+Romance, attraction, compatibility, commitment, boundaries, healing.
+Marriage
+Partner, communication, shared goals, finances, family, long-term partnership.
+Career
+Employment, promotions, leadership, recognition, retirement.
+Business
+Startup, partnership, management, marketing, expansion, succession.
+Wealth
+Income, savings, investments, insurance, passive income, financial freedom.
+Property
+House, land, construction, rental income, relocation.
+Children
+Parenting, education, responsibilities, guidance, legacy.
+Health
+Physical and mental wellbeing, nutrition, exercise, preventive care.
+Travel
+Domestic, international, migration, pilgrimage, business travel.
+Society
+Community, public image, influence, service.
+Reputation
+Integrity, respect, authority, recognition.
+Spirituality
+Faith, meditation, gratitude, compassion, inner peace.
+Purpose
+Life mission, calling, dreams, contribution, fulfilment.
+Legacy
+Retirement, wisdom, mentoring, impact, life review.
+Domain Relationships
+Life domains influence each other. Example: Confidence → Education → Career → Wealth →
+Marriage → Leadership → Legacy.
+Question Mapping
+Every user question maps to one or more life domains. Example: 'Will I become rich?' maps to
+Wealth, Career, Business, Property, Investments, Savings, Timing and Decision Making.
+Life Stage Mapping
+Different domains become more important at different ages. Childhood emphasizes family and
+learning; adulthood emphasizes career, relationships and wealth; later life emphasizes wisdom,
+purpose and legacy.
+Report Rule
+The report engine should prioritize the domains that are active for the current life stage and Dasha,
+while briefly updating the remaining domains.
+Volume 2 Outcome
+The report engine now understands the complete structure of human life. Volume 3 will map these
+life domains to the Dasha and Bhukti timeline so every chapter answers the right questions at the
+right time.

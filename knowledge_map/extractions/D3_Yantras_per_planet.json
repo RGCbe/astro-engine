@@ -1,0 +1,85 @@
+{
+  "item": "D3_Yantras per planet",
+  "books_covering": [
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1"
+  ],
+  "per_book_passages": {
+    "BPHS_Vol2": [
+      {
+        "position": 712336,
+        "match_text": "yantra",
+        "context": "as a resurt of malevolence of planets at birth, he wilr be blessect with a son if he undertakes tlre following remedial measures- (l) worshipping rord shivaif the harm is as a resurt of the malevolence of Mercury and Venus, . (2) reciting of Santan Gopal mantra, wearing and worshF pping appropriate yantra and taking suitable medtines, if thc childlessness is a result of thc malevolence of Jupiter and the Moon, 1002 Brihu Parasara lIora Sastra (3) Kanya dana if the childlessness is due to of Rahu, - - (4) worshipping of lord Vishnu if it is due to malevolence of the Sun, - -(5) Rudriyalapa if it is due to the marevolence of Mars and Saturn, . Listening with devotion to Haribansh purana removes all Klnds ot' blemishes (<te) and blesses the person concerned with a son. malevolence stst T€{ffiqgrf",
+        "pattern_hit": "\\byantra\\b"
+      }
+    ],
+    "Brihat_Parashara_v2": [
+      {
+        "position": 1569057,
+        "match_text": "yantra",
+        "context": "a result of malevolence of planets at birth, he will be blessed with a son if he undertakes the following remedial measures- (1) Worshipping lord Shiva if the harm is as a result of the malevolence of Mercury and Venus, (2) Reciting of Santan Gopal mantra, wearing and worshipping appropriate yantra and taking suitable medicines, if the childlessness is a result of the malevolence of Jupiter and the Moon, (3) Kanyadana if the childlessness is due to malevolence of Rahu, (4) Worshipping of lord Vishnu if it is due to malevolence of the Sun, (5) Rudriya Japa if it is due to the malevolence of Mars and Saturn, Listening with devotion to Haribansh Purana removes all kinds of blemishes (दोष) and blesses the person concerned with a son. Page 813 अथः ग्रहशान्त्यध्यायः ॥८४॥ Chapter 84",
+        "pattern_hit": "\\byantra\\b"
+      }
+    ],
+    "Surya_Siddhanta": [
+      {
+        "position": 878876,
+        "match_text": "yantra",
+        "context": "ossible. The word which, upon the authority of the commentator, we have rendered \" water,\" in verse 16, is amrtasr&va, literally \"having an im- mortal flow\": perhaps the phrase should be translated rather, \"by managing a constant current of water.\" 19. ... So also, one should construct instruments (yantra) in order to the ascertainment of time. 20. When quite alone, one should apply quicksilver to the wonder-causing instrument. By the gnomon (ganku), staff (yashti), arc (dhanus), wheel (cakra), instruments for taking the shadow, of various kinds, 21. According to the instruction of the preceptor (guru), is to be gained a knowledge of time by the diligent. . . . The commentator interprets the first part of verge 20 in correspond- ence with the sense of the preceding passage : the application of m",
+        "pattern_hit": "\\byantra\\b"
+      }
+    ],
+    "Aryabhatiya_v1": [
+      {
+        "position": 7726,
+        "match_text": "yantra",
+        "context": "portions of the Bhagola Motion of the Bhagola from the north and south poles Visibility of the Sun to the gods, manes and men 2, Khagola The prime vertical, meridian and horizon Equatorial horizon The observer in the Khagola The observet’s Drhmandala and Drkksepavetta The Automatic sphere (Gola-yantra) 3. Spherical astronomy (1. Diurnal motion) The latitude-triangle Radius of the day-circle Right ascensions of Aries, Taurus and Gemini ११० Page 114 116 117 118 118 118 119 121 122 123 123 126 127 127 128 128 128 129 129 130 132 133 ====== PAGE 9 ====== ‘CONTENTS Earthsine Rising of the four quadrants and of the individual signs Rsine of the altitude Sankvagra Sun’s Agra Rsine of the Sun’s prime vertical altitude Sun’s greatest gnomon and the shadow thereof (2. Parallax in a so",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 105008,
+        "match_text": "yantra",
+        "context": "mical instruments and special methods of the Aryabhata- siddhanta Ramakrsna Aradhya (A.D. 1472) has quoted a set of 34 verses (composed in anustubh metre) from the chapter of the Aryabhata-siddhanta dealing with the astronomical instruments. The instruments described in these verses are: (1) Chaya-yantra (‘the shadow instrument’), (2) Dhanuryantra (‘the semi-circle’), (3) Yasti-yantra, (4) Cakra-yantra (‘the whole circle’), (5) Chatra-yanira (‘the umbrella’), (6) Water instruments, (7) Ghatika@-yantra, (8) Kapala-yantra, and (9) the gnomon,! Of these instruments, some were indeed devised by Aryabhata I. The 1. For details see K.S, Shukla, ‘Aryabhata I’s astronomy with midnight day-reckoning’, Gagita, Vol. 18, No. 1, pp. 83-105, ABh, ix ====== PAGE 63 ====== Invi INTRODUCTION gnomon (as des",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 105209,
+        "match_text": "yantra",
+        "context": "ealing with the astronomical instruments. The instruments described in these verses are: (1) Chaya-yantra (‘the shadow instrument’), (2) Dhanuryantra (‘the semi-circle’), (3) Yasti-yantra, (4) Cakra-yantra (‘the whole circle’), (5) Chatra-yanira (‘the umbrella’), (6) Water instruments, (7) Ghatika@-yantra, (8) Kapala-yantra, and (9) the gnomon,! Of these instruments, some were indeed devised by Aryabhata I. The 1. For details see K.S, Shukla, ‘Aryabhata I’s astronomy with midnight day-reckoning’, Gagita, Vol. 18, No. 1, pp. 83-105, ABh, ix ====== PAGE 63 ====== Invi INTRODUCTION gnomon (as described by Aryabhata I) and the water instruments have been generally attributed to him. It is in connection with these instruments that the commentators of the Surya-siddhanta have remem- bered him. M",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 327182,
+        "match_text": "YANTRA",
+        "context": "relation to the observer and passes through the planet is the drnmandala (i.e., the vertical circle through the planet). The vertical circle which passes through that point of the ecliptic which is three signs behind the rising point of the ecliptic is the drkksepavytta. THE AUTOMATIC SPHERE (GOLA-YANTRA) काष्ठमयं समबवृत्तं समन्‍्ततः TATE लघुं गोलम्‌ । पारद तेलजलैस्तं भ्रमयेत्‌ खधिया च कालसमम्‌ ॥ २२॥ 22. The Sphere (Gola-yantra) which is made of wood, perfectly spherical, uniformly dense all round but light (in weight) should be made to rotate keeping pace with time with the help of mercury, oil and water by the application of one’s own intellect. The Gola-yantra is the representation of the Bhagola. The method used by Aryabhata for rotating the Sphere (Bhagola) at therate of one rotation per",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 327550,
+        "match_text": "yantra",
+        "context": "्तं भ्रमयेत्‌ खधिया च कालसमम्‌ ॥ २२॥ 22. The Sphere (Gola-yantra) which is made of wood, perfectly spherical, uniformly dense all round but light (in weight) should be made to rotate keeping pace with time with the help of mercury, oil and water by the application of one’s own intellect. The Gola-yantra is the representation of the Bhagola. The method used by Aryabhata for rotating the Sphere (Bhagola) at therate of one rotation per twentyfour hours may be briefly described in the words of the commentator Stryadeva as follows : “Having set up two pillars on the ground, one towards the south and the other towards the north, mount on them the 1. Cf. SiDVr, वा, vi. 33-34. 2, E. Ni. Pa, So. पारत A. 8४. 17 ====== PAGE 204 ====== 23. GOLA SECTION 1 Gola Sn. ends of the iron needle (rod) (whi",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 411232,
+        "match_text": "yantra",
+        "context": "22, 87; —motion of, 20-21 Ardhardtrtka (midnight) system of Aryabhata I, 151 Area of, —a circle, 40 ; —a plane figure, 42-44 ; —a trapezium, 42-43 ; —a triangle, 38-39 Arithmetic progression : See under A.P. Series. Arkagra, 1410. Arkagrahana : See under Solar eclipse. Armillary sphere, (gola-yantra), 113, 129-30 Aryabhata I—date of birth, 95; —epoch of, bija corrections therefrom, 95-96 ; —midnight system of, 151; —named as the author in the text, 1, 33. For his views expressed in the Aryabhatiya, see under the rele- vant subjects in this Index. Aryabhata H, on: —latitude-tri- angles, 131; —modified Rsine- difference, 30 ; —volume of a sphere, 42. See also Maha- siddhanta. Aryabhatiya, stated to be the title of the work in the text itself, 164 ====== PAGE 257 ====== SUBJECT INDEX 1",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 412155,
+        "match_text": "yantra",
+        "context": "planets, 19-22 ; —motion on the 20-21, 114 ecliptic, Ascensional difference (carardha), 136 ff. Asterisms, —orbit of, 13, 14, 15 ; — position in relation to the Planets, 102-3 Astronomy, I. The solar system, by H.N. Russell etc., 18n Audayika-tantra (== Aryabhatiya), 28 Automatic sphere (Gola-yantra), 129-30 Avarga letters denoting numbers, 3, 4,5 Avarga places for numbers, 3, 4, 5 Avanti (Ujjayini) Ujjayini. See under Ayama-ksetra (trapezium), area of, 42-43 Ayana-drkkarma for the Moon, 149-51 Ayana-valana, 159-61 Babuaji Misra, 70, 20n Bagavamukha, located at the south pole, 122-23 Baker, Robert H., on ‘northern lights, or aurora’ vis @ vis the Meru mountain, 122 Bakhshali manuscript, on Series, 63 ; travellers, 73n ` AP, —problems on Baladeva Misra, takes Kali 3600 as the t",
+        "pattern_hit": "\\byantra\\b"
+      },
+      {
+        "position": 419728,
+        "match_text": "yantra",
+        "context": "6 Ghata (multiplication), 35 Gitika-pada, 1-32 Glacial and Pleistocene Geology, by Richard Foster Flint, 119. Gnomon, —computations based on, 56-58 ; ~—description of, 56 Gods (devas), —residing at Meru, 122-23 ; —visibility of the Sun for, 127; —year of, 92 Gola, 1,2 Gola-pada, 113-64 Gola-yantra (armillary sphere), 113, 129-30 Govinda-svami, on ; —aksavalana, 159 ; —ayanadrkkarma, 151n ; manda and Sighra epicycles, 25. See also Laghu-Bhaskariya and Maha-Bhaskariya. Graha-ctra-nibandhana (GCN) of Haridatta, 97n. See also Haridatta. Grahalaghava of 08९६३ Daivajiia, 98 Greek astronomers, —planetary diameters (angular), according to, 16 Greek Mathematics, by Sir Thomas Heath, 59n 187 Gulik2 (unknown quantity), —cal- culation from given data, 72-73 Gunana (multiplication), 35 Gurv",
+        "pattern_hit": "\\byantra\\b"
+      }
+    ]
+  }
+}

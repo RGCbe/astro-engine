@@ -1,0 +1,18 @@
+EXTRACTION PAUSED 2026-06-02
+Flag: /opt/astro/scratch/EXTRACTION_PAUSED.flag (local: F:\astro\scratch\EXTRACTION_PAUSED.flag)
+
+VPS 46.28.44.225 � no extraction processes running.
+
+Books complete: BPHS1, Sarvartha_Chintamani, KP_Reader_3_Predictive
+Books paused:
+  Bhrigu_Samhita: 126/219 (42.5% missing)
+  Jataka_Bharanam: 180/505 (64.4% missing)
+
+Corpus: 18189 unique rules (19957 raw, 1768 dup merges, 41 books)
+
+Resume:
+  ssh root@46.28.44.225
+  rm -f /opt/astro/scratch/EXTRACTION_PAUSED.flag
+  nohup bash /opt/astro/scratch/_vps_corpus_retry.sh 10 >> /opt/astro/logs/corpus_retry.log 2>&1 &
+
+Synced to VPS: scratch/* (retry, pause flag, progress, stats), _workbench/_deep_extract.py, docs/EXTRACTION_STATUS.md, engine/event_age_policy.py, engine/event_narrative.py, runtime/event_predictor_v2.py, runtime/tamil_translations.py

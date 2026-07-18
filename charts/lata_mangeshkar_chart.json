@@ -1,0 +1,183 @@
+{
+  "name": "Lata Mangeshkar",
+  "birth": {
+    "year": 1929,
+    "month": 9,
+    "day": 28,
+    "hour": 22,
+    "min": 30,
+    "lat": 22.7196,
+    "lon": 75.8577,
+    "place": "Indore, Madhya Pradesh, India",
+    "tz": 5.5,
+    "weekday": "Saturday"
+  },
+  "lagna": "Taurus",
+  "lagna_idx": 1,
+  "lagna_deg": 26.1621,
+  "lagna_lord": "Venus",
+  "ayanamsa": 22.875816,
+  "positions": {
+    "Sun": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 12.2004,
+      "lon_abs": 162.2004,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.9824,
+      "house": 5
+    },
+    "Moon": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 16.984,
+      "lon_abs": 106.984,
+      "nak": "Ashlesha",
+      "nak_idx": 8,
+      "nak_lord": "Mercury",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 14.3083,
+      "house": 3
+    },
+    "Mars": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 1.8613,
+      "lon_abs": 181.8613,
+      "nak": "Chitra",
+      "nak_idx": 13,
+      "nak_lord": "Mars",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.6707,
+      "house": 6
+    },
+    "Mercury": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 29.9816,
+      "lon_abs": 179.9816,
+      "nak": "Chitra",
+      "nak_idx": 13,
+      "nak_lord": "Mars",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.3519,
+      "house": 5
+    },
+    "Jupiter": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 23.4577,
+      "lon_abs": 53.4577,
+      "nak": "Mrigashira",
+      "nak_idx": 4,
+      "nak_lord": "Mars",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.0224,
+      "house": 1
+    },
+    "Venus": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 10.7992,
+      "lon_abs": 130.7992,
+      "nak": "Magha",
+      "nak_idx": 9,
+      "nak_lord": "Ketu",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 1.2127,
+      "house": 4
+    },
+    "Saturn": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 1.777,
+      "lon_abs": 241.777,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.0485,
+      "house": 8
+    },
+    "Rahu": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 21.0583,
+      "lon_abs": 21.0583,
+      "nak": "Bharani",
+      "nak_idx": 1,
+      "nak_lord": "Venus",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 12
+    },
+    "Ketu": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 21.0583,
+      "lon_abs": 201.0583,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 6
+    }
+  },
+  "janma_nakshatra": "Ashlesha",
+  "janma_nakshatra_lord": "Mercury",
+  "moon_rasi": "Cancer",
+  "moon_pada": 1,
+  "rodden_rating": "B",
+  "birth_time_note": "Birth time 10:30 PM IST from family records cited in Yatindra Mishra biography",
+  "known_events": [
+    {
+      "date": "1942-04-01",
+      "event": "Father Deenanath Mangeshkar died \u2014 Lata age 13, became family breadwinner"
+    },
+    {
+      "date": "1942-04-15",
+      "event": "First playback singing in Marathi film Kiti Hasaal (her father's death cancelled the release)"
+    },
+    {
+      "date": "1949-03-24",
+      "event": "Breakthrough: 'Aayega Aanewala' from Mahal \u2014 became iconic"
+    },
+    {
+      "date": "1969-01-26",
+      "event": "Awarded Padma Bhushan"
+    },
+    {
+      "date": "1989-01-26",
+      "event": "Awarded Dadasaheb Phalke Award \u2014 India's highest film honor"
+    },
+    {
+      "date": "1999-08-30",
+      "event": "Awarded Padma Vibhushan + Lata Mangeshkar Award instituted"
+    },
+    {
+      "date": "2001-01-26",
+      "event": "Awarded Bharat Ratna \u2014 India's highest civilian honor"
+    },
+    {
+      "date": "2019-11-12",
+      "event": "Hospitalized at Breach Candy Hospital \u2014 first major COVID-era illness"
+    },
+    {
+      "date": "2022-02-06",
+      "event": "Died from COVID-19 complications at Breach Candy Hospital, Mumbai \u2014 age 92"
+    }
+  ]
+}

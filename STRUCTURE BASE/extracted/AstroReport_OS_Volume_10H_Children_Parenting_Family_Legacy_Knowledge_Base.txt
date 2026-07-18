@@ -1,0 +1,66 @@
+AstroReport OS Specification
+Volume 10H – Children, Parenting & Family Legacy
+Knowledge Base
+Purpose
+Define structured question records covering children, parenting, caregiving and family legacy.
+These records help the report engine explain how family responsibilities evolve across the life
+timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0071
+What kind of parent am I likely to become?
+Parenting
+Adult
+Timeline
+Q0072
+How do I connect emotionally with children?
+Children
+Adult
+Timeline
+Q0073
+What values should I pass to my children?
+Family Values
+Adult
+Timeline
+Q0074
+How does parenthood change my life?
+Parenthood
+Adult
+Timeline
+Q0075
+How do I balance career and family?
+Family
+Adult
+Timeline
+Q0076
+What responsibilities become most important?
+Responsibilities
+Adult
+Timeline
+Q0077
+How can I guide the next generation?
+Mentorship
+Later Adult
+Timeline
+Q0078
+What legacy do I leave through my family?
+Legacy
+Later Adult
+Summary
+Q0079
+How do family traditions shape future generations?Family
+Whole Life
+Summary
+Q0080
+What is my long-term contribution to my family?
+Legacy
+Whole Life
+Legacy
+Implementation Rules
+Parenting themes should appear only when relevant to the person's timeline. Focus on guidance,
+responsibility, emotional growth and family continuity rather than deterministic outcomes.
+Next Volume
+Volume 10I – Health, Wellness & Lifestyle Knowledge Base.

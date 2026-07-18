@@ -1,0 +1,58 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 30 – Planetary Strength, Dignity &
+Advanced Strength Calculations Manual
+Purpose
+This manual standardizes how planetary strength is measured and used within AstroReport OS. It
+defines dignity, strength calculations, weighting rules and confidence scoring so interpretations are
+based on consistent evidence.
+Strength Factor
+Purpose
+Impact on Interpretation
+Exaltation (Uchcha)
+Maximum dignity
+Strong expression
+Debilitation (Neecha)
+Reduced dignity
+Needs support
+Own Sign
+Natural strength
+Stable results
+Moolatrikona
+Core strength
+Reliable expression
+Friend/Enemy Sign
+Relationship context
+Adjusted influence
+Shadbala
+Composite strength
+Primary weighting
+Dig Bala
+Directional strength
+Context modifier
+Kala Bala
+Time strength
+Timing support
+Cheshta Bala
+Motion strength
+Dynamic influence
+Vargabala
+Divisional support
+Confirmation
+Avasthas
+Planetary condition
+Behavior modifier
+Composite Score
+Overall evaluation
+Confidence score
+Evaluation Workflow
+Calculate dignity first, then apply Shadbala and supporting strength measures. Confirm with
+divisional charts, Dasha activation and interaction rules before assigning a final confidence score.
+Standard Strength Object
+Each planet stores dignity, strength metrics, modifiers, supporting evidence, confidence, affected
+life domains, timeline activation and report templates.
+Developer Specification
+Implement reusable strength objects, weighting matrices, calculation references, validation tests,
+audit logs and version-controlled formulas.
+Next Volume
+Volume 31 – Complete Dosha, Remedies & Balancing Factors Manual.

@@ -1,0 +1,183 @@
+{
+  "name": "Rekha",
+  "birth": {
+    "year": 1954,
+    "month": 10,
+    "day": 10,
+    "hour": 11,
+    "min": 0,
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "place": "Madras (Chennai), Tamil Nadu, India",
+    "tz": 5.5,
+    "weekday": "Sunday"
+  },
+  "lagna": "Sagittarius",
+  "lagna_idx": 8,
+  "lagna_deg": 2.4521,
+  "lagna_lord": "Jupiter",
+  "ayanamsa": 23.22538,
+  "positions": {
+    "Sun": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 23.1507,
+      "lon_abs": 173.1507,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.9881,
+      "house": 10
+    },
+    "Moon": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 25.4013,
+      "lon_abs": 325.4013,
+      "nak": "Purva Bhadrapada",
+      "nak_idx": 24,
+      "nak_lord": "Jupiter",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 14.6216,
+      "house": 3
+    },
+    "Mars": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 29.6854,
+      "lon_abs": 269.6854,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.6112,
+      "house": 1
+    },
+    "Mercury": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 18.0858,
+      "lon_abs": 198.0858,
+      "nak": "Swati",
+      "nak_idx": 14,
+      "nak_lord": "Rahu",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.7604,
+      "house": 11
+    },
+    "Jupiter": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 4.4738,
+      "lon_abs": 94.4738,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.1126,
+      "house": 8
+    },
+    "Venus": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 2.6652,
+      "lon_abs": 212.6652,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.5007,
+      "house": 12
+    },
+    "Saturn": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 15.8043,
+      "lon_abs": 195.8043,
+      "nak": "Swati",
+      "nak_idx": 14,
+      "nak_lord": "Rahu",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.1139,
+      "house": 11
+    },
+    "Rahu": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 16.5772,
+      "lon_abs": 256.5772,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 1
+    },
+    "Ketu": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 16.5772,
+      "lon_abs": 76.5772,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 7
+    }
+  },
+  "janma_nakshatra": "Purva Bhadrapada",
+  "janma_nakshatra_lord": "Jupiter",
+  "moon_rasi": "Aquarius",
+  "moon_pada": 2,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 11:00 AM from Kundli Sangraha (Bhat), AstroSage. Alt: 3:00 AM from sister's friend (lower reliability)",
+  "known_events": [
+    {
+      "date": "1970-09-01",
+      "event": "Hindi film debut in Sawan Bhadon — became immediate sensation"
+    },
+    {
+      "date": "1981-07-01",
+      "event": "Won Filmfare Award for Best Actress for Khubsoorat"
+    },
+    {
+      "date": "1981-01-02",
+      "event": "Umrao Jaan released — landmark performance as courtesan-poetess"
+    },
+    {
+      "date": "1982-04-15",
+      "event": "Won National Film Award for Best Actress for Umrao Jaan"
+    },
+    {
+      "date": "1989-03-15",
+      "event": "Won second Filmfare Best Actress for Khoon Bhari Maang — comeback"
+    },
+    {
+      "date": "1990-03-04",
+      "event": "Married businessman Mukesh Agarwal in quiet ceremony"
+    },
+    {
+      "date": "1990-10-01",
+      "event": "Husband Mukesh Agarwal died by suicide ~7 months after marriage"
+    },
+    {
+      "date": "2010-01-26",
+      "event": "Awarded Padma Shri by Government of India"
+    },
+    {
+      "date": "2012-04-27",
+      "event": "Nominated to Rajya Sabha (Indian Parliament's upper house)"
+    }
+  ]
+}

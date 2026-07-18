@@ -1,0 +1,2951 @@
+{
+  "chart": {
+    "birth": {
+      "year": 1996,
+      "month": 5,
+      "day": 25,
+      "hour": 20,
+      "min": 25,
+      "lat": 11.01,
+      "lon": 76.57,
+      "place": "Coimbatore"
+    },
+    "lagna": "Sagittarius",
+    "lagna_idx": 8,
+    "ayanamsa": 23.8068,
+    "positions": {
+      "Sun": {
+        "lon": 40.8597,
+        "rasi": "Taurus",
+        "rasi_idx": 1,
+        "nak": "Rohini",
+        "nak_lord": "Moon",
+        "pada": 1,
+        "house": 6,
+        "deg": 10.8597
+      },
+      "Moon": {
+        "lon": 131.1845,
+        "rasi": "Leo",
+        "rasi_idx": 4,
+        "nak": "Magha",
+        "nak_lord": "Ketu",
+        "pada": 4,
+        "house": 9,
+        "deg": 11.1845
+      },
+      "Mars": {
+        "lon": 23.1665,
+        "rasi": "Aries",
+        "rasi_idx": 0,
+        "nak": "Bharani",
+        "nak_lord": "Venus",
+        "pada": 3,
+        "house": 5,
+        "deg": 23.1665
+      },
+      "Mercury": {
+        "lon": 26.0144,
+        "rasi": "Aries",
+        "rasi_idx": 0,
+        "nak": "Bharani",
+        "nak_lord": "Venus",
+        "pada": 4,
+        "house": 5,
+        "deg": 26.0144
+      },
+      "Jupiter": {
+        "lon": 263.1645,
+        "rasi": "Sagittarius",
+        "rasi_idx": 8,
+        "nak": "Purva Ashadha",
+        "nak_lord": "Venus",
+        "pada": 3,
+        "house": 1,
+        "deg": 23.1645
+      },
+      "Venus": {
+        "lon": 63.9134,
+        "rasi": "Gemini",
+        "rasi_idx": 2,
+        "nak": "Mrigashira",
+        "nak_lord": "Mars",
+        "pada": 4,
+        "house": 7,
+        "deg": 3.9134
+      },
+      "Saturn": {
+        "lon": 341.2339,
+        "rasi": "Pisces",
+        "rasi_idx": 11,
+        "nak": "Uttara Bhadrapada",
+        "nak_lord": "Saturn",
+        "pada": 3,
+        "house": 4,
+        "deg": 11.2339
+      },
+      "Rahu": {
+        "lon": 170.9185,
+        "rasi": "Virgo",
+        "rasi_idx": 5,
+        "nak": "Hasta",
+        "nak_lord": "Moon",
+        "pada": 4,
+        "house": 10,
+        "deg": 20.9185
+      },
+      "Ketu": {
+        "lon": 350.9185,
+        "rasi": "Pisces",
+        "rasi_idx": 11,
+        "nak": "Revati",
+        "nak_lord": "Mercury",
+        "pada": 2,
+        "house": 4,
+        "deg": 20.9185
+      }
+    },
+    "janma_nakshatra": "Magha",
+    "janma_nakshatra_lord": "Ketu",
+    "moon_rasi": "Leo"
+  },
+  "maha_dashas": [
+    {
+      "lord": "Ketu",
+      "from": "1996-05-25T20:25:00",
+      "to": "1997-07-11T21:40:11.970000",
+      "years": 1.128137499999993,
+      "age_from": 0.0,
+      "age_to": 1.1,
+      "rules_houses": [],
+      "sits_house": 4,
+      "natural_karakas": [
+        "spirituality",
+        "past-life karma",
+        "detachment",
+        "research",
+        "moksha"
+      ]
+    },
+    {
+      "lord": "Venus",
+      "from": "1997-07-11T21:40:11.970000",
+      "to": "2017-07-11T21:40:11.970000",
+      "years": 20,
+      "age_from": 1.1,
+      "age_to": 21.1,
+      "rules_houses": [
+        6,
+        11
+      ],
+      "sits_house": 7,
+      "natural_karakas": [
+        "spouse",
+        "luxury",
+        "arts",
+        "vehicles",
+        "pleasure",
+        "relationships"
+      ]
+    },
+    {
+      "lord": "Sun",
+      "from": "2017-07-11T21:40:11.970000",
+      "to": "2023-07-12T09:40:11.970000",
+      "years": 6,
+      "age_from": 21.1,
+      "age_to": 27.1,
+      "rules_houses": [
+        9
+      ],
+      "sits_house": 6,
+      "natural_karakas": [
+        "father",
+        "authority",
+        "government",
+        "soul",
+        "ego",
+        "health/vitality"
+      ]
+    },
+    {
+      "lord": "Moon",
+      "from": "2023-07-12T09:40:11.970000",
+      "to": "2033-07-11T21:40:11.970000",
+      "years": 10,
+      "age_from": 27.1,
+      "age_to": 37.1,
+      "rules_houses": [
+        8
+      ],
+      "sits_house": 9,
+      "natural_karakas": [
+        "mother",
+        "mind",
+        "emotions",
+        "comfort",
+        "home",
+        "public life"
+      ]
+    },
+    {
+      "lord": "Mars",
+      "from": "2033-07-11T21:40:11.970000",
+      "to": "2040-07-11T15:40:11.970000",
+      "years": 7,
+      "age_from": 37.1,
+      "age_to": 44.1,
+      "rules_houses": [
+        5,
+        12
+      ],
+      "sits_house": 5,
+      "natural_karakas": [
+        "siblings",
+        "courage",
+        "property",
+        "energy",
+        "conflict",
+        "surgery"
+      ]
+    },
+    {
+      "lord": "Rahu",
+      "from": "2040-07-11T15:40:11.970000",
+      "to": "2058-07-12T03:40:11.970000",
+      "years": 18,
+      "age_from": 44.1,
+      "age_to": 62.1,
+      "rules_houses": [],
+      "sits_house": 10,
+      "natural_karakas": [
+        "foreign",
+        "unconventional",
+        "technology",
+        "sudden gain",
+        "obsession"
+      ]
+    },
+    {
+      "lord": "Jupiter",
+      "from": "2058-07-12T03:40:11.970000",
+      "to": "2074-07-12T03:40:11.970000",
+      "years": 16,
+      "age_from": 62.1,
+      "age_to": 78.1,
+      "rules_houses": [
+        1,
+        4
+      ],
+      "sits_house": 1,
+      "natural_karakas": [
+        "children",
+        "wisdom",
+        "wealth",
+        "husband(for women)",
+        "dharma",
+        "teacher"
+      ]
+    },
+    {
+      "lord": "Saturn",
+      "from": "2074-07-12T03:40:11.970000",
+      "to": "2093-07-11T21:40:11.970000",
+      "years": 19,
+      "age_from": 78.1,
+      "age_to": 97.1,
+      "rules_houses": [
+        2,
+        3
+      ],
+      "sits_house": 4,
+      "natural_karakas": [
+        "career",
+        "discipline",
+        "servants",
+        "longevity",
+        "delay",
+        "detachment"
+      ]
+    },
+    {
+      "lord": "Mercury",
+      "from": "2093-07-11T21:40:11.970000",
+      "to": "2110-07-13T03:40:11.970000",
+      "years": 17,
+      "age_from": 97.1,
+      "age_to": 114.1,
+      "rules_houses": [
+        7,
+        10
+      ],
+      "sits_house": 5,
+      "natural_karakas": [
+        "education",
+        "commerce",
+        "speech",
+        "analysis",
+        "relatives",
+        "writing"
+      ]
+    },
+    {
+      "lord": "Ketu",
+      "from": "2110-07-13T03:40:11.970000",
+      "to": "2117-07-12T21:40:11.970000",
+      "years": 7,
+      "age_from": 114.1,
+      "age_to": 121.1,
+      "rules_houses": [],
+      "sits_house": 4,
+      "natural_karakas": [
+        "spirituality",
+        "past-life karma",
+        "detachment",
+        "research",
+        "moksha"
+      ]
+    }
+  ],
+  "antar_dashas": [
+    {
+      "maha": "Ketu",
+      "bhukti": "Ketu",
+      "from": "1996-05-25",
+      "to": "1996-06-18",
+      "age_from": 0.0,
+      "age_to": 0.1,
+      "duration_years": 0.07,
+      "houses_activated": [
+        4
+      ],
+      "life_themes": [
+        "detachment",
+        "moksha",
+        "past-life karma",
+        "research",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Venus",
+      "from": "1996-06-18",
+      "to": "1996-08-26",
+      "age_from": 0.1,
+      "age_to": 0.3,
+      "duration_years": 0.19,
+      "houses_activated": [
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "detachment",
+        "luxury",
+        "moksha",
+        "past-life karma",
+        "pleasure",
+        "relationships",
+        "research",
+        "spirituality",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Sun",
+      "from": "1996-08-26",
+      "to": "1996-09-16",
+      "age_from": 0.3,
+      "age_to": 0.3,
+      "duration_years": 0.05,
+      "houses_activated": [
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "detachment",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "moksha",
+        "past-life karma",
+        "research",
+        "soul",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Moon",
+      "from": "1996-09-16",
+      "to": "1996-10-20",
+      "age_from": 0.3,
+      "age_to": 0.4,
+      "duration_years": 0.09,
+      "houses_activated": [
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "comfort",
+        "detachment",
+        "emotions",
+        "home",
+        "mind",
+        "moksha",
+        "mother",
+        "past-life karma",
+        "public life",
+        "research",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Mars",
+      "from": "1996-10-20",
+      "to": "1996-11-13",
+      "age_from": 0.4,
+      "age_to": 0.5,
+      "duration_years": 0.07,
+      "houses_activated": [
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "conflict",
+        "courage",
+        "detachment",
+        "energy",
+        "moksha",
+        "past-life karma",
+        "property",
+        "research",
+        "siblings",
+        "spirituality",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Rahu",
+      "from": "1996-11-13",
+      "to": "1997-01-14",
+      "age_from": 0.5,
+      "age_to": 0.6,
+      "duration_years": 0.17,
+      "houses_activated": [
+        4,
+        10
+      ],
+      "life_themes": [
+        "detachment",
+        "foreign",
+        "moksha",
+        "obsession",
+        "past-life karma",
+        "research",
+        "spirituality",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Jupiter",
+      "from": "1997-01-14",
+      "to": "1997-03-10",
+      "age_from": 0.6,
+      "age_to": 0.8,
+      "duration_years": 0.15,
+      "houses_activated": [
+        1,
+        4
+      ],
+      "life_themes": [
+        "children",
+        "detachment",
+        "dharma",
+        "husband(for women)",
+        "moksha",
+        "past-life karma",
+        "research",
+        "spirituality",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Saturn",
+      "from": "1997-03-10",
+      "to": "1997-05-14",
+      "age_from": 0.8,
+      "age_to": 1.0,
+      "duration_years": 0.18,
+      "houses_activated": [
+        2,
+        3,
+        4
+      ],
+      "life_themes": [
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "longevity",
+        "moksha",
+        "past-life karma",
+        "research",
+        "servants",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Mercury",
+      "from": "1997-05-14",
+      "to": "1997-07-11",
+      "age_from": 1.0,
+      "age_to": 1.1,
+      "duration_years": 0.16,
+      "houses_activated": [
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "detachment",
+        "education",
+        "moksha",
+        "past-life karma",
+        "relatives",
+        "research",
+        "speech",
+        "spirituality",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Venus",
+      "from": "1997-07-11",
+      "to": "2000-11-10",
+      "age_from": 1.1,
+      "age_to": 4.5,
+      "duration_years": 3.33,
+      "houses_activated": [
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Sun",
+      "from": "2000-11-10",
+      "to": "2001-11-10",
+      "age_from": 4.5,
+      "age_to": 5.5,
+      "duration_years": 1.0,
+      "houses_activated": [
+        6,
+        7,
+        9,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "authority",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "soul",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Moon",
+      "from": "2001-11-10",
+      "to": "2003-07-12",
+      "age_from": 5.5,
+      "age_to": 7.1,
+      "duration_years": 1.66,
+      "houses_activated": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "comfort",
+        "emotions",
+        "home",
+        "luxury",
+        "mind",
+        "mother",
+        "pleasure",
+        "public life",
+        "relationships",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Mars",
+      "from": "2003-07-12",
+      "to": "2004-09-10",
+      "age_from": 7.1,
+      "age_to": 8.3,
+      "duration_years": 1.17,
+      "houses_activated": [
+        5,
+        6,
+        7,
+        11,
+        12
+      ],
+      "life_themes": [
+        "arts",
+        "conflict",
+        "courage",
+        "energy",
+        "luxury",
+        "pleasure",
+        "property",
+        "relationships",
+        "siblings",
+        "spouse",
+        "surgery",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Rahu",
+      "from": "2004-09-10",
+      "to": "2007-09-11",
+      "age_from": 8.3,
+      "age_to": 11.3,
+      "duration_years": 3.0,
+      "houses_activated": [
+        6,
+        7,
+        10,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "foreign",
+        "luxury",
+        "obsession",
+        "pleasure",
+        "relationships",
+        "spouse",
+        "sudden gain",
+        "technology",
+        "unconventional",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Jupiter",
+      "from": "2007-09-11",
+      "to": "2010-05-12",
+      "age_from": 11.3,
+      "age_to": 14.0,
+      "duration_years": 2.67,
+      "houses_activated": [
+        1,
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "children",
+        "dharma",
+        "husband(for women)",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "spouse",
+        "teacher",
+        "vehicles",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Saturn",
+      "from": "2010-05-12",
+      "to": "2013-07-11",
+      "age_from": 14.0,
+      "age_to": 17.1,
+      "duration_years": 3.16,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "longevity",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "servants",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Mercury",
+      "from": "2013-07-11",
+      "to": "2016-05-11",
+      "age_from": 17.1,
+      "age_to": 20.0,
+      "duration_years": 2.83,
+      "houses_activated": [
+        5,
+        6,
+        7,
+        10,
+        11
+      ],
+      "life_themes": [
+        "analysis",
+        "arts",
+        "commerce",
+        "education",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "relatives",
+        "speech",
+        "spouse",
+        "vehicles",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Venus",
+      "bhukti": "Ketu",
+      "from": "2016-05-11",
+      "to": "2017-07-11",
+      "age_from": 20.0,
+      "age_to": 21.1,
+      "duration_years": 1.17,
+      "houses_activated": [
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "detachment",
+        "luxury",
+        "moksha",
+        "past-life karma",
+        "pleasure",
+        "relationships",
+        "research",
+        "spirituality",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Sun",
+      "from": "2017-07-11",
+      "to": "2017-10-29",
+      "age_from": 21.1,
+      "age_to": 21.4,
+      "duration_years": 0.3,
+      "houses_activated": [
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "soul"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Moon",
+      "from": "2017-10-29",
+      "to": "2018-04-30",
+      "age_from": 21.4,
+      "age_to": 21.9,
+      "duration_years": 0.5,
+      "houses_activated": [
+        6,
+        8,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "comfort",
+        "ego",
+        "emotions",
+        "father",
+        "government",
+        "health/vitality",
+        "home",
+        "mind",
+        "mother",
+        "public life",
+        "soul"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Mars",
+      "from": "2018-04-30",
+      "to": "2018-09-04",
+      "age_from": 21.9,
+      "age_to": 22.3,
+      "duration_years": 0.35,
+      "houses_activated": [
+        5,
+        6,
+        9,
+        12
+      ],
+      "life_themes": [
+        "authority",
+        "conflict",
+        "courage",
+        "ego",
+        "energy",
+        "father",
+        "government",
+        "health/vitality",
+        "property",
+        "siblings",
+        "soul",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Rahu",
+      "from": "2018-09-04",
+      "to": "2019-07-30",
+      "age_from": 22.3,
+      "age_to": 23.2,
+      "duration_years": 0.9,
+      "houses_activated": [
+        6,
+        9,
+        10
+      ],
+      "life_themes": [
+        "authority",
+        "ego",
+        "father",
+        "foreign",
+        "government",
+        "health/vitality",
+        "obsession",
+        "soul",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Jupiter",
+      "from": "2019-07-30",
+      "to": "2020-05-17",
+      "age_from": 23.2,
+      "age_to": 24.0,
+      "duration_years": 0.8,
+      "houses_activated": [
+        1,
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "children",
+        "dharma",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "husband(for women)",
+        "soul",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Saturn",
+      "from": "2020-05-17",
+      "to": "2021-04-29",
+      "age_from": 24.0,
+      "age_to": 24.9,
+      "duration_years": 0.95,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "longevity",
+        "servants",
+        "soul"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Mercury",
+      "from": "2021-04-29",
+      "to": "2022-03-06",
+      "age_from": 24.9,
+      "age_to": 25.8,
+      "duration_years": 0.85,
+      "houses_activated": [
+        5,
+        6,
+        7,
+        9,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "authority",
+        "commerce",
+        "education",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "relatives",
+        "soul",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Ketu",
+      "from": "2022-03-06",
+      "to": "2022-07-12",
+      "age_from": 25.8,
+      "age_to": 26.1,
+      "duration_years": 0.35,
+      "houses_activated": [
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "detachment",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "moksha",
+        "past-life karma",
+        "research",
+        "soul",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Sun",
+      "bhukti": "Venus",
+      "from": "2022-07-12",
+      "to": "2023-07-12",
+      "age_from": 26.1,
+      "age_to": 27.1,
+      "duration_years": 1.0,
+      "houses_activated": [
+        6,
+        7,
+        9,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "authority",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "soul",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Moon",
+      "from": "2023-07-12",
+      "to": "2024-05-11",
+      "age_from": 27.1,
+      "age_to": 28.0,
+      "duration_years": 0.83,
+      "houses_activated": [
+        8,
+        9
+      ],
+      "life_themes": [
+        "comfort",
+        "emotions",
+        "home",
+        "mind",
+        "mother",
+        "public life"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Mars",
+      "from": "2024-05-11",
+      "to": "2024-12-10",
+      "age_from": 28.0,
+      "age_to": 28.5,
+      "duration_years": 0.58,
+      "houses_activated": [
+        5,
+        8,
+        9,
+        12
+      ],
+      "life_themes": [
+        "comfort",
+        "conflict",
+        "courage",
+        "emotions",
+        "energy",
+        "home",
+        "mind",
+        "mother",
+        "property",
+        "public life",
+        "siblings",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Rahu",
+      "from": "2024-12-10",
+      "to": "2026-06-11",
+      "age_from": 28.5,
+      "age_to": 30.0,
+      "duration_years": 1.5,
+      "houses_activated": [
+        8,
+        9,
+        10
+      ],
+      "life_themes": [
+        "comfort",
+        "emotions",
+        "foreign",
+        "home",
+        "mind",
+        "mother",
+        "obsession",
+        "public life",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Jupiter",
+      "from": "2026-06-11",
+      "to": "2027-10-11",
+      "age_from": 30.0,
+      "age_to": 31.4,
+      "duration_years": 1.33,
+      "houses_activated": [
+        1,
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "children",
+        "comfort",
+        "dharma",
+        "emotions",
+        "home",
+        "husband(for women)",
+        "mind",
+        "mother",
+        "public life",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Saturn",
+      "from": "2027-10-11",
+      "to": "2029-05-12",
+      "age_from": 31.4,
+      "age_to": 33.0,
+      "duration_years": 1.58,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "career",
+        "comfort",
+        "delay",
+        "detachment",
+        "discipline",
+        "emotions",
+        "home",
+        "longevity",
+        "mind",
+        "mother",
+        "public life",
+        "servants"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Mercury",
+      "from": "2029-05-12",
+      "to": "2030-10-11",
+      "age_from": 33.0,
+      "age_to": 34.4,
+      "duration_years": 1.42,
+      "houses_activated": [
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "comfort",
+        "commerce",
+        "education",
+        "emotions",
+        "home",
+        "mind",
+        "mother",
+        "public life",
+        "relatives",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Ketu",
+      "from": "2030-10-11",
+      "to": "2031-05-12",
+      "age_from": 34.4,
+      "age_to": 35.0,
+      "duration_years": 0.58,
+      "houses_activated": [
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "comfort",
+        "detachment",
+        "emotions",
+        "home",
+        "mind",
+        "moksha",
+        "mother",
+        "past-life karma",
+        "public life",
+        "research",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Venus",
+      "from": "2031-05-12",
+      "to": "2033-01-10",
+      "age_from": 35.0,
+      "age_to": 36.6,
+      "duration_years": 1.66,
+      "houses_activated": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "comfort",
+        "emotions",
+        "home",
+        "luxury",
+        "mind",
+        "mother",
+        "pleasure",
+        "public life",
+        "relationships",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Moon",
+      "bhukti": "Sun",
+      "from": "2033-01-10",
+      "to": "2033-07-11",
+      "age_from": 36.6,
+      "age_to": 37.1,
+      "duration_years": 0.5,
+      "houses_activated": [
+        6,
+        8,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "comfort",
+        "ego",
+        "emotions",
+        "father",
+        "government",
+        "health/vitality",
+        "home",
+        "mind",
+        "mother",
+        "public life",
+        "soul"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Mars",
+      "from": "2033-07-11",
+      "to": "2033-12-08",
+      "age_from": 37.1,
+      "age_to": 37.5,
+      "duration_years": 0.41,
+      "houses_activated": [
+        5,
+        12
+      ],
+      "life_themes": [
+        "conflict",
+        "courage",
+        "energy",
+        "property",
+        "siblings",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Rahu",
+      "from": "2033-12-08",
+      "to": "2034-12-26",
+      "age_from": 37.5,
+      "age_to": 38.6,
+      "duration_years": 1.05,
+      "houses_activated": [
+        5,
+        10,
+        12
+      ],
+      "life_themes": [
+        "conflict",
+        "courage",
+        "energy",
+        "foreign",
+        "obsession",
+        "property",
+        "siblings",
+        "sudden gain",
+        "surgery",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Jupiter",
+      "from": "2034-12-26",
+      "to": "2035-12-02",
+      "age_from": 38.6,
+      "age_to": 39.5,
+      "duration_years": 0.93,
+      "houses_activated": [
+        1,
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "children",
+        "conflict",
+        "courage",
+        "dharma",
+        "energy",
+        "husband(for women)",
+        "property",
+        "siblings",
+        "surgery",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Saturn",
+      "from": "2035-12-02",
+      "to": "2037-01-10",
+      "age_from": 39.5,
+      "age_to": 40.6,
+      "duration_years": 1.11,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "career",
+        "conflict",
+        "courage",
+        "delay",
+        "detachment",
+        "discipline",
+        "energy",
+        "longevity",
+        "property",
+        "servants",
+        "siblings",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Mercury",
+      "from": "2037-01-10",
+      "to": "2038-01-07",
+      "age_from": 40.6,
+      "age_to": 41.6,
+      "duration_years": 0.99,
+      "houses_activated": [
+        5,
+        7,
+        10,
+        12
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "conflict",
+        "courage",
+        "education",
+        "energy",
+        "property",
+        "relatives",
+        "siblings",
+        "speech",
+        "surgery",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Ketu",
+      "from": "2038-01-07",
+      "to": "2038-06-05",
+      "age_from": 41.6,
+      "age_to": 42.0,
+      "duration_years": 0.41,
+      "houses_activated": [
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "conflict",
+        "courage",
+        "detachment",
+        "energy",
+        "moksha",
+        "past-life karma",
+        "property",
+        "research",
+        "siblings",
+        "spirituality",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Venus",
+      "from": "2038-06-05",
+      "to": "2039-08-05",
+      "age_from": 42.0,
+      "age_to": 43.2,
+      "duration_years": 1.17,
+      "houses_activated": [
+        5,
+        6,
+        7,
+        11,
+        12
+      ],
+      "life_themes": [
+        "arts",
+        "conflict",
+        "courage",
+        "energy",
+        "luxury",
+        "pleasure",
+        "property",
+        "relationships",
+        "siblings",
+        "spouse",
+        "surgery",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Sun",
+      "from": "2039-08-05",
+      "to": "2039-12-11",
+      "age_from": 43.2,
+      "age_to": 43.5,
+      "duration_years": 0.35,
+      "houses_activated": [
+        5,
+        6,
+        9,
+        12
+      ],
+      "life_themes": [
+        "authority",
+        "conflict",
+        "courage",
+        "ego",
+        "energy",
+        "father",
+        "government",
+        "health/vitality",
+        "property",
+        "siblings",
+        "soul",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Mars",
+      "bhukti": "Moon",
+      "from": "2039-12-11",
+      "to": "2040-07-11",
+      "age_from": 43.5,
+      "age_to": 44.1,
+      "duration_years": 0.58,
+      "houses_activated": [
+        5,
+        8,
+        9,
+        12
+      ],
+      "life_themes": [
+        "comfort",
+        "conflict",
+        "courage",
+        "emotions",
+        "energy",
+        "home",
+        "mind",
+        "mother",
+        "property",
+        "public life",
+        "siblings",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Rahu",
+      "from": "2040-07-11",
+      "to": "2043-03-24",
+      "age_from": 44.1,
+      "age_to": 46.8,
+      "duration_years": 2.7,
+      "houses_activated": [
+        10
+      ],
+      "life_themes": [
+        "foreign",
+        "obsession",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Jupiter",
+      "from": "2043-03-24",
+      "to": "2045-08-17",
+      "age_from": 46.8,
+      "age_to": 49.2,
+      "duration_years": 2.4,
+      "houses_activated": [
+        1,
+        4,
+        10
+      ],
+      "life_themes": [
+        "children",
+        "dharma",
+        "foreign",
+        "husband(for women)",
+        "obsession",
+        "sudden gain",
+        "teacher",
+        "technology",
+        "unconventional",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Saturn",
+      "from": "2045-08-17",
+      "to": "2048-06-23",
+      "age_from": 49.2,
+      "age_to": 52.1,
+      "duration_years": 2.85,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        10
+      ],
+      "life_themes": [
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "foreign",
+        "longevity",
+        "obsession",
+        "servants",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Mercury",
+      "from": "2048-06-23",
+      "to": "2051-01-10",
+      "age_from": 52.1,
+      "age_to": 54.6,
+      "duration_years": 2.55,
+      "houses_activated": [
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "education",
+        "foreign",
+        "obsession",
+        "relatives",
+        "speech",
+        "sudden gain",
+        "technology",
+        "unconventional",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Ketu",
+      "from": "2051-01-10",
+      "to": "2052-01-29",
+      "age_from": 54.6,
+      "age_to": 55.7,
+      "duration_years": 1.05,
+      "houses_activated": [
+        4,
+        10
+      ],
+      "life_themes": [
+        "detachment",
+        "foreign",
+        "moksha",
+        "obsession",
+        "past-life karma",
+        "research",
+        "spirituality",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Venus",
+      "from": "2052-01-29",
+      "to": "2055-01-29",
+      "age_from": 55.7,
+      "age_to": 58.7,
+      "duration_years": 3.0,
+      "houses_activated": [
+        6,
+        7,
+        10,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "foreign",
+        "luxury",
+        "obsession",
+        "pleasure",
+        "relationships",
+        "spouse",
+        "sudden gain",
+        "technology",
+        "unconventional",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Sun",
+      "from": "2055-01-29",
+      "to": "2055-12-23",
+      "age_from": 58.7,
+      "age_to": 59.6,
+      "duration_years": 0.9,
+      "houses_activated": [
+        6,
+        9,
+        10
+      ],
+      "life_themes": [
+        "authority",
+        "ego",
+        "father",
+        "foreign",
+        "government",
+        "health/vitality",
+        "obsession",
+        "soul",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Moon",
+      "from": "2055-12-23",
+      "to": "2057-06-23",
+      "age_from": 59.6,
+      "age_to": 61.1,
+      "duration_years": 1.5,
+      "houses_activated": [
+        8,
+        9,
+        10
+      ],
+      "life_themes": [
+        "comfort",
+        "emotions",
+        "foreign",
+        "home",
+        "mind",
+        "mother",
+        "obsession",
+        "public life",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Rahu",
+      "bhukti": "Mars",
+      "from": "2057-06-23",
+      "to": "2058-07-12",
+      "age_from": 61.1,
+      "age_to": 62.1,
+      "duration_years": 1.05,
+      "houses_activated": [
+        5,
+        10,
+        12
+      ],
+      "life_themes": [
+        "conflict",
+        "courage",
+        "energy",
+        "foreign",
+        "obsession",
+        "property",
+        "siblings",
+        "sudden gain",
+        "surgery",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Jupiter",
+      "from": "2058-07-12",
+      "to": "2060-08-29",
+      "age_from": 62.1,
+      "age_to": 64.3,
+      "duration_years": 2.13,
+      "houses_activated": [
+        1,
+        4
+      ],
+      "life_themes": [
+        "children",
+        "dharma",
+        "husband(for women)",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Saturn",
+      "from": "2060-08-29",
+      "to": "2063-03-12",
+      "age_from": 64.3,
+      "age_to": 66.8,
+      "duration_years": 2.53,
+      "houses_activated": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "life_themes": [
+        "career",
+        "children",
+        "delay",
+        "detachment",
+        "dharma",
+        "discipline",
+        "husband(for women)",
+        "longevity",
+        "servants",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Mercury",
+      "from": "2063-03-12",
+      "to": "2065-06-17",
+      "age_from": 66.8,
+      "age_to": 69.1,
+      "duration_years": 2.26,
+      "houses_activated": [
+        1,
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "children",
+        "commerce",
+        "dharma",
+        "education",
+        "husband(for women)",
+        "relatives",
+        "speech",
+        "teacher",
+        "wealth",
+        "wisdom",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Ketu",
+      "from": "2065-06-17",
+      "to": "2066-05-24",
+      "age_from": 69.1,
+      "age_to": 70.0,
+      "duration_years": 0.93,
+      "houses_activated": [
+        1,
+        4
+      ],
+      "life_themes": [
+        "children",
+        "detachment",
+        "dharma",
+        "husband(for women)",
+        "moksha",
+        "past-life karma",
+        "research",
+        "spirituality",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Venus",
+      "from": "2066-05-24",
+      "to": "2069-01-22",
+      "age_from": 70.0,
+      "age_to": 72.7,
+      "duration_years": 2.67,
+      "houses_activated": [
+        1,
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "children",
+        "dharma",
+        "husband(for women)",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "spouse",
+        "teacher",
+        "vehicles",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Sun",
+      "from": "2069-01-22",
+      "to": "2069-11-10",
+      "age_from": 72.7,
+      "age_to": 73.5,
+      "duration_years": 0.8,
+      "houses_activated": [
+        1,
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "children",
+        "dharma",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "husband(for women)",
+        "soul",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Moon",
+      "from": "2069-11-10",
+      "to": "2071-03-12",
+      "age_from": 73.5,
+      "age_to": 74.8,
+      "duration_years": 1.33,
+      "houses_activated": [
+        1,
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "children",
+        "comfort",
+        "dharma",
+        "emotions",
+        "home",
+        "husband(for women)",
+        "mind",
+        "mother",
+        "public life",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Mars",
+      "from": "2071-03-12",
+      "to": "2072-02-16",
+      "age_from": 74.8,
+      "age_to": 75.7,
+      "duration_years": 0.93,
+      "houses_activated": [
+        1,
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "children",
+        "conflict",
+        "courage",
+        "dharma",
+        "energy",
+        "husband(for women)",
+        "property",
+        "siblings",
+        "surgery",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Jupiter",
+      "bhukti": "Rahu",
+      "from": "2072-02-16",
+      "to": "2074-07-12",
+      "age_from": 75.7,
+      "age_to": 78.1,
+      "duration_years": 2.4,
+      "houses_activated": [
+        1,
+        4,
+        10
+      ],
+      "life_themes": [
+        "children",
+        "dharma",
+        "foreign",
+        "husband(for women)",
+        "obsession",
+        "sudden gain",
+        "teacher",
+        "technology",
+        "unconventional",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Saturn",
+      "from": "2074-07-12",
+      "to": "2077-07-14",
+      "age_from": 78.1,
+      "age_to": 81.1,
+      "duration_years": 3.01,
+      "houses_activated": [
+        2,
+        3,
+        4
+      ],
+      "life_themes": [
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "longevity",
+        "servants"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Mercury",
+      "from": "2077-07-14",
+      "to": "2080-03-24",
+      "age_from": 81.1,
+      "age_to": 83.8,
+      "duration_years": 2.69,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "career",
+        "commerce",
+        "delay",
+        "detachment",
+        "discipline",
+        "education",
+        "longevity",
+        "relatives",
+        "servants",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Ketu",
+      "from": "2080-03-24",
+      "to": "2081-05-02",
+      "age_from": 83.8,
+      "age_to": 84.9,
+      "duration_years": 1.11,
+      "houses_activated": [
+        2,
+        3,
+        4
+      ],
+      "life_themes": [
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "longevity",
+        "moksha",
+        "past-life karma",
+        "research",
+        "servants",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Venus",
+      "from": "2081-05-02",
+      "to": "2084-07-02",
+      "age_from": 84.9,
+      "age_to": 88.1,
+      "duration_years": 3.16,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "longevity",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "servants",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Sun",
+      "from": "2084-07-02",
+      "to": "2085-06-14",
+      "age_from": 88.1,
+      "age_to": 89.1,
+      "duration_years": 0.95,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "longevity",
+        "servants",
+        "soul"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Moon",
+      "from": "2085-06-14",
+      "to": "2087-01-13",
+      "age_from": 89.1,
+      "age_to": 90.6,
+      "duration_years": 1.58,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "career",
+        "comfort",
+        "delay",
+        "detachment",
+        "discipline",
+        "emotions",
+        "home",
+        "longevity",
+        "mind",
+        "mother",
+        "public life",
+        "servants"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Mars",
+      "from": "2087-01-13",
+      "to": "2088-02-22",
+      "age_from": 90.6,
+      "age_to": 91.7,
+      "duration_years": 1.11,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "career",
+        "conflict",
+        "courage",
+        "delay",
+        "detachment",
+        "discipline",
+        "energy",
+        "longevity",
+        "property",
+        "servants",
+        "siblings",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Rahu",
+      "from": "2088-02-22",
+      "to": "2090-12-29",
+      "age_from": 91.7,
+      "age_to": 94.6,
+      "duration_years": 2.85,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        10
+      ],
+      "life_themes": [
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "foreign",
+        "longevity",
+        "obsession",
+        "servants",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Saturn",
+      "bhukti": "Jupiter",
+      "from": "2090-12-29",
+      "to": "2093-07-11",
+      "age_from": 94.6,
+      "age_to": 97.1,
+      "duration_years": 2.53,
+      "houses_activated": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "life_themes": [
+        "career",
+        "children",
+        "delay",
+        "detachment",
+        "dharma",
+        "discipline",
+        "husband(for women)",
+        "longevity",
+        "servants",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Mercury",
+      "from": "2093-07-11",
+      "to": "2095-12-08",
+      "age_from": 97.1,
+      "age_to": 99.5,
+      "duration_years": 2.41,
+      "houses_activated": [
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "education",
+        "relatives",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Ketu",
+      "from": "2095-12-08",
+      "to": "2096-12-04",
+      "age_from": 99.5,
+      "age_to": 100.5,
+      "duration_years": 0.99,
+      "houses_activated": [
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "detachment",
+        "education",
+        "moksha",
+        "past-life karma",
+        "relatives",
+        "research",
+        "speech",
+        "spirituality",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Venus",
+      "from": "2096-12-04",
+      "to": "2099-10-05",
+      "age_from": 100.5,
+      "age_to": 103.4,
+      "duration_years": 2.83,
+      "houses_activated": [
+        5,
+        6,
+        7,
+        10,
+        11
+      ],
+      "life_themes": [
+        "analysis",
+        "arts",
+        "commerce",
+        "education",
+        "luxury",
+        "pleasure",
+        "relationships",
+        "relatives",
+        "speech",
+        "spouse",
+        "vehicles",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Sun",
+      "from": "2099-10-05",
+      "to": "2100-08-12",
+      "age_from": 103.4,
+      "age_to": 104.2,
+      "duration_years": 0.85,
+      "houses_activated": [
+        5,
+        6,
+        7,
+        9,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "authority",
+        "commerce",
+        "education",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "relatives",
+        "soul",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Moon",
+      "from": "2100-08-12",
+      "to": "2102-01-11",
+      "age_from": 104.2,
+      "age_to": 105.6,
+      "duration_years": 1.42,
+      "houses_activated": [
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "comfort",
+        "commerce",
+        "education",
+        "emotions",
+        "home",
+        "mind",
+        "mother",
+        "public life",
+        "relatives",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Mars",
+      "from": "2102-01-11",
+      "to": "2103-01-08",
+      "age_from": 105.6,
+      "age_to": 106.6,
+      "duration_years": 0.99,
+      "houses_activated": [
+        5,
+        7,
+        10,
+        12
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "conflict",
+        "courage",
+        "education",
+        "energy",
+        "property",
+        "relatives",
+        "siblings",
+        "speech",
+        "surgery",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Rahu",
+      "from": "2103-01-08",
+      "to": "2105-07-28",
+      "age_from": 106.6,
+      "age_to": 109.2,
+      "duration_years": 2.55,
+      "houses_activated": [
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "education",
+        "foreign",
+        "obsession",
+        "relatives",
+        "speech",
+        "sudden gain",
+        "technology",
+        "unconventional",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Jupiter",
+      "from": "2105-07-28",
+      "to": "2107-11-03",
+      "age_from": 109.2,
+      "age_to": 111.4,
+      "duration_years": 2.26,
+      "houses_activated": [
+        1,
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "children",
+        "commerce",
+        "dharma",
+        "education",
+        "husband(for women)",
+        "relatives",
+        "speech",
+        "teacher",
+        "wealth",
+        "wisdom",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Mercury",
+      "bhukti": "Saturn",
+      "from": "2107-11-03",
+      "to": "2110-07-13",
+      "age_from": 111.4,
+      "age_to": 114.1,
+      "duration_years": 2.69,
+      "houses_activated": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "career",
+        "commerce",
+        "delay",
+        "detachment",
+        "discipline",
+        "education",
+        "longevity",
+        "relatives",
+        "servants",
+        "speech",
+        "writing"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Ketu",
+      "from": "2110-07-13",
+      "to": "2110-12-09",
+      "age_from": 114.1,
+      "age_to": 114.5,
+      "duration_years": 0.41,
+      "houses_activated": [
+        4
+      ],
+      "life_themes": [
+        "detachment",
+        "moksha",
+        "past-life karma",
+        "research",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Venus",
+      "from": "2110-12-09",
+      "to": "2112-02-08",
+      "age_from": 114.5,
+      "age_to": 115.7,
+      "duration_years": 1.17,
+      "houses_activated": [
+        4,
+        6,
+        7,
+        11
+      ],
+      "life_themes": [
+        "arts",
+        "detachment",
+        "luxury",
+        "moksha",
+        "past-life karma",
+        "pleasure",
+        "relationships",
+        "research",
+        "spirituality",
+        "spouse",
+        "vehicles"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Sun",
+      "from": "2112-02-08",
+      "to": "2112-06-15",
+      "age_from": 115.7,
+      "age_to": 116.1,
+      "duration_years": 0.35,
+      "houses_activated": [
+        4,
+        6,
+        9
+      ],
+      "life_themes": [
+        "authority",
+        "detachment",
+        "ego",
+        "father",
+        "government",
+        "health/vitality",
+        "moksha",
+        "past-life karma",
+        "research",
+        "soul",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Moon",
+      "from": "2112-06-15",
+      "to": "2113-01-14",
+      "age_from": 116.1,
+      "age_to": 116.6,
+      "duration_years": 0.58,
+      "houses_activated": [
+        4,
+        8,
+        9
+      ],
+      "life_themes": [
+        "comfort",
+        "detachment",
+        "emotions",
+        "home",
+        "mind",
+        "moksha",
+        "mother",
+        "past-life karma",
+        "public life",
+        "research",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Mars",
+      "from": "2113-01-14",
+      "to": "2113-06-12",
+      "age_from": 116.6,
+      "age_to": 117.0,
+      "duration_years": 0.41,
+      "houses_activated": [
+        4,
+        5,
+        12
+      ],
+      "life_themes": [
+        "conflict",
+        "courage",
+        "detachment",
+        "energy",
+        "moksha",
+        "past-life karma",
+        "property",
+        "research",
+        "siblings",
+        "spirituality",
+        "surgery"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Rahu",
+      "from": "2113-06-12",
+      "to": "2114-06-30",
+      "age_from": 117.0,
+      "age_to": 118.1,
+      "duration_years": 1.05,
+      "houses_activated": [
+        4,
+        10
+      ],
+      "life_themes": [
+        "detachment",
+        "foreign",
+        "moksha",
+        "obsession",
+        "past-life karma",
+        "research",
+        "spirituality",
+        "sudden gain",
+        "technology",
+        "unconventional"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Jupiter",
+      "from": "2114-06-30",
+      "to": "2115-06-06",
+      "age_from": 118.1,
+      "age_to": 119.0,
+      "duration_years": 0.93,
+      "houses_activated": [
+        1,
+        4
+      ],
+      "life_themes": [
+        "children",
+        "detachment",
+        "dharma",
+        "husband(for women)",
+        "moksha",
+        "past-life karma",
+        "research",
+        "spirituality",
+        "teacher",
+        "wealth",
+        "wisdom"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Saturn",
+      "from": "2115-06-06",
+      "to": "2116-07-15",
+      "age_from": 119.0,
+      "age_to": 120.1,
+      "duration_years": 1.11,
+      "houses_activated": [
+        2,
+        3,
+        4
+      ],
+      "life_themes": [
+        "career",
+        "delay",
+        "detachment",
+        "discipline",
+        "longevity",
+        "moksha",
+        "past-life karma",
+        "research",
+        "servants",
+        "spirituality"
+      ]
+    },
+    {
+      "maha": "Ketu",
+      "bhukti": "Mercury",
+      "from": "2116-07-15",
+      "to": "2117-07-12",
+      "age_from": 120.1,
+      "age_to": 121.1,
+      "duration_years": 0.99,
+      "houses_activated": [
+        4,
+        5,
+        7,
+        10
+      ],
+      "life_themes": [
+        "analysis",
+        "commerce",
+        "detachment",
+        "education",
+        "moksha",
+        "past-life karma",
+        "relatives",
+        "research",
+        "speech",
+        "spirituality",
+        "writing"
+      ]
+    }
+  ],
+  "key_transits": [
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "1997-12-12",
+      "age": 1.6,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2004-02-24",
+      "age": 7.8,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Jupiter Return #1",
+      "date": "2008-04-04",
+      "age": 11.9,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2010-05-08",
+      "age": 14.0,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2016-07-19",
+      "age": 20.2,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Jupiter Return #2",
+      "date": "2020-02-13",
+      "age": 23.7,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Sade Sati Period I",
+      "age_from": 25.0,
+      "age_to": 32.5,
+      "significance": "Saturn transits 12th/1st/2nd from natal Moon — health/finances/family stress; karma intensification"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2022-10-01",
+      "age": 26.4,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Saturn Return #1",
+      "date": "2025-11-24",
+      "age": 29.5,
+      "significance": "Life restructuring — career/discipline/maturity crisis"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2028-12-12",
+      "age": 32.6,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Jupiter Return #3",
+      "date": "2031-12-24",
+      "age": 35.6,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2035-02-24",
+      "age": 38.8,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Rahu-Ketu axis shift",
+      "date": "2041-05-07",
+      "age": 45.0,
+      "significance": "New houses activated for karmic shifts"
+    },
+    {
+      "event": "Jupiter Return #4",
+      "date": "2043-11-03",
+      "age": 47.4,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Sade Sati Period II",
+      "age_from": 54.5,
+      "age_to": 62.0,
+      "significance": "Saturn transits 12th/1st/2nd from natal Moon — health/finances/family stress; karma intensification"
+    },
+    {
+      "event": "Saturn Return #2",
+      "date": "2055-05-26",
+      "age": 59.0,
+      "significance": "Life restructuring — career/discipline/maturity crisis"
+    },
+    {
+      "event": "Jupiter Return #5",
+      "date": "2055-09-13",
+      "age": 59.3,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Jupiter Return #6",
+      "date": "2067-07-24",
+      "age": 71.2,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Jupiter Return #7",
+      "date": "2079-06-02",
+      "age": 83.0,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Sade Sati Period III",
+      "age_from": 84.0,
+      "age_to": 91.5,
+      "significance": "Saturn transits 12th/1st/2nd from natal Moon — health/finances/family stress; karma intensification"
+    },
+    {
+      "event": "Saturn Return #3",
+      "date": "2084-11-24",
+      "age": 88.5,
+      "significance": "Life restructuring — career/discipline/maturity crisis"
+    },
+    {
+      "event": "Jupiter Return #8",
+      "date": "2091-04-12",
+      "age": 94.9,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Jupiter Return #9",
+      "date": "2103-02-21",
+      "age": 106.7,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    },
+    {
+      "event": "Jupiter Return #10",
+      "date": "2115-01-01",
+      "age": 118.6,
+      "significance": "Expansion phase — new role, wisdom, dharma activation"
+    }
+  ],
+  "maraka_periods": [
+    {
+      "lord": "Saturn",
+      "period_from": "2074-07-12",
+      "period_to": "2093-07-11",
+      "age_from": 78.1,
+      "age_to": 97.1,
+      "maraka_type": "2nd lord"
+    },
+    {
+      "lord": "Mercury",
+      "period_from": "2093-07-11",
+      "period_to": "2110-07-13",
+      "age_from": 97.1,
+      "age_to": 114.1,
+      "maraka_type": "7th lord"
+    }
+  ]
+}

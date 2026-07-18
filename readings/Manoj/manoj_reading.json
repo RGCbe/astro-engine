@@ -1,0 +1,3601 @@
+{
+  "chart": {
+    "birth": {
+      "year": 1996,
+      "month": 5,
+      "day": 25,
+      "hour": 20,
+      "min": 25,
+      "lat": 11.01,
+      "lon": 76.57,
+      "place": "Coimbatore"
+    },
+    "lagna": "Sagittarius",
+    "lagna_idx": 8,
+    "ayanamsa": 23.8068,
+    "positions": {
+      "Sun": {
+        "lon": 40.8597,
+        "rasi": "Taurus",
+        "rasi_idx": 1,
+        "nak": "Rohini",
+        "nak_lord": "Moon",
+        "pada": 1,
+        "house": 6,
+        "deg": 10.8597
+      },
+      "Moon": {
+        "lon": 131.1845,
+        "rasi": "Leo",
+        "rasi_idx": 4,
+        "nak": "Magha",
+        "nak_lord": "Ketu",
+        "pada": 4,
+        "house": 9,
+        "deg": 11.1845
+      },
+      "Mars": {
+        "lon": 23.1665,
+        "rasi": "Aries",
+        "rasi_idx": 0,
+        "nak": "Bharani",
+        "nak_lord": "Venus",
+        "pada": 3,
+        "house": 5,
+        "deg": 23.1665
+      },
+      "Mercury": {
+        "lon": 26.0144,
+        "rasi": "Aries",
+        "rasi_idx": 0,
+        "nak": "Bharani",
+        "nak_lord": "Venus",
+        "pada": 4,
+        "house": 5,
+        "deg": 26.0144
+      },
+      "Jupiter": {
+        "lon": 263.1645,
+        "rasi": "Sagittarius",
+        "rasi_idx": 8,
+        "nak": "Purva Ashadha",
+        "nak_lord": "Venus",
+        "pada": 3,
+        "house": 1,
+        "deg": 23.1645
+      },
+      "Venus": {
+        "lon": 63.9134,
+        "rasi": "Gemini",
+        "rasi_idx": 2,
+        "nak": "Mrigashira",
+        "nak_lord": "Mars",
+        "pada": 4,
+        "house": 7,
+        "deg": 3.9134
+      },
+      "Saturn": {
+        "lon": 341.2339,
+        "rasi": "Pisces",
+        "rasi_idx": 11,
+        "nak": "Uttara Bhadrapada",
+        "nak_lord": "Saturn",
+        "pada": 3,
+        "house": 4,
+        "deg": 11.2339
+      },
+      "Rahu": {
+        "lon": 170.9185,
+        "rasi": "Virgo",
+        "rasi_idx": 5,
+        "nak": "Hasta",
+        "nak_lord": "Moon",
+        "pada": 4,
+        "house": 10,
+        "deg": 20.9185
+      },
+      "Ketu": {
+        "lon": 350.9185,
+        "rasi": "Pisces",
+        "rasi_idx": 11,
+        "nak": "Revati",
+        "nak_lord": "Mercury",
+        "pada": 2,
+        "house": 4,
+        "deg": 20.9185
+      }
+    },
+    "janma_nakshatra": "Magha",
+    "janma_nakshatra_lord": "Ketu",
+    "moon_rasi": "Leo"
+  },
+  "fired_yogas": [
+    {
+      "yoga": "Hamsa",
+      "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)"
+    },
+    {
+      "yoga": "Kemadruma",
+      "reason": "Moon has no planet adjacent or with it"
+    }
+  ],
+  "matches": {
+    "planet_in_rasi": [
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": "l0 degrees and\nCalculate the 5 UPagrahas, \nas under :\n43\nrRiuwga{q{If+r\"rTF!l\nfqaiqlriutie${IrndqsilFl:\nSun \n(400)+133020' \n: \nDhooma\nDhooma \n(l?3020')+ 53020' : \nVYatiPata\nVyatipata \n(226040')+ 1800 \n: \nParivesha\nParivesha \n(46040')- 53020' : \nChaP",
+        "chapter": 0,
+        "verse": 65
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "'\nStagc { : Leo, aB any other sign, is 30 degrees in length.",
+        "chapter": 0,
+        "verse": 92
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": "and\naspected by Mercury will not produce the said adversity. unless\nMan is seriously affiicted otherwise.\nt54\nBrihat Parasara Hora Sastrd\nGrqrreFil sqtur q?rur qr{ iln} r\nilEerr {rftin wd g;ua aq fqfttE{iE lstl\nfqar qrl ftrrniqqfl \n{r{it I\ntTitr Sco",
+        "chapter": 0,
+        "verse": 226
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 520
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": "10 degrees and Calculate the 5 \nUpagrahas, as under: \nSun \n= (40°) + 133°20' \n= \nDhooma \n= 173°20'.",
+        "chapter": 0,
+        "verse": 71
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 101
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": "and aspected by Mercury will not produce the said adversity, unless \nMars is seriously afflicted otherwise. \nलग्नात्तधिौ कुजबुधौ चिेण यदि संयुतौ। \nराहुणा शवनना साद्धं कुष्ठं ति विवनदियशेत्॥७॥ \nलग्नात्तधिं विना लग्ने स्थस्थतश्चेत्तमसा शशी। \nस्वेतकुष्",
+        "chapter": 0,
+        "verse": 249
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 565
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": ", his dasa will deprive the native of agriculture, cattle, son and wife.",
+        "chapter": 9,
+        "verse": 6
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": ", in such dasa, the native will acquire knowledge and money.",
+        "chapter": 10,
+        "verse": 18
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Ketu",
+        "rasi": "Pisces",
+        "effect": ", Virgo, Viishabha and the later half of Dhanus,\nin\nParivesha\n(q‘ft%qr) and Indra-chapa\nare\nstrong if there be a conjunction\nof the Moon and\nthe\nSun and the time be night.",
+        "chapter": 0,
+        "verse": 99
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": "or the Moon is aspected by Mars and the Sun in\nAries\nq'^rgtrn^f^wlr:\ni\n3Ti^T\nSloka 16\n.— If\nthere be\na\nbirth\nat\nnight when\nbe>\nnefics are\nin\ndepression or inimical houses identical\nwith the 11th, the 6th or\nthe 3rd house,\nor be in their\nhighest\nexal",
+        "chapter": 0,
+        "verse": 130
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "effect": ".\niVioon in Vrishahha.",
+        "chapter": 0,
+        "verse": 709
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "effect": "means horse; in Leo, camel; in Aries and \nTaurus, camel and donkey.",
+        "chapter": 0,
+        "verse": 416
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "and Arudba is a watery sign, there will be only some water in the well.",
+        "chapter": 0,
+        "verse": 470
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "effect": "in the Prasna chart.",
+        "chapter": 0,
+        "verse": 571
+      },
+      {
+        "book": "Saravali",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": "and Jupiter is in Cancer.",
+        "chapter": 0,
+        "verse": 86
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "in a query chart in 19 deg.",
+        "chapter": 0,
+        "verse": 144
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "Lagna.",
+        "chapter": 0,
+        "verse": 147
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "Lagna in aspect to Mars or\nSaturn afflict the eyes.",
+        "chapter": 0,
+        "verse": 182
+      },
+      {
+        "book": "Saravali",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": ": The position of the Sun in\nthe sign Taurus indicates that the native will have troubles\nfrom disease of face and eyes, will endure difficulties, will have\nan emaciated body, will not have many sons, will be beautiful\n(भव्य also means fortunate, nic",
+        "chapter": 0,
+        "verse": 297
+      },
+      {
+        "book": "Saravali",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": "cannot\nmake much money.",
+        "chapter": 0,
+        "verse": 297
+      },
+      {
+        "book": "Saravali",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": "will give troubles from enemies,\nlitigations and loans and expenditure on vices and through\nevil association.",
+        "chapter": 0,
+        "verse": 297
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": ": If the Moon is in Leo,\none will have sturdy bones, sparse hair, wide face, small and\nyellowish eyes, will hate women, will suffer from hunger and\nthirst, will incur stomachial disorders and tooth-decay, will\neat flesh, be charitable, harsh, will ha",
+        "chapter": 0,
+        "verse": 343
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": ",\none will have sturdy bones, sparse hair, wide face, small and\nyellowish eyes, will hate women, will suffer from hunger and\nthirst, will incur stomachial disorders and tooth-decay, will\neat flesh, be charitable, harsh, will have few sons, will seek",
+        "chapter": 0,
+        "verse": 343
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": ", the native will tend to\nsexual union in forests/hills (or in remote places) as the lion\nseeks, His voice resembles that of a lion—so majestic it is and\nhe eats flesh.",
+        "chapter": 0,
+        "verse": 343
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "IN ASPECT TO OTHERS :\nShould the Moon be in Leo in aspect to the Sun, the native\nwill be equal to a king, will have excellent qualities and maje-\n\nstic voice, will be valorous, be fond of intoxicants and be\nwidely famous.",
+        "chapter": 0,
+        "verse": 346
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": ". he will be\n\n\n====== PAGE 270 ======\n\n266 Saravali\n\nan army chief will have excellent wife, sons, wealth and con-\nveyances and be superior among people.",
+        "chapter": 0,
+        "verse": 346
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "one will be endowed with the chara-\ncteristics of a female, and also the grace akinto that of a\nfemale; will be in the custody of females, will serve females\nand will enjoy money, happiness and pleasures.",
+        "chapter": 0,
+        "verse": 346
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "in\ngeneral is a good combination for astrology.",
+        "chapter": 0,
+        "verse": 347
+      },
+      {
+        "book": "Saravali",
+        "planet": "Moon",
+        "rasi": "Leo",
+        "effect": "will make the native resort to extra-marital\nrelationship.",
+        "chapter": 0,
+        "verse": 347
+      },
+      {
+        "book": "Saravali",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": "will produce a splendid Raja\nYoga conferring landed/housing properties and co-operation\nand help from brothers etc.",
+        "chapter": 0,
+        "verse": 384
+      },
+      {
+        "book": "Saravali",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": "will cause distress in regard to father.",
+        "chapter": 0,
+        "verse": 384
+      },
+      {
+        "book": "Saravali",
+        "planet": "Venus",
+        "rasi": "Gemini",
+        "effect": "/Sagittarius. ‘Scorpio ascendant :.",
+        "chapter": 0,
+        "verse": 418
+      },
+      {
+        "book": "Saravali",
+        "planet": "Mercury",
+        "rasi": "Aries",
+        "effect": ". (His\noccupation of Scorpio will also give rise to similar unfavourable\nresults, vide sloka 15-16 infra-)\n\nNow a glance at the results of Mercury’ position in\nAries while diffrent Rasis become ascendant : Aries\nascendant : The native will lose his m",
+        "chapter": 0,
+        "verse": 436
+      },
+      {
+        "book": "Saravali",
+        "planet": "Mercury",
+        "rasi": "Aries",
+        "effect": "/SCORPIO AND ASPE-\nCTED BY OTHERS: Should Mercury occupy a sign of Mars\nat birth and be aspected by the Sun, the person will be truthful,\nbe very happy, be honoured by the king, and be patiently\ndisposed.",
+        "chapter": 0,
+        "verse": 476
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "effect": "produces one who is fond of perfumes and garlands \nand has the best furniture and clothing, but is of little firmness; one who takes \ndelight in such things as singing and instrumental music and is knowledgeable \nabout sexual intercourse, a thin man",
+        "chapter": 0,
+        "verse": 90
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Mercury",
+        "rasi": "Aries",
+        "effect": "produces a man who is thin, but eats much; a rogue \nwho prattles in va~n and likes quarrels and weapons; one whose property is \nacquired with much labor, and then lost; \n37 \nTHE YAVANAJATAKA \n2. a man fond of sexual intercourse, a tricky craftsman;",
+        "chapter": 0,
+        "verse": 92
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Venus",
+        "rasi": "Gemini",
+        "effect": "produces an eloquent, noble, and pious man, one who \nis hospitable to gods and Brahma1,1as and is grateful; a person delighting in \nknowledge, in the meaning of the sciences, and in the arts; \n6. one who aims to be kindly and is always affectionate;",
+        "chapter": 0,
+        "verse": 94
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Mars",
+        "rasi": "Aries",
+        "effect": "produces a violent and fierce hero who performs deeds of \ngreat daring; a glorious",
+        "chapter": 0,
+        "verse": 95
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "effect": "produces a man fond of service and attached to \nsacred traditions (sruti) and righteousness ( dharma); a teacher of sacrifices \nand vows whose meaning is not doubted; a noble and generous man with many \nfriends and allies; \n18. one who lives in many",
+        "chapter": 0,
+        "verse": 98
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "effect": "produces a man who is the best among his relatives, \nkinfolk, and friends; a peaceful and revered person who sacrifices well; one \nwhose effort is noble in the sciences and in the crafts; \n24. one who has good conduct, righteousness (dharma), occupa",
+        "chapter": 0,
+        "verse": 100
+      }
+    ],
+    "planet_in_house": [
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Saturn",
+        "house": 4,
+        "effect": "house will'alpo deprive om of mother's\nmilk.",
+        "chapter": 0,
+        "verse": 173
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "while Saturn, Sun, Mars and\nMerorry arc together in thc Znd.\nq{: \nflln \nRgiil \ngq{r \nqqqurrr: I\nWfq q.cqq: qrtRnn frqqal qtE rrlqtr\n36.",
+        "chapter": 0,
+        "verse": 175
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "will ward off all thc evils.",
+        "chapter": 0,
+        "verse": 178
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Venus",
+        "house": 7,
+        "effect": ", ibe native will b.e. exceedingly libidinous'\nVr\"\"t .i\"f\"i\"g o .ut.fi\" in any house will cause-loss \nof wife'\nsnrneitw: qt{m} \nqr\nilil \ncr* q;it srr{t\nEJ fl \nwdga: t\nqfqrdtt\nq|ifail t\n{fi \nlrflts* \nqr fi{* \ntt-sc?q t\nagrR iff\"il wut cgmaT d qiq ttrt",
+        "chapter": 0,
+        "verse": 233
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "from the 8th house (i.e. the 2nd from ascendant),\nwhile his dispositor is conjunct Mars.",
+        "chapter": 0,
+        "verse": 240
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "from her, nor should she be in aspect to\nMercury so that the Yoga obtained is not simultaneously givcn\nannulment.",
+        "chapter": 0,
+        "verse": 500
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "from the Moon will be an impetus to\nGaF Kcsari rather than becoming an impediment.",
+        "chapter": 0,
+        "verse": 502
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "lifting the native to Himalayan\nheights through the said Maha Raja yoga.",
+        "chapter": 0,
+        "verse": 530
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "being in Sayanavastha \nis related to Saturn or Rahu, the native's\nChapter 45 \n465\nhead will be severed while with other malefics related to Mars\niT the said state ears/hand will be cut off.",
+        "chapter": 0,
+        "verse": 620
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "or in the l2th in Sabha-\nwsha will give many female issues; in the 7th it will make the\nnative black i'r oomplexion.",
+        "chapter": 0,
+        "verse": 625
+      },
+      {
+        "book": "BPHS_Vol2",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": ": Mercury, the Moon and the Ascendant in the 3rd : the\nAscendarrt, \nthe Sun, Satlrn and Mars in the 4th : the Ascendant,\nthe Sun, Saturn, Mars, ivfercury and the Moon in the 10th : the\nSun, the Moon, Mdrs, Mercury, Jupiter, Saturn and th;\n0\n1\n2\n?\n4",
+        "chapter": 0,
+        "verse": 273
+      },
+      {
+        "book": "BPHS_Vol2",
+        "planet": "Mars",
+        "house": 5,
+        "effect": ": all except tl:re\nSun in the 6th : the Sun in the 7th : the Sun and Mercury in\nthe Sth : Mercury in the 9th: the Sun, Mgrs, the Ascendarrt antl\nMercury in the 10th: all in the llth: Mars, Mercury, fupite,:\nrnd Venus,in the l2th from thefr own place",
+        "chapter": 0,
+        "verse": 275
+      },
+      {
+        "book": "BPHS_Vol2",
+        "planet": "Sun",
+        "house": 6,
+        "effect": ": the Sun in the 7th : the Sun and Mercury in\nthe Sth : Mercury in the 9th: the Sun, Mgrs, the Ascendarrt antl\nMercury in the 10th: all in the llth: Mars, Mercury, fupite,:\nrnd Venus,in the l2th from thefr own places, are rekhapradas.",
+        "chapter": 0,
+        "verse": 275
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": ", \nthe periods of Jupiter will give success in north-east, the direction ruled by it.",
+        "chapter": 0,
+        "verse": 58
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Saturn",
+        "house": 4,
+        "effect": "house will also deprive one of mother's milk.",
+        "chapter": 0,
+        "verse": 193
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "while Saturn, Sun, Mars and Mercury are together in the Ind. \nसूययः िािेन संयुतो ह्यथिा िािमध्यगः। \nसूयात् सप्तमगः िािस्तिा पितृिधो भिेत्॥३६॥ \n36.",
+        "chapter": 0,
+        "verse": 194
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "will ward off all the \nevils.",
+        "chapter": 0,
+        "verse": 198
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "identical with debilitation or inimical sign or malefic, sign. \nएक एि विलग्नेशः केिसंस्थो बलान्वितः। \nअररिं वनखखलं हन्वन्त पिनाकी पििुरं यथा॥४॥ \n4.",
+        "chapter": 0,
+        "verse": 199
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Venus",
+        "house": 7,
+        "effect": ", \nthe native will be exceedingly libidinous.",
+        "chapter": 0,
+        "verse": 257
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "from the \n8th house (i.e. the 2nd from ascendant), while his dispositor is conjunct Mars.",
+        "chapter": 0,
+        "verse": 265
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "from her, nor should she be in aspect to Mercury \n\nMany Other Yogas \nPage 298 \nso that the Yoga obtained is not simultaneously given annulment.",
+        "chapter": 0,
+        "verse": 546
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "from the Moon will be an impetus to Gaja Kesari \nrather than becoming an impediment.",
+        "chapter": 0,
+        "verse": 548
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "Raja Yogas \nPage 315 \nlifting the native to Himalayan heights through the said Maha Raja yoga.",
+        "chapter": 0,
+        "verse": 576
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "or in the 7th \nhouse, and be aspected by or conjunct only benefices, the class of longevity will \nincrease. \nअनायुश्चेि् भिेिल्पमल्पान्मध्यं प्रजायते । \nमध्यमाज्जायते िीघं िीघायुश्चेत्ततोऽत्तधकम्॥४९॥ \nयोगहेतौ गुरिेिं कक्ष्यािृद्धेश्च लक्षणम् । \nएतिा",
+        "chapter": 0,
+        "verse": 638
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "being in \nSayanavastha is related to Saturn or Rahu, the native's bead will be severed while \nwith other malefic related to Mars in the said state ears/hand will be cut off.",
+        "chapter": 0,
+        "verse": 674
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "or in the 12th in Sabhavastha \nwill give many female issues; in the 7th it will make the native black in complexion.",
+        "chapter": 0,
+        "verse": 678
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "in \nBhojanavastha, the native will be fond of flesh, be eloquent, libidinous and be happy \nin every manner.",
+        "chapter": 0,
+        "verse": 681
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Rahu",
+        "house": 10,
+        "effect": "or in the \n7th Bhojanavastha the native will 'kill' his wife or he may abandon her or may not be \nhappy in married life, and be irreligious.",
+        "chapter": 0,
+        "verse": 690
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Rahu",
+        "house": 10,
+        "effect": "to it.",
+        "chapter": 0,
+        "verse": 833
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Sun",
+        "house": 6,
+        "effect": ": the Ascendant the Moon, Saturn, the Sun. these 4 in the 12th: Venus, \nthe Sun, the Moon, Mercury an the Ascendant, these 5 in the 5th: the Moon, Mars, \nJupiter.",
+        "chapter": 0,
+        "verse": 979
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": ": Mercury, the Moon and the Ascendant in \nthe 3rd: the Ascendant, the Sun, Saturn and Mars in the 4th: the Ascendant, the Sun, \nSaturn, Mars, Mercury and the Moon in the 10th: the Sun, the Moon, Mars, Mercury, \nJupiter, Saturn and the Ascendant in th",
+        "chapter": 0,
+        "verse": 980
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Venus",
+        "house": 7,
+        "effect": ": the Sun, Mars, Saturn, Mercury and Jupiter in the \n9th from their own places are Rekhapradas (auspicious).",
+        "chapter": 0,
+        "verse": 980
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Saturn",
+        "house": 4,
+        "effect": ": Jupiter and Venus in the 5th, all except Venus in the 6th: Jupiter \nin the 7th: Mercury and Venus in the 8th: Jupiter and Venus in the 9th: all except Venus \nin the 10th: all except Venus in the 11th: and the Sun and the Moon in the 12th from \nthei",
+        "chapter": 0,
+        "verse": 982
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "and the lords of the \nAscendant and the 5th are in the 8th. \n(2) The Ascendant and the 5th are occupied by Mars and.",
+        "chapter": 0,
+        "verse": 1152
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": ", the M o o n and Venus in the 4th, the Sun and Mars in the 10th and Saturn in the 7th enjoy digbala or directional strength.",
+        "chapter": 3,
+        "verse": 31
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "without being in the company of or in aspect to others. (d) A l l the male planets in the 6th house and or the U t h house while the 5th ord is strong. (e) A l l planets in odd signs.",
+        "chapter": 4,
+        "verse": 5
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "and Rahu in the 7th leave a scar on the left hand.",
+        "chapter": 5,
+        "verse": 19
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "indicate marks on both the hands.",
+        "chapter": 5,
+        "verse": 19
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Moon",
+        "house": 9,
+        "effect": "house.",
+        "chapter": 5,
+        "verse": 19
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "therefrom in Aries.",
+        "chapter": 5,
+        "verse": 39
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "while Mars and Saturn are in the 5th and the Moon is waning produces a person with short life. ^ 4 f ^ cKi -si^ f^m\\ ii i i ii The Sun and the Moon in the company of Rahu will cause death at the age of 28.",
+        "chapter": 6,
+        "verse": 10
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "always increases the longevity except in the case of Capricorn.",
+        "chapter": 6,
+        "verse": 21
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "in this particular case. ^ ^ w 1 31^jff%^ BlMM^ 41^!^T^^i<liJH^ 11 27 11 When the ruler of the 8th is in an angle.",
+        "chapter": 6,
+        "verse": 21
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "in Taurus for the opposite Lagna.",
+        "chapter": 17,
+        "verse": 17
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": "-very intelligent, sweet in speech, wise and accepted even by scholars.",
+        "chapter": 21,
+        "verse": 23
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "in Capricom while the Sun is in Leo rasi or amsa. (ch. 7, sloka 15.) In our opinion, the Sim be better in Cancer in 2nd Navamsa so that the condition laid down is fulfilled.",
+        "chapter": 23,
+        "verse": 12
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": ", the native has pleasing personahty, is virtuous, learned and is blessed with various pleasures.",
+        "chapter": 23,
+        "verse": 19
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "should be exceedingly strong, stronger than the aspected and simulta- neously deadly inimical to the sign rising on the horizon.",
+        "chapter": 24,
+        "verse": 55
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "house then it ir un e1fftfA \nYoga of the 5th and 8,h\nhouse lords, not productive of greatly auspicious results.\n(\"i) If Saturn is in own sign in the LOth \nhouse and ]upiter in the\n4th house in the Moon s sign both aspecting each other, it is\n\n68 \nLa",
+        "chapter": 0,
+        "verse": 96
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": ".\nfif6 erq tdqn:\nLeo Lagna\nrqffim \nqTfi: E-cr qer VJ$Irdr6: \nl\nsqffiq \nq VIq rJqJtrziltts4ll\nT{g-d T<t sffi fufrqqtr{r+fi:t\nEF: TilqTI=T \nEflRsrtqr[fi*{ \nFtfl$rf : I 155 \n| |\nEFd dqr<q: qrqr :nr**t \nafqrfl : l\nqq u-flrf{ ffi \nftifss \nqfrffi1;115511\nF",
+        "chapter": 0,
+        "verse": 191
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Saturn",
+        "house": 4,
+        "effect": "house can be very feebly\ngood.\n\n8 \\\nMoorr\n6\nKetu\n^k\n10\\\nJupiter.\n72\nIlahu\n11\nRahu\nSun\nMars\nMercury\nVenus\nBirth\n9-6-1949\n)upiter\nSaturn\nMoon\nKetu\nLagna\nLaghu Parasari-Jataka \nChandrika\n153\nExample - In the chart of Mrs Kiran Bedi, the reformist polic",
+        "chapter": 0,
+        "verse": 203
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "and Saturn in the\n7th.",
+        "chapter": 0,
+        "verse": 97
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Rahu",
+        "house": 10,
+        "effect": "house\nmakes\nthe\nnative\nfamous; the man will have a limited number\nof\nissue,\nwill engage himself in other's business, will not do any\ngood act and will be\nfearless.",
+        "chapter": 0,
+        "verse": 147
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "and Saturn in the Sth, will cause\ndisaess\nto the Bhavas concerned.",
+        "chapter": 0,
+        "verse": 189
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Sun",
+        "house": 6,
+        "effect": "house will remove all diseases, destroy enemies, and\ndispel\nall\nsorrows and mental\nanxieties.",
+        "chapter": 0,
+        "verse": 269
+      },
+      {
+        "book": "Phaladeepika",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "house\nwill make\nthe\nnative\nsuffer from™.",
+        "chapter": 0,
+        "verse": 382
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "house indicate a female.",
+        "chapter": 0,
+        "verse": 112
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "and the Moon in the 10th; (2) all malefics posited in the \n\n1st, 5th, 8th and 12th houses; (3) all malefics occupying the 4th, Mercury and Venus in the \n7th and Jupiter in the 5th.",
+        "chapter": 0,
+        "verse": 179
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "and Jupiter in the 5th.",
+        "chapter": 0,
+        "verse": 179
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Mars",
+        "house": 5,
+        "effect": ", all the children will \ndie as they are born.",
+        "chapter": 0,
+        "verse": 190
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "favours the death of children as they are born.",
+        "chapter": 0,
+        "verse": 190
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Mercury",
+        "house": 5,
+        "effect": ".",
+        "chapter": 0,
+        "verse": 194
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "house, the husband will be lustful and passionate.",
+        "chapter": 0,
+        "verse": 236
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Saturn",
+        "house": 4,
+        "effect": "brings in a cloud to the mind, separation from wife and \none's own wealth; quarrels with all; in the 5th, sorrows arising from death of children.",
+        "chapter": 0,
+        "verse": 298
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "indicates fame; in the 2nd, gain of money; \nin the 3rd, fatigue due to travels; in the 4th, respect accruing from charitable actions; in the \n5th, attainment of impossible aims; in the 6th, control of enemies or according to some \nbeing won over by",
+        "chapter": 0,
+        "verse": 398
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Venus",
+        "house": 7,
+        "effect": "and the Moon in the 4th covered by a halo in \nthe sky at the time of query — all these indicate that old wells are buried beneath in the \ncompound.",
+        "chapter": 0,
+        "verse": 482
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "makes the water tolerably good.",
+        "chapter": 0,
+        "verse": 487
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Jupiter",
+        "house": 1,
+        "effect": "Drekkana, in the birth chart he will be in the \nsame sign; if in the 2nd Drekkana, in the 5th from his query position; in the 3rd, in the 9th sign \nfrom his own query position.",
+        "chapter": 0,
+        "verse": 590
+      },
+      {
+        "book": "Saravali",
+        "planet": "Sun",
+        "house": 6,
+        "effect": ",\nultimate success will be his.",
+        "chapter": 0,
+        "verse": 300
+      },
+      {
+        "book": "Saravali",
+        "planet": "Sun",
+        "house": 6,
+        "effect": "will also face\nsimilar results as by a Capricorn native.",
+        "chapter": 0,
+        "verse": 303
+      },
+      {
+        "book": "Saravali",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "will lose children,\nwill lack amicability with wife and children and will always\ninvite quarrels with others.",
+        "chapter": 0,
+        "verse": 399
+      },
+      {
+        "book": "Uttara_Kalamrita",
+        "planet": "Moon",
+        "house": 9,
+        "effect": "from Tula lagna\n\nEffects of the Planets and Houses\nand is aspected by Guru from the fifth house.",
+        "chapter": 0,
+        "verse": 122
+      },
+      {
+        "book": "Uttara_Kalamrita",
+        "planet": "Moon",
+        "house": 9,
+        "effect": "in\na friend's house with debili-\ntated but retrograde ShanL\nThis Moon receives the as-\npects of the lord of lagna\n(Ravi), Budha, and Guru\n(the lord of the fifth), Kuja,\nyogakaraka for this lagna is\nposited in the tenth havtng\n2\n21\n30\nShukra\nGuru\nSha",
+        "chapter": 0,
+        "verse": 123
+      },
+      {
+        "book": "Uttara_Kalamrita",
+        "planet": "Mars",
+        "house": 5,
+        "effect": "in his own house.",
+        "chapter": 0,
+        "verse": 159
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Sun",
+        "house": 6,
+        "effect": "place produces men who are afflicted by poisoned \nswords, burning, coughing-spells, diseases, enemies, and miseries; men whose \nteeth are smashed by throwings of sticks and stones; ones who are wounded \nby forest animals and those with tusks and hor",
+        "chapter": 0,
+        "verse": 127
+      },
+      {
+        "book": "Yavanajataka_2",
+        "planet": "Sun",
+        "house": 6,
+        "effect": "place and Venus in the eighth, he goes out and \nquickly slays his foes. \n40.",
+        "chapter": 0,
+        "verse": 291
+      }
+    ],
+    "dignity": [
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 58
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 69
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "if in\nAries is better than Mars in Scorpio, a female sign.",
+        "chapter": 0,
+        "verse": 151
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 226
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "or in exaltation) will\nmake the nativc disinherit patrimony or enter into litigations.",
+        "chapter": 0,
+        "verse": 248
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "or that of others.",
+        "chapter": 0,
+        "verse": 438
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "for the Moon.- In\nmaking such a specific statement, the author of Kumrn\nswrmeeyrm must obviousry have possessed an unporailelcd\nauthority.",
+        "chapter": 0,
+        "verse": 500
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "and hence no dispositor.\n'(d) Jupiter's Navamsa dispositor is Jupi6 \nunscras nc\nis in Sagittarius Navamsa.",
+        "chapter": 0,
+        "verse": 517
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "identical with the\n9th house and be in the company of either Venus or of the 5th\nlord, the native will obtain kingbood.\nti6q6r \nfrmqkq qr qrdEqrfsur r\ngnr icr r3ie;il TTcT Tqrf,icrftsfq \nqr uyo tl\n40",
+        "chapter": 0,
+        "verse": 537
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 544
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "in the Sth while Venus wilt be\nin the I lth in own house for these two ascendants.\n{rt g rffit \nftq \nufngn qftr r\nmf mqfrqi qRfr qgrartrt ilFnrr: uqtl\n8.",
+        "chapter": 0,
+        "verse": 546
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "and be conjunct or aspected by Mercury, Venus and\nSaturn, the native will be rich.\nguriarri ffil \nilfrm lq{i \nefr r\nnfffiq$ \nTG'e trral ur$ \nriq rr11rr\n12.",
+        "chapter": 0,
+        "verse": 547
+      },
+      {
+        "book": "BPHS_Vol1",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "and be conjunct or aspected by Mercury and Mars,\nthe native will be rich.\nqg*eni\nifri atrrTq {gti \nqh r\nnfaqlrq{i 1€ a} qnt: Tt wit niq utYtl\n14.",
+        "chapter": 0,
+        "verse": 547
+      },
+      {
+        "book": "BPHS_Vol2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "or in their sign of exaltation, be\nin kendra to the Ascendant, they give rise to Ruchaka, Bhadra,\nHamsa, Malarrya and Sasa yo.gas respectively.",
+        "chapter": 0,
+        "verse": 339
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 76
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "if in \nAries is better than Mars in Scorpio, a female sign.",
+        "chapter": 0,
+        "verse": 166
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 248
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "or in exaltation) will make the native disinherit patrimony or \nenter into litigations.",
+        "chapter": 0,
+        "verse": 274
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "or that of others.",
+        "chapter": 0,
+        "verse": 481
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "and hence no dispositor. \n(d) Jupiter's Navamsha dispositor is Jupiter himself as be is in Sagittarius \nNavamsha.",
+        "chapter": 0,
+        "verse": 562
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "identical with the 9th house and be in \nthe company of either Venus or of the 5th lord, the native will obtain kinghood. \nदिनाधाच्च वनशाधाच्च िरं साधयदद्वनापडका। \nशुभा िेला तिुत्पिो राजा यात्तत्समोऽप",
+        "chapter": 0,
+        "verse": 582
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ", Similarly for Gemini ascendant.",
+        "chapter": 0,
+        "verse": 590
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "along with his friends-the Moon and Mars. \nिर्णचमे च रविक्षेिे तस्तिन् रवियुते सवत । \nलाभे शनीन्दुजीिाढ्ये बहुद्रव्यय नायकः॥४॥ \n4.",
+        "chapter": 0,
+        "verse": 590
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "as Mercury is in \nthe 11th, the native will be very affluent.",
+        "chapter": 0,
+        "verse": 591
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "in the 5th while Venus will be in the 11th in own house for these two \nascendants. \nिंचमे तु शलशक्षेिे तस्तिन् शलशयुते सवत । \nशनौ लाभस्थस्थते जातो बहुद्रव्यय नायकः॥८॥ \n8.",
+        "chapter": 0,
+        "verse": 592
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "and be \nconjunct or aspected by Mercury, Venus and Saturn, the native will be rich.  \nबुधक्षेिगते लग्ने तस्तिन् बुधयुते सवत । \nशवनजीियुते दृिे जातो धनयुतो भिेत्॥१२॥ \n12.",
+        "chapter": 0,
+        "verse": 593
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "and be \nconjunct or aspected by Mercury and Mars, the native will be rich. \nभृगुक्षेिगते लग्ने तस्तिन् भृगुयुते सवत । \nशवनसौम्युते दृिे यो जातः स धनी भिेत्॥१४॥ \n14.",
+        "chapter": 0,
+        "verse": 593
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "or in their sign of exaltation, \nbe in Kendra to the Ascendant, they give rise to Ruchaka, Bhadra, Hamsa, Malayya \nand Sasa yogas respectively.",
+        "chapter": 0,
+        "verse": 1059
+      },
+      {
+        "book": "Hora_Sara",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "or in exaltation sign, same effects w i l l prevail.",
+        "chapter": 25,
+        "verse": 12
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "in the\n10th which indicates that he is auspicious.",
+        "chapter": 0,
+        "verse": 75
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "and gets the thurst from Venus, a Tiikona\nlord and,saturn again a Trikona lord but also the 8th lord.",
+        "chapter": 0,
+        "verse": 75
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 102
+      },
+      {
+        "book": "Laghu_Parashari",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "acted more as 10ft lord and he gained by some\nimports.",
+        "chapter": 0,
+        "verse": 149
+      },
+      {
+        "book": "Prashna_Marga",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 33
+      },
+      {
+        "book": "Saravali",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 108
+      },
+      {
+        "book": "Saravali",
+        "planet": "Mars",
+        "state": "own",
+        "effect": "in 10th andthe Sun .is exalted in the 10th in\nAries.",
+        "chapter": 0,
+        "verse": 120
+      },
+      {
+        "book": "Saravali",
+        "planet": "Jupiter",
+        "state": "own",
+        "effect": "indicates that the\nperson will be a king, be endowed with royal qualities, be\nhappy, will have a good wife, will behave well, be modest and\nvalorous.",
+        "chapter": 0,
+        "verse": 342
+      },
+      {
+        "book": "Uttara_Kalamrita",
+        "planet": "Mars",
+        "state": "own",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 159
+      }
+    ],
+    "dasha_effects": [
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "at the time of birth.",
+        "chapter": 0,
+        "verse": 21
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ", there will be Rajayoga.",
+        "chapter": 0,
+        "verse": 100
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "lects of the Antardasa of Ketu in the Dasa of Ketu\nlTFzrs'qg{rf6r?et\naeiYrsqfqi rrlrr\n*,;i frnlqcr* \nil \ntal \nqriqTiqt r\n.lE ftu<{grq rrR}rl\naqgal \nuqqrqTfE qeeqrc*afirq5? |\ngaatcfaaled \nit\nqTq$Tuqr{icTTqqq\nqrqftfacahcr: nRtl\nl-2-$.",
+        "chapter": 0,
+        "verse": 189
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "lTFzrs'qg{rf6r?et\naeiYrsqfqi rrlrr\n*,;i frnlqcr* \nil \ntal \nqriqTiqt r\n.lE ftu<{grq rrR}rl\naqgal \nuqqrqTfE qeeqrc*afirq5? |\ngaatcfaaled \nit\nqTq$Tuqr{icTTqqq\nqrqftfacahcr: nRtl\nl-2-$.",
+        "chapter": 0,
+        "verse": 189
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ", if Venus be in his sign of\nexaltation, in his own sign or bs associated with the lord of the\nl0th in a kendra or trikona and there will be dawn of fortune\nif in such position he is associated with the lord of the 9th also.",
+        "chapter": 0,
+        "verse": 190
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "tak?af* tr* \nr*ni\nffiqqr* \ne11 ui\nqqffisfq {T r\nqqsqf.qt uR{tl\n|r{rtIETlRrr€A\nT€Xqrfail$TrFi{ ||Rqr|\n*qnrrqrq{srRaqqqrisf irci\nwFr I\nErFAnrtoTXEiqq \nttR\\etl\nI\nqaqr(lfaRl€d ir\npta.a: \nnqEE \nfr uRqtl\n25-28.",
+        "chapter": 0,
+        "verse": 192
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ", if the Moon be in her sign\nof exaltation, in her own sign, in kendra, trikona, the l lth or\nf,the 2nd, from the Ascendant.",
+        "chapter": 0,
+        "verse": 192
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "*a'lr;ari* \nqlt \nffiaTifurfa+M r\n723\nrdtri \n€qqiat ilsfq \nqqqEtefgt nletl\nslTal qltsi{ ia \nmwqrrrfeanrqq I\nq;rqFqtRqTq{q\nTEl(rqdaFnrI]\n\\ Y\nrttct \n$qqRI$Fu\nqg6qTssfrsil$TfiE ||lctl\nTrqqq-€E[$Tq{ |\n\\arfi: \nqlcq+q q illQ.tl\n37-39.",
+        "chapter": 0,
+        "verse": 193
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ", if Mars be in his sign of exaltation\nin his own sign associated \nwith or aspected by the benefics.",
+        "chapter": 0,
+        "verse": 193
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ", il\nJupiter be in his sign of exaltation, in his own sign or bt\nassociated with the lord of the Ascendant, the 9th or rhe l0tt\nin a kendra or trikona from the Ascendant.\nqwrtgqaqi fia \nflivnr6tqr* \n?il |\naffiwr$ttfu\nq?qr'qtfffilqr+T{ il{{tl\nqaarqr&q",
+        "chapter": 0,
+        "verse": 195
+      },
+      {
+        "book": "BPHS_Vol2",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ", if Saturn be deprived of strength and dignitn\nTherq will be loss of wealtb and lethargy, if Saturn Ue in' ti\"\n8th or the l2th from the Ascendant.\nqqqi\nTEFTTT\ne\ngq{qmi\nq{ ilqutl\nfitfrq'sqqr* \ng\nafluqg-*4 \nfcaqld \nq \nsr<tE I\nTGot! qi \nqQqT <ereq(r<lq",
+        "chapter": 0,
+        "verse": 196
+      },
+      {
+        "book": "Laghu_Parashari",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "-\nDasa/Bhukti\nKetu/Ketu\nKetu/Venus\nKetu/Sun\nKetu/Moon\nKetu/Mars\nKetu/Rahu\nKetu/fupiter\nKetu/Saturn\nKetu/Mercury\nMonths\n7 x 7  =  \n4 . 9\n7x20 = 14.0\n7 x 6  =  \n4 . 2\n7 x10 E \n7.0\n7 x 7  =  \n4 . 9\n7 x18 = 12.6\n7x1.6 s l't.2\n7x19 = 13.3\n7x17 = 11.9\nYear",
+        "chapter": 0,
+        "verse": 246
+      },
+      {
+        "book": "Phaladeepika",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": "the person will have\nsorrow\nand\nconfusion\ncaused\nby\nfemales,\ntrouble\nfrom the rich and loss\nof wealth ;\nhe will do impro-\nper acts to others.",
+        "chapter": 0,
+        "verse": 213
+      },
+      {
+        "book": "Phaladeepika",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ".\nf\ncT^j^T ?-T^r:\n5rff\ni\nTiTiww^^$T3rw5rw.\niiVMi\nSloka\n69. --Windfalls and unexpected loss of wealth,\nseparation from\none's\nson,\na laboured delivery\nthat\nengenders much sorrow,\nacquisition\nof\nservants and\nfemale children, all these are to be\nlooked\nt",
+        "chapter": 0,
+        "verse": 234
+      },
+      {
+        "book": "Phaladeepika",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ".\nvr^rirf^ q^irjr\ni\nf?T^«T^5Tftft«5r ^ sr3r%\nSloka 70.—Quarrel with the members of one's own\nfamily, destruction of one's relations, danger from ser-\npents, thieves and fire, and trouble from\nenemies\nare\nwhat a person has\nto incur during Kuja's Bhukt",
+        "chapter": 0,
+        "verse": 234
+      },
+      {
+        "book": "Phaladeepika",
+        "type": "mahadasha",
+        "planet": "Ketu",
+        "effect": ".\n3Tf^^?ni;555\n?nsffT:\nI\nSloka 72.—Quarre",
+        "chapter": 0,
+        "verse": 234
+      }
+    ],
+    "yogas": [
+      {
+        "book": "BPHS_Vol1",
+        "yoga": "Hamsa",
+        "fired_as": "Hamsa",
+        "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+        "effect": ". In other cas€s the angularity between\ntile two need not be given the name Gaja Kesari' In point of\nfact, the Moon-Jupiter mutual angular placement is called as\nsimply Kesari Yoga, vide Phala Deepika",
+        "chapter": 0,
+        "verse": 499
+      },
+      {
+        "book": "BPHS_Vol1",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "is formed. One born in Kemadruma yoga will be very\nmuch reproached, be bereft of intelligence and learning and\nreduced to penury and perils.\nsTsr \nrRqlTTeqrq: 11Qe \ntl\nChroter 38\n| c I I I '\nJorar r o",
+        "chapter": 0,
+        "verse": 525
+      },
+      {
+        "book": "BPHS_Vol1",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "will be very\nmuch reproached, be bereft of intelligence and learning and\nreduced to penury and perils.\nsTsr \nrRqlTTeqrq: 11Qe \ntl\nChroter 38\n| c I I I '\nJorar r ogas\nqqq smdqwdirq Rir rrr lFrrfqfr: I\n",
+        "chapter": 0,
+        "verse": 525
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "; the effects of which will be still \nseverer if the Moon's aspect be there. The effects due for these yogas will come to \npass in the Dasha periods of the Rāśhis or planets concerned. Kemadruma Yoga ",
+        "chapter": 0,
+        "verse": 493
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "will \noperate additionally if there are malefic in the 2nd and 8 from the Rashi whose Dasha \nwill be in currency. The results of such yoga will also be inauspicious. If the 2nd and \n8th",
+        "chapter": 0,
+        "verse": 493
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "yoga": "Hamsa",
+        "fired_as": "Hamsa",
+        "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+        "effect": ".",
+        "chapter": 0,
+        "verse": 543
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": ": Excluding the Sun, should there be no planet \nwith the Moon or in the 2nd/12th from the Moon or in an angle from the ascendant, \nKemadruma yoga is formed. One born in Kemadruma yoga will be very muc",
+        "chapter": 0,
+        "verse": 570
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "is formed. One born in Kemadruma yoga will be very much \nreproached, be bereft of intelligence and lea",
+        "chapter": 0,
+        "verse": 570
+      },
+      {
+        "book": "Brihat_Parashara_v2",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "will be very much \nreproached, be bereft of intelligence and lea",
+        "chapter": 0,
+        "verse": 570
+      },
+      {
+        "book": "Hora_Sara",
+        "yoga": "Hamsa",
+        "fired_as": "Hamsa",
+        "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+        "effect": ", is praised by good men, a king, has symbols of conch, lotus and fish in his palms and soles, beautiful body, eats sweet food, and is generous. Malavya yoga native has strong limbs, is stead- fast, w",
+        "chapter": 16,
+        "verse": 17
+      },
+      {
+        "book": "Hora_Sara",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "(of another kind) is produced when the lord of the 9th is pushed to the 12th house while the 12th lord is in the 2nd without strength. Simultaneously, the 3rd house shall have placement of malefics. p",
+        "chapter": 24,
+        "verse": 2
+      },
+      {
+        "book": "Hora_Sara",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "caused by the Moon without planets in 12th, 2nd or with her. ^ p ? w f t ^ ^Tcf?Jt^",
+        "chapter": 24,
+        "verse": 2
+      },
+      {
+        "book": "Hora_Sara",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "(mentioned in the above sloka) will be after others' housewives, will always look upto others for his food, will indulge in bad deeds and will contract several debts. \" w W t : ^ ^ 1 • j f e ^ i k q ^",
+        "chapter": 24,
+        "verse": 4
+      },
+      {
+        "book": "Hora_Sara",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "is produced. Such native will confine to his birth place only, (for his livelihood). qbdH,iHoi|i|<idl: Wd: ^jtlfdW^IH^I ^ i n ^ ^ -m ^prcRff ? ] ^ 5 f t n i s i i If malefics are in 6th, 8th or 12th h",
+        "chapter": 24,
+        "verse": 17
+      },
+      {
+        "book": "Phaladeepika",
+        "yoga": "Hamsa",
+        "fired_as": "Hamsa",
+        "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+        "effect": ". VRJ, 3. HANDS.\n1X.8; XlX-23; XXVI-\n38.\n.HANDSOME. A woman\nto\nbe\nvery\n. X\nI -\n1\n0\nTo he--\nV)1I-14\nIIABFENINGS. XX- 19. IIAIM’IRV.",
+        "chapter": 0,
+        "verse": 654
+      },
+      {
+        "book": "Saravali",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "is caused, as could be seen in\nthe following verses and notes thereof. Unless the Moon is\nthus well-balanced, the native is not likely to feel comfortable\nin life. He will face only obstacles in day-t",
+        "chapter": 0,
+        "verse": 203
+      },
+      {
+        "book": "Saravali",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": ": Kemadruma yoga is formed\nif at least one of the said three yogas (viz.",
+        "chapter": 0,
+        "verse": 203
+      },
+      {
+        "book": "Saravali",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "is formed\nif at least one of the said three yogas (viz.",
+        "chapter": 0,
+        "verse": 203
+      },
+      {
+        "book": "Saravali",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "This condition is quite strange.\n\nसुनफानफा सरूपास्त्रिशद्योगा (३०)स्त्रिसंगुणा षष्टिः(१८०) ।\nसंख्या दोरुधुरारां प्रस्तारविधौ समाख्याताः ॥३॥\n\n3. DIFFERENT PERMUTATIONS : By all possible\npermutations an",
+        "chapter": 0,
+        "verse": 204
+      },
+      {
+        "book": "Saravali",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": ": The\nnative with Kemadruma yoga will be deprived of wife, drinks,\nfood, residence, robes and friends, though he may belong to\nregal scion. He will suffer from poverty, grief, sickness and be\n\ndirty.",
+        "chapter": 0,
+        "verse": 209
+      },
+      {
+        "book": "Saravali",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "will be deprived of wife, drinks,\nfood, residence, robes and friends, though he may belong to\nregal scion. He will suffer from poverty, grief, sickness and be\n\ndirty.",
+        "chapter": 0,
+        "verse": 209
+      },
+      {
+        "book": "Uttara_Kalamrita",
+        "yoga": "Kemadruma",
+        "fired_as": "Kemadruma",
+        "reason": "Moon has no planet adjacent or with it",
+        "effect": "which is undesirable. Hence Guru should be in the seventh for a proper Adhi\nyoga. In Shivaji's chart (Simha lagna already given), the\nMoon is in kanya with Ravi and Guru in Kumbha, Budha\nin Mina, and ",
+        "chapter": 0,
+        "verse": 159
+      }
+    ]
+  },
+  "consensus_groups": {
+    "planet_in_rasi": [
+      {
+        "key": [
+          "Sun",
+          "Taurus"
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Saravali",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": "l0 degrees and\nCalculate the 5 UPagrahas, \nas under :\n43\nrRiuwga{q{If+r\"rTF!l\nfqaiqlriutie${IrndqsilFl:\nSun \n(400)+133020' \n: \nDhooma\nDhooma \n(l?3020')+ 53020' : \nVYatiPata\nVyatipata \n(226040')+ 1800 \n: \nParivesha\nParivesha \n(46040')- 53020' : \nChaP",
+            "chapter": 0,
+            "verse": 65
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": "10 degrees and Calculate the 5 \nUpagrahas, as under: \nSun \n= (40°) + 133°20' \n= \nDhooma \n= 173°20'.",
+            "chapter": 0,
+            "verse": 71
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": ", his dasa will deprive the native of agriculture, cattle, son and wife.",
+            "chapter": 9,
+            "verse": 6
+          },
+          {
+            "book": "Saravali",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": "and Jupiter is in Cancer.",
+            "chapter": 0,
+            "verse": 86
+          },
+          {
+            "book": "Saravali",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": ": The position of the Sun in\nthe sign Taurus indicates that the native will have troubles\nfrom disease of face and eyes, will endure difficulties, will have\nan emaciated body, will not have many sons, will be beautiful\n(भव्य also means fortunate, nic",
+            "chapter": 0,
+            "verse": 297
+          },
+          {
+            "book": "Saravali",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": "cannot\nmake much money.",
+            "chapter": 0,
+            "verse": 297
+          },
+          {
+            "book": "Saravali",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": "will give troubles from enemies,\nlitigations and loans and expenditure on vices and through\nevil association.",
+            "chapter": 0,
+            "verse": 297
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Sun",
+            "rasi": "Taurus",
+            "effect": "produces one who is fond of perfumes and garlands \nand has the best furniture and clothing, but is of little firmness; one who takes \ndelight in such things as singing and instrumental music and is knowledgeable \nabout sexual intercourse, a thin man",
+            "chapter": 0,
+            "verse": 90
+          }
+        ]
+      },
+      {
+        "key": [
+          "Moon",
+          "Leo"
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Prashna_Marga",
+          "Saravali"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "'\nStagc { : Leo, aB any other sign, is 30 degrees in length.",
+            "chapter": 0,
+            "verse": 92
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 101
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": ", in such dasa, the native will acquire knowledge and money.",
+            "chapter": 10,
+            "verse": 18
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "and Arudba is a watery sign, there will be only some water in the well.",
+            "chapter": 0,
+            "verse": 470
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "in a query chart in 19 deg.",
+            "chapter": 0,
+            "verse": 144
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "Lagna.",
+            "chapter": 0,
+            "verse": 147
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "Lagna in aspect to Mars or\nSaturn afflict the eyes.",
+            "chapter": 0,
+            "verse": 182
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": ": If the Moon is in Leo,\none will have sturdy bones, sparse hair, wide face, small and\nyellowish eyes, will hate women, will suffer from hunger and\nthirst, will incur stomachial disorders and tooth-decay, will\neat flesh, be charitable, harsh, will ha",
+            "chapter": 0,
+            "verse": 343
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": ",\none will have sturdy bones, sparse hair, wide face, small and\nyellowish eyes, will hate women, will suffer from hunger and\nthirst, will incur stomachial disorders and tooth-decay, will\neat flesh, be charitable, harsh, will have few sons, will seek",
+            "chapter": 0,
+            "verse": 343
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": ", the native will tend to\nsexual union in forests/hills (or in remote places) as the lion\nseeks, His voice resembles that of a lion—so majestic it is and\nhe eats flesh.",
+            "chapter": 0,
+            "verse": 343
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "IN ASPECT TO OTHERS :\nShould the Moon be in Leo in aspect to the Sun, the native\nwill be equal to a king, will have excellent qualities and maje-\n\nstic voice, will be valorous, be fond of intoxicants and be\nwidely famous.",
+            "chapter": 0,
+            "verse": 346
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": ". he will be\n\n\n====== PAGE 270 ======\n\n266 Saravali\n\nan army chief will have excellent wife, sons, wealth and con-\nveyances and be superior among people.",
+            "chapter": 0,
+            "verse": 346
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "one will be endowed with the chara-\ncteristics of a female, and also the grace akinto that of a\nfemale; will be in the custody of females, will serve females\nand will enjoy money, happiness and pleasures.",
+            "chapter": 0,
+            "verse": 346
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "in\ngeneral is a good combination for astrology.",
+            "chapter": 0,
+            "verse": 347
+          },
+          {
+            "book": "Saravali",
+            "planet": "Moon",
+            "rasi": "Leo",
+            "effect": "will make the native resort to extra-marital\nrelationship.",
+            "chapter": 0,
+            "verse": 347
+          }
+        ]
+      },
+      {
+        "key": [
+          "Mars",
+          "Aries"
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Phaladeepika",
+          "Saravali",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": "and\naspected by Mercury will not produce the said adversity. unless\nMan is seriously affiicted otherwise.\nt54\nBrihat Parasara Hora Sastrd\nGrqrreFil sqtur q?rur qr{ iln} r\nilEerr {rftin wd g;ua aq fqfttE{iE lstl\nfqar qrl ftrrniqqfl \n{r{it I\ntTitr Sco",
+            "chapter": 0,
+            "verse": 226
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 520
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": "and aspected by Mercury will not produce the said adversity, unless \nMars is seriously afflicted otherwise. \nलग्नात्तधिौ कुजबुधौ चिेण यदि संयुतौ। \nराहुणा शवनना साद्धं कुष्ठं ति विवनदियशेत्॥७॥ \nलग्नात्तधिं विना लग्ने स्थस्थतश्चेत्तमसा शशी। \nस्वेतकुष्",
+            "chapter": 0,
+            "verse": 249
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 565
+          },
+          {
+            "book": "Phaladeepika",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": "or the Moon is aspected by Mars and the Sun in\nAries\nq'^rgtrn^f^wlr:\ni\n3Ti^T\nSloka 16\n.— If\nthere be\na\nbirth\nat\nnight when\nbe>\nnefics are\nin\ndepression or inimical houses identical\nwith the 11th, the 6th or\nthe 3rd house,\nor be in their\nhighest\nexal",
+            "chapter": 0,
+            "verse": 130
+          },
+          {
+            "book": "Saravali",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": "will produce a splendid Raja\nYoga conferring landed/housing properties and co-operation\nand help from brothers etc.",
+            "chapter": 0,
+            "verse": 384
+          },
+          {
+            "book": "Saravali",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": "will cause distress in regard to father.",
+            "chapter": 0,
+            "verse": 384
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Mars",
+            "rasi": "Aries",
+            "effect": "produces a violent and fierce hero who performs deeds of \ngreat daring; a glorious",
+            "chapter": 0,
+            "verse": 95
+          }
+        ]
+      },
+      {
+        "key": [
+          "Saturn",
+          "Pisces"
+        ],
+        "book_count": 2,
+        "books": [
+          "Phaladeepika",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "Phaladeepika",
+            "planet": "Saturn",
+            "rasi": "Pisces",
+            "effect": ".\niVioon in Vrishahha.",
+            "chapter": 0,
+            "verse": 709
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Saturn",
+            "rasi": "Pisces",
+            "effect": "produces a man who is the best among his relatives, \nkinfolk, and friends; a peaceful and revered person who sacrifices well; one \nwhose effort is noble in the sciences and in the crafts; \n24. one who has good conduct, righteousness (dharma), occupa",
+            "chapter": 0,
+            "verse": 100
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          "Sagittarius"
+        ],
+        "book_count": 2,
+        "books": [
+          "Prashna_Marga",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "Prashna_Marga",
+            "planet": "Jupiter",
+            "rasi": "Sagittarius",
+            "effect": "means horse; in Leo, camel; in Aries and \nTaurus, camel and donkey.",
+            "chapter": 0,
+            "verse": 416
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Jupiter",
+            "rasi": "Sagittarius",
+            "effect": "in the Prasna chart.",
+            "chapter": 0,
+            "verse": 571
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Jupiter",
+            "rasi": "Sagittarius",
+            "effect": "produces a man fond of service and attached to \nsacred traditions (sruti) and righteousness ( dharma); a teacher of sacrifices \nand vows whose meaning is not doubted; a noble and generous man with many \nfriends and allies; \n18. one who lives in many",
+            "chapter": 0,
+            "verse": 98
+          }
+        ]
+      },
+      {
+        "key": [
+          "Venus",
+          "Gemini"
+        ],
+        "book_count": 2,
+        "books": [
+          "Saravali",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "Saravali",
+            "planet": "Venus",
+            "rasi": "Gemini",
+            "effect": "/Sagittarius. ‘Scorpio ascendant :.",
+            "chapter": 0,
+            "verse": 418
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Venus",
+            "rasi": "Gemini",
+            "effect": "produces an eloquent, noble, and pious man, one who \nis hospitable to gods and Brahma1,1as and is grateful; a person delighting in \nknowledge, in the meaning of the sciences, and in the arts; \n6. one who aims to be kindly and is always affectionate;",
+            "chapter": 0,
+            "verse": 94
+          }
+        ]
+      },
+      {
+        "key": [
+          "Mercury",
+          "Aries"
+        ],
+        "book_count": 2,
+        "books": [
+          "Saravali",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "Saravali",
+            "planet": "Mercury",
+            "rasi": "Aries",
+            "effect": ". (His\noccupation of Scorpio will also give rise to similar unfavourable\nresults, vide sloka 15-16 infra-)\n\nNow a glance at the results of Mercury’ position in\nAries while diffrent Rasis become ascendant : Aries\nascendant : The native will lose his m",
+            "chapter": 0,
+            "verse": 436
+          },
+          {
+            "book": "Saravali",
+            "planet": "Mercury",
+            "rasi": "Aries",
+            "effect": "/SCORPIO AND ASPE-\nCTED BY OTHERS: Should Mercury occupy a sign of Mars\nat birth and be aspected by the Sun, the person will be truthful,\nbe very happy, be honoured by the king, and be patiently\ndisposed.",
+            "chapter": 0,
+            "verse": 476
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Mercury",
+            "rasi": "Aries",
+            "effect": "produces a man who is thin, but eats much; a rogue \nwho prattles in va~n and likes quarrels and weapons; one whose property is \nacquired with much labor, and then lost; \n37 \nTHE YAVANAJATAKA \n2. a man fond of sexual intercourse, a tricky craftsman;",
+            "chapter": 0,
+            "verse": 92
+          }
+        ]
+      },
+      {
+        "key": [
+          "Ketu",
+          "Pisces"
+        ],
+        "book_count": 1,
+        "books": [
+          "Phaladeepika"
+        ],
+        "items": [
+          {
+            "book": "Phaladeepika",
+            "planet": "Ketu",
+            "rasi": "Pisces",
+            "effect": ", Virgo, Viishabha and the later half of Dhanus,\nin\nParivesha\n(q‘ft%qr) and Indra-chapa\nare\nstrong if there be a conjunction\nof the Moon and\nthe\nSun and the time be night.",
+            "chapter": 0,
+            "verse": 99
+          }
+        ]
+      }
+    ],
+    "planet_in_house": [
+      {
+        "key": [
+          "Mars",
+          5
+        ],
+        "book_count": 8,
+        "books": [
+          "BPHS_Vol1",
+          "BPHS_Vol2",
+          "Brihat_Parashara_v2",
+          "Laghu_Parashari",
+          "Phaladeepika",
+          "Prashna_Marga",
+          "Saravali",
+          "Uttara_Kalamrita"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "being in Sayanavastha \nis related to Saturn or Rahu, the native's\nChapter 45 \n465\nhead will be severed while with other malefics related to Mars\niT the said state ears/hand will be cut off.",
+            "chapter": 0,
+            "verse": 620
+          },
+          {
+            "book": "BPHS_Vol2",
+            "planet": "Mars",
+            "house": 5,
+            "effect": ": all except tl:re\nSun in the 6th : the Sun in the 7th : the Sun and Mercury in\nthe Sth : Mercury in the 9th: the Sun, Mgrs, the Ascendarrt antl\nMercury in the 10th: all in the llth: Mars, Mercury, fupite,:\nrnd Venus,in the l2th from thefr own place",
+            "chapter": 0,
+            "verse": 275
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "being in \nSayanavastha is related to Saturn or Rahu, the native's bead will be severed while \nwith other malefic related to Mars in the said state ears/hand will be cut off.",
+            "chapter": 0,
+            "verse": 674
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "and the lords of the \nAscendant and the 5th are in the 8th. \n(2) The Ascendant and the 5th are occupied by Mars and.",
+            "chapter": 0,
+            "verse": 1152
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "house then it ir un e1fftfA \nYoga of the 5th and 8,h\nhouse lords, not productive of greatly auspicious results.\n(\"i) If Saturn is in own sign in the LOth \nhouse and ]upiter in the\n4th house in the Moon s sign both aspecting each other, it is\n\n68 \nLa",
+            "chapter": 0,
+            "verse": 96
+          },
+          {
+            "book": "Phaladeepika",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "house\nwill make\nthe\nnative\nsuffer from™.",
+            "chapter": 0,
+            "verse": 382
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Mars",
+            "house": 5,
+            "effect": ", all the children will \ndie as they are born.",
+            "chapter": 0,
+            "verse": 190
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "favours the death of children as they are born.",
+            "chapter": 0,
+            "verse": 190
+          },
+          {
+            "book": "Saravali",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "will lose children,\nwill lack amicability with wife and children and will always\ninvite quarrels with others.",
+            "chapter": 0,
+            "verse": 399
+          },
+          {
+            "book": "Uttara_Kalamrita",
+            "planet": "Mars",
+            "house": 5,
+            "effect": "in his own house.",
+            "chapter": 0,
+            "verse": 159
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          1
+        ],
+        "book_count": 6,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Laghu_Parashari",
+          "Phaladeepika",
+          "Prashna_Marga"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "while Saturn, Sun, Mars and\nMerorry arc together in thc Znd.\nq{: \nflln \nRgiil \ngq{r \nqqqurrr: I\nWfq q.cqq: qrtRnn frqqal qtE rrlqtr\n36.",
+            "chapter": 0,
+            "verse": 175
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "will ward off all thc evils.",
+            "chapter": 0,
+            "verse": 178
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": ", \nthe periods of Jupiter will give success in north-east, the direction ruled by it.",
+            "chapter": 0,
+            "verse": 58
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "while Saturn, Sun, Mars and Mercury are together in the Ind. \nसूययः िािेन संयुतो ह्यथिा िािमध्यगः। \nसूयात् सप्तमगः िािस्तिा पितृिधो भिेत्॥३६॥ \n36.",
+            "chapter": 0,
+            "verse": 194
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "will ward off all the \nevils.",
+            "chapter": 0,
+            "verse": 198
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "identical with debilitation or inimical sign or malefic, sign. \nएक एि विलग्नेशः केिसंस्थो बलान्वितः। \nअररिं वनखखलं हन्वन्त पिनाकी पििुरं यथा॥४॥ \n4.",
+            "chapter": 0,
+            "verse": 199
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "or in the 7th \nhouse, and be aspected by or conjunct only benefices, the class of longevity will \nincrease. \nअनायुश्चेि् भिेिल्पमल्पान्मध्यं प्रजायते । \nमध्यमाज्जायते िीघं िीघायुश्चेत्ततोऽत्तधकम्॥४९॥ \nयोगहेतौ गुरिेिं कक्ष्यािृद्धेश्च लक्षणम् । \nएतिा",
+            "chapter": 0,
+            "verse": 638
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "in \nBhojanavastha, the native will be fond of flesh, be eloquent, libidinous and be happy \nin every manner.",
+            "chapter": 0,
+            "verse": 681
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": ", the M o o n and Venus in the 4th, the Sun and Mars in the 10th and Saturn in the 7th enjoy digbala or directional strength.",
+            "chapter": 3,
+            "verse": 31
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "and Rahu in the 7th leave a scar on the left hand.",
+            "chapter": 5,
+            "verse": 19
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "indicate marks on both the hands.",
+            "chapter": 5,
+            "verse": 19
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "while Mars and Saturn are in the 5th and the Moon is waning produces a person with short life. ^ 4 f ^ cKi -si^ f^m\\ ii i i ii The Sun and the Moon in the company of Rahu will cause death at the age of 28.",
+            "chapter": 6,
+            "verse": 10
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "always increases the longevity except in the case of Capricorn.",
+            "chapter": 6,
+            "verse": 21
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "in this particular case. ^ ^ w 1 31^jff%^ BlMM^ 41^!^T^^i<liJH^ 11 27 11 When the ruler of the 8th is in an angle.",
+            "chapter": 6,
+            "verse": 21
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "in Capricom while the Sun is in Leo rasi or amsa. (ch. 7, sloka 15.) In our opinion, the Sim be better in Cancer in 2nd Navamsa so that the condition laid down is fulfilled.",
+            "chapter": 23,
+            "verse": 12
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": ", the native has pleasing personahty, is virtuous, learned and is blessed with various pleasures.",
+            "chapter": 23,
+            "verse": 19
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "should be exceedingly strong, stronger than the aspected and simulta- neously deadly inimical to the sign rising on the horizon.",
+            "chapter": 24,
+            "verse": 55
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": ".\nfif6 erq tdqn:\nLeo Lagna\nrqffim \nqTfi: E-cr qer VJ$Irdr6: \nl\nsqffiq \nq VIq rJqJtrziltts4ll\nT{g-d T<t sffi fufrqqtr{r+fi:t\nEF: TilqTI=T \nEflRsrtqr[fi*{ \nFtfl$rf : I 155 \n| |\nEFd dqr<q: qrqr :nr**t \nafqrfl : l\nqq u-flrf{ ffi \nftifss \nqfrffi1;115511\nF",
+            "chapter": 0,
+            "verse": 191
+          },
+          {
+            "book": "Phaladeepika",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "and Saturn in the\n7th.",
+            "chapter": 0,
+            "verse": 97
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "indicates fame; in the 2nd, gain of money; \nin the 3rd, fatigue due to travels; in the 4th, respect accruing from charitable actions; in the \n5th, attainment of impossible aims; in the 6th, control of enemies or according to some \nbeing won over by",
+            "chapter": 0,
+            "verse": 398
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "makes the water tolerably good.",
+            "chapter": 0,
+            "verse": 487
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Jupiter",
+            "house": 1,
+            "effect": "Drekkana, in the birth chart he will be in the \nsame sign; if in the 2nd Drekkana, in the 5th from his query position; in the 3rd, in the 9th sign \nfrom his own query position.",
+            "chapter": 0,
+            "verse": 590
+          }
+        ]
+      },
+      {
+        "key": [
+          "Venus",
+          7
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Phaladeepika",
+          "Prashna_Marga"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Venus",
+            "house": 7,
+            "effect": ", ibe native will b.e. exceedingly libidinous'\nVr\"\"t .i\"f\"i\"g o .ut.fi\" in any house will cause-loss \nof wife'\nsnrneitw: qt{m} \nqr\nilil \ncr* q;it srr{t\nEJ fl \nwdga: t\nqfqrdtt\nq|ifail t\n{fi \nlrflts* \nqr fi{* \ntt-sc?q t\nagrR iff\"il wut cgmaT d qiq ttrt",
+            "chapter": 0,
+            "verse": 233
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "from the 8th house (i.e. the 2nd from ascendant),\nwhile his dispositor is conjunct Mars.",
+            "chapter": 0,
+            "verse": 240
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Venus",
+            "house": 7,
+            "effect": ", \nthe native will be exceedingly libidinous.",
+            "chapter": 0,
+            "verse": 257
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "from the \n8th house (i.e. the 2nd from ascendant), while his dispositor is conjunct Mars.",
+            "chapter": 0,
+            "verse": 265
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Venus",
+            "house": 7,
+            "effect": ": the Sun, Mars, Saturn, Mercury and Jupiter in the \n9th from their own places are Rekhapradas (auspicious).",
+            "chapter": 0,
+            "verse": 980
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "therefrom in Aries.",
+            "chapter": 5,
+            "verse": 39
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "in Taurus for the opposite Lagna.",
+            "chapter": 17,
+            "verse": 17
+          },
+          {
+            "book": "Phaladeepika",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "and Saturn in the Sth, will cause\ndisaess\nto the Bhavas concerned.",
+            "chapter": 0,
+            "verse": 189
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "house indicate a female.",
+            "chapter": 0,
+            "verse": 112
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "and the Moon in the 10th; (2) all malefics posited in the \n\n1st, 5th, 8th and 12th houses; (3) all malefics occupying the 4th, Mercury and Venus in the \n7th and Jupiter in the 5th.",
+            "chapter": 0,
+            "verse": 179
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "and Jupiter in the 5th.",
+            "chapter": 0,
+            "verse": 179
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "house, the husband will be lustful and passionate.",
+            "chapter": 0,
+            "verse": 236
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Venus",
+            "house": 7,
+            "effect": "and the Moon in the 4th covered by a halo in \nthe sky at the time of query — all these indicate that old wells are buried beneath in the \ncompound.",
+            "chapter": 0,
+            "verse": 482
+          }
+        ]
+      },
+      {
+        "key": [
+          "Mercury",
+          5
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "BPHS_Vol2",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Prashna_Marga"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "from her, nor should she be in aspect to\nMercury so that the Yoga obtained is not simultaneously givcn\nannulment.",
+            "chapter": 0,
+            "verse": 500
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "from the Moon will be an impetus to\nGaF Kcsari rather than becoming an impediment.",
+            "chapter": 0,
+            "verse": 502
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "lifting the native to Himalayan\nheights through the said Maha Raja yoga.",
+            "chapter": 0,
+            "verse": 530
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "or in the l2th in Sabha-\nwsha will give many female issues; in the 7th it will make the\nnative black i'r oomplexion.",
+            "chapter": 0,
+            "verse": 625
+          },
+          {
+            "book": "BPHS_Vol2",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": ": Mercury, the Moon and the Ascendant in the 3rd : the\nAscendarrt, \nthe Sun, Satlrn and Mars in the 4th : the Ascendant,\nthe Sun, Saturn, Mars, ivfercury and the Moon in the 10th : the\nSun, the Moon, Mdrs, Mercury, Jupiter, Saturn and th;\n0\n1\n2\n?\n4",
+            "chapter": 0,
+            "verse": 273
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "from her, nor should she be in aspect to Mercury \n\nMany Other Yogas \nPage 298 \nso that the Yoga obtained is not simultaneously given annulment.",
+            "chapter": 0,
+            "verse": 546
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "from the Moon will be an impetus to Gaja Kesari \nrather than becoming an impediment.",
+            "chapter": 0,
+            "verse": 548
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "Raja Yogas \nPage 315 \nlifting the native to Himalayan heights through the said Maha Raja yoga.",
+            "chapter": 0,
+            "verse": 576
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "or in the 12th in Sabhavastha \nwill give many female issues; in the 7th it will make the native black in complexion.",
+            "chapter": 0,
+            "verse": 678
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": ": Mercury, the Moon and the Ascendant in \nthe 3rd: the Ascendant, the Sun, Saturn and Mars in the 4th: the Ascendant, the Sun, \nSaturn, Mars, Mercury and the Moon in the 10th: the Sun, the Moon, Mars, Mercury, \nJupiter, Saturn and the Ascendant in th",
+            "chapter": 0,
+            "verse": 980
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "without being in the company of or in aspect to others. (d) A l l the male planets in the 6th house and or the U t h house while the 5th ord is strong. (e) A l l planets in odd signs.",
+            "chapter": 4,
+            "verse": 5
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": "-very intelligent, sweet in speech, wise and accepted even by scholars.",
+            "chapter": 21,
+            "verse": 23
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Mercury",
+            "house": 5,
+            "effect": ".",
+            "chapter": 0,
+            "verse": 194
+          }
+        ]
+      },
+      {
+        "key": [
+          "Sun",
+          6
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol2",
+          "Brihat_Parashara_v2",
+          "Phaladeepika",
+          "Saravali",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol2",
+            "planet": "Sun",
+            "house": 6,
+            "effect": ": the Sun in the 7th : the Sun and Mercury in\nthe Sth : Mercury in the 9th: the Sun, Mgrs, the Ascendarrt antl\nMercury in the 10th: all in the llth: Mars, Mercury, fupite,:\nrnd Venus,in the l2th from thefr own places, are rekhapradas.",
+            "chapter": 0,
+            "verse": 275
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Sun",
+            "house": 6,
+            "effect": ": the Ascendant the Moon, Saturn, the Sun. these 4 in the 12th: Venus, \nthe Sun, the Moon, Mercury an the Ascendant, these 5 in the 5th: the Moon, Mars, \nJupiter.",
+            "chapter": 0,
+            "verse": 979
+          },
+          {
+            "book": "Phaladeepika",
+            "planet": "Sun",
+            "house": 6,
+            "effect": "house will remove all diseases, destroy enemies, and\ndispel\nall\nsorrows and mental\nanxieties.",
+            "chapter": 0,
+            "verse": 269
+          },
+          {
+            "book": "Saravali",
+            "planet": "Sun",
+            "house": 6,
+            "effect": ",\nultimate success will be his.",
+            "chapter": 0,
+            "verse": 300
+          },
+          {
+            "book": "Saravali",
+            "planet": "Sun",
+            "house": 6,
+            "effect": "will also face\nsimilar results as by a Capricorn native.",
+            "chapter": 0,
+            "verse": 303
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Sun",
+            "house": 6,
+            "effect": "place produces men who are afflicted by poisoned \nswords, burning, coughing-spells, diseases, enemies, and miseries; men whose \nteeth are smashed by throwings of sticks and stones; ones who are wounded \nby forest animals and those with tusks and hor",
+            "chapter": 0,
+            "verse": 127
+          },
+          {
+            "book": "Yavanajataka_2",
+            "planet": "Sun",
+            "house": 6,
+            "effect": "place and Venus in the eighth, he goes out and \nquickly slays his foes. \n40.",
+            "chapter": 0,
+            "verse": 291
+          }
+        ]
+      },
+      {
+        "key": [
+          "Saturn",
+          4
+        ],
+        "book_count": 4,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Laghu_Parashari",
+          "Prashna_Marga"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Saturn",
+            "house": 4,
+            "effect": "house will'alpo deprive om of mother's\nmilk.",
+            "chapter": 0,
+            "verse": 173
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Saturn",
+            "house": 4,
+            "effect": "house will also deprive one of mother's milk.",
+            "chapter": 0,
+            "verse": 193
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Saturn",
+            "house": 4,
+            "effect": ": Jupiter and Venus in the 5th, all except Venus in the 6th: Jupiter \nin the 7th: Mercury and Venus in the 8th: Jupiter and Venus in the 9th: all except Venus \nin the 10th: all except Venus in the 11th: and the Sun and the Moon in the 12th from \nthei",
+            "chapter": 0,
+            "verse": 982
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Saturn",
+            "house": 4,
+            "effect": "house can be very feebly\ngood.\n\n8 \\\nMoorr\n6\nKetu\n^k\n10\\\nJupiter.\n72\nIlahu\n11\nRahu\nSun\nMars\nMercury\nVenus\nBirth\n9-6-1949\n)upiter\nSaturn\nMoon\nKetu\nLagna\nLaghu Parasari-Jataka \nChandrika\n153\nExample - In the chart of Mrs Kiran Bedi, the reformist polic",
+            "chapter": 0,
+            "verse": 203
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Saturn",
+            "house": 4,
+            "effect": "brings in a cloud to the mind, separation from wife and \none's own wealth; quarrels with all; in the 5th, sorrows arising from death of children.",
+            "chapter": 0,
+            "verse": 298
+          }
+        ]
+      },
+      {
+        "key": [
+          "Rahu",
+          10
+        ],
+        "book_count": 2,
+        "books": [
+          "Brihat_Parashara_v2",
+          "Phaladeepika"
+        ],
+        "items": [
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Rahu",
+            "house": 10,
+            "effect": "or in the \n7th Bhojanavastha the native will 'kill' his wife or he may abandon her or may not be \nhappy in married life, and be irreligious.",
+            "chapter": 0,
+            "verse": 690
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Rahu",
+            "house": 10,
+            "effect": "to it.",
+            "chapter": 0,
+            "verse": 833
+          },
+          {
+            "book": "Phaladeepika",
+            "planet": "Rahu",
+            "house": 10,
+            "effect": "house\nmakes\nthe\nnative\nfamous; the man will have a limited number\nof\nissue,\nwill engage himself in other's business, will not do any\ngood act and will be\nfearless.",
+            "chapter": 0,
+            "verse": 147
+          }
+        ]
+      },
+      {
+        "key": [
+          "Moon",
+          9
+        ],
+        "book_count": 2,
+        "books": [
+          "Hora_Sara",
+          "Uttara_Kalamrita"
+        ],
+        "items": [
+          {
+            "book": "Hora_Sara",
+            "planet": "Moon",
+            "house": 9,
+            "effect": "house.",
+            "chapter": 5,
+            "verse": 19
+          },
+          {
+            "book": "Uttara_Kalamrita",
+            "planet": "Moon",
+            "house": 9,
+            "effect": "from Tula lagna\n\nEffects of the Planets and Houses\nand is aspected by Guru from the fifth house.",
+            "chapter": 0,
+            "verse": 122
+          },
+          {
+            "book": "Uttara_Kalamrita",
+            "planet": "Moon",
+            "house": 9,
+            "effect": "in\na friend's house with debili-\ntated but retrograde ShanL\nThis Moon receives the as-\npects of the lord of lagna\n(Ravi), Budha, and Guru\n(the lord of the fifth), Kuja,\nyogakaraka for this lagna is\nposited in the tenth havtng\n2\n21\n30\nShukra\nGuru\nSha",
+            "chapter": 0,
+            "verse": 123
+          }
+        ]
+      }
+    ],
+    "dignity": [
+      {
+        "key": [
+          "Mars",
+          "own"
+        ],
+        "book_count": 7,
+        "books": [
+          "BPHS_Vol1",
+          "BPHS_Vol2",
+          "Brihat_Parashara_v2",
+          "Laghu_Parashari",
+          "Prashna_Marga",
+          "Saravali",
+          "Uttara_Kalamrita"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 69
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "if in\nAries is better than Mars in Scorpio, a female sign.",
+            "chapter": 0,
+            "verse": 151
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 226
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "or in exaltation) will\nmake the nativc disinherit patrimony or enter into litigations.",
+            "chapter": 0,
+            "verse": 248
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "or that of others.",
+            "chapter": 0,
+            "verse": 438
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 544
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "in the Sth while Venus wilt be\nin the I lth in own house for these two ascendants.\n{rt g rffit \nftq \nufngn qftr r\nmf mqfrqi qRfr qgrartrt ilFnrr: uqtl\n8.",
+            "chapter": 0,
+            "verse": 546
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "and be conjunct or aspected by Mercury, Venus and\nSaturn, the native will be rich.\nguriarri ffil \nilfrm lq{i \nefr r\nnfffiq$ \nTG'e trral ur$ \nriq rr11rr\n12.",
+            "chapter": 0,
+            "verse": 547
+          },
+          {
+            "book": "BPHS_Vol2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "or in their sign of exaltation, be\nin kendra to the Ascendant, they give rise to Ruchaka, Bhadra,\nHamsa, Malarrya and Sasa yo.gas respectively.",
+            "chapter": 0,
+            "verse": 339
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 76
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "if in \nAries is better than Mars in Scorpio, a female sign.",
+            "chapter": 0,
+            "verse": 166
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 248
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "or in exaltation) will make the native disinherit patrimony or \nenter into litigations.",
+            "chapter": 0,
+            "verse": 274
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "or that of others.",
+            "chapter": 0,
+            "verse": 481
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ", Similarly for Gemini ascendant.",
+            "chapter": 0,
+            "verse": 590
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "in the 5th while Venus will be in the 11th in own house for these two \nascendants. \nिंचमे तु शलशक्षेिे तस्तिन् शलशयुते सवत । \nशनौ लाभस्थस्थते जातो बहुद्रव्यय नायकः॥८॥ \n8.",
+            "chapter": 0,
+            "verse": 592
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "and be \nconjunct or aspected by Mercury, Venus and Saturn, the native will be rich.  \nबुधक्षेिगते लग्ने तस्तिन् बुधयुते सवत । \nशवनजीियुते दृिे जातो धनयुतो भिेत्॥१२॥ \n12.",
+            "chapter": 0,
+            "verse": 593
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "or in their sign of exaltation, \nbe in Kendra to the Ascendant, they give rise to Ruchaka, Bhadra, Hamsa, Malayya \nand Sasa yogas respectively.",
+            "chapter": 0,
+            "verse": 1059
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "and gets the thurst from Venus, a Tiikona\nlord and,saturn again a Trikona lord but also the 8th lord.",
+            "chapter": 0,
+            "verse": 75
+          },
+          {
+            "book": "Prashna_Marga",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 33
+          },
+          {
+            "book": "Saravali",
+            "planet": "Mars",
+            "state": "own",
+            "effect": "in 10th andthe Sun .is exalted in the 10th in\nAries.",
+            "chapter": 0,
+            "verse": 120
+          },
+          {
+            "book": "Uttara_Kalamrita",
+            "planet": "Mars",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 159
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          "own"
+        ],
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Laghu_Parashari",
+          "Saravali"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 58
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "for the Moon.- In\nmaking such a specific statement, the author of Kumrn\nswrmeeyrm must obviousry have possessed an unporailelcd\nauthority.",
+            "chapter": 0,
+            "verse": 500
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "and hence no dispositor.\n'(d) Jupiter's Navamsa dispositor is Jupi6 \nunscras nc\nis in Sagittarius Navamsa.",
+            "chapter": 0,
+            "verse": 517
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "identical with the\n9th house and be in the company of either Venus or of the 5th\nlord, the native will obtain kingbood.\nti6q6r \nfrmqkq qr qrdEqrfsur r\ngnr icr r3ie;il TTcT Tqrf,icrftsfq \nqr uyo tl\n40",
+            "chapter": 0,
+            "verse": 537
+          },
+          {
+            "book": "BPHS_Vol1",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "and be conjunct or aspected by Mercury and Mars,\nthe native will be rich.\nqg*eni\nifri atrrTq {gti \nqh r\nnfaqlrq{i 1€ a} qnt: Tt wit niq utYtl\n14.",
+            "chapter": 0,
+            "verse": 547
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "and hence no dispositor. \n(d) Jupiter's Navamsha dispositor is Jupiter himself as be is in Sagittarius \nNavamsha.",
+            "chapter": 0,
+            "verse": 562
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "identical with the 9th house and be in \nthe company of either Venus or of the 5th lord, the native will obtain kinghood. \nदिनाधाच्च वनशाधाच्च िरं साधयदद्वनापडका। \nशुभा िेला तिुत्पिो राजा यात्तत्समोऽप",
+            "chapter": 0,
+            "verse": 582
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "along with his friends-the Moon and Mars. \nिर्णचमे च रविक्षेिे तस्तिन् रवियुते सवत । \nलाभे शनीन्दुजीिाढ्ये बहुद्रव्यय नायकः॥४॥ \n4.",
+            "chapter": 0,
+            "verse": 590
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "as Mercury is in \nthe 11th, the native will be very affluent.",
+            "chapter": 0,
+            "verse": 591
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "and be \nconjunct or aspected by Mercury and Mars, the native will be rich. \nभृगुक्षेिगते लग्ने तस्तिन् भृगुयुते सवत । \nशवनसौम्युते दृिे यो जातः स धनी भिेत्॥१४॥ \n14.",
+            "chapter": 0,
+            "verse": 593
+          },
+          {
+            "book": "Hora_Sara",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "or in exaltation sign, same effects w i l l prevail.",
+            "chapter": 25,
+            "verse": 12
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "in the\n10th which indicates that he is auspicious.",
+            "chapter": 0,
+            "verse": 75
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 102
+          },
+          {
+            "book": "Laghu_Parashari",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "acted more as 10ft lord and he gained by some\nimports.",
+            "chapter": 0,
+            "verse": 149
+          },
+          {
+            "book": "Saravali",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 108
+          },
+          {
+            "book": "Saravali",
+            "planet": "Jupiter",
+            "state": "own",
+            "effect": "indicates that the\nperson will be a king, be endowed with royal qualities, be\nhappy, will have a good wife, will behave well, be modest and\nvalorous.",
+            "chapter": 0,
+            "verse": 342
+          }
+        ]
+      }
+    ],
+    "yogas": [
+      {
+        "key": "Kemadruma",
+        "book_count": 5,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Saravali",
+          "Uttara_Kalamrita"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "is formed. One born in Kemadruma yoga will be very\nmuch reproached, be bereft of intelligence and learning and\nreduced to penury and perils.\nsTsr \nrRqlTTeqrq: 11Qe \ntl\nChroter 38\n| c I I I '\nJorar r o",
+            "chapter": 0,
+            "verse": 525
+          },
+          {
+            "book": "BPHS_Vol1",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "will be very\nmuch reproached, be bereft of intelligence and learning and\nreduced to penury and perils.\nsTsr \nrRqlTTeqrq: 11Qe \ntl\nChroter 38\n| c I I I '\nJorar r ogas\nqqq smdqwdirq Rir rrr lFrrfqfr: I\n",
+            "chapter": 0,
+            "verse": 525
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "; the effects of which will be still \nseverer if the Moon's aspect be there. The effects due for these yogas will come to \npass in the Dasha periods of the Rāśhis or planets concerned. Kemadruma Yoga ",
+            "chapter": 0,
+            "verse": 493
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "will \noperate additionally if there are malefic in the 2nd and 8 from the Rashi whose Dasha \nwill be in currency. The results of such yoga will also be inauspicious. If the 2nd and \n8th",
+            "chapter": 0,
+            "verse": 493
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": ": Excluding the Sun, should there be no planet \nwith the Moon or in the 2nd/12th from the Moon or in an angle from the ascendant, \nKemadruma yoga is formed. One born in Kemadruma yoga will be very muc",
+            "chapter": 0,
+            "verse": 570
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "is formed. One born in Kemadruma yoga will be very much \nreproached, be bereft of intelligence and lea",
+            "chapter": 0,
+            "verse": 570
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "will be very much \nreproached, be bereft of intelligence and lea",
+            "chapter": 0,
+            "verse": 570
+          },
+          {
+            "book": "Hora_Sara",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "(of another kind) is produced when the lord of the 9th is pushed to the 12th house while the 12th lord is in the 2nd without strength. Simultaneously, the 3rd house shall have placement of malefics. p",
+            "chapter": 24,
+            "verse": 2
+          },
+          {
+            "book": "Hora_Sara",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "caused by the Moon without planets in 12th, 2nd or with her. ^ p ? w f t ^ ^Tcf?Jt^",
+            "chapter": 24,
+            "verse": 2
+          },
+          {
+            "book": "Hora_Sara",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "(mentioned in the above sloka) will be after others' housewives, will always look upto others for his food, will indulge in bad deeds and will contract several debts. \" w W t : ^ ^ 1 • j f e ^ i k q ^",
+            "chapter": 24,
+            "verse": 4
+          },
+          {
+            "book": "Hora_Sara",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "is produced. Such native will confine to his birth place only, (for his livelihood). qbdH,iHoi|i|<idl: Wd: ^jtlfdW^IH^I ^ i n ^ ^ -m ^prcRff ? ] ^ 5 f t n i s i i If malefics are in 6th, 8th or 12th h",
+            "chapter": 24,
+            "verse": 17
+          },
+          {
+            "book": "Saravali",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "is caused, as could be seen in\nthe following verses and notes thereof. Unless the Moon is\nthus well-balanced, the native is not likely to feel comfortable\nin life. He will face only obstacles in day-t",
+            "chapter": 0,
+            "verse": 203
+          },
+          {
+            "book": "Saravali",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": ": Kemadruma yoga is formed\nif at least one of the said three yogas (viz.",
+            "chapter": 0,
+            "verse": 203
+          },
+          {
+            "book": "Saravali",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "is formed\nif at least one of the said three yogas (viz.",
+            "chapter": 0,
+            "verse": 203
+          },
+          {
+            "book": "Saravali",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "This condition is quite strange.\n\nसुनफानफा सरूपास्त्रिशद्योगा (३०)स्त्रिसंगुणा षष्टिः(१८०) ।\nसंख्या दोरुधुरारां प्रस्तारविधौ समाख्याताः ॥३॥\n\n3. DIFFERENT PERMUTATIONS : By all possible\npermutations an",
+            "chapter": 0,
+            "verse": 204
+          },
+          {
+            "book": "Saravali",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": ": The\nnative with Kemadruma yoga will be deprived of wife, drinks,\nfood, residence, robes and friends, though he may belong to\nregal scion. He will suffer from poverty, grief, sickness and be\n\ndirty.",
+            "chapter": 0,
+            "verse": 209
+          },
+          {
+            "book": "Saravali",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "will be deprived of wife, drinks,\nfood, residence, robes and friends, though he may belong to\nregal scion. He will suffer from poverty, grief, sickness and be\n\ndirty.",
+            "chapter": 0,
+            "verse": 209
+          },
+          {
+            "book": "Uttara_Kalamrita",
+            "yoga": "Kemadruma",
+            "fired_as": "Kemadruma",
+            "reason": "Moon has no planet adjacent or with it",
+            "effect": "which is undesirable. Hence Guru should be in the seventh for a proper Adhi\nyoga. In Shivaji's chart (Simha lagna already given), the\nMoon is in kanya with Ravi and Guru in Kumbha, Budha\nin Mina, and ",
+            "chapter": 0,
+            "verse": 159
+          }
+        ]
+      },
+      {
+        "key": "Hamsa",
+        "book_count": 4,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Phaladeepika"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol1",
+            "yoga": "Hamsa",
+            "fired_as": "Hamsa",
+            "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+            "effect": ". In other cas€s the angularity between\ntile two need not be given the name Gaja Kesari' In point of\nfact, the Moon-Jupiter mutual angular placement is called as\nsimply Kesari Yoga, vide Phala Deepika",
+            "chapter": 0,
+            "verse": 499
+          },
+          {
+            "book": "Brihat_Parashara_v2",
+            "yoga": "Hamsa",
+            "fired_as": "Hamsa",
+            "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+            "effect": ".",
+            "chapter": 0,
+            "verse": 543
+          },
+          {
+            "book": "Hora_Sara",
+            "yoga": "Hamsa",
+            "fired_as": "Hamsa",
+            "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+            "effect": ", is praised by good men, a king, has symbols of conch, lotus and fish in his palms and soles, beautiful body, eats sweet food, and is generous. Malavya yoga native has strong limbs, is stead- fast, w",
+            "chapter": 16,
+            "verse": 17
+          },
+          {
+            "book": "Phaladeepika",
+            "yoga": "Hamsa",
+            "fired_as": "Hamsa",
+            "reason": "Jupiter in kendra (1) and own-sign (Sagittarius)",
+            "effect": ". VRJ, 3. HANDS.\n1X.8; XlX-23; XXVI-\n38.\n.HANDSOME. A woman\nto\nbe\nvery\n. X\nI -\n1\n0\nTo he--\nV)1I-14\nIIABFENINGS. XX- 19. IIAIM’IRV.",
+            "chapter": 0,
+            "verse": 654
+          }
+        ]
+      }
+    ],
+    "dasha": [
+      {
+        "key": "Ketu",
+        "book_count": 3,
+        "books": [
+          "BPHS_Vol2",
+          "Laghu_Parashari",
+          "Phaladeepika"
+        ],
+        "items": [
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "at the time of birth.",
+            "chapter": 0,
+            "verse": 21
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ", there will be Rajayoga.",
+            "chapter": 0,
+            "verse": 100
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "lects of the Antardasa of Ketu in the Dasa of Ketu\nlTFzrs'qg{rf6r?et\naeiYrsqfqi rrlrr\n*,;i frnlqcr* \nil \ntal \nqriqTiqt r\n.lE ftu<{grq rrR}rl\naqgal \nuqqrqTfE qeeqrc*afirq5? |\ngaatcfaaled \nit\nqTq$Tuqr{icTTqqq\nqrqftfacahcr: nRtl\nl-2-$.",
+            "chapter": 0,
+            "verse": 189
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "lTFzrs'qg{rf6r?et\naeiYrsqfqi rrlrr\n*,;i frnlqcr* \nil \ntal \nqriqTiqt r\n.lE ftu<{grq rrR}rl\naqgal \nuqqrqTfE qeeqrc*afirq5? |\ngaatcfaaled \nit\nqTq$Tuqr{icTTqqq\nqrqftfacahcr: nRtl\nl-2-$.",
+            "chapter": 0,
+            "verse": 189
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ", if Venus be in his sign of\nexaltation, in his own sign or bs associated with the lord of the\nl0th in a kendra or trikona and there will be dawn of fortune\nif in such position he is associated with the lord of the 9th also.",
+            "chapter": 0,
+            "verse": 190
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "tak?af* tr* \nr*ni\nffiqqr* \ne11 ui\nqqffisfq {T r\nqqsqf.qt uR{tl\n|r{rtIETlRrr€A\nT€Xqrfail$TrFi{ ||Rqr|\n*qnrrqrq{srRaqqqrisf irci\nwFr I\nErFAnrtoTXEiqq \nttR\\etl\nI\nqaqr(lfaRl€d ir\npta.a: \nnqEE \nfr uRqtl\n25-28.",
+            "chapter": 0,
+            "verse": 192
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ", if the Moon be in her sign\nof exaltation, in her own sign, in kendra, trikona, the l lth or\nf,the 2nd, from the Ascendant.",
+            "chapter": 0,
+            "verse": 192
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "*a'lr;ari* \nqlt \nffiaTifurfa+M r\n723\nrdtri \n€qqiat ilsfq \nqqqEtefgt nletl\nslTal qltsi{ ia \nmwqrrrfeanrqq I\nq;rqFqtRqTq{q\nTEl(rqdaFnrI]\n\\ Y\nrttct \n$qqRI$Fu\nqg6qTssfrsil$TfiE ||lctl\nTrqqq-€E[$Tq{ |\n\\arfi: \nqlcq+q q illQ.tl\n37-39.",
+            "chapter": 0,
+            "verse": 193
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ", if Mars be in his sign of exaltation\nin his own sign associated \nwith or aspected by the benefics.",
+            "chapter": 0,
+            "verse": 193
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ", il\nJupiter be in his sign of exaltation, in his own sign or bt\nassociated with the lord of the Ascendant, the 9th or rhe l0tt\nin a kendra or trikona from the Ascendant.\nqwrtgqaqi fia \nflivnr6tqr* \n?il |\naffiwr$ttfu\nq?qr'qtfffilqr+T{ il{{tl\nqaarqr&q",
+            "chapter": 0,
+            "verse": 195
+          },
+          {
+            "book": "BPHS_Vol2",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ", if Saturn be deprived of strength and dignitn\nTherq will be loss of wealtb and lethargy, if Saturn Ue in' ti\"\n8th or the l2th from the Ascendant.\nqqqi\nTEFTTT\ne\ngq{qmi\nq{ ilqutl\nfitfrq'sqqr* \ng\nafluqg-*4 \nfcaqld \nq \nsr<tE I\nTGot! qi \nqQqT <ereq(r<lq",
+            "chapter": 0,
+            "verse": 196
+          },
+          {
+            "book": "Laghu_Parashari",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "-\nDasa/Bhukti\nKetu/Ketu\nKetu/Venus\nKetu/Sun\nKetu/Moon\nKetu/Mars\nKetu/Rahu\nKetu/fupiter\nKetu/Saturn\nKetu/Mercury\nMonths\n7 x 7  =  \n4 . 9\n7x20 = 14.0\n7 x 6  =  \n4 . 2\n7 x10 E \n7.0\n7 x 7  =  \n4 . 9\n7 x18 = 12.6\n7x1.6 s l't.2\n7x19 = 13.3\n7x17 = 11.9\nYear",
+            "chapter": 0,
+            "verse": 246
+          },
+          {
+            "book": "Phaladeepika",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": "the person will have\nsorrow\nand\nconfusion\ncaused\nby\nfemales,\ntrouble\nfrom the rich and loss\nof wealth ;\nhe will do impro-\nper acts to others.",
+            "chapter": 0,
+            "verse": 213
+          },
+          {
+            "book": "Phaladeepika",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ".\nf\ncT^j^T ?-T^r:\n5rff\ni\nTiTiww^^$T3rw5rw.\niiVMi\nSloka\n69. --Windfalls and unexpected loss of wealth,\nseparation from\none's\nson,\na laboured delivery\nthat\nengenders much sorrow,\nacquisition\nof\nservants and\nfemale children, all these are to be\nlooked\nt",
+            "chapter": 0,
+            "verse": 234
+          },
+          {
+            "book": "Phaladeepika",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ".\nvr^rirf^ q^irjr\ni\nf?T^«T^5Tftft«5r ^ sr3r%\nSloka 70.—Quarrel with the members of one's own\nfamily, destruction of one's relations, danger from ser-\npents, thieves and fire, and trouble from\nenemies\nare\nwhat a person has\nto incur during Kuja's Bhukt",
+            "chapter": 0,
+            "verse": 234
+          },
+          {
+            "book": "Phaladeepika",
+            "type": "mahadasha",
+            "planet": "Ketu",
+            "effect": ".\n3Tf^^?ni;555\n?nsffT:\nI\nSloka 72.—Quarre",
+            "chapter": 0,
+            "verse": 234
+          }
+        ]
+      }
+    ]
+  }
+}

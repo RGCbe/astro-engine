@@ -1,0 +1,68 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 28 – Complete Divisional Charts (Varga)
+Interpretation Encyclopedia
+Purpose
+This manual standardizes how divisional charts are interpreted and integrated into AstroReport OS.
+It defines when each Varga chart should be consulted, how it confirms birth chart indications, and
+how its evidence is incorporated into the final report.
+Chart
+Primary Focus
+Typical Use
+D1
+Life Foundation
+Overall chart
+D2
+Wealth
+Resources
+D3
+Courage
+Siblings & effort
+D4
+Property
+Home & assets
+D7
+Children
+Parenthood
+D9
+Marriage & Dharma
+Partnership confirmation
+D10
+Career
+Profession
+D12
+Parents
+Ancestry
+D16
+Comfort
+Vehicles & luxuries
+D20
+Spirituality
+Inner development
+D24
+Education
+Learning
+D27
+Strength
+Resilience
+D30
+Challenges
+Difficult experiences
+D40/D45
+Inherited influences
+Maternal/Paternal
+D60
+Karmic foundation
+Deep confirmation
+Interpretation Sequence
+Start with the birth chart (D1), then consult the relevant divisional chart for confirmation. Do not let a
+divisional chart override the birth chart without strong supporting evidence.
+Standard Entry Template
+Each Varga entry should include purpose, calculation reference, life domains, confirmation rules,
+planetary interpretation, Dasha interaction, report placement, confidence modifiers and validation
+rules.
+Developer Specification
+Store chart ID, supported life domains, evidence weight, activation rules, cross-references,
+reusable narrative templates and report integration metadata.
+Next Volume
+Volume 29 – Complete Planetary Aspects, Relationships & Interaction Encyclopedia.

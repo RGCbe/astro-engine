@@ -1,0 +1,187 @@
+{
+  "name": "Virat Kohli",
+  "birth": {
+    "year": 1988,
+    "month": 11,
+    "day": 5,
+    "hour": 4,
+    "min": 8,
+    "lat": 28.6139,
+    "lon": 77.209,
+    "place": "Delhi, India",
+    "tz": 5.5,
+    "weekday": "Saturday"
+  },
+  "lagna": "Virgo",
+  "lagna_idx": 5,
+  "lagna_deg": 16.069,
+  "lagna_lord": "Mercury",
+  "ayanamsa": 23.701266,
+  "positions": {
+    "Sun": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 19.0322,
+      "lon_abs": 199.0322,
+      "nak": "Swati",
+      "nak_idx": 14,
+      "nak_lord": "Rahu",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 1.0028,
+      "house": 2
+    },
+    "Moon": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 27.2142,
+      "lon_abs": 147.2142,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 11.7974,
+      "house": 12
+    },
+    "Mars": {
+      "rasi": "Pisces",
+      "rasi_idx": 11,
+      "deg": 6.5621,
+      "lon_abs": 336.5621,
+      "nak": "Uttara Bhadrapada",
+      "nak_idx": 25,
+      "nak_lord": "Saturn",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.0989,
+      "house": 7
+    },
+    "Mercury": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 3.6948,
+      "lon_abs": 183.6948,
+      "nak": "Chitra",
+      "nak_idx": 13,
+      "nak_lord": "Mars",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 1.5327,
+      "house": 2
+    },
+    "Jupiter": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 9.727,
+      "lon_abs": 39.727,
+      "nak": "Krittika",
+      "nak_idx": 2,
+      "nak_lord": "Sun",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.12,
+      "house": 9
+    },
+    "Venus": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 13.5143,
+      "lon_abs": 163.5143,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 1.2129,
+      "house": 1
+    },
+    "Saturn": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 5.5791,
+      "lon_abs": 245.5791,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.093,
+      "house": 4
+    },
+    "Rahu": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 17.1064,
+      "lon_abs": 317.1064,
+      "nak": "Shatabhisha",
+      "nak_idx": 23,
+      "nak_lord": "Rahu",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 6
+    },
+    "Ketu": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 17.1064,
+      "lon_abs": 137.1064,
+      "nak": "Purva Phalguni",
+      "nak_idx": 10,
+      "nak_lord": "Venus",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 12
+    }
+  },
+  "janma_nakshatra": "Uttara Phalguni",
+  "janma_nakshatra_lord": "Sun",
+  "moon_rasi": "Leo",
+  "moon_pada": 1,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 4:08 AM from Kohli's natal data widely cited by Indian astrologers (Bejan Daruwalla, etc.)",
+  "known_events": [
+    {
+      "date": "2008-08-18",
+      "event": "ODI debut vs Sri Lanka, Dambulla — aged 19"
+    },
+    {
+      "date": "2009-12-24",
+      "event": "First ODI century vs Sri Lanka, Kolkata"
+    },
+    {
+      "date": "2011-04-02",
+      "event": "Won ICC Cricket World Cup with India at Wankhede"
+    },
+    {
+      "date": "2013-02-22",
+      "event": "Married actress Anushka Sharma — wait, this was 2017"
+    },
+    {
+      "date": "2014-12-11",
+      "event": "Test captaincy debut vs Australia, Adelaide"
+    },
+    {
+      "date": "2017-12-11",
+      "event": "Married actress Anushka Sharma in Tuscany, Italy"
+    },
+    {
+      "date": "2017-03-30",
+      "event": "Awarded Padma Shri at Rashtrapati Bhavan investiture ceremony"
+    },
+    {
+      "date": "2021-01-11",
+      "event": "Birth of daughter Vamika"
+    },
+    {
+      "date": "2022-09-01",
+      "event": "Ended 1020-day century drought (71st international century vs Afghanistan, Asia Cup)"
+    },
+    {
+      "date": "2024-06-29",
+      "event": "Won T20 World Cup with India — announced T20I retirement"
+    }
+  ]
+}

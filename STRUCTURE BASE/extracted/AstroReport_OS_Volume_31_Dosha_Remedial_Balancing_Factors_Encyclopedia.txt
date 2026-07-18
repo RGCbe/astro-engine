@@ -1,0 +1,50 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 31 – Complete Dosha, Remedial Measures
+& Balancing Factors Encyclopedia
+Purpose
+This manual provides a structured framework for identifying traditional doshas, evaluating their
+supporting and balancing factors, and presenting them responsibly within reports. Traditional
+remedial practices are documented separately from the astrological assessment.
+Section
+Coverage
+Output
+Dosha Identification
+Classical combinations
+Structured evidence
+Severity Assessment
+Supporting & balancing factors
+Weighted score
+Timing
+Dasha & transit activation
+Timeline context
+Life Domains
+Marriage, career, health, etc.
+Affected areas
+Balancing Factors
+Strong yogas, benefic support
+Reduced impact
+Traditional Practices
+Prayer, charity, rituals
+Clearly labeled guidance
+Lifestyle Guidance
+Habits & reflection
+Practical recommendations
+Narrative Rules
+Balanced explanation
+Reader-friendly report
+Validation
+Evidence review
+Confidence score
+Interpretation Principles
+Assess the complete chart before discussing any dosha. Explain both mitigating and challenging
+factors. Avoid presenting a single factor as determining a person's future.
+Standard Entry Template
+Each dosha entry includes overview, identification rules, affected life domains, balancing factors,
+timing, confidence level, report wording, traditional practices, practical guidance and validation
+rules.
+Developer Specification
+Store dosha IDs, evidence requirements, severity weights, balancing rules, narrative templates,
+confidence modifiers and cross references.
+Next Volume
+Volume 32 – Complete Event Prediction & Life Event Framework.

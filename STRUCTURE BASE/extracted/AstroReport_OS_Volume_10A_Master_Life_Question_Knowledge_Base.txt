@@ -1,0 +1,68 @@
+AstroReport OS Specification
+Volume 10A – Master Life Question Knowledge
+Base (Part 1)
+This volume begins the implementation knowledge base for AstroReport OS. Unlike earlier
+architecture volumes, this document defines how individual life questions are represented so the
+report engine can answer them naturally within the timeline.
+Question Record Template
+Each question should contain: Question ID, Canonical Question, Alternate Phrasings, Life Domain,
+Life Stage, Astrological Evidence, Dasha/Bhukti Relevance, Report Placement, Narrative Priority,
+Confidence Rules, Related Questions, Validation Rules.
+ID
+Question
+Domain
+Life Stage
+Placement
+Q0001
+Who am I?
+Identity
+Birth
+Foundation
+Q0002
+What is my personality?
+Identity
+Birth
+Foundation
+Q0003
+What are my strengths?
+Identity
+Birth
+Foundation
+Q0004
+What are my growth areas?
+Identity
+Birth
+Foundation
+Q0005
+How do people see me?
+Reputation
+Teen+
+Timeline
+Q0006
+How do I learn best?
+Education
+School
+Timeline
+Q0007
+What career suits me?
+Career
+Young Adult
+Timeline
+Q0008
+How do I build wealth?
+Wealth
+Adult
+Timeline
+Q0009
+What relationship patterns repeat?
+Relationships
+Adult
+Timeline
+Q0010
+What is my life purpose?
+Purpose
+Whole Life
+Foundation
+Roadmap
+The complete implementation will ultimately contain 1000+ structured question records. This
+volume establishes the format and begins the knowledge base that later volumes will expand.

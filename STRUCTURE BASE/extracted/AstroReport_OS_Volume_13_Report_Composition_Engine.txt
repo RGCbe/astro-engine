@@ -1,0 +1,49 @@
+AstroReport OS Specification
+Volume 13 – Report Composition Engine & Chapter
+Assembly System
+Purpose
+This volume defines how every engine in AstroReport OS is orchestrated to generate a single
+coherent report from birth to legacy. It specifies chapter ordering, data flow, transitions and quality
+controls.
+Stage
+Engine
+Output
+1
+Birth Chart Engine
+Structured chart data
+2
+Interpretation Engine
+Evidence summaries
+3
+Timeline Engine
+Life chapters
+4
+Question Engine
+Relevant life questions
+5
+Decision Engine
+Reasoning & confidence
+6
+Narrative Engine
+Story drafts
+7
+Composition Engine
+Complete chapters
+8
+Validation Engine
+Quality checks
+9
+Rendering Engine
+PDF / Web / Mobile
+10
+Delivery Engine
+Final report
+Chapter Assembly Rules
+Build chapters chronologically. Preserve continuity between chapters, avoid repeated explanations,
+and carry forward unresolved themes until they naturally conclude. Each chapter must include
+timeline, life domains, evidence summary, narrative, guidance and transition.
+Quality Assurance
+Before rendering, verify timeline completeness, evidence consistency, narrative flow, question
+coverage, formatting, references and confidence scoring.
+Next Volume
+Volume 14 – Personalization Engine & Adaptive Report Generation.

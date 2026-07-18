@@ -1,0 +1,94 @@
+{
+  "item": "B3_Planet in Nakshatra (243 rules)",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2",
+    "Hora_Sara",
+    "Uttara_Kalamrita",
+    "Prashna_Marga"
+  ],
+  "per_book_passages": {
+    "BPHS_Vol1": [
+      {
+        "position": 43971,
+        "match_text": "Sun's dasa (related to Krittika",
+        "context": "Kumara Yama Agni Brahma Moon Siva Adiri Jupiter Rahu Sun Aryama Sun Viswa Karma Vayu Indra Mitra Indra Niruti Varuna Viswadeva Brahma Vishnu Vasu (qg) Varuna Ajacharana Ahirbudhanya Poosha For example, if Ketu is in Krittika in the 9th house, the evil effccts due to father will be given by Ketu iu Sun's dasa (related to Krittika). Hence propitiation of Firu god will counter the possible evil. Chapter 3 3l Alternatively, Lord Ganesa representing Ketu may also be pleased suitably. lalq\"t a1 qWil q tqa.t€Iqfau ! r ir<r: iqrrq fqi{r wguTe} grwqntle.n 19. SEX OF THE PLANETS .' Mercury and Saturn are neuters. The Moon and Venus are females while the Sun, Mars and Jupiter are males. : {rftr faq!t qeftdq{ llQoll qlqrfr\"t qrwi q ffi?ilfrfr 20. PRIMORDIAL COMPOUNDS .. The Pancha Bhootas, viz. fire, earth. ether, water and air",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 718488,
+        "match_text": "Sun in Krittika",
+        "context": "gara as his authority for calculation of Sayanadi Avasthas. It will thus be clear that 'Amsa' is Navamsa and not degree in this context. . Also pleasc note that Aagamanavastha (the 6th one) is known as Gamanechchavastha by some exponents- Takc a case now as an example with the following data. The Sun in Krittika Nakshatra, 3rd Navamsa of Taurus (i.e in ?o l2'Taurus), birth star Krittika, birthat 30gh 3jvigh, and ascendant in Scorpio. With these we produce following information, keeping the forrnula given above S : 3 L : P:l g- n:3 r: Hence to find out thc Avastha, (3xlx3)*(3*31*8) _ -12 3 3t 8 f-j:remainder 3 With the help of remainder 3, we count three Avastnas from Sayana. This indicates Netrapani Avastha for thb Sun. Similarly for 9 planets, such Avasthas be found out. In a given horoscope, the f",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      }
+    ],
+    "Brihat_Parashara_v2": [
+      {
+        "position": 46182,
+        "match_text": "Sun's Dasha (related to Krittika",
+        "context": "Varuna Poorvabhadra - Ajacharana Uttarabhadra - Ahirbudhanya Revati - Poosha A malefic planet in a particular star will yield its evil effects in the Dasha related to that star, for example, if Ketu is in Krittika in the 9th house, the evil effects due to father will be given by Ketu in Sun's Dasha (related to Krittika). Hence propitiation of Fire god will counter the possible evil. Alternatively, Lord Ganesh representing Ketu may also be pleased suitably. क्लीिौ द्वौ सौम्सौरी च युितीन्दुभृगू दद्वज। नराः शेषाश्च विज्ञेया भानुभौमो गुरुस्तथा॥१९॥ 19. SEX OF THE PLANETS: Mercury and Saturn are neuters. The Moon and Venus are females while the Sun, Mars and Jupiter are males. अक्ग्नभूवमनभस्तोयिायिः क्रमतो दद्वज। भौमािीनां ग्रहाणां च तत्त्वानीवत यथाक्रमम्॥२०॥ 20. PRIMORDIAL COMPOUNDS: The Pancha Bhootas, v",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 754683,
+        "match_text": "Sun in Krittika",
+        "context": "ara as his authority for calculation of Sayanadi Avasthas. It will thus be clear that 'Amsa' is Navamsha and not degree in this context. Also, please note that Agamanavastha (the 6th one) is known as Gamanechchavastha by some exponents. Take a case now as an example with the following data. The Sun in Krittika Nakshatra, 3rd Navamsha of Taurus (i.e. in 7° 12' Taurus), birth star Krittika, birth at 30 gh 33 vigh, and ascendant in Scorpio. With these we produce following information, keeping the formula given above. s = 3 a = 3 p = 1 g = 31 n = 3 r = 8 Hence to find out the Avastha, (3 x 1 x 3) + (3+ 31 + 8) = 51 = remainder 3 12 12 With the help of remainder 3, we count three Avasthas from Sayana. This indicates Netrapani Avastha for the Sun. Similarly, for 9 planets, such Avasthas be f",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      }
+    ],
+    "Hora_Sara": [
+      {
+        "position": 172265,
+        "match_text": "Moon prevails. Again it is Arohini",
+        "context": "H'?i<i<ir^wii 1 1 3 II Sage Manitha and others have normally claissified the dasa of the Moon in six categories. It is called * (increasing) when the- M o o n is poceeding from the first day of bright half. It is Avarohini (or decreasing) when the period of second day of dark half through New Moon prevails. Again it is Arohini when the birth takes place if the waves of the ocean are rising. Should the waves be depressed at the time of birth, such Moon's dasa is Avarohini. It is also called 3TRtf^ when the Moon has left his sign of fall. % c f ^ J ^ : ^rra^: 1 1 4 II Should the Moon be departing from exaltation sign, it is called sigttf^TJft dasa. The ancient people have shovm three kinds of difference between 3TRt? and 3ToRt?. Notes: The three kinds each of Avaroha are already ex- plained, from slokas 1 t",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 409735,
+        "match_text": "Sun in Bharani",
+        "context": "malefics are in 3,6 and 11. ^3^E?rP«?fSft cfT 1 ^ : ^rq^ratvR: | • R T ^ ^ R W 'qtrsft 4lT^ccitir^j|T=^rd 11 27 II Should the Sun be in Libra Navamsa, inspite of his being in exaltation in rasi, even an emperor's son will be jettisoned down CHAPTER 24 273 to a base position. Notes: The Sun in Bharani 3rd quarter will cause such a yoga. According to Jataka parijata, the Sun as above should be aspected by malefics. The condition of aspect by malefics is not laid down by Horasara. <M4^'IH1' W f r q i ^ Wf=(fH 11 2 8 II Should the Sun's position be in Libra 10 degrees, even 1000 Rajayogas are cancelled. yyiMM^d fm • = T m ^ ^ 11 2 9 11 Should Venus be in Virgo navanisa, even an unparallel em- pire will decline. d<r4.l1lrl ot)d1mcl % ^ l a i f ? • 5 i m t f « r a r ^ % r 3 ! N",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      }
+    ],
+    "Uttara_Kalamrita": [
+      {
+        "position": 193927,
+        "match_text": "Moon is in Rohini",
+        "context": "nes. Chapter VIII ~: Miscellaneous Problems in Prediction 'lNN1\"qdtlll !i,,~q( ,s1i'l45ia (\\all~i q\\(i~qS1lli!fit!IlJftuClfl(I(jQ:ca \\4SlI'{ahii4lii ~Sti4E .....qlqfOfql ~t'ila'§iJlc4hj,\": 'ifM~1 +C41(ifl'''~0C:' WIff • ~ • Garbhadhana or impregnation would be auspicious if it takes place when the Moon is in Rohini (40°.0' to 53°.20' from the beginning of Mesha). Mrtgastra (53° .20' to 66° .40'), Purva Phalgurn (133°.20' to 146°.40'). Purvashadha (253°.20' to 266°.40'), Purvabhadra (320° to 333°.20'), Ardra (66°.40' to 80°.0'), Punarvasu (80°0' to 93°.20'), Pushyami (93°.20' to 106°.40'), Hasta, Chitra. Svati, Visakha and Anuradha (160° to 226°.40'), Sravana, Dhanishtha and Satabhisha (280° to 320°) Uttara Phalgunt (146°.40' to 160°). Uttarashadha (253°.20' to 266°.40') and Ut- tarabhadra (333°.20' to 346",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 206377,
+        "match_text": "Moon should be in Asviru, Punarvasu",
+        "context": "ase of an adoption is meaningless. aliUilfC::g&flti\"lIqfc~f<'lt)~ ~ ~ I ~s'51dwICll5lgd ~I ';liCIIlflf-j$H'lCIII~~ ~1\"l\"CII~ ;;r ~ ~ 'i!'i'T.f tlaq~lf~cti ~ i4~'i'1~.nl1C11It1I~R1: II ~~ II The preliminary activities for a marriage should be begun by women whose husbands are alive. At that time the Moon should be in Asviru, Punarvasu, Pushyami, 186 Uttara Kalamrita Hasta. Chitra, Svati, Anuradha, Sravana, Dhanlshtna or Satabhisha. The week days should be other than those related to Kuja and Shukra. The lagna should be auspi- cious, and there should be no planet in the fifth and ninth houses. There should be the Puja (worship) of the nine planets. The function is to be accompanied with dance. music and the like. q:Jf~\\&e.i\\li+Q 'if ![U: ~ liI'1t lmT cqa\"'i\"lfnteft \\liQt'Qftt~IC!\" ~ ft.rg\\lt \" ~c(1ij(liieftf~ntgfl ~ ~ ~­ i:(",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 215426,
+        "match_text": "Moon is located are-i-Rohtnt. Ardra",
+        "context": "long life, growth. or development. and happiness. lJ5R=Q ~ f~leihH~qpq ~ lfr\"tli ~ ';;f ~ ~ ~ T'qii('lflfQ -qffl ~II ~~ II ~~!J~~m~ QS15II\"?I4f1Cl1 qf;l.,qq~· ~~ ~I lJ'm§d f(tte:~'l1q ~ ~ !J u~l,fd ~fioI~CIlqsJt ~ 'lflqlf':<:I~~ II ~~ II For holding a royal umbrella. the auspicious stars where the Moon is located are-i-Rohtnt. Ardra. Pushyarnt, Uttara Phalguni, Uttarashadha, Uttarabhadra, Sravana, Dhanishtha and Satabhisha. Count from the Janma nakshatra (natal star), to the star in which the Sun is on that day. The first three stars stand for the handle of the umbrella. The next seven form the holder. The following five refer to the protruding stick or handle above. The next eight refer to the inside of the umbrella. The last four cover the top. The effects respec- tively are (i) destruction. (iO loss ofwealth. (iii) favo",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 233167,
+        "match_text": "Moon is in Rohini",
+        "context": "month which is the birth day ofLord Srikrishna. ~~:~m~ ~ ~ ~sRtQi(Ol«1 ~ ~ ';jJi tlf4lqd'f..~fltq'lI 'tlft( f6f1lgf$il104tlhFlt- ~ 'tl'5i' ';f ~ ';f ~ ~ ftr.1::r ~ Ii ~~ \" Lord Srikrishna was born on the eighth day ofthe dark fortnight ofSravana month. Ifthat happens to be a Wednes- day and if the Moon is in Rohini, it is most fruitful and sacred. But the tithi should extend upto mid-night and it should not be vitiated by the previous tithi. 228 Uttara Kalamrlta lIT 14N~fti4'caiqtiilii ~: \\Ild(leRNHuli ~ lIT ';It fftilMi::ij ~ W \"\"~c!HI5li1 ~I \"Uaq~ M a,,\")(l4\\fftftJ: W WIWlgtdf ~ , lIT +4IMa/44a/d/ 1R¥'T ~ \"'4/8Q/ ~ 111 ,,~ II When this Janmashtami tithi extends beyond three .yamae at night, the fast can be given up at the end of the tithi or at the end of the constellation. It is equal in effect to Mah",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      }
+    ],
+    "Prashna_Marga": [
+      {
+        "position": 329571,
+        "match_text": "Sun is Rohini",
+        "context": "th constellations happen to be the 3rd to 10th. Death will happen when the birth asterisms are occupied by the Sun and the 14th and 15th from it. Sickness will result when the birth star is the 26th, 2nd, 13th, 15th and 16th. This is called Surya Kalagni Chakra. NOTES Suppose the star held by the Sun is Rohini. The 2nd and 27th from this will be Mrigasira and Krittika respectively. Those born in these two stars will experience fear. The 3rd to 10th stars from Rohini are Aridra, Poonarvasu, Pushyami, Aslesha, Makha, Pubba, Uttara, Hasta. Birth in these stars denote victory. Asterism occupied by the Sun and the 14th and 15th from it are Hasta, Uttarabhadra and Revati. Those born in these will meet with death. The 27th, 2nd, 13th, 15th and 16th from the star held by the Sun are Krittika Mrigasira, V",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      },
+      {
+        "position": 330054,
+        "match_text": "Sun are Krittika",
+        "context": "a, Poonarvasu, Pushyami, Aslesha, Makha, Pubba, Uttara, Hasta. Birth in these stars denote victory. Asterism occupied by the Sun and the 14th and 15th from it are Hasta, Uttarabhadra and Revati. Those born in these will meet with death. The 27th, 2nd, 13th, 15th and 16th from the star held by the Sun are Krittika Mrigasira, Visakha, Anuradha and Jyeshta. Birth in these indicate sickness. Stanza 194. Those born in the asterism occupied by the Sun, the 2nd, the 9th, 10th, 11th, 18th, 19th and 20th from it will die; persons born in the 12th, 13th, 14th, 15th, 16th and 17th from that occupied by the Sun will be defeated; persons born in the 3rd, 4th, 5th, 6th, 7th, 8th, 21st to 26th, from that occupied by the Sun will score victory. This is Surya Soola Chakra. Stanza 195. Suppose the question is asked:",
+        "pattern_hit": "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+      }
+    ]
+  }
+}

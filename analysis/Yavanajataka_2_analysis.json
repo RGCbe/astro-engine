@@ -1,0 +1,2374 @@
+{
+  "book_key": "Yavanajataka_2",
+  "filename": "1978 Yavanajataka 2.pdf",
+  "total_pages": 538,
+  "total_words": 238697,
+  "total_chars": 1427388,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "man",
+      "count": 954
+    },
+    {
+      "word": "moon",
+      "count": 829
+    },
+    {
+      "word": "planets",
+      "count": 719
+    },
+    {
+      "word": "whose",
+      "count": 716
+    },
+    {
+      "word": "sun",
+      "count": 711
+    },
+    {
+      "word": "saturn",
+      "count": 694
+    },
+    {
+      "word": "mars",
+      "count": 681
+    },
+    {
+      "word": "venus",
+      "count": 672
+    },
+    {
+      "word": "jupiter",
+      "count": 668
+    },
+    {
+      "word": "mercury",
+      "count": 641
+    },
+    {
+      "word": "ascendent",
+      "count": 636
+    },
+    {
+      "word": "see",
+      "count": 606
+    },
+    {
+      "word": "sign",
+      "count": 527
+    },
+    {
+      "word": "ccag",
+      "count": 525
+    },
+    {
+      "word": "place",
+      "count": 423
+    },
+    {
+      "word": "yavanajataka",
+      "count": 422
+    },
+    {
+      "word": "signs",
+      "count": 420
+    },
+    {
+      "word": "chapter",
+      "count": 386
+    },
+    {
+      "word": "born",
+      "count": 386
+    },
+    {
+      "word": "planet",
+      "count": 341
+    },
+    {
+      "word": "first",
+      "count": 338
+    },
+    {
+      "word": "wealth",
+      "count": 323
+    },
+    {
+      "word": "second",
+      "count": 308
+    },
+    {
+      "word": "gives",
+      "count": 300
+    },
+    {
+      "word": "good",
+      "count": 297
+    },
+    {
+      "word": "produces",
+      "count": 297
+    },
+    {
+      "word": "one's",
+      "count": 296
+    },
+    {
+      "word": "lord",
+      "count": 292
+    },
+    {
+      "word": "women",
+      "count": 286
+    },
+    {
+      "word": "varahamihira",
+      "count": 275
+    },
+    {
+      "word": "kat",
+      "count": 269
+    },
+    {
+      "word": "body",
+      "count": 266
+    },
+    {
+      "word": "causes",
+      "count": 266
+    },
+    {
+      "word": "quoted",
+      "count": 260
+    },
+    {
+      "word": "brhajjataka",
+      "count": 254
+    },
+    {
+      "word": "men",
+      "count": 242
+    },
+    {
+      "word": "third",
+      "count": 234
+    },
+    {
+      "word": "verse",
+      "count": 232
+    },
+    {
+      "word": "firmicus",
+      "count": 232
+    },
+    {
+      "word": "own",
+      "count": 229
+    },
+    {
+      "word": "eyes",
+      "count": 229
+    },
+    {
+      "word": "aspected",
+      "count": 223
+    },
+    {
+      "word": "places",
+      "count": 218
+    },
+    {
+      "word": "sphujidhvaja",
+      "count": 217
+    },
+    {
+      "word": "person",
+      "count": 217
+    },
+    {
+      "word": "dorotheus",
+      "count": 216
+    },
+    {
+      "word": "other",
+      "count": 213
+    },
+    {
+      "word": "many",
+      "count": 213
+    },
+    {
+      "word": "tov",
+      "count": 213
+    },
+    {
+      "word": "commentary",
+      "count": 211
+    },
+    {
+      "word": "each",
+      "count": 210
+    },
+    {
+      "word": "because",
+      "count": 208
+    },
+    {
+      "word": "cited",
+      "count": 206
+    },
+    {
+      "word": "like",
+      "count": 206
+    },
+    {
+      "word": "valens",
+      "count": 204
+    },
+    {
+      "word": "greek",
+      "count": 200
+    },
+    {
+      "word": "birth",
+      "count": 199
+    },
+    {
+      "word": "fourth",
+      "count": 197
+    },
+    {
+      "word": "verses",
+      "count": 193
+    },
+    {
+      "word": "iavarman",
+      "count": 193
+    },
+    {
+      "word": "malefic",
+      "count": 192
+    },
+    {
+      "word": "vaidyanatha",
+      "count": 192
+    },
+    {
+      "word": "eighth",
+      "count": 191
+    },
+    {
+      "word": "house",
+      "count": 191
+    },
+    {
+      "word": "benefic",
+      "count": 189
+    },
+    {
+      "word": "things",
+      "count": 187
+    },
+    {
+      "word": "wife",
+      "count": 184
+    },
+    {
+      "word": "diseases",
+      "count": 178
+    },
+    {
+      "word": "money",
+      "count": 177
+    },
+    {
+      "word": "influence",
+      "count": 176
+    },
+    {
+      "word": "sixth",
+      "count": 173
+    },
+    {
+      "word": "els",
+      "count": 171
+    },
+    {
+      "word": "pseudo",
+      "count": 170
+    },
+    {
+      "word": "utpala",
+      "count": 166
+    },
+    {
+      "word": "strength",
+      "count": 165
+    },
+    {
+      "word": "aut",
+      "count": 161
+    },
+    {
+      "word": "strong",
+      "count": 160
+    },
+    {
+      "word": "aries",
+      "count": 159
+    },
+    {
+      "word": "yoga",
+      "count": 159
+    },
+    {
+      "word": "friends",
+      "count": 154
+    },
+    {
+      "word": "only",
+      "count": 154
+    },
+    {
+      "word": "hephaestio",
+      "count": 153
+    },
+    {
+      "word": "thinking",
+      "count": 150
+    },
+    {
+      "word": "say",
+      "count": 147
+    },
+    {
+      "word": "king",
+      "count": 146
+    },
+    {
+      "word": "honor",
+      "count": 146
+    },
+    {
+      "word": "gold",
+      "count": 144
+    },
+    {
+      "word": "seventh",
+      "count": 142
+    },
+    {
+      "word": "prthuyasas",
+      "count": 141
+    },
+    {
+      "word": "navarp",
+      "count": 139
+    },
+    {
+      "word": "fifth",
+      "count": 137
+    },
+    {
+      "word": "used",
+      "count": 137
+    },
+    {
+      "word": "libra",
+      "count": 135
+    },
+    {
+      "word": "sons",
+      "count": 133
+    },
+    {
+      "word": "actions",
+      "count": 132
+    },
+    {
+      "word": "order",
+      "count": 131
+    },
+    {
+      "word": "intercourse",
+      "count": 131
+    },
+    {
+      "word": "conjunction",
+      "count": 131
+    },
+    {
+      "word": "kalyai",
+      "count": 131
+    },
+    {
+      "word": "sexual",
+      "count": 130
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "0°",
+      "context": "f its term. (The signs) counted from their dividing  lines (0°) are, in order, years; their dvadasarpsas (bhaga) are, in o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10°",
+      "context": "point. (One should count)  the Decan-degrees (i.e., arcs of 10°) from the ascendent (of the query) in three  series (i.e.,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120°",
+      "context": "rom the ascendent (of the query) in three  series (i.e., 0°-120°; 120°-240°; and 240°-360°) and the number of \"Decans\"  in s"
+    },
+    {
+      "type": "degree_measure",
+      "value": "240°",
+      "context": "endent (of the query) in three  series (i.e., 0°-120°; 120°-240°; and 240°-360°) and the number of \"Decans\"  in succession f"
+    },
+    {
+      "type": "degree_measure",
+      "value": "360°",
+      "context": "query) in three  series (i.e., 0°-120°; 120°-240°; and 240°-360°) and the number of \"Decans\"  in succession from the ( neare"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°",
+      "context": "and ... in  its maximum); ( the daily difference) is O; 12,20° +.  2 5. The Moon, passing through the signs in the two halv"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11 °",
+      "context": "ts, multiplied together, are its risings.  40. Jupiter goes 11 ° plus 4° plus 1 °; then it stands still, and then goes vakra"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4°",
+      "context": "lied together, are its risings.  40. Jupiter goes 11 ° plus 4° plus 1 °; then it stands still, and then goes vakra  for 8°;"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1 °",
+      "context": "ether, are its risings.  40. Jupiter goes 11 ° plus 4° plus 1 °; then it stands still, and then goes vakra  for 8°; then 11"
+    },
+    {
+      "type": "degree_measure",
+      "value": "8°",
+      "context": "4° plus 1 °; then it stands still, and then goes vakra  for 8°; then 11 ° plus 10°;  41. then Jupiter goes 6;15° and comes"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°",
+      "context": "vakra  for 8°; then 11 ° plus 10°;  41. then Jupiter goes 6;15° and comes to its (heliacal) rising. Mars goes 162°  in 288 ("
+    },
+    {
+      "type": "degree_measure",
+      "value": "162°",
+      "context": "er goes 6;15° and comes to its (heliacal) rising. Mars goes 162°  in 288 (tithis);  42. and stands still; then it goes in vakr"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27°",
+      "context": "288 (tithis);  42. and stands still; then it goes in vakra 27° plus 3° plus 4°; and then, going  forward, it progresses 32°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°",
+      "context": "his);  42. and stands still; then it goes in vakra 27° plus 3° plus 4°; and then, going  forward, it progresses 32° plus 30"
+    },
+    {
+      "type": "degree_measure",
+      "value": "32°",
+      "context": "7° plus 3° plus 4°; and then, going  forward, it progresses 32° plus 30° plus 20° plus 6 ;30°.  43. Saturn goes 8;15° in 112"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30°",
+      "context": "° plus 4°; and then, going  forward, it progresses 32° plus 30° plus 20° plus 6 ;30°.  43. Saturn goes 8;15° in 112 (tithis)"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12°",
+      "context": "t goes 8° in 100 (tithis)  more; (its total synodic are) is 12°.  44. Mercury goes 48° in 16 (tithis) and 16° in 8 (tithis)"
+    },
+    {
+      "type": "degree_measure",
+      "value": "48°",
+      "context": "s)  more; (its total synodic are) is 12°.  44. Mercury goes 48° in 16 (tithis) and 16° in 8 (tithis); then it goes in vakra"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16°",
+      "context": "nodic are) is 12°.  44. Mercury goes 48° in 16 (tithis) and 16° in 8 (tithis); then it goes in vakra  that in 24 (tithis); t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "258°",
+      "context": "East and one in the West; there- fore ....  46. Venus goes 258° in 208 (tithis); then it goes in vakra 24° in 48 tithis, and"
+    },
+    {
+      "type": "degree_measure",
+      "value": "24°",
+      "context": "46. Venus goes 258° in 208 (tithis); then it goes in vakra 24° in 48 tithis, and  stands still for five ~lays ( = tithis);"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5°",
+      "context": ");  189   THE YAVANAJA.TAKA  47. then it goes forward those 5° in 36 tithis; then it goes S 0 in 16 (tithis), and  traverse"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7°",
+      "context": ", and  traverses the remainder, travelling (at the rate of) 7° in 6 (tithis) ....  48. These (planets') traversing of a sig"
+    },
+    {
+      "type": "degree_measure",
+      "value": "45°",
+      "context": "trirp.sarp.sas (5°-8°), sauras (0;30°),  cii9apadas (O; 2, 45°), and liptikas (O; I  0 ). The first six varieties are desc"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°",
+      "context": "5°  Venus  1-5°  Saturn  6-100  Mercury  6-12°  Jupiter  11-18°  Jupiter  13-20°  Mercury  19-25°  Saturn  21-25°  Venus  26-"
+    },
+    {
+      "type": "degree_measure",
+      "value": "25°",
+      "context": "rcury  6-12°  Jupiter  11-18°  Jupiter  13-20°  Mercury  19-25°  Saturn  21-25°  Venus  26-30°  Mars  26-30°  In Greek and La"
+    },
+    {
+      "type": "degree_measure",
+      "value": "6°",
+      "context": "Sun 1 °  Mars 1 °  Jupiter 1 °  Mercury 1 ° Venus 1 °  Mars 6°  Saturn 7°  Venus 7°  Sun 7°  Jupiter 13°  Sun 10°  Mars 10°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13°",
+      "context": "° Venus 1 °  Mars 6°  Saturn 7°  Venus 7°  Sun 7°  Jupiter 13°  Sun 10°  Mars 10°  Saturn 16°  Venus 16°  Mars 16°  Jupiter"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°",
+      "context": "Mars 10°  Saturn 16°  Venus 16°  Mars 16°  Jupiter 16°  Sun 22°  Jupiter 22°  Saturn 22°  Venus 19°  Sun 25°  Saturn 25°  Mer"
+    },
+    {
+      "type": "degree_measure",
+      "value": "19°",
+      "context": "s 16°  Jupiter 16°  Sun 22°  Jupiter 22°  Saturn 22°  Venus 19°  Sun 25°  Saturn 25°  Mercury 27°  Aries  Taurus  Gemini  Can"
+    },
+    {
+      "type": "degree_measure",
+      "value": "28°",
+      "context": "16°  Mercury 16°  Jupiter 25°  Mercury 22° Saturn 25°  Mars 28°  Saturn 28°  From these fragmentary remains it is easy to see"
+    },
+    {
+      "type": "degree_measure",
+      "value": "17°",
+      "context": "ay  Night  Sun 1-3°  Jupiter 4---8°  Venus 9-13°  Moon 14---17°  Jupiter 1-5°  Sun 6-8°  Moon 9-12°  Venus 13-17°  Saturn 18-"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21°",
+      "context": "Jupiter 1-5°  Sun 6-8°  Moon 9-12°  Venus 13-17°  Saturn 18-21°  Mercury 18-21°  Mercury 22-25° Saturn 22-25°  Mars 26-30°  M"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21 °",
+      "context": "rn 1-4°  Mercury 5-8°  Mars 9-13°  Sun 14---16°  Jupiter 17-21 °  Venus 22-26°  Moon 27-30°  Mercury 1-4 °  Saturn 5-8°  Mars"
+    },
+    {
+      "type": "degree_measure",
+      "value": "26°",
+      "context": "y 5-8°  Mars 9-13°  Sun 14---16°  Jupiter 17-21 °  Venus 22-26°  Moon 27-30°  Mercury 1-4 °  Saturn 5-8°  Mars 9-13°  Jupiter"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4 °",
+      "context": "-16°  Jupiter 17-21 °  Venus 22-26°  Moon 27-30°  Mercury 1-4 °  Saturn 5-8°  Mars 9-13°  Jupiter 14---18°  Sun 19-21 °  Moon"
+    },
+    {
+      "type": "degree_measure",
+      "value": "9°",
+      "context": "econd triplicity  Day  Night  Venus 1-5°  Moon 1-4°  Moon 6-9°  Venus 5-9°  Saturn 10-13° Mercury 10-13°  Mercury 14---17° S"
+    },
+    {
+      "type": "degree_measure",
+      "value": "14 °",
+      "context": "Venus 1-8°  Mercury 1-6°  Mars 1-7°  Venus 7-12°  Mercury 9-14 °  Jupiter 7-12°  Venus 8-13°  Mercury 13-20°  Jupiter 15-22°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "14°",
+      "context": "aturn 1-6°  Mars 1-7°  Venus 7-11 °  Venus 8-17°  Mercury 7-14°  Venus 8-11 °  Saturn 12-18°  Jupiter 18-21 °  Jupiter 15-21"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15 °",
+      "context": "Venus 1-8°  Mercury 1-7°  Mars 1-6°  Venus 7-14°  Mercury 9-15 °  Jupiter 8-13°  Jupiter 7-13°  Mercury 15-21 °  Jupiter 16-22"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90°",
+      "context": "-r71µ,6pux described by Manilius (2, 788-855), in which the 90° between  the first and tenth places determine the beginnings"
+    },
+    {
+      "type": "degree_measure",
+      "value": "29°",
+      "context": "), and George of Antioch  (CCAG 12; 217)  Mars in Capricorn 29°: Martian us Capella  and Venus in Pisces 26°: Porphyrius (6"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°",
+      "context": "akes the limits of daily solar motion to be  0 ;5 7° and 1 ;2°, as does also, e.g., Paulus Alexandrinus (28); the Paulifas"
+    },
+    {
+      "type": "degree_measure",
+      "value": "57°",
+      "context": "sid- dhanta in the version of Latadeva assumed them to be 0;57° and 1 ;I O (Pan- casiddhantika 3, 17). The daily motion incr"
+    },
+    {
+      "type": "degree_measure",
+      "value": "50°",
+      "context": "ries 0°; presumably there is a constant  difference of O ;0,50° between the daily motions of successive signs. With the  las"
+    },
+    {
+      "type": "degree_measure",
+      "value": "42°",
+      "context": "6154/7 minutes (14;39,8,30, ...  0 ), m = 702 minutes (11 ;42°),  and d = 9 7° minutes (0;12,51,24, ...  0 ). Vasi~tha's s"
+    },
+    {
+      "type": "degree_measure",
+      "value": "36°",
+      "context": "I'  6;15°  6;15°  7;1,52,30°  7;30°  35 ;15°  30°  33 ;45°  36°  411   THE YAVANAJATAKA  Mars  Tavanajataka  Babylonian  syst"
+    },
+    {
+      "type": "degree_measure",
+      "value": "34°",
+      "context": "onian  system 2  r---+ <P  162° in 288 tithis  <P---+ 1JI - 34°  system 1  162 ;40° in 280 ti this  }  162 ;24° in 275;37 tit"
+    },
+    {
+      "type": "degree_measure",
+      "value": "40°",
+      "context": "-+ <P  162° in 288 tithis  <P---+ 1JI - 34°  system 1  162 ;40° in 280 ti this  }  162 ;24° in 275;37 tithis  <I>-+ n157°  1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "157°",
+      "context": "2 ;40° in 280 ti this  }  162 ;24° in 275;37 tithis  <I>-+ n157°  1JI---+ Q  191 ;20°  Q--.+I'  88;30°  89;19°  408;43°  With"
+    },
+    {
+      "type": "degree_measure",
+      "value": "43°",
+      "context": "-+ n157°  1JI---+ Q  191 ;20°  Q--.+I'  88;30°  89;19°  408;43°  With reference to <P ---+ lJI, the arc of retrogression, whe"
+    },
+    {
+      "type": "degree_measure",
+      "value": "104°",
+      "context": "16 tithis  20° in 32 tithis  20° in 12 tithis  Babylonian  104° in 108 ti this  114; 12° in 117 ;42,39 ti this  Venus  ravan"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11°",
+      "context": "hvaja  Brahmagupta  (kalarµsas)  Saturn  15°  15°  Jupiter  11°  110  Mars  15°  17°  Venus  so  90  Mercury  15°  13°  Moon"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°",
+      "context": "~  M  M  \"\"  rl  17'  M  :t  r{  l'1  T  \"1  \"'\\  .-4  411  1°  \"  - 0  rJ  M  J°  \"  r4  rJ  f'  ,v{'  M  M  -:,  ,.,  :,"
+    },
+    {
+      "type": "time_period",
+      "value": "165 years",
+      "context": "g to) the best of the Greeks  ( the yuga) should consist of 165 years.  4. This solar yuga begins on the first tithi in the sukla"
+    },
+    {
+      "type": "time_period",
+      "value": "30 days",
+      "context": "qualities, such  as their times.  11. A civil month equals 30 days, a solar month equals (a civil month) plus  13 muhurtas and"
+    },
+    {
+      "type": "time_period",
+      "value": "29 days",
+      "context": "th of the Moon, which ends with a conjunction, consists  of 29 days and 32 k~a:r:ias minus 4 kalas and 107 sixtieths of a kala."
+    },
+    {
+      "type": "time_period",
+      "value": "27 days",
+      "context": "107 sixtieths of a kala.  13. A sidereal month consists of 27 days plus 8! k~a:r:ias and 3 kalas and 137  sixtieths of a kala;"
+    },
+    {
+      "type": "time_period",
+      "value": "66 years",
+      "context": "a kala; it is separated by half-conjunctions(?).  14. When 66 years of the Sakas have elapsed, that is the truth (i.e., founda-"
+    },
+    {
+      "type": "time_period",
+      "value": "365 days",
+      "context": "sign occupied by the Sun.  34. A year of the Sun consists of365 days and 14;47 sixtieths (a:rµsas) ofa day,  in which the Sun tr"
+    },
+    {
+      "type": "time_period",
+      "value": "89 years",
+      "context": "the second; she appears on Alexandrian coins for 27 of the 89 years between  90/91 and 178/179, and for 20 of the 31 years betw"
+    },
+    {
+      "type": "time_period",
+      "value": "31 years",
+      "context": "the 89 years between  90/91 and 178/179, and for 20 of the 31 years between 123/124 and 153/154  (these statistics are compiled"
+    },
+    {
+      "type": "time_period",
+      "value": "30 years",
+      "context": ". Firmicus (5, 3, 29-34) has a bad prediction for the first 30 years of  the native's life, but thereafter something very like S"
+    },
+    {
+      "type": "time_period",
+      "value": "10 years",
+      "context": "hs; the total contributed by all the planets is then 129 or 10 years and 9  months. Over each period of 10 years and 9 months du"
+    },
+    {
+      "type": "time_period",
+      "value": "9 \nmonths",
+      "context": "contributed by all the planets is then 129 or 10 years and 9  months. Over each period of 10 years and 9 months during the nativ"
+    },
+    {
+      "type": "time_period",
+      "value": "9 months",
+      "context": "or 10 years and 9  months. Over each period of 10 years and 9 months during the native's life-time,  one of the planets rules ("
+    },
+    {
+      "type": "time_period",
+      "value": "5 days",
+      "context": "ra (Brhajjataka 7, 6) that the  paramayus of 120 ye~.rs and 5 days occurs when Mercury is in Taurus 0;25°,  the other planets"
+    },
+    {
+      "type": "time_period",
+      "value": "120 years",
+      "context": "], and pseudo-Prthuyasas [7, 21-27]) accepts a paramayus of 120 years  (which are also the ET'TJ µeyu:mx of the Sun) and five day"
+    },
+    {
+      "type": "time_period",
+      "value": "116 years",
+      "context": "us: 20. (cf. Purvakha1J.¢a  36, 4).  2) ~o<;lasottari dasa. 116 years. The Sun: 11. Mars: 12. Jupiter: 13. Saturn:  14. Ketu: 15."
+    },
+    {
+      "type": "time_period",
+      "value": "112 years",
+      "context": "oon: 16. Mercury: 17. and Venus: 18.  3) dvadasottari dasa. 112 years. The Sun: 7. Jupiter: 9. Ketu: 11. Mercury:  13. Rahu: 15."
+    },
+    {
+      "type": "time_period",
+      "value": "108 years",
+      "context": "Mars: 17. Saturn: 19. and the Moon: 21.  4) a~tottari dasa. 108 years. The Sun: 6. the.Moon: 15. Mars: 8. Mercury:  17. Saturn: 1"
+    },
+    {
+      "type": "time_period",
+      "value": "105 years",
+      "context": "of Zoroaster and Petosiris-Nechepso).  5) paflcottari dasa. 105 years. The Sun: 12. Mercury: 13. Saturn: 14.  Ketu: 15. Mars: 16."
+    },
+    {
+      "type": "time_period",
+      "value": "100 years",
+      "context": "sumably the last [19] must be omitted).  6) satabdika dasa. 100 years. The Sun: 5, the Moon: 5. Venus: 10. Mercury:  10. Jupiter:"
+    },
+    {
+      "type": "time_period",
+      "value": "84 years",
+      "context": "r: 20. Mars: 20. and Saturn: 30.  7) caturasityabdika dasa. 84 years. Each of the planets, in the normal Indian  order, gives 12"
+    },
+    {
+      "type": "time_period",
+      "value": "12 years",
+      "context": "rs. Each of the planets, in the normal Indian  order, gives 12 years.  8) dvisaptatika dasa. 72 years. Each of the seven planets"
+    },
+    {
+      "type": "time_period",
+      "value": "72 years",
+      "context": "ormal Indian  order, gives 12 years.  8) dvisaptatika dasa. 72 years. Each of the seven planets, in the normal  Indian order, pl"
+    },
+    {
+      "type": "time_period",
+      "value": "9 years",
+      "context": "seven planets, in the normal  Indian order, plus Rahu gives 9 years (cf. Valens [9, 3] again).  9) ~a~tihayani dasa. 60 years."
+    },
+    {
+      "type": "time_period",
+      "value": "60 years",
+      "context": "es 9 years (cf. Valens [9, 3] again).  9) ~a~tihayani dasa. 60 years. Jupiter, the Sun, and Mars give 10 each; the  Moon, Mercur"
+    },
+    {
+      "type": "time_period",
+      "value": "36 years",
+      "context": "ercury, Venus, Saturn, and Rahu 6.  10) ~attrirpsatka dasa. 36 years. The Moon: 1. the Sun: 2. Jupiter: 3. Mars:  4. Mercury: 5."
+    },
+    {
+      "type": "time_period",
+      "value": "75 years",
+      "context": "of Abu Macshar, p. 62). According to it, the paramayus is  75 years: the Sun: 10. the Moon: 9. the ascending node: 3. Jupiter:"
+    },
+    {
+      "type": "time_period",
+      "value": "63 years",
+      "context": "allows a maximum ayurdaya from the planets taken alone of 63 years (9 x 7),  or a half of the pi:r;i.<;layurdaya of 127 years."
+    },
+    {
+      "type": "time_period",
+      "value": "127 years",
+      "context": "f 63 years (9 x 7),  or a half of the pi:r;i.<;layurdaya of 127 years. That of Satya, on the other hand,  allows a maximum ayurda"
+    },
+    {
+      "type": "time_period",
+      "value": "96 years",
+      "context": "s those of the planets. This  raises the basic paramayus to 96 years (8 x 12). For the system of pii:ic;layur- daya, Mai:iittha"
+    },
+    {
+      "type": "time_period",
+      "value": "1 year",
+      "context": "ough he assigns an age to the end of each vayas:  Moon  1  (1 year)  Mars  3  (2 years)  Mercury 12  (9 years)  Venus  32  (20"
+    },
+    {
+      "type": "time_period",
+      "value": "2 years",
+      "context": "age to the end of each vayas:  Moon  1  (1 year)  Mars  3  (2 years)  Mercury 12  (9 years)  Venus  32  (20 years)  Jupiter  50"
+    },
+    {
+      "type": "time_period",
+      "value": "20 years",
+      "context": "ar)  Mars  3  (2 years)  Mercury 12  (9 years)  Venus  32  (20 years)  Jupiter  50  (18 years)  Sun  70  (20 years)  Saturn  120"
+    },
+    {
+      "type": "time_period",
+      "value": "18 years",
+      "context": "Mercury 12  (9 years)  Venus  32  (20 years)  Jupiter  50  (18 years)  Sun  70  (20 years)  Saturn  120  (50 years)  The same or"
+    },
+    {
+      "type": "time_period",
+      "value": "50 years",
+      "context": "Jupiter  50  (18 years)  Sun  70  (20 years)  Saturn  120  (50 years)  The same order and the same lengths of the vayasas are gi"
+    },
+    {
+      "type": "time_period",
+      "value": "000 years",
+      "context": "t sauram) is probably a reference to the  Mahayuga of 4,320,000 years which was certainly known in India by the  second century A"
+    },
+    {
+      "type": "time_period",
+      "value": "52 days",
+      "context": "n, if 1 tithi equals  n days, 1 synodic month equals 29 ;31,52 days; and, if 1 day equals ~ i ti this, 1  synodic month equals"
+    },
+    {
+      "type": "time_period",
+      "value": "1 day",
+      "context": "als  n days, 1 synodic month equals 29 ;31,52 days; and, if 1 day equals ~ i ti this, 1  synodic month equals 29 ;30,28 days."
+    },
+    {
+      "type": "time_period",
+      "value": "28 days",
+      "context": "if 1 day equals ~ i ti this, 1  synodic month equals 29 ;30,28 days. As in all the relationships given in this  chapter, Sphuji"
+    },
+    {
+      "type": "time_period",
+      "value": "3 days",
+      "context": "year ( as in the Jyoti~ave- daitga [29]); 372 x ~~ = 6,5;54,3 days in a year. This would also mean that  there are 61,380 ti t"
+    },
+    {
+      "type": "time_period",
+      "value": "265 days",
+      "context": "savana or civil .  4) nak~atra or sidereal  If there are 60,265 days in 165 years, 1 year equals 6,5; 14,32 days. If my  restora"
+    },
+    {
+      "type": "time_period",
+      "value": "32 days",
+      "context": "f there are 60,265 days in 165 years, 1 year equals 6,5; 14,32 days. If my  restoration of binduyutani ~at (6 with O = 60) is c"
+    },
+    {
+      "type": "time_period",
+      "value": "18 days",
+      "context": "60,265 civil days; a sidereal month, then, equals  27 ;24, 18 days. The Jyoti$avedanga (29) subtracts synodic rather than side"
+    },
+    {
+      "type": "time_period",
+      "value": "38 days",
+      "context": "nths-61-given in verse 10. Each  synodic month equals 29;31,38 days.  JO. There are, then, four types of months: civil months,"
+    },
+    {
+      "type": "time_period",
+      "value": "4 days",
+      "context": "a kala / 6 of a muhiirta, a solar month equals 30 ;26,9,52,4 days,  and a solar year 6,5; 13,58,24,48 days. Here, as in verse"
+    },
+    {
+      "type": "time_period",
+      "value": "48 days",
+      "context": "equals 30 ;26,9,52,4 days,  and a solar year 6,5; 13,58,24,48 days. Here, as in verse 6, the year is apparently  tropical.  12"
+    },
+    {
+      "type": "time_period",
+      "value": "34 days",
+      "context": "onth, if this interpreta- tion is correct, equals 29 ;31,54,34 days.  13. A sidereal month, according to this verse, equals 27;"
+    },
+    {
+      "type": "time_period",
+      "value": "83 years",
+      "context": "ive quantity, the epoch of  the Ku~a:r:ia era fell 149-66 = 83 years before A.D. 144 or in A.D. 61. If one  accepted the late ch"
+    },
+    {
+      "type": "time_period",
+      "value": "248 days",
+      "context": "ed on the well- known parameter; 9 anomalistic months equal 248 days. It is unclear what  Sphujidhvaja's is ba~ed on. As the Yav"
+    },
+    {
+      "type": "time_period",
+      "value": "47 days",
+      "context": "is exhausted is the ascendent-point.  34. A year of 6,5;14,47 days is, of course, only 0;0,1 day less than the  tropical year"
+    },
+    {
+      "type": "time_period",
+      "value": "377 days",
+      "context": "net  yuga  synodic periods  synodic period  Saturn  31  30  377 days  Jupiter  130  120  395 days  Mars  32  15  779 days  Venus"
+    },
+    {
+      "type": "time_period",
+      "value": "395 days",
+      "context": "ynodic period  Saturn  31  30  377 days  Jupiter  130  120  395 days  Mars  32  15  779 days  Venus  115  72  583 days  :tvfercu"
+    },
+    {
+      "type": "time_period",
+      "value": "779 days",
+      "context": "1  30  377 days  Jupiter  130  120  395 days  Mars  32  15  779 days  Venus  115  72  583 days  :tvfercury  3  122 days  410   C"
+    },
+    {
+      "type": "time_period",
+      "value": "583 days",
+      "context": "130  120  395 days  Mars  32  15  779 days  Venus  115  72  583 days  :tvfercury  3  122 days  410   COMMENTARY  37-38. Somehow"
+    },
+    {
+      "type": "time_period",
+      "value": "122 days",
+      "context": "32  15  779 days  Venus  115  72  583 days  :tvfercury  3  122 days  410   COMMENTARY  37-38. Somehow these two verses seem to"
+    },
+    {
+      "type": "time_period",
+      "value": "129 months",
+      "context": "also Hermetic  and depends' on the Egyptian calendar (that 129 months is equal to the sum of  certain planetary periods is shown"
+    },
+    {
+      "type": "time_period",
+      "value": "3720 days",
+      "context": "nine months in the Egyptian calendar also is  equivalent to 3720 days-28 2 x 5); the antiscia in Valens III 7 were apparently  no"
+    },
+    {
+      "type": "time_period",
+      "value": "79 years",
+      "context": "1,  p. 116), and refers to his statement that there were 51 79 years from Adam to  the Epoch of Alexander (as the latter is the"
+    },
+    {
+      "type": "time_period",
+      "value": "20 days",
+      "context": "ssage cited above Bar Hebraeus  states that Theophilus died 20 days before al-Mahdi; as the latter died with  443   THE YAVANAJ"
+    },
+    {
+      "type": "time_period",
+      "value": "281 \nDay",
+      "context": "dhara (8opvef,opta), 10,1, 10,5,  10,18-27, II 272-274, 277-281  Day, 79,5-8, 79,17-18, 79,28,  79,53, II 406-407, 409-410; time"
+    },
+    {
+      "type": "time_period",
+      "value": "410 \nDay",
+      "context": "79,28,  79,53, II 406-407, 409-410; time  of, 79,32-33, II 410  Daylight, length of, 79,31-32, II  228,410  Death, 5,18, 38, 42"
+    },
+    {
+      "type": "time_period",
+      "value": "352 \nMonth",
+      "context": "a, 2,39, 4,11, 62,54, 69,11,  I 1, 4  Moga, I lOn  Mo~a, II 352  Month, 1,89, 79,9-13, 79,19-21,  II 236, 406--407, 409  Moon: in"
+    },
+    {
+      "type": "time_period",
+      "value": "406 \nYr",
+      "context": "us, II 444  Time, 3,29. See also Kala  Time measurement, II 406  Yrrtha, I 11  Tiruchchirapalli, II 198  Tisa (Ti~ya), I 6  Tit"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "419/418",
+      "context": "oes not antedate 500 B.C. ( that the astronomical diary of  419/418 B.c. mentioned by van der Waerden does not contain such a r"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "475/457",
+      "context": "ed., Providence, R.1., 1957, p. 140), but a lunar text of 475/457 B.C. does  (A. Aaboe and A. Sachs, Centaurus 14, 1969, 11-2"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "90/91",
+      "context": "ppears on Alexandrian coins for 27 of the 89 years between  90/91 and 178/179, and for 20 of the 31 years between 123/124 and"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "178/179",
+      "context": "Alexandrian coins for 27 of the 89 years between  90/91 and 178/179, and for 20 of the 31 years between 123/124 and 153/154  (t"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "123/124",
+      "context": "ween  90/91 and 178/179, and for 20 of the 31 years between 123/124 and 153/154  (these statistics are compiled from Vogt, vol."
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "153/154",
+      "context": "and 178/179, and for 20 of the 31 years between 123/124 and 153/154  (these statistics are compiled from Vogt, vol. 2). Moreove"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "148/149",
+      "context": "ne or two years  before Yavanesvara made his translation-in 148/149-Antoninus Pius issued  a special coin to commemorate the re"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1933/34",
+      "context": "p. 319 fn. 1, and by E. Lienard, Rev. Univ. Bruxelles 39, 1933/34, 473 and 484 are  unfounded) in the third or second century"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "0/1",
+      "context": "KaTaaapKoL, <pV<TLKOL, 'TTaTptKa KCXTa/1./1.aaaovTES\",  'TT0/1.VTPLXOL, 7Tp0S\" yfjv opwvres-, Saaeis-, EVµYJKOL EV T't) 7T"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "0/3",
+      "context": "7TpayµaTWV KCXTop8waELs K(Xt, TOLS yEyaµ17Ko<1L TEKV<X, a'TT0/3a,\\~v Se TWV CX'TTO  Tov aiµaTos. With Valens cf. verse 25."
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6/3",
+      "context": "5): o 'Epµ'rjs Els J!p7JJ1 Eµ7Tp<X.KTOVS S7JAOi K<XL TWJI cp6/3wJ1 a'TTOAVEL K<Xl TEA.OS Tois  'TT0J1ois EmTl87JatJ1; and A"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6154/7",
+      "context": "ddhantika 2, 4-6)  409   THE YAVANAJATAKA  again; there M = 6154/7 minutes (14;39,8,30, ...  0 ), m = 702 minutes (11 ;42°),"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "149/50",
+      "context": "ind the reader that Yavanesvara's date  corresponds to A.D. 149/50, so that \"the foremost of kings\" was Rudradaman I.  62. Sph"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "269/70",
+      "context": "Rudradaman I.  62. Sphujidhvaja's date corresponds to A.D. 269/70. The text is, of course,  not written in pure indravajra me"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "222/223",
+      "context": "Edessa in Syria ( now in Turkey) in  154, and died there in 222/223. He propounded an original cosmological theory  based on Ch"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "955/956",
+      "context": "43.  9. Al-Qabi~i, apparently a student of al-clmrani (died 955/956) in Maw~il in  clraq, dedicated his Al-madkhal ilii abkiim"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1482/3",
+      "context": "53) published by  E. Ratdolt, Libellus ysagogicus, Venetiis 1482/3 and, with the commentary  completed by Ioannes de Saxonia i"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1502/03",
+      "context": "omeus de  Altem et Nusia, Alchabitius cum comento, Venetiis 1502/03.  JO. Sahl ibn Bishr, a Jewish astrologer, worked for Tahir"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "850/51",
+      "context": "n from 820 to 822, and later for al-J:lasan ibn Sahl (died  850/51), the wazir of al-Ma'miin (813-833). He wrote many works on"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "492/493",
+      "context": "ing and summer of 564 ( others indicate, less conclusively, 492/493; see  D. Pingree on pp. 149-150 of Boer's edition). A tempt"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1923/24",
+      "context": "was attacked by G. Mercati (Byzantinische Zeitschrift 24, 1923/24, 300-305),  and recently it has been suggested by F. Jiirss"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "551/552",
+      "context": "works  perhaps also date from after Joannes' retirement in 551/552. Unfortunately,  the 11£p, µ7Jvwv has been transmitted only"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "17/18",
+      "context": "is .Evv-ra[,s Ma87JµanK~ between the ninth year of  Hadrian 17/18 Pachon (5 April 125) and 4 Antoninus 18/19 Phamenoth (2  Fe"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "18/19",
+      "context": "year of  Hadrian 17/18 Pachon (5 April 125) and 4 Antoninus 18/19 Phamenoth (2  February 141). As he refers to his .Evv-ra[,s"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "15/16",
+      "context": "rram A.H. 169 (4 August 785), Theophilus must have  died on 15/16 July 785.  Theophilus had great fame as an astrologer both"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1186/92",
+      "context": "him between c. 1100 and 1400.  I have used MS BORI 1029 of 1186/92.  11. Govinda, the son of Nilaka:r:itha (fl. 1587) and the"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1886/92",
+      "context": "st have been written at Delhi. I have used MS  BORI 1030 of 1886/92.  28. Badarayai:ia is the author of a Tatra which is quoted"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "11/11",
+      "context": "4n; 12,2, II 332,  334; 12,4-5, II 332; 12,4, II 333;  12,7-11/11 331; 12,7, II 333; 12,8,  II 332; 12,9-11, II 334; 12,11, I"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1869/70",
+      "context": "CRIPTS CITED  Bhandarkar Oriental Research  Institute 65 of 1869/70, I 41;  66 of 1869/70, I 40; 104 of  1873/74, I 26; 324 of"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1873/74",
+      "context": "nstitute 65 of 1869/70, I 41;  66 of 1869/70, I 40; 104 of  1873/74, I 26; 324 of 1882/83, I  40; 349 of 1882/83, I 25, 31; 210"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1882/83",
+      "context": ", I 41;  66 of 1869/70, I 40; 104 of  1873/74, I 26; 324 of 1882/83, I  40; 349 of 1882/83, I 25, 31; 210  of 1883/84, II 389;"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1883/84",
+      "context": "6; 324 of 1882/83, I  40; 349 of 1882/83, I 25, 31; 210  of 1883/84, II 389; 211 of  1883/84, I 26; 399 of 1884/86, I  39; 999"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1884/86",
+      "context": "31; 210  of 1883/84, II 389; 211 of  1883/84, I 26; 399 of 1884/86, I  39; 999 of 1886/92, I 37; 861 of  1887/91, I 28; 542 of"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1887/91",
+      "context": "I 26; 399 of 1884/86, I  39; 999 of 1886/92, I 37; 861 of  1887/91, I 28; 542 of 1895/1902,  II 389; 558 of 1899/1915, I 27;"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1895/1902",
+      "context": "I  39; 999 of 1886/92, I 37; 861 of  1887/91, I 28; 542 of 1895/1902,  II 389; 558 of 1899/1915, I 27;  187 of 1902/07, I 37  Re"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1899/1915",
+      "context": "7; 861 of  1887/91, I 28; 542 of 1895/1902,  II 389; 558 of 1899/1915, I 27;  187 of 1902/07, I 37  Rehli, Saugor District,  Ragh"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1902/07",
+      "context": "542 of 1895/1902,  II 389; 558 of 1899/1915, I 27;  187 of 1902/07, I 37  Rehli, Saugor District,  Raghunathrav, I 37  Siddhav"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/1",
+      "context": "0-\"I  .p  \"  ~')  ~  1\"  to  7  ~  _,  M  3\"  I\"\"  l'1  - 1/1  :t  T  \"  f'  (t'\\  N  - r  0  I  l/t  I\"\"  - - ...0  .ii"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "picious  and which have various forms, colors, and shapes.  12. They say that this (zodiac), in which arise the seven plan"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": "mountains, ridges, elephants, herds  of cows, and farmers.  16. The third is a couple (a woman and a man) holding a lyref'"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "ying  games, sexual intercourse, gambling, and recreation.  17. The fourth, which has the form of a crab standing in water"
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "and its places are the pleasant play-grounds of goddesses~  18. The authorities state that the fifth is a lion on a mounta"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "mountains, and the dwelling-places of hunters and kings.  19. A maiden standing in a boat on the waters and holding a to"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "and (suitable for) women, sexual intercourse,  and crafts.  20. (The next) is a man bearing goods on a balance and standin"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "gns) and the (corre- sponding) parts of the bodies of men.  27. The various kinds of places and people pertaining to ( eac"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "the places and limbs connected with the (various) signs.  28. For those who are authorities say that this world of the i"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "n order, the lunar signs (are  assigned) in reverse order.  30. Others, however, state that every odd sign is solar, every"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "s of life ( dasas), and in determining the length of life.  36. In (each) sign there are dvadasaqisas (8w8€KCX.TTJfl,OpLa)"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "the twelfth sign, and to the lord of the  eleven th sign.  40. They say that the saptaqisas belong to the lords of the si"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "us in the twenty-seventh, and of Mercury in the fifteenth.  60. The entrance of Mars (into its exaltation) takes place in"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "( the benefics)  oppressed in bad places, they harm them.  7 5. Taking into consideration the good fortunes or bad fortu"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "all except the Sun and the Moon are the friends of Venus.  108. One finds that Venus and Mercury are the friends of Mars,"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "rcury are neuter, their sex depending on their situations.  9   THE YAVANAJATAKA  116. One finds that the Sun and the Moo"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": "o be accompanied by good friends, wealth, sons, and wives.  120. Objects are green, coppery, red, white, black, silvery, or"
+    },
+    {
+      "type": "significant_number",
+      "value": 360,
+      "context": "query) in three  series (i.e., 0°-120°; 120°-240°; and 240°-360°) and the number of \"Decans\"  in succession from the ( near"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "Apin, probably  based on observations made between 1300 and 1000 B.c., further lists the \"Bull  of Anu,\" the \"Furrow\" (Spica"
+    },
+    {
+      "type": "significant_number",
+      "value": 432,
+      "context": "IV 9-15.  28. Cf. Valens I 22.  31. Cf. Firmicus VI 22-27.  432   BIOGRAPHICAL AND BIBLIOGRAPHICAL INFORMATION  32. Cf. Fir"
+    }
+  ],
+  "connections": {
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Aries",
+        "count": 14
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "count": 12
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Gemini",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Cancer",
+        "count": 15
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Leo",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Virgo",
+        "count": 14
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Libra",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Scorpio",
+        "count": 7
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Sagittarius",
+        "count": 7
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Capricorn",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Aquarius",
+        "count": 5
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Pisces",
+        "count": 8
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aries",
+        "count": 15
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Taurus",
+        "count": 9
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Gemini",
+        "count": 11
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Cancer",
+        "count": 10
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Leo",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 14
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Libra",
+        "count": 6
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Scorpio",
+        "count": 8
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Sagittarius",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Capricorn",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aquarius",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Pisces",
+        "count": 7
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aries",
+        "count": 18
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Taurus",
+        "count": 8
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Leo",
+        "count": 8
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Virgo",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Libra",
+        "count": 10
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Scorpio",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Sagittarius",
+        "count": 15
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Capricorn",
+        "count": 14
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aquarius",
+        "count": 9
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Pisces",
+        "count": 18
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aries",
+        "count": 9
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Taurus",
+        "count": 16
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Gemini",
+        "count": 13
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Cancer",
+        "count": 9
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Leo",
+        "count": 7
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Virgo",
+        "count": 8
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Libra",
+        "count": 16
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Scorpio",
+        "count": 7
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Sagittarius",
+        "count": 5
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Capricorn",
+        "count": 6
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aquarius",
+        "count": 6
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Pisces",
+        "count": 6
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aries",
+        "count": 9
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Taurus",
+        "count": 8
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Cancer",
+        "count": 6
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Leo",
+        "count": 6
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Virgo",
+        "count": 5
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Libra",
+        "count": 9
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Scorpio",
+        "count": 5
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Capricorn",
+        "count": 16
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aquarius",
+        "count": 12
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Pisces",
+        "count": 13
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aries",
+        "count": 16
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Taurus",
+        "count": 17
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Gemini",
+        "count": 5
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Cancer",
+        "count": 10
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Leo",
+        "count": 6
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Virgo",
+        "count": 5
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Libra",
+        "count": 12
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Scorpio",
+        "count": 15
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Sagittarius",
+        "count": 4
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Capricorn",
+        "count": 8
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aquarius",
+        "count": 5
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Pisces",
+        "count": 8
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aries",
+        "count": 11
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Taurus",
+        "count": 11
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Gemini",
+        "count": 5
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Cancer",
+        "count": 7
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Leo",
+        "count": 11
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Virgo",
+        "count": 9
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Libra",
+        "count": 18
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Scorpio",
+        "count": 8
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Sagittarius",
+        "count": 10
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Capricorn",
+        "count": 15
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aquarius",
+        "count": 14
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "count": 13
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Capricorn",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga it  produces a king, the lord of the masters of magic.  38. If the lords of the ascendent and of the sign in which the Moon is are  strong, being in their friends' houses or in cardines, and if the M"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga, if the two (lords) are in the fifth place while a benefic planet  is in a cardine in its own varga and a navarµsa of the lord of (that) sign (the  ascendent) is in the ascendent, then they produce t"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "kemadruma (K€Vo8poµia); it is of the lowest influence.  3. One finds that the man born under sunapha is wise and strong, of exalted  conduct and independent behavior, one who has obtained fame on earth, an  ex"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "kemadruma is a low slave to  others, who does not enjoy family, wife, home, or food, one whose actions and  conduct are reviled and who practices various devices.  7. The influences in the configurations calle"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra, Siddhajaya, Sunanda, and Supiin:ia are excellent and  possess good dharma; they have auspicious and firm results similar to their  names-and so also does Pratipad when the one who sets forth enters"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra (prosperous)-2, 7, and 12  Jaya (victorious)-3, 8, and 13  Rikta (empty)-4, 9, and 14  PiirI).a (full)-5, 10, and 15.  Each produces an effect consonant to its name. See Vasi~tha ( Vasi~thasarrzhitii"
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Ardra",
+        "count": 4
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 4
+      },
+      {
+        "nakshatra": "Magha",
+        "count": 8
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 8
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 6
+      },
+      {
+        "nakshatra": "Mula",
+        "count": 5
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 6
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 11,
+      "heading": "CHAPTER I \n1-10 . ...."
+    },
+    {
+      "page": 21,
+      "heading": "CHAPTER 2 \n1. Halves of the signs in the circle of (zodiacal) constellations are called by"
+    },
+    {
+      "page": 25,
+      "heading": "CHAPTER 3 \n1. Thirty-six are the thirds of the zodiacal signs which are called Drekal).as"
+    },
+    {
+      "page": 29,
+      "heading": "CHAPTER 4 \n1. There are objects ( dravyai:ii) of various characteristics and natures which"
+    },
+    {
+      "page": 31,
+      "heading": "CHAPTER 5 \n1. They say that masculinity, which is the seed of the bodies of all types of"
+    },
+    {
+      "page": 34,
+      "heading": "CHAPTER 6 \nJ. If the Moon does not aspect the ascendent, he is not born in the presence"
+    },
+    {
+      "page": 36,
+      "heading": "CHAPTER 7 \n1. The Moon in its exaltation produces a man who is rich in savory foods,"
+    },
+    {
+      "page": 37,
+      "heading": "CHAPTER 8 \nJ. The influence (of the planets) in the degrees of their exaltations is com-"
+    },
+    {
+      "page": 40,
+      "heading": "CHAPTER 9 \nJ. Benefic planets in (these) configurations always produce righteous"
+    },
+    {
+      "page": 42,
+      "heading": "CHAPTER 10 \n1. If a planet is in the second place from the Moon, those who understand"
+    },
+    {
+      "page": 45,
+      "heading": "CHAPTER 11 \nJ. If the second sign from the Sun is occupied by a planet, it is called"
+    },
+    {
+      "page": 46,
+      "heading": "CHAPTER 12 \n1. The Sun in Aries produces a diligent man who is fierce in battle and is"
+    },
+    {
+      "page": 47,
+      "heading": "CHAPTER 13 \n1. Mercury in Aries produces a man who is thin, but eats much; a rogue"
+    },
+    {
+      "page": 49,
+      "heading": "CHAPTER 14 \n1. Venus in Aries produces a disquieted man addicted to many angers and"
+    },
+    {
+      "page": 51,
+      "heading": "CHAPTER 15 \n1. Mars in Aries produces a violent and fierce hero who performs deeds of"
+    },
+    {
+      "page": 53,
+      "heading": "CHAPTER 16 \n1. Jupiter in Aries produces a man impatient of insult who excels in strength"
+    },
+    {
+      "page": 55,
+      "heading": "CHAPTER 17 \n1. Saturn in Aries produces an ignoble and ill-dressed person who is afflicted"
+    },
+    {
+      "page": 57,
+      "heading": "CHAPTER 18 \n1. Following this I will ~escribe the configurations of the Moon in the signs,"
+    },
+    {
+      "page": 69,
+      "heading": "CHAPTER 20 \n1. Jupiter in the ascendent produces a prosperous man with a fat and broad"
+    },
+    {
+      "page": 71,
+      "heading": "CHAPTER 21 \nJ. The Sun and the Moon in conjunction in one sign produce a poor man;"
+    },
+    {
+      "page": 73,
+      "heading": "CHAPTER 22 \n1. One should know that, when four (planets) are in one sign, there are"
+    },
+    {
+      "page": 74,
+      "heading": "CHAPTER 23 \nJ. Five (planets) in one sign cause the birth of men who delight in the theater"
+    },
+    {
+      "page": 75,
+      "heading": "CHAPTER 24 \n4. Seven (planets) in one sign cause the birth of evil men who are afflicted"
+    },
+    {
+      "page": 75,
+      "heading": "CHAPTER 25 \nJ. The Sun in the fourth place from the Moon or the ascendent causes the"
+    },
+    {
+      "page": 77,
+      "heading": "CHAPTER 26 \n1. The Sun in the second place from the ascendent produces a debased man"
+    },
+    {
+      "page": 80,
+      "heading": "CHAPTER 27 \nJ. This twelve-fold number in conjunction with the signs is to be spoken of"
+    },
+    {
+      "page": 81,
+      "heading": "CHAPTER 28 \n1. The qualities of such things as the Horas, which are halves of signs, are"
+    },
+    {
+      "page": 83,
+      "heading": "CHAPTER 29 \n1. The authorities say that every third of a sign is called a Drekkai:ia in the"
+    },
+    {
+      "page": 86,
+      "heading": "CHAPTER 30 \n1. There are in ( each of) the signs seven portions ( saptarpsas) which belong"
+    },
+    {
+      "page": 95,
+      "heading": "CHAPTER 31 \n1. Now I will describe the colors, natures, forms, and characteristic marks"
+    },
+    {
+      "page": 104,
+      "heading": "CHAPTER 32 \n1. If (the Moon) is in a navarpsa of Mars and if it is aspected by Mars,"
+    },
+    {
+      "page": 105,
+      "heading": "CHAPTER 33 \n1. Mars in its own navarpsa produces a fierce, mighty, prominent hero who"
+    },
+    {
+      "page": 106,
+      "heading": "CHAPTER 34 \nJ. The Sun, which is renowned for its brilliance, if it is in a dvadasarpsa"
+    },
+    {
+      "page": 109,
+      "heading": "CHAPTER 35 \n1. One considers the terms (trirpsallavarpsas) as having diversity of form"
+    },
+    {
+      "page": 110,
+      "heading": "CHAPTER 36 \nJ. There is no (native) who does not experience changes due to the mutual"
+    },
+    {
+      "page": 114,
+      "heading": "CHAPTER 37 \nJ. The planets at birth, from the application of their courses through the"
+    },
+    {
+      "page": 114,
+      "heading": "CHAPTER 38 \nJ. If the Moon is in the eighth place from the ascendent in the house of a"
+    },
+    {
+      "page": 115,
+      "heading": "CHAPTER 39 \n1. Such is the rule relating to the life of people, regulated by the special"
+    },
+    {
+      "page": 116,
+      "heading": "CHAPTER 40 \nJ. In the dasa of the Moon, (the native) always obtains profits which result"
+    },
+    {
+      "page": 119,
+      "heading": "CHAPTER 41 \n· 1. Those planets which are in the upacaya-places from the ascendent or are"
+    },
+    {
+      "page": 120,
+      "heading": "CHAPTER 42 \n1. Whatever planet is lord of the eighth place possesses the end of the years"
+    },
+    {
+      "page": 122,
+      "heading": "CHAPTER 43 \n1. The exit (of the soul from this world) is to a part of the many (other)"
+    },
+    {
+      "page": 124,
+      "heading": "CHAPTER 44 \nJ. The Sun in its own place produces brilliance and honor; in the second"
+    },
+    {
+      "page": 126,
+      "heading": "CHAPTER 45 \n1. Saturn in its own place causes wounds from swords and diseases; in the"
+    },
+    {
+      "page": 131,
+      "heading": "CHAPTER 47 \n1. Venus in its own place gives the destruction of one's wealth and wisdom;"
+    },
+    {
+      "page": 133,
+      "heading": "CHAPTER 48 \n1. Mars in (its own) place causes victory and wealth; in the second it gives"
+    },
+    {
+      "page": 135,
+      "heading": "CHAPTER 49 \nJ. Mercury in its own place gives children, knowledge, and science; in the"
+    },
+    {
+      "page": 137,
+      "heading": "CHAPTER 50 \n1. The Moon in its own place gives food, perfume, garlands, women, friends,"
+    },
+    {
+      "page": 140,
+      "heading": "CHAPTER 51 \nJ. The Moon travels constantly through the 108 nava:rp.sas in the zodiacal"
+    },
+    {
+      "page": 142,
+      "heading": "CHAPTER 52 \n1. Whichever Decan in a sign is in the ascendent (at the time of the query"
+    },
+    {
+      "page": 143,
+      "heading": "CHAPTER 53 \n1. Thus that which pertains to the thought of the querist is said to be of"
+    },
+    {
+      "page": 144,
+      "heading": "CHAPTER 54 \n1. The Sun in the hypogee causes (thoughts) of foreign lands, large forests,"
+    },
+    {
+      "page": 146,
+      "heading": "CHAPTER 55 \n1. If the Sun is in a varga of the Moon, (he thinks of) silver, gold, the"
+    },
+    {
+      "page": 148,
+      "heading": "CHAPTER 56 \n1. If the Sun and the Moon are in conjunction in one sign, he is thinking of"
+    },
+    {
+      "page": 149,
+      "heading": "CHAPTER 57 \n1. The Sun in the ascendent aspected by the Moon makes (him( hink--of}._"
+    },
+    {
+      "page": 154,
+      "heading": "CHAPTER 58 \nJ. If Aries is in the ascendent, one should find that he is thinking of his"
+    },
+    {
+      "page": 155,
+      "heading": "CHAPTER 59 \n1. If a navarp.sa of Aries is in the ascendent, he is thinking of lands or gold"
+    },
+    {
+      "page": 165,
+      "heading": "CHAPTER 61 \nJ. If the ascendent of the nativity is in the ascendent (at the time of the"
+    },
+    {
+      "page": 166,
+      "heading": "CHAPTER 62 \nJ. The thought of the querist is subtle and can be understood (only) by"
+    },
+    {
+      "page": 172,
+      "heading": "CHAPTER 63 \n1. Hence the wise (astrologer), controlling his inner self, first enumerates"
+    },
+    {
+      "page": 173,
+      "heading": "CHAPTER 64 \n1. If Leo, Scorpio, or Aquarius are in the descendent aspected by their"
+    },
+    {
+      "page": 174,
+      "heading": "CHAPTER 65 \n1. If the Moon is in the ascendent in a house or navarpsa of Saturn, Mars, or"
+    },
+    {
+      "page": 176,
+      "heading": "CHAPTER 66 \nJ. If Mercury is in its base-triplicity in a varga of Jupiter, or if a navaqisa"
+    },
+    {
+      "page": 176,
+      "heading": "CHAPTER 67 \nJ. If the dvadasaqisa of a benefic planet is in the ascendent and the sign is"
+    },
+    {
+      "page": 176,
+      "heading": "CHAPTER 68 \n1. ... in the ... sign from the ascendent is good for strewing the bed; if it"
+    },
+    {
+      "page": 177,
+      "heading": "CHAPTER 69 \n1. If Aries (is in the ascendent), he sees gold, fire, peaks, swords, kings"
+    },
+    {
+      "page": 178,
+      "heading": "CHAPTER 70 \n1. Whatever is said to be the rule regarding dreams which arises from the"
+    },
+    {
+      "page": 182,
+      "heading": "CHAPTER 72 \n1. (The first navarp.sa) in Aries (represents) the letter ka; in Cancer, ya; in"
+    },
+    {
+      "page": 184,
+      "heading": "CHAPTER 73 \nJ. I shall describe the king who is indicated by the distinctions predicted"
+    },
+    {
+      "page": 186,
+      "heading": "CHAPTER 74 \nJ. If Aries is in the ascendent, those who desire to destroy soldiers, cities"
+    },
+    {
+      "page": 187,
+      "heading": "CHAPTER 75 \n1. When the benefic planets face with the expedition, it attains success"
+    },
+    {
+      "page": 188,
+      "heading": "CHAPTER 76 \n1. One who goes forth when the ascendent of his nativity is in the ascendent"
+    },
+    {
+      "page": 193,
+      "heading": "CHAPTER 77 \n1. One should always sacrifice to the gods of the planets-namely, Jala"
+    },
+    {
+      "page": 195,
+      "heading": "CHAPTER 78 \nJ. The signs have natures which are moving, fixed, or two-fold, as do the"
+    },
+    {
+      "page": 196,
+      "heading": "CHAPTER 79 \n1. The wise say that the observed course of the planets is the supreme eye"
+    },
+    {
+      "page": 269,
+      "heading": "CHAPTER 5 \n1. On masculinity being solar, femininity lunar, see the commentary on 1, 30;"
+    },
+    {
+      "page": 275,
+      "heading": "CHAPTER 6 \n1. This yoga for predicting the absence of the father is repeated by Vara-"
+    },
+    {
+      "page": 277,
+      "heading": "CHAPTER 7 \nThe natives described in these verses are closely related to the characteriza-"
+    },
+    {
+      "page": 277,
+      "heading": "CHAPTER 8 \nTo examine the horoscope of a princeps was officially forbidden in the"
+    },
+    {
+      "page": 282,
+      "heading": "CHAPTER 10 \nThis chapter deals with four yogas of the Moon:"
+    },
+    {
+      "page": 283,
+      "heading": "Chapter 10 is closely based on a Greek original. Unfortunately, that original"
+    },
+    {
+      "page": 291,
+      "heading": "CHAPTER 11 \nThis chapter deals with yogas of the Sun similar to those of the Moon;"
+    },
+    {
+      "page": 293,
+      "heading": "CHAPTER 12 \nChapters 12-18 give predictions based on the presence in each sign of the"
+    },
+    {
+      "page": 294,
+      "heading": "CHAPTER 13 \nThis chapter describes the natives born when Mercury is in each of the signs"
+    },
+    {
+      "page": 294,
+      "heading": "CHAPTER 14 \nThis chapter describes the natives born when Venus is in each of the signs"
+    },
+    {
+      "page": 294,
+      "heading": "CHAPTER 15 \nThis chapter describes the natives born when Mars is in each of the signs of"
+    },
+    {
+      "page": 294,
+      "heading": "CHAPTER 16 \nThis chapter describes the natives born when Jupiter is in each of the signs"
+    },
+    {
+      "page": 296,
+      "heading": "CHAPTER 17 \nThis chapter describes the natives born when Saturn is in each of the signs"
+    },
+    {
+      "page": 301,
+      "heading": "CHAPTER 18 \nThis chapter describes the natives born when the Moon is in each of the"
+    },
+    {
+      "page": 302,
+      "heading": "CHAPTER 19 \nThis chapter describes the natives born when each of the signs of the zodiac"
+    },
+    {
+      "page": 309,
+      "heading": "CHAPTER 20 \nThis chapter details the influence of each planet (in the order Jupiter,"
+    },
+    {
+      "page": 315,
+      "heading": "CHAPTER 21 \nIn this chapter and the next three Sphujidhvaja deals with the effects of"
+    },
+    {
+      "page": 320,
+      "heading": "CHAPTER 22 \nConjunctions of four planets in one sign give birth to ascetics; the particular"
+    },
+    {
+      "page": 323,
+      "heading": "CHAPTER 23 \nThis chapter, on conjunctions of five planets, deals with entertainers and"
+    },
+    {
+      "page": 324,
+      "heading": "CHAPTER 24 \nThis chapter should deal with conjunctions of six and of seven planets in"
+    },
+    {
+      "page": 324,
+      "heading": "CHAPTER 25 \nThis chapter, listing the effects of each of the planets' being in the fourth,"
+    },
+    {
+      "page": 331,
+      "heading": "CHAPTER 26 \nAgain, for a general discussion of the material which is to be compared with"
+    },
+    {
+      "page": 335,
+      "heading": "CHAPTER 27 \nThis chapter deals with planetary and decanic melothesiae. The former,"
+    },
+    {
+      "page": 336,
+      "heading": "CHAPTER 28 \nChapters 28-34 deal with the effects of the parts of the zodiacal signs-"
+    },
+    {
+      "page": 337,
+      "heading": "CHAPTER 29 \nDescriptions of natives born under the influence of the various Decans must"
+    },
+    {
+      "page": 337,
+      "heading": "CHAPTER 30 \nThis chapter describes the natives born under the influence of each of the"
+    },
+    {
+      "page": 338,
+      "heading": "CHAPTER 31 \nTo this chapter, describing natives born under the influences of the 108"
+    },
+    {
+      "page": 338,
+      "heading": "CHAPTER 32 \nThis chapter is in a sense a continuation of 31, 110-112; together they are"
+    },
+    {
+      "page": 338,
+      "heading": "CHAPTER 33 \nThis chapter also continues 31, 110-112; again, the order of the planets"
+    },
+    {
+      "page": 339,
+      "heading": "CHAPTER 34 \nThis last chapter in this section of the Yavanajataka describes the effects of"
+    },
+    {
+      "page": 339,
+      "heading": "CHAPTER 35 \nIt seems that this truncated chapter ( one suspects that several verses are"
+    },
+    {
+      "page": 340,
+      "heading": "CHAPTER 36 \nThis chapter discusses a special class of planetary combinations known as"
+    },
+    {
+      "page": 344,
+      "heading": "CHAPTER 37 \nChapter 37-42 are concerned with the determination of the length of the"
+    },
+    {
+      "page": 350,
+      "heading": "CHAPTER 38 \nThe question of special yogas causing the early death of the native was"
+    },
+    {
+      "page": 353,
+      "heading": "CHAPTER 39 \nIn this chapter Sphujidhvaja treats two subjects: the naisargikayurdaya"
+    },
+    {
+      "page": 356,
+      "heading": "CHAPTER 40 \nThis chapter describes the events-good and bad ( depending on the character"
+    },
+    {
+      "page": 357,
+      "heading": "CHAPTER 41 \nIn this chapter on antardasas Sphujidhvaja gives the detailed predictions of"
+    },
+    {
+      "page": 359,
+      "heading": "CHAPTER 42 \nIn this chapter Sphujidhvaja instructs the reader on the method of deter-"
+    },
+    {
+      "page": 361,
+      "heading": "CHAPTER 43 \nVerses 1-9 carry out the promise of 42, 22, and tell how to predict the"
+    },
+    {
+      "page": 365,
+      "heading": "CHAPTER 44 \nThe order in which the planets are covered in chapters 44-50 is: the Sun,"
+    },
+    {
+      "page": 366,
+      "heading": "CHAPTER 45 \n1. Saturn transits its own place. \"Orpheus\" and Valens agree with"
+    },
+    {
+      "page": 369,
+      "heading": "CHAPTER 46 \nJ. Jupiter transits its own place. There is partial parallelism between"
+    },
+    {
+      "page": 371,
+      "heading": "CHAPTER 47 \nJ. Venus transits its own place. \"Orpheus\" (CCAG 2; 201, 19-20) regards"
+    },
+    {
+      "page": 373,
+      "heading": "CHAPTER 48 \n1. Mars transits its own place. \"Orpheus\" (CCAG 2; 200, 10-12), in the"
+    },
+    {
+      "page": 375,
+      "heading": "CHAPTER 49 \n1. Mercury transits its own place. The only parallel that survives in Western"
+    },
+    {
+      "page": 377,
+      "heading": "CHAPTER 50 \n1- 6. The Moon transits its own places. With regard to the transit of the first"
+    },
+    {
+      "page": 379,
+      "heading": "CHAPTER 51 \nThe first part of this chapter ( verses 1-11) gives rules for calculating the"
+    },
+    {
+      "page": 380,
+      "heading": "CHAPTER 52 \nChapters 52-72 deal with the important topic of interrogations (prasnajfiana,"
+    },
+    {
+      "page": 382,
+      "heading": "CHAPTER 53 \n13-19. These seven verses list the possible subjects of which the querist may"
+    },
+    {
+      "page": 382,
+      "heading": "CHAPTER 54 \n1-12. Compare chapter 25."
+    },
+    {
+      "page": 382,
+      "heading": "CHAPTER 55 \nThis chapter lists in detail the subjects of the querist's thoughts when each"
+    },
+    {
+      "page": 383,
+      "heading": "CHAPTER 56 \nFor conjunctions of two planets in nativities see chapter 21."
+    },
+    {
+      "page": 383,
+      "heading": "CHAPTER 57 \nCompare chapters 20 and 25, but especially 20, 9-21. In this chapter the"
+    },
+    {
+      "page": 383,
+      "heading": "CHAPTER 58 \nThe contents of this chapter are very close to those of 4, 2-25; see also"
+    },
+    {
+      "page": 384,
+      "heading": "CHAPTER 60 \nWith this chapter one must compare, in part, chapters 53, 13-19, and 56,"
+    },
+    {
+      "page": 384,
+      "heading": "CHAPTER 61 \nIn this chapter the thoughts of the querist are determined on the basis of"
+    },
+    {
+      "page": 384,
+      "heading": "CHAPTER 62 \nFor the purpose of further delimiting the nature of the question about to"
+    },
+    {
+      "page": 388,
+      "heading": "CHAPTER 63 \nThis chapter gives, in a rather incomplete fashion, rules for determining"
+    },
+    {
+      "page": 389,
+      "heading": "CHAPTER 64 \nThis chapter deals with questions concerning lost (verses 1-6) and stolen"
+    },
+    {
+      "page": 391,
+      "heading": "CHAPTER 65 \nThis chapter deals with questions concerning sickness and death-both for"
+    },
+    {
+      "page": 393,
+      "heading": "CHAPTER 66 \nThis short chapter tells one how to answer queries regarding the sex of"
+    },
+    {
+      "page": 393,
+      "heading": "CHAPTER 67 \nThis chapter deals with queries about dinner. This was a subject which"
+    },
+    {
+      "page": 394,
+      "heading": "CHAPTER 68 \nThis chapter is devoted to the appealing topic of sleep: the type of bed one"
+    },
+    {
+      "page": 395,
+      "heading": "CHAPTER 69 \nThis chapter and the next tell what the querist dreams about. The prediction"
+    },
+    {
+      "page": 396,
+      "heading": "CHAPTER 70 \nCompare chapter 60. Utpala (Prasnajnana 38-40) predicts dreams on the"
+    },
+    {
+      "page": 396,
+      "heading": "CHAPTER 71 \nThis chapter and the next enable the astrologer to reconstruct the name of"
+    },
+    {
+      "page": 396,
+      "heading": "CHAPTER 72 \nThe basis of this distribution of the letters of the Sanskrit alphabet (not all"
+    },
+    {
+      "page": 398,
+      "heading": "CHAPTER 73 \nThis chapter and the three succeeding ones are devoted to the important topic"
+    },
+    {
+      "page": 407,
+      "heading": "CHAPTER 74 \n1-6. There is clearly a relationship between these verses and those elsewhere"
+    },
+    {
+      "page": 407,
+      "heading": "CHAPTER 75 \n3. See Mahabharata 12, 101, 17:"
+    },
+    {
+      "page": 408,
+      "heading": "CHAPTER 76 \n1-12. The idea behind these verses is the theory of transits; see the commen-"
+    },
+    {
+      "page": 412,
+      "heading": "CHAPTER 77 \nIn this chapter and the next Sphujidhvaja deals with methods of determining"
+    },
+    {
+      "page": 415,
+      "heading": "CHAPTER 78 \n4-9. Compare the lists given earlier-e.g., in chapter 4."
+    },
+    {
+      "page": 415,
+      "heading": "CHAPTER 79 \nThis most difficult chapter contains one of the earliest expositions of mathe-"
+    },
+    {
+      "page": 435,
+      "heading": "Chapter II 21 contains fourteen horoscopes dated from 50 to 109; but the native"
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 173,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 85,
+    "yoga_mentions": 6,
+    "nakshatra_mentions": 7,
+    "dasha_mentions": 0,
+    "chapters_detected": 150
+  }
+}

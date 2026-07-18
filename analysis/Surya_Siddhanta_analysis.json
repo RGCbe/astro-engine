@@ -1,0 +1,1588 @@
+{
+  "book_key": "Surya_Siddhanta",
+  "filename": "surya_siddhanta_english_text.pdf",
+  "total_pages": 474,
+  "total_words": 208939,
+  "total_chars": 1168411,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "time",
+      "count": 816
+    },
+    {
+      "word": "sun",
+      "count": 580
+    },
+    {
+      "word": "upon",
+      "count": 505
+    },
+    {
+      "word": "sine",
+      "count": 505
+    },
+    {
+      "word": "longitude",
+      "count": 495
+    },
+    {
+      "word": "moon",
+      "count": 490
+    },
+    {
+      "word": "given",
+      "count": 466
+    },
+    {
+      "word": "latitude",
+      "count": 462
+    },
+    {
+      "word": "hindu",
+      "count": 452
+    },
+    {
+      "word": "motion",
+      "count": 449
+    },
+    {
+      "word": "mean",
+      "count": 444
+    },
+    {
+      "word": "other",
+      "count": 442
+    },
+    {
+      "word": "planets",
+      "count": 442
+    },
+    {
+      "word": "point",
+      "count": 424
+    },
+    {
+      "word": "siddhanta",
+      "count": 411
+    },
+    {
+      "word": "true",
+      "count": 401
+    },
+    {
+      "word": "same",
+      "count": 399
+    },
+    {
+      "word": "moon's",
+      "count": 398
+    },
+    {
+      "word": "distance",
+      "count": 387
+    },
+    {
+      "word": "day",
+      "count": 377
+    },
+    {
+      "word": "ecliptic",
+      "count": 368
+    },
+    {
+      "word": "add",
+      "count": 359
+    },
+    {
+      "word": "first",
+      "count": 357
+    },
+    {
+      "word": "planet",
+      "count": 350
+    },
+    {
+      "word": "place",
+      "count": 338
+    },
+    {
+      "word": "found",
+      "count": 310
+    },
+    {
+      "word": "sun's",
+      "count": 306
+    },
+    {
+      "word": "see",
+      "count": 303
+    },
+    {
+      "word": "conjunction",
+      "count": 301
+    },
+    {
+      "word": "text",
+      "count": 291
+    },
+    {
+      "word": "only",
+      "count": 290
+    },
+    {
+      "word": "above",
+      "count": 290
+    },
+    {
+      "word": "half",
+      "count": 282
+    },
+    {
+      "word": "circle",
+      "count": 278
+    },
+    {
+      "word": "surya",
+      "count": 269
+    },
+    {
+      "word": "verse",
+      "count": 259
+    },
+    {
+      "word": "made",
+      "count": 258
+    },
+    {
+      "word": "find",
+      "count": 255
+    },
+    {
+      "word": "process",
+      "count": 250
+    },
+    {
+      "word": "eclipse",
+      "count": 250
+    },
+    {
+      "word": "difference",
+      "count": 242
+    },
+    {
+      "word": "latter",
+      "count": 235
+    },
+    {
+      "word": "stars",
+      "count": 231
+    },
+    {
+      "word": "parallax",
+      "count": 228
+    },
+    {
+      "word": "etc",
+      "count": 227
+    },
+    {
+      "word": "asterisms",
+      "count": 227
+    },
+    {
+      "word": "name",
+      "count": 226
+    },
+    {
+      "word": "thus",
+      "count": 225
+    },
+    {
+      "word": "number",
+      "count": 221
+    },
+    {
+      "word": "part",
+      "count": 221
+    },
+    {
+      "word": "shadow",
+      "count": 218
+    },
+    {
+      "word": "system",
+      "count": 217
+    },
+    {
+      "word": "each",
+      "count": 215
+    },
+    {
+      "word": "arc",
+      "count": 208
+    },
+    {
+      "word": "star",
+      "count": 203
+    },
+    {
+      "word": "year",
+      "count": 203
+    },
+    {
+      "word": "declination",
+      "count": 200
+    },
+    {
+      "word": "between",
+      "count": 198
+    },
+    {
+      "word": "position",
+      "count": 196
+    },
+    {
+      "word": "meridian",
+      "count": 196
+    },
+    {
+      "word": "according",
+      "count": 195
+    },
+    {
+      "word": "iii",
+      "count": 195
+    },
+    {
+      "word": "equal",
+      "count": 194
+    },
+    {
+      "word": "lunar",
+      "count": 194
+    },
+    {
+      "word": "method",
+      "count": 190
+    },
+    {
+      "word": "case",
+      "count": 189
+    },
+    {
+      "word": "daily",
+      "count": 185
+    },
+    {
+      "word": "chapter",
+      "count": 183
+    },
+    {
+      "word": "radius",
+      "count": 183
+    },
+    {
+      "word": "now",
+      "count": 182
+    },
+    {
+      "word": "however",
+      "count": 180
+    },
+    {
+      "word": "sin",
+      "count": 179
+    },
+    {
+      "word": "amount",
+      "count": 176
+    },
+    {
+      "word": "equation",
+      "count": 176
+    },
+    {
+      "word": "result",
+      "count": 175
+    },
+    {
+      "word": "called",
+      "count": 173
+    },
+    {
+      "word": "direction",
+      "count": 172
+    },
+    {
+      "word": "value",
+      "count": 171
+    },
+    {
+      "word": "apparent",
+      "count": 163
+    },
+    {
+      "word": "since",
+      "count": 161
+    },
+    {
+      "word": "siddhdnta",
+      "count": 160
+    },
+    {
+      "word": "different",
+      "count": 158
+    },
+    {
+      "word": "earth",
+      "count": 158
+    },
+    {
+      "word": "whole",
+      "count": 158
+    },
+    {
+      "word": "apsis",
+      "count": 157
+    },
+    {
+      "word": "xii",
+      "count": 157
+    },
+    {
+      "word": "revolution",
+      "count": 157
+    },
+    {
+      "word": "age",
+      "count": 157
+    },
+    {
+      "word": "orbit",
+      "count": 156
+    },
+    {
+      "word": "asterism",
+      "count": 155
+    },
+    {
+      "word": "years",
+      "count": 153
+    },
+    {
+      "word": "days",
+      "count": 153
+    },
+    {
+      "word": "solar",
+      "count": 152
+    },
+    {
+      "word": "motions",
+      "count": 150
+    },
+    {
+      "word": "hundred",
+      "count": 148
+    },
+    {
+      "word": "order",
+      "count": 147
+    },
+    {
+      "word": "end",
+      "count": 146
+    },
+    {
+      "word": "gives",
+      "count": 146
+    },
+    {
+      "word": "hindus",
+      "count": 146
+    },
+    {
+      "word": "some",
+      "count": 145
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "80°",
+      "context": "n Surya Siddhanta. As calculated from modern rules. Sua 80' 80° 77° 77*14' 77*15' Mercury 220° 220° 227° 220°26' 234*11' Ven"
+    },
+    {
+      "type": "degree_measure",
+      "value": "77°",
+      "context": "rya Siddhanta. As calculated from modern rules. Sua 80' 80° 77° 77*14' 77*15' Mercury 220° 220° 227° 220°26' 234*11' Venus 8"
+    },
+    {
+      "type": "degree_measure",
+      "value": "220°",
+      "context": "ed from modern rules. Sua 80' 80° 77° 77*14' 77*15' Mercury 220° 220° 227° 220°26' 234*11' Venus 80° 80° 90° 79°49' 290*4' •"
+    },
+    {
+      "type": "degree_measure",
+      "value": "227°",
+      "context": "dern rules. Sua 80' 80° 77° 77*14' 77*15' Mercury 220° 220° 227° 220°26' 234*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "220°26'",
+      "context": "rules. Sua 80' 80° 77° 77*14' 77*15' Mercury 220° 220° 227° 220°26' 234*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110° 110° 12"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90°",
+      "context": "77*15' Mercury 220° 220° 227° 220°26' 234*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "79°49'",
+      "context": "5' Mercury 220° 220° 227° 220°26' 234*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 160* 16"
+    },
+    {
+      "type": "degree_measure",
+      "value": "110°",
+      "context": "227° 220°26' 234*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 160* 160° 170° 171*16' 170*"
+    },
+    {
+      "type": "degree_measure",
+      "value": "127°",
+      "context": "6' 234*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 160* 160° 170° 171*16' 170*22' Saturn"
+    },
+    {
+      "type": "degree_measure",
+      "value": "130°0'",
+      "context": "4*11' Venus 80° 80° 90° 79°49' 290*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 160* 160° 170° 171*16' 170*22' Saturn 240°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "160°",
+      "context": "9' 290*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 160* 160° 170° 171*16' 170*22' Saturn 240° 240° 252° 286°37' 243°40' P"
+    },
+    {
+      "type": "degree_measure",
+      "value": "170°",
+      "context": "0*4' • Mars 110° 110° 127° 130°0' 128*28' Jupiter 160* 160° 170° 171*16' 170*22' Saturn 240° 240° 252° 286°37' 243°40' Prom t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "240°",
+      "context": "30°0' 128*28' Jupiter 160* 160° 170° 171*16' 170*22' Saturn 240° 240° 252° 286°37' 243°40' Prom this table it is seen that th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "252°",
+      "context": "28' Jupiter 160* 160° 170° 171*16' 170*22' Saturn 240° 240° 252° 286°37' 243°40' Prom this table it is seen that the modern b"
+    },
+    {
+      "type": "degree_measure",
+      "value": "286°37'",
+      "context": "upiter 160* 160° 170° 171*16' 170*22' Saturn 240° 240° 252° 286°37' 243°40' Prom this table it is seen that the modern book is."
+    },
+    {
+      "type": "degree_measure",
+      "value": "243°40'",
+      "context": "60* 160° 170° 171*16' 170*22' Saturn 240° 240° 252° 286°37' 243°40' Prom this table it is seen that the modern book is. not in"
+    },
+    {
+      "type": "degree_measure",
+      "value": "14°",
+      "context": "ara j the modern Khanij-akhadyaka) Surya Siddhinta. Sun 14* 14° 13°40' 13°40' to 14° Moon 31* >. 31° 31°39' 31*40' to 82* Me"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13°40'",
+      "context": "j the modern Khanij-akhadyaka) Surya Siddhinta. Sun 14* 14° 13°40' 13°40' to 14° Moon 31* >. 31° 31°39' 31*40' to 82* Mercury"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°",
+      "context": "rya Siddhinta. Sun 14* 14° 13°40' 13°40' to 14° Moon 31* >. 31° 31°39' 31*40' to 82* Mercury 28* 28° — 28° to 36* Venus 14*"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°39'",
+      "context": "Siddhinta. Sun 14* 14° 13°40' 13°40' to 14° Moon 31* >. 31° 31°39' 31*40' to 82* Mercury 28* 28° — 28° to 36* Venus 14* 14° —"
+    },
+    {
+      "type": "degree_measure",
+      "value": "28°",
+      "context": "40' to 14° Moon 31* >. 31° 31°39' 31*40' to 82* Mercury 28* 28° — 28° to 36* Venus 14* 14° — 11' to 12* Mars 70* 70° — 72* t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "70°",
+      "context": "ry 28* 28° — 28° to 36* Venus 14* 14° — 11' to 12* Mars 70* 70° — 72* to 76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "32°",
+      "context": "enus 14* 14° — 11' to 12* Mars 70* 70° — 72* to 76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48° 48° to 49° • The great d"
+    },
+    {
+      "type": "degree_measure",
+      "value": "82°",
+      "context": "4° — 11' to 12* Mars 70* 70° — 72* to 76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48° 48° to 49° • The great disagreemen"
+    },
+    {
+      "type": "degree_measure",
+      "value": "33°",
+      "context": "' to 12* Mars 70* 70° — 72* to 76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48° 48° to 49° • The great disagreement in th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "60°",
+      "context": "0* 70° — 72* to 76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48° 48° to 49° • The great disagreement in the estimate of t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "48°",
+      "context": "0° — 72* to 76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48° 48° to 49° • The great disagreement in the estimate of the l"
+    },
+    {
+      "type": "degree_measure",
+      "value": "49°",
+      "context": "76* Jupiter 32° 32° — 82° to 33° Saturn 60* 60° 48° 48° to 49° • The great disagreement in the estimate of the longitude of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "40°",
+      "context": "Surya Siddhanta. According to the mod. S. Siddhanta. Saturn 40° 40° 39° to 40° Jupiter 72* 72° 70° to 72° Mars 234° 234° 232"
+    },
+    {
+      "type": "degree_measure",
+      "value": "39°",
+      "context": "ddhanta. According to the mod. S. Siddhanta. Saturn 40° 40° 39° to 40° Jupiter 72* 72° 70° to 72° Mars 234° 234° 232° to 285"
+    },
+    {
+      "type": "degree_measure",
+      "value": "72°",
+      "context": "he mod. S. Siddhanta. Saturn 40° 40° 39° to 40° Jupiter 72* 72° 70° to 72° Mars 234° 234° 232° to 285° Venm 260° 260° 260° t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "234°",
+      "context": ". Saturn 40° 40° 39° to 40° Jupiter 72* 72° 70° to 72° Mars 234° 234° 232° to 285° Venm 260° 260° 260° to 262° Mercury 132° 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "232°",
+      "context": "0° 40° 39° to 40° Jupiter 72* 72° 70° to 72° Mars 234° 234° 232° to 285° Venm 260° 260° 260° to 262° Mercury 132° 132° 132° t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "285°",
+      "context": "9° to 40° Jupiter 72* 72° 70° to 72° Mars 234° 234° 232° to 285° Venm 260° 260° 260° to 262° Mercury 132° 132° 132° to 133° E"
+    },
+    {
+      "type": "degree_measure",
+      "value": "260°",
+      "context": "Jupiter 72* 72° 70° to 72° Mars 234° 234° 232° to 285° Venm 260° 260° 260° to 262° Mercury 132° 132° 132° to 133° E. Longitud"
+    },
+    {
+      "type": "degree_measure",
+      "value": "262°",
+      "context": "° to 72° Mars 234° 234° 232° to 285° Venm 260° 260° 260° to 262° Mercury 132° 132° 132° to 133° E. Longitudes of the Nodes of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "132°",
+      "context": "234° 234° 232° to 285° Venm 260° 260° 260° to 262° Mercury 132° 132° 132° to 133° E. Longitudes of the Nodes of the orbits o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "133°",
+      "context": "285° Venm 260° 260° 260° to 262° Mercury 132° 132° 132° to 133° E. Longitudes of the Nodes of the orbits of Planets at 499 A"
+    },
+    {
+      "type": "degree_measure",
+      "value": "100°",
+      "context": "n khadyaka. Surya Siddhanta. Surya Siddhanta. rules. Saturn 100° Not given in 100°26' 100°32' Jupiter 80° the text of Pailca"
+    },
+    {
+      "type": "degree_measure",
+      "value": "100°26'",
+      "context": "Siddhanta. Surya Siddhanta. rules. Saturn 100° Not given in 100°26' 100°32' Jupiter 80° the text of Pailca 79°41' 85°13' Mars 4"
+    },
+    {
+      "type": "degree_measure",
+      "value": "100°32'",
+      "context": "a. Surya Siddhanta. rules. Saturn 100° Not given in 100°26' 100°32' Jupiter 80° the text of Pailca 79°41' 85°13' Mars 40° Siddh"
+    },
+    {
+      "type": "degree_measure",
+      "value": "79°41'",
+      "context": "Not given in 100°26' 100°32' Jupiter 80° the text of Pailca 79°41' 85°13' Mars 40° Siddhantika. 40°6' 37°59' Venus 60° 59°46'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "85°13'",
+      "context": "en in 100°26' 100°32' Jupiter 80° the text of Pailca 79°41' 85°13' Mars 40° Siddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "40°6'",
+      "context": "80° the text of Pailca 79°41' 85°13' Mars 40° Siddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It"
+    },
+    {
+      "type": "degree_measure",
+      "value": "37°59'",
+      "context": "he text of Pailca 79°41' 85°13' Mars 40° Siddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It will a"
+    },
+    {
+      "type": "degree_measure",
+      "value": "59°46'",
+      "context": "79°41' 85°13' Mars 40° Siddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It will appear that in the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "63°16'",
+      "context": "85°13' Mars 40° Siddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It will appear that in the elemen"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°",
+      "context": "° Siddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It will appear that in the elements under D an"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°44'",
+      "context": "ddhantika. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It will appear that in the elements under D and E th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30°85'",
+      "context": "ka. 40°6' 37°59' Venus 60° 59°46' 63°16' Mercury 20° 20°44' 30°85' It will appear that in the elements under D and E the modem"
+    },
+    {
+      "type": "degree_measure",
+      "value": "360°",
+      "context": "tude I of the moon on any day is /, = m - P° x:Rsi]1 (>»-a) 360° where m is the moon's mean longitude, a the loDgitude of the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31 °30'",
+      "context": "(m — a) x 10 _n , _ , which is really equal to - (n ~ w>) x31 °30' xTab. Diffce. of 'sines' at arc (ni-a) \" 360° x 225 Here, n"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°30'",
+      "context": "es' at arc (ni-a) \" 360° x 225 Here, n= 790'35\", n = 6'40», 31°30'=P° the periphery of the moon's epicycle of apsis according"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°31'",
+      "context": "icycle of apsis according to Aryabhata I and in fact (n-w')x31°31' _ 100' 860° x 225 828 ' 10' Which is taken by Lalla as — Th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "860°",
+      "context": "s according to Aryabhata I and in fact (n-w')x31°31' _ 100' 860° x 225 828 ' 10' Which is taken by Lalla as — The divisor 225"
+    },
+    {
+      "type": "degree_measure",
+      "value": "47°",
+      "context": "alculator seeing that the Slghra equation does never exceed 47° and using Brahma- gupta's rule simplified the fraction Tab."
+    },
+    {
+      "type": "degree_measure",
+      "value": "8°0'",
+      "context": "he P. LoDg. of the Modei n Siddhanta as to source. Asvini [ 8°0' 1 8°3' 8°0' Traditional * BbaranI j 20'0' 20'0' 20*0' Do. K"
+    },
+    {
+      "type": "degree_measure",
+      "value": "8°3'",
+      "context": "oDg. of the Modei n Siddhanta as to source. Asvini [ 8°0' 1 8°3' 8°0' Traditional * BbaranI j 20'0' 20'0' 20*0' Do. Krttika"
+    },
+    {
+      "type": "degree_measure",
+      "value": "87°28'",
+      "context": "raditional * BbaranI j 20'0' 20'0' 20*0' Do. Krttika 32*40' 87°28' 36*0' 37*80' Brahinagupta BohinI 4S\"l/' 49*28' 49*0' 49*80'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "03°0'",
+      "context": "Brahinagupta BohinI 4S\"l/' 49*28' 49*0' 49*80' Do. Mrgasira 03°0' 62°0' 68°0' Do. Ardra c>: *o' 70°0' 67*20' New ? Punarvasu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "62°0'",
+      "context": "agupta BohinI 4S\"l/' 49*28' 49*0' 49*80' Do. Mrgasira 03°0' 62°0' 68°0' Do. Ardra c>: *o' 70°0' 67*20' New ? Punarvasu 88*0'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "68°0'",
+      "context": "BohinI 4S\"l/' 49*28' 49*0' 49*80' Do. Mrgasira 03°0' 62°0' 68°0' Do. Ardra c>: *o' 70°0' 67*20' New ? Punarvasu 88*0' 93*3'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "70°0'",
+      "context": "*0' 49*80' Do. Mrgasira 03°0' 62°0' 68°0' Do. Ardra c>: *o' 70°0' 67*20' New ? Punarvasu 88*0' 93*3' 92°0' 93*0' Brahmagupta"
+    },
+    {
+      "type": "degree_measure",
+      "value": "92°0'",
+      "context": "Do. Ardra c>: *o' 70°0' 67*20' New ? Punarvasu 88*0' 93*3' 92°0' 93*0' Brahmagupta Pusya 97*20' 1 16*0' 105 °20' 100*0' Do."
+    },
+    {
+      "type": "degree_measure",
+      "value": "105 °20'",
+      "context": "su 88*0' 93*3' 92°0' 93*0' Brahmagupta Pusya 97*20' 1 16*0' 105 °20' 100*0' Do. AaieHa 107 '40' 108*0' 114*0' 109*0' New Magha 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120 °0'",
+      "context": "' 100*0' Do. AaieHa 107 '40' 108*0' 114*0' 109*0' New Magha 120 °0' 129°0' 128°0' 129 °0' Brahmagupta P. Phalguni 147 °0' 139*2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "129°0'",
+      "context": "Do. AaieHa 107 '40' 108*0' 114*0' 109*0' New Magha 120 °0' 129°0' 128°0' 129 °0' Brahmagupta P. Phalguni 147 °0' 139*20' 144*"
+    },
+    {
+      "type": "degree_measure",
+      "value": "128°0'",
+      "context": "ieHa 107 '40' 108*0' 114*0' 109*0' New Magha 120 °0' 129°0' 128°0' 129 °0' Brahmagupta P. Phalguni 147 °0' 139*20' 144*0' Trad"
+    },
+    {
+      "type": "degree_measure",
+      "value": "129 °0'",
+      "context": "7 '40' 108*0' 114*0' 109*0' New Magha 120 °0' 129°0' 128°0' 129 °0' Brahmagupta P. Phalguni 147 °0' 139*20' 144*0' Traditional"
+    },
+    {
+      "type": "degree_measure",
+      "value": "147 °0'",
+      "context": "Magha 120 °0' 129°0' 128°0' 129 °0' Brahmagupta P. Phalguni 147 °0' 139*20' 144*0' Traditional U. PhalgunI 165-0' 154°0' 155*0'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "154°0'",
+      "context": "lguni 147 °0' 139*20' 144*0' Traditional U. PhalgunI 165-0' 154°0' 155*0' Brahmagupta Hasta 170*0' 173*0' 170*0' Do. Citra Sva"
+    },
+    {
+      "type": "degree_measure",
+      "value": "183°0'",
+      "context": "Hasta 170*0' 173*0' 170*0' Do. Citra SvatT 180*50' (180' ?) 183°0' 199*0' 184 °20' 197 °20' 180*0' 199*0' Traditional Brahmagu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "184 °20'",
+      "context": "73*0' 170*0' Do. Citra SvatT 180*50' (180' ?) 183°0' 199*0' 184 °20' 197 °20' 180*0' 199*0' Traditional Brahmagupta Viaakha 212*"
+    },
+    {
+      "type": "degree_measure",
+      "value": "197 °20'",
+      "context": "*0' Do. Citra SvatT 180*50' (180' ?) 183°0' 199*0' 184 °20' 197 °20' 180*0' 199*0' Traditional Brahmagupta Viaakha 212*5' 212*0'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "229°5'",
+      "context": "*0' Netf Anuradha 224*5' 222 '0' 224*0' Brahmagupta Jye?(ha 229°5' 2v>8*0' 229*0' Do. Mfila 241*0' 241 °0' 241*0' Traditional"
+    },
+    {
+      "type": "degree_measure",
+      "value": "241 °0'",
+      "context": "Brahmagupta Jye?(ha 229°5' 2v>8*0' 229*0' Do. Mfila 241*0' 241 °0' 241*0' Traditional P. Asadhfi 254*0' 254*0' 264*0' Do. D. A"
+    },
+    {
+      "type": "degree_measure",
+      "value": "260°0'",
+      "context": "' Traditional P. Asadhfi 254*0' 254*0' 264*0' Do. D. Aa&dha 260°0' 267*0' 260*0' Brahmagupta Abhijit 26F°0' 267*20' 266*0' New"
+    },
+    {
+      "type": "degree_measure",
+      "value": "278°0'",
+      "context": "0*0' Brahmagupta Abhijit 26F°0' 267*20' 266*0' New Sravaija 278°0' 288*10' 280*0' New Dbanistba 290°0' 296*20' 290*0' Brahmagu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "290°0'",
+      "context": "20' 266*0' New Sravaija 278°0' 288*10' 280*0' New Dbanistba 290°0' 296*20' 290*0' Brahmagupta Satabbisa 320'0' 813*20' 320*0'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "326°0'",
+      "context": "ahmagupta Satabbisa 320'0' 813*20' 320*0' Do. P. Bh&drapada 326°0' 827*0' 326*0' Dp. T7. Bbadrapada 387*0' 386*0' 337*0' DO-:"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4°\n48'",
+      "context": "llow- ing stars: Excess in P. Long, in Brahmagupta. Krtttka 4° 48' Eohini 1° 28' Punarvaau 5° 3' Magha 3° 0' P. PhalgunI 3° 0'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°\n28'",
+      "context": "s: Excess in P. Long, in Brahmagupta. Krtttka 4° 48' Eohini 1° 28' Punarvaau 5° 3' Magha 3° 0' P. PhalgunI 3° 0' Citra 3° 0' S"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5°\n3'",
+      "context": "ong, in Brahmagupta. Krtttka 4° 48' Eohini 1° 28' Punarvaau 5° 3' Magha 3° 0' P. PhalgunI 3° 0' Citra 3° 0' Sum = 20° 19' The"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°\n0'",
+      "context": "magupta. Krtttka 4° 48' Eohini 1° 28' Punarvaau 5° 3' Magha 3° 0' P. PhalgunI 3° 0' Citra 3° 0' Sum = 20° 19' The mean excess"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°\n19'",
+      "context": "rvaau 5° 3' Magha 3° 0' P. PhalgunI 3° 0' Citra 3° 0' Sum = 20° 19' The mean excess in Brahmagupta's longitude comes out for th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3° 23'",
+      "context": "Brahmagupta's longitude comes out for these six stars to be 3° 23', which at the rate of 72 years per degree is the excess for"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°\n0'",
+      "context": "ing stars : Excess in P. Long, over Brahmagupta. A6lesa ... 1° 0' Visakha ... ... 1° 0' Abhijit ... 1° 0' Sravaoa ... ... 2°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°\n0'",
+      "context": "0' Visakha ... ... 1° 0' Abhijit ... 1° 0' Sravaoa ... ... 2° 0' The mean excess over Brahmagupta's polar longitudes for the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1° 15'",
+      "context": "pta's polar longitudes for these four stare works out to be 1° 15', which may be taken to correspond to 90 years after the tim"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°",
+      "context": "ed north. It shows that the solstices had preceded by about 15° and that the date when this took place was 2000 B.C. The ear"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12°",
+      "context": "xxxiv STTEYA S1DDH1NTA tithi, i.e., in which the moon gains 12° of longitude over the sun. From this time the lunar months v"
+    },
+    {
+      "type": "degree_measure",
+      "value": "17° 54'",
+      "context": "at present, as reckoned by us, from the vernal equinox, is 17° 54'. Making due allowance for the precession, we find that it c"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°5'",
+      "context": "a Lune. The origin of the Hindu sphere is regarded as being 18°5'8\" east of the vernal equinox of Jan. 1, 1860, and 50°22'29\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "50°22'",
+      "context": "ing 18°5'8\" east of the vernal equinox of Jan. 1, 1860, and 50°22'29\" west of that of Feb. 17, 3102 B.C., the pre- cession in"
+    },
+    {
+      "type": "degree_measure",
+      "value": "68°27'",
+      "context": "Feb. 17, 3102 B.C., the pre- cession in the interval being 68°27'37\".. We add, in a second column, the mean longitudes, as re"
+    },
+    {
+      "type": "degree_measure",
+      "value": "9°",
+      "context": "ated by them for the present time, are in some cases nearly 9° from the true places. The later astronomers of India, howeve"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°",
+      "context": "ther points fixed by them in their zodiac. And a mistake of 1° in the determination of the sun's place would occasion a dif"
+    },
+    {
+      "type": "degree_measure",
+      "value": "257°\n48'",
+      "context": "Jan. 1st, 1860, at midnight on the meridian of Ujjayini, is 257° 48' 7\". We have calculated in this manner the positions of all"
+    },
+    {
+      "type": "degree_measure",
+      "value": "38°54'",
+      "context": "e given below (iii. 13, \") The latitude of Washington being 38°54', the sine of its co-latitude is 2675'; the proportion 3438:"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°\n11'",
+      "context": "ituation ie stated by Worren (Kala Sankalita, p. 9) as lat. 23° 11' 30\" N., long. 75° 53' E. from Greenwich: a later authority,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "75°\n53'",
+      "context": "Worren (Kala Sankalita, p. 9) as lat. 23° 11' 30\" N., long. 75° 53' E. from Greenwich: a later authority, Thorn- ton's Gazettee"
+    },
+    {
+      "type": "degree_measure",
+      "value": "70° 36'",
+      "context": "eterminations of longitude; Thornton gives its longitude as 70° 36', or 51' to the east of Ujjayin\". The method by which an obs"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°\n5'",
+      "context": "he vernal equinox of that date, which we make to be distant 18° 5' 8\". 25 from'the point established by the Surya-Siddhanta as"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°30'",
+      "context": "or 27'xl0=«270'-4 o 30' Mars, *-if- x8^ 90' or 9'xl0= 90' = 1°30'  Mean Motions of the Planets 51 Q7fl' Murcury, ^Lx4 = 12i/"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°",
+      "context": "Planets 51 Q7fl' Murcury, ^Lx4 = 12i/ or 12' x 10 = 120' = 2° Jupiter, ?IP_x2= 60' or 6' x 10= 00' = V Venos, ?I5l x 4=120"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7° 30'",
+      "context": "' 119' 106' 93' 79' 05' 51' 37' 22' 7' •065445 224'-84 7' 2 7° 30' 460' 449' •130599 448'-72 29' it 11° 15' 675' 671' 195172 6"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11° 15'",
+      "context": "065445 224'-84 7' 2 7° 30' 460' 449' •130599 448'-72 29' it 11° 15' 675' 671' 195172 670''07 60' 4 15° 900' 890' '258871 889' 7"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°\n900'",
+      "context": "30599 448'-72 29' it 11° 15' 675' 671' 195172 670''07 60' 4 15° 900' 890' '258871 889' 76 117' 5 18° 45' 1125' 1105' 321408 1105"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18° 45'",
+      "context": "' 195172 670''07 60' 4 15° 900' 890' '258871 889' 76 117' 5 18° 45' 1125' 1105' 321408 1105''03 182' 6 22° 30' 1350' 1315' •382"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22° 30'",
+      "context": "1 889' 76 117' 5 18° 45' 1125' 1105' 321408 1105''03 182' 6 22° 30' 1350' 1315' •382489 1315''67 + 261' 7 20° 15' 1575' 1520' •"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20° 15'",
+      "context": "05''03 182' 6 22° 30' 1350' 1315' •382489 1315''67 + 261' 7 20° 15' 1575' 1520' •442117 !520''48 354' 8 30° 1800' 1719' •500000"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30°\n1800'",
+      "context": "15''67 + 261' 7 20° 15' 1575' 1520' •442117 !520''48 354' 8 30° 1800' 1719' •500000 1718'-88 460' 9 38° 45' 2025' 1910' •555555 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "38° 45'",
+      "context": "117 !520''48 354' 8 30° 1800' 1719' •500000 1718'-88 460' 9 38° 45' 2025' 1910' •555555 1909' 91 579' 10 37° 30' 2250' 2093' 60"
+    },
+    {
+      "type": "degree_measure",
+      "value": "37° 30'",
+      "context": "718'-88 460' 9 38° 45' 2025' 1910' •555555 1909' 91 579' 10 37° 30' 2250' 2093' 608784 20ii2'-77 710' 11 41° 15' 2475' 2267' •6"
+    },
+    {
+      "type": "degree_measure",
+      "value": "41° 15'",
+      "context": "09' 91 579' 10 37° 30' 2250' 2093' 608784 20ii2'-77 710' 11 41° 15' 2475' 2267' •659395 2266'-(>7 863' 12 45° 2700' 2431' •7070"
+    },
+    {
+      "type": "degree_measure",
+      "value": "45°\n2700'",
+      "context": "2'-77 710' 11 41° 15' 2475' 2267' •659395 2266'-(>7 863' 12 45° 2700' 2431' •707097 24 30' 86 1007' 13 48° 45' 2925' 2585' •75189"
+    },
+    {
+      "type": "degree_measure",
+      "value": "48° 45'",
+      "context": "266'-(>7 863' 12 45° 2700' 2431' •707097 24 30' 86 1007' 13 48° 45' 2925' 2585' •751894 2584\"64 1171' 14 52° 30' 3150' 2728' •7"
+    },
+    {
+      "type": "degree_measure",
+      "value": "52° 30'",
+      "context": "0' 86 1007' 13 48° 45' 2925' 2585' •751894 2584\"64 1171' 14 52° 30' 3150' 2728' •793484 2727':)5- 1345' 15 56° 10' 3375' 2859'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "56° 10'",
+      "context": "\"64 1171' 14 52° 30' 3150' 2728' •793484 2727':)5- 1345' 15 56° 10' 3375' 2859' •831588 2858''38- 1528' 16 60° 3600' 2978' •866"
+    },
+    {
+      "type": "degree_measure",
+      "value": "60°\n3600'",
+      "context": ")5- 1345' 15 56° 10' 3375' 2859' •831588 2858''38- 1528' 16 60° 3600' 2978' •866201 29T7'-18- 1719' 17 63° 45' 3825' 30H4' •89703"
+    },
+    {
+      "type": "degree_measure",
+      "value": "63° 45'",
+      "context": "58''38- 1528' 16 60° 3600' 2978' •866201 29T7'-18- 1719' 17 63° 45' 3825' 30H4' •897033 3083''22- 1918' 18 67° 30' 4050' 3177'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "67° 30'",
+      "context": "18- 1719' 17 63° 45' 3825' 30H4' •897033 3083''22- 1918' 18 67° 30' 4050' 3177' •924084 3176' 07 2123' 19 71° 15' 4275' :-250'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "71° 15'",
+      "context": "'22- 1918' 18 67° 30' 4050' 3177' •924084 3176' 07 2123' 19 71° 15' 4275' :-250' •947002 3255'\")1- 2333' 20 75° 4500' 3321' •1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "75°\n4500'",
+      "context": "07 2123' 19 71° 15' 4275' :-250' •947002 3255'\")1- 2333' 20 75° 4500' 3321' •1 65969 3320' 61 254H' ai 78° 45' 4725' 3372' •98080"
+    },
+    {
+      "type": "degree_measure",
+      "value": "78° 45'",
+      "context": "55'\")1- 2333' 20 75° 4500' 3321' •1 65969 3320' 61 254H' ai 78° 45' 4725' 3372' •980803 3371'-70 2767' 22 82° 30' 4960' 3409' •"
+    },
+    {
+      "type": "degree_measure",
+      "value": "82° 30'",
+      "context": "' 61 254H' ai 78° 45' 4725' 3372' •980803 3371'-70 2767' 22 82° 30' 4960' 3409' •991565 8408' - 34- 2989' 23 86° 15' 6175' 3431"
+    },
+    {
+      "type": "degree_measure",
+      "value": "86° 15'",
+      "context": "0 2767' 22 82° 30' 4960' 3409' •991565 8408' - 34- 2989' 23 86° 15' 6175' 3431' •997964 :1430''39- 3213' 24 90° 5400' 3138' 1-0"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90°\n5400'",
+      "context": "4- 2989' 23 86° 15' 6175' 3431' •997964 :1430''39- 3213' 24 90° 5400' 3138' 1-000000 3187''75 3438' The rule by which the sines a"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°\n45'",
+      "context": "ta- tion of the table to arcs differing from one another by 3° 45', and by what we know in general of the trigonometrical meth"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30°",
+      "context": "sine of 90° was obviously equal to radius, and the sine of 30° to half radius : from the first could be found the sines of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "45°",
+      "context": "to half radius : from the first could be found the sines of 45°, 22° 30', and 11° 15'; from the latter, those of 15°, 7° 30"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°\n30'",
+      "context": "lf radius : from the first could be found the sines of 45°, 22° 30', and 11° 15'; from the latter, those of 15°, 7° 30', and 3°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11°\n15'",
+      "context": "rom the first could be found the sines of 45°, 22° 30', and 11° 15'; from the latter, those of 15°, 7° 30', and 3° 45'. The sin"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7°\n30'",
+      "context": "f 45°, 22° 30', and 11° 15'; from the latter, those of 15°, 7° 30', and 3° 45'. The sines thus obtained would give those of th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "86°\n15'",
+      "context": "obtained would give those of the complementary arcs, or of 86° 15', 82° 30', 78° 45', 75\", etc. ; and the sine of 75°, again,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "82°\n30'",
+      "context": "would give those of the complementary arcs, or of 86° 15', 82° 30', 78° 45', 75\", etc. ; and the sine of 75°, again, would giv"
+    },
+    {
+      "type": "degree_measure",
+      "value": "78°\n45'",
+      "context": "ve those of the complementary arcs, or of 86° 15', 82° 30', 78° 45', 75\", etc. ; and the sine of 75°, again, would give those o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "75°",
+      "context": "r of 86° 15', 82° 30', 78° 45', 75\", etc. ; and the sine of 75°, again, would give those of 37° 30' and 18' 45' liy continu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "37°\n30'",
+      "context": "75\", etc. ; and the sine of 75°, again, would give those of 37° 30' and 18' 45' liy continuing the same processes, the table of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "24°",
+      "context": "ination of the plarie of the ecliptic, is here stated to be 24°, 1397' being the sine of that angle. The true inclination i"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°",
+      "context": "the Hindu astronomy was established, was a littlo less than 23° 40*, so that the error of the Hindu determination was then m"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°\n50'",
+      "context": "ned by Ptolemy (Syntaxis, i) to th^ inclination was between 23° 50' and 23° 52' 30\" ; an error, as compared with its true value"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°\n52'",
+      "context": "my (Syntaxis, i) to th^ inclination was between 23° 50' and 23° 52' 30\" ; an error, as compared with its true value in •. the t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "76°",
+      "context": "oon, Mercury, Venus, Mare, Jupiter, Saturn, 14° 32° 30° 12° 76° 33° 49° 133'. 70 305'.60 286'. 50 114'. 60 716'.26 315M5 467"
+    },
+    {
+      "type": "degree_measure",
+      "value": "49°\n133'",
+      "context": "cury, Venus, Mare, Jupiter, Saturn, 14° 32° 30° 12° 76° 33° 49° 133'. 70 305'.60 286'. 50 114'. 60 716'.26 315M5 467'.95 I3°40'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°40'",
+      "context": "° 133'. 70 305'.60 286'. 50 114'. 60 716'.26 315M5 467'.95 I3°40' 31°40' 28° 11° 72* 32° 48° 130'-62 302' 42 267'40 105'-05 6"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°40'",
+      "context": ". 70 305'.60 286'. 50 114'. 60 716'.26 315M5 467'.95 I3°40' 31°40' 28° 11° 72* 32° 48° 130'-62 302' 42 267'40 105'-05 687'-60"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11°",
+      "context": "0 286'. 50 114'. 60 716'.26 315M5 467'.95 I3°40' 31°40' 28° 11° 72* 32° 48° 130'-62 302' 42 267'40 105'-05 687'-60 305''60 4"
+    },
+    {
+      "type": "degree_measure",
+      "value": "48°\n130'",
+      "context": "14'. 60 716'.26 315M5 467'.95 I3°40' 31°40' 28° 11° 72* 32° 48° 130'-62 302' 42 267'40 105'-05 687'-60 305''60 458'40 133° 262°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "235°",
+      "context": "-62 302' 42 267'40 105'-05 687'-60 305''60 458'40 133° 262° 235° 70° 39° 1270'-16 2502' \"10 2244' -25 668'-50 372'-45 132° 26"
+    },
+    {
+      "type": "degree_measure",
+      "value": "39°\n1270'",
+      "context": "42 267'40 105'-05 687'-60 305''60 458'40 133° 262° 235° 70° 39° 1270'-16 2502' \"10 2244' -25 668'-50 372'-45 132° 260° 232° 72° 4"
+    },
+    {
+      "type": "degree_measure",
+      "value": "40°\n1260'",
+      "context": "'-16 2502' \"10 2244' -25 668'-50 372'-45 132° 260° 232° 72° 40° 1260' -60 2483''00 2215''60 687'-60 382'-00 A remarkable peculiar"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16° 23'",
+      "context": "Moon's mean longitude, midnight, at TJjjayini (i. 53), 11' 16° 23' 24' add the equation for difference of meridian (decantarap"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°\n47'",
+      "context": "le at A, the amount of diminution thus ascertained, we have 31° 47' as its dimensions at M. Once more, by verse 39, we make the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°47'",
+      "context": "n, circ. of orbit: circ. of epicycle: : MB : mn; or, 360° : 31°47' : : 2266 : 200 The value, then, of mn, the result from the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°",
+      "context": "s arc (see the table of sines, above) is of the same value; 3° 20* , accordingly, is the moon's equation of the apsis 10^ 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°\n46'",
+      "context": "20* , accordingly, is the moon's equation of the apsis 10^ 18° 46' 15\" 9 1 18 46 15 3 1 11 13 45  8 18 13 13 2 17 17 24 5 29 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°\n13'",
+      "context": "cury's conjunction (cfg!i rocca) , midnight, at Ujjayint 4' 15° 13' 8\" add for difference of meridian, 1 44 14 Longitude of con"
+    },
+    {
+      "type": "degree_measure",
+      "value": "58°\n44'",
+      "context": "e arc which determines the base-sine (bhujnjyd), or OM', is 58° 44', while M'D, its complement, from which the perpendicular-si"
+    },
+    {
+      "type": "degree_measure",
+      "value": "31°\n16'",
+      "context": "t, from which the perpendicular-sine (kolijya) is taken, is 31° 16'. The corresponding sines, M'B' and M'G, are 2038' and 1784'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "132°\n9'",
+      "context": "on at M : the circumference of the epicycle at M', then, is 132° 9'. The two proportions 360° : 132° 9' : : 2938 : 1078, and 36"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21°\n12'",
+      "context": ", o'M, is found by the process prescribed in verse 33 to be 21° 12'. The figure shows the equation to- be subtractive. The anne"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18° 4\n'",
+      "context": "s true place, given above, we take Moon's mean anomaly, 10' 18° 4 ' 15\" Sine, of anomaly (bhujajyu), 2266' From the table of si"
+    },
+    {
+      "type": "degree_measure",
+      "value": "33°\n44'",
+      "context": "erm of our proportion, substituted for radius the cosine of 33° 44', the resulting equation would have been more than doubled,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "144°",
+      "context": "g his true place (see above, under vv. 43-45), is more than 144° and* less than 216°; Venus, when her commutation, in like ma"
+    },
+    {
+      "type": "degree_measure",
+      "value": "216°",
+      "context": "e above, under vv. 43-45), is more than 144° and* less than 216°; Venus, when her commutation, in like manner, is between 16"
+    },
+    {
+      "type": "degree_measure",
+      "value": "163°",
+      "context": "6°; Venus, when her commutation, in like manner, is between 163° and 197°; Mars, between 164° and 190° ; Jupiter, between 180"
+    },
+    {
+      "type": "degree_measure",
+      "value": "197°",
+      "context": ", when her commutation, in like manner, is between 163° and 197°; Mars, between 164° and 190° ; Jupiter, between 180° and 23"
+    },
+    {
+      "type": "degree_measure",
+      "value": "164°",
+      "context": "on, in like manner, is between 163° and 197°; Mars, between 164° and 190° ; Jupiter, between 180° and 230°; Saturn, between 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "190°",
+      "context": "ke manner, is between 163° and 197°; Mars, between 164° and 190° ; Jupiter, between 180° and 230°; Saturn, between 115° and 2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "180°",
+      "context": "3° and 197°; Mars, between 164° and 190° ; Jupiter, between 180° and 230°; Saturn, between 115° and 245\". These limits ought"
+    },
+    {
+      "type": "degree_measure",
+      "value": "230°",
+      "context": "7°; Mars, between 164° and 190° ; Jupiter, between 180° and 230°; Saturn, between 115° and 245\". These limits ought not, how"
+    },
+    {
+      "type": "degree_measure",
+      "value": "115°",
+      "context": "and 190° ; Jupiter, between 180° and 230°; Saturn, between 115° and 245\". These limits ought not, however, even according to"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10°\n40'",
+      "context": "d from the data already given above (see i. 41-44) to be 2' 10° 40'; his true heliocentric longitude, employed as a datum in th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°\n6'",
+      "context": "ployed as a datum in the fourth process (se.> p. 8'S>- i- * 1° 6'; Jupiter's heliocentric dis- tance from the node is, accord"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11°\n26'",
+      "context": "er's heliocentric dis- tance from the node is, accordingly, 11° 26'. Or, by the Hindu method, the planet's true geocentric plac"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4°\n11'",
+      "context": "the Hindu method, the planet's true geocentric place is g* 4° 11', and the correctod longi- tude ot its node is 2* 22° 45'; t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°\n45'",
+      "context": "g* 4° 11', and the correctod longi- tude ot its node is 2* 22° 45'; the distance remains, as before, 11° 26'. In the case of t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16°\n57'",
+      "context": "Mercury's conjunction at the given time is (see p. 80). 4» 16° 57'; from this subtract 2° 2', the equa- tion of the apsis foun"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°\n2'",
+      "context": "e given time is (see p. 80). 4» 16° 57'; from this subtract 2° 2', the equa- tion of the apsis found by the third process, an"
+    },
+    {
+      "type": "degree_measure",
+      "value": "14°\n55'",
+      "context": "found by the third process, and its equated longitude is 4' 14° 55' : now deducting the longitude of the node at the same time,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°\n41'",
+      "context": "ucting the longitude of the node at the same time, which is 20° 41', we ascertain the planet's distance from the node to be S*"
+    },
+    {
+      "type": "degree_measure",
+      "value": "24°\n14'",
+      "context": ", we ascertain the planet's distance from the node to be S* 24° 14'. Or, by the Hindu method, add the same equation to the mean"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°\n43'",
+      "context": "he mean position of -the node, and its equated longitude is 22° 43'; subtract this from the moan longitude of the conjunction,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°\n24'",
+      "context": "time being, as found under versos 9-12 of the next chapter, 20° 24' 39\". Upon the line for the sua in the table arc given the r"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°\n20'",
+      "context": "given by the Surja-Siddlmnta contain a con- stant error of 2° 20', owing to the incorrect rate of precession adopted by the t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "8°\n40'",
+      "context": "The sun's longitude, as corrected by the precession, is 9 '8° 40'; he is accordingly in the tenth sign, of which the time of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°\n41'",
+      "context": "n determined. His declination, E<i (Fig. 8) was found to be 23° 41': of this the versed sine, EF, is, by the table given above"
+    },
+    {
+      "type": "degree_measure",
+      "value": "38°\n54'",
+      "context": "lculations have been made. The latitude of Washington being 38° 54', the length of the equi- noctial shadow cast there by a gno"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°\n44'",
+      "context": "l difference, is therefore 1216' : the corresponding arc is 20° 44', or 1244', which, as a minute of arc equals a respiration o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13°",
+      "context": "ce the portion of the ecliptic occupied by each asterism is 13° 20, or BOCK. In order to find, accordingly, in which asteris"
+    },
+    {
+      "type": "degree_measure",
+      "value": "17°\n39'",
+      "context": "ngitude of the moon was f und above (under v. 39) to be 11' 17° 39', or 20,859'. Dividing by 800, we find that, at the given ti"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°\n20'",
+      "context": "joint motion ' in longitude of the sun and moon amounts to 18° 20' the portion of a lunar mansion. According to Oolebrooke (As"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°\n15'",
+      "context": "of the moon at that time is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we fi"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5°\n54'",
+      "context": "is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we find that eighteen yogas o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "29°\n24'",
+      "context": "itude of the sun from that of the moon; the remainder is 2\" 29° 24', or 5364': dividing by 720, it appears that the current lun"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27°",
+      "context": "sidereal sphere—the limits of the libratory movement being 27° in either direction from that point, and the time of a compl"
+    },
+    {
+      "type": "degree_measure",
+      "value": "91°",
+      "context": "s the character of the motion as libratory. For a motion of 91°, 92°, 93°, etc , gives,, by it, a precession 89°, 88°, 87°,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "92°",
+      "context": "character of the motion as libratory. For a motion of 91°, 92°, 93°, etc , gives,, by it, a precession 89°, 88°, 87°, etc."
+    },
+    {
+      "type": "degree_measure",
+      "value": "93°",
+      "context": "acter of the motion as libratory. For a motion of 91°, 92°, 93°, etc , gives,, by it, a precession 89°, 88°, 87°, etc.; so"
+    }
+  ],
+  "connections": {
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Aries",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Capricorn",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Surya",
+        "rasi": "Aries",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga; 66, to find the current lunar day, and the time in it of a given instant; 67-69, of the divisions of the lunar month called karana. 1. Forms of Time, of invisible shape, stationed in the zodiac (bha"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga by sixty, and divide by the  The True Places of the Planets 105 sum of the daily motions of the two planets : the result is the time in nadis. What the yoga is, is evident from this rule for finding"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "bhadra, \" beautiful, happy,\" and pada, \" foot.\" Another frequent appel- lation is proehthapadd : proshtha is said to mean \" carp \" and \" ox \"; the latter signification might perhaps apply here. We have here"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "bhadra, 228. bhndrapadi, 228. (\"harajit, 212. bhasandhi, xi. 21 n. bfcd, iii. 5 n. Mdga, i. 28 n. bhddrapadA, 228. bhAnu, add. n. 3. bhArgava, add. n. 3. bhAskara, add. n. 3. bhuklAsavas, iii. 49 n. bhukti,"
+      },
+      {
+        "yoga": "Vimala",
+        "snippet": "Vimala FrasSda Siddhanta- Sarasvatl, Calcutta, 1896.  INTEODUCTION XXXI thence to find the seasons. The Vedic months were synodic months and reckoned from a full-moon to the next foil-moon. The month of Mag"
+      },
+      {
+        "yoga": "Viparita",
+        "snippet": "viparita) in verse 62 is explained by the commentator to mean \" in such manner that the rules as already given cannot be applied \"; since the sine of the ascensional difference (care,—see ii. 61) as found by"
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Bharani",
+        "count": 11
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 6
+      },
+      {
+        "nakshatra": "Ardra",
+        "count": 14
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 7
+      },
+      {
+        "nakshatra": "Pushya",
+        "count": 4
+      },
+      {
+        "nakshatra": "Magha",
+        "count": 24
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 15
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 5
+      },
+      {
+        "nakshatra": "Jyeshtha",
+        "count": 8
+      },
+      {
+        "nakshatra": "Mula",
+        "count": 8
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 4
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 33,
+      "heading": "Chapter 44.\nf As"
+    },
+    {
+      "page": 54,
+      "heading": "CHAPTER\nI.\nOf the Mean Motions of the Planets."
+    },
+    {
+      "page": 106,
+      "heading": "CHAPTER II.\nOf the True Places of the Planets."
+    },
+    {
+      "page": 240,
+      "heading": "CHAPTER VII.\nOf Planetary Conjunctions."
+    },
+    {
+      "page": 315,
+      "heading": "CHAPTER X.\nOS,the Moon's Rising and Setting, and of the Elevatiok"
+    },
+    {
+      "page": 334,
+      "heading": "CHAPTER XII.\nCosmogony, Geography, Dimensions of the Creation*"
+    },
+    {
+      "page": 363,
+      "heading": "CHAPTER XIV.\nOp the Different Modes of reckoning Time."
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 200,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 12,
+    "yoga_mentions": 6,
+    "nakshatra_mentions": 11,
+    "dasha_mentions": 0,
+    "chapters_detected": 7
+  }
+}

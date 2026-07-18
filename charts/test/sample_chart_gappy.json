@@ -1,0 +1,15 @@
+{
+  "name": "Test Gap-Filler",
+  "lagna": "Simha",
+  "planets": {
+    "Sun":     1,
+    "Moon":    3,
+    "Mars":    8,
+    "Mercury": 6,
+    "Jupiter": 1,
+    "Venus":   4,
+    "Saturn":  12,
+    "Rahu":    11,
+    "Ketu":    5
+  }
+}

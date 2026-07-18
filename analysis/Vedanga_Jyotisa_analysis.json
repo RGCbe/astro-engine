@@ -1,0 +1,31 @@
+{
+  "book_key": "Vedanga_Jyotisa",
+  "filename": "Vedanga Jyotisa Lagadha -  Kupanna Sastry , K.V.Sarma.pdf",
+  "total_pages": 79,
+  "total_words": 156,
+  "total_chars": 1558,
+  "is_scanned": true,
+  "top_100_words": [
+    {
+      "word": "indological",
+      "count": 78
+    },
+    {
+      "word": "truths",
+      "count": 78
+    }
+  ],
+  "calculations": [],
+  "connections": {},
+  "chapters_found": [],
+  "summary": {
+    "unique_words_sampled": 2,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  }
+}

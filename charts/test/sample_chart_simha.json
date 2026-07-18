@@ -1,0 +1,15 @@
+{
+  "name": "Test Simha",
+  "lagna": "Simha",
+  "planets": {
+    "Sun":     5,
+    "Moon":    3,
+    "Mars":    8,
+    "Mercury": 6,
+    "Jupiter": 1,
+    "Venus":   4,
+    "Saturn":  12,
+    "Rahu":    11,
+    "Ketu":    5
+  }
+}

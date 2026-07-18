@@ -1,0 +1,999 @@
+=== v6 decoder debug ===
+Total markers: 1139
+  subsection:  59
+  rule:        721
+  junk:        356
+
+Unique (L,H,P) rules: 459 / 1296
+Missing: 837
+
+=== MISSING (L,H,P) ===
+  mesha/1/sun
+  mesha/1/moon
+  mesha/1/mars
+  mesha/1/jupiter
+  mesha/1/rahu
+  mesha/1/ketu
+  mesha/2/sun
+  mesha/2/moon
+  mesha/2/mars
+  mesha/2/jupiter
+  mesha/2/rahu
+  mesha/2/ketu
+  mesha/3/moon
+  mesha/3/mars
+  mesha/3/jupiter
+  mesha/3/saturn
+  mesha/4/sun
+  mesha/4/moon
+  mesha/4/mars
+  mesha/4/mercury
+  mesha/4/jupiter
+  mesha/4/saturn
+  mesha/4/rahu
+  mesha/5/sun
+  mesha/5/moon
+  mesha/5/mars
+  mesha/5/saturn
+  mesha/5/rahu
+  mesha/6/moon
+  mesha/6/jupiter
+  mesha/6/venus
+  mesha/6/saturn
+  mesha/6/rahu
+  mesha/7/sun
+  mesha/7/saturn
+  mesha/8/sun
+  mesha/8/moon
+  mesha/8/mars
+  mesha/8/jupiter
+  mesha/8/venus
+  mesha/8/rahu
+  mesha/9/sun
+  mesha/9/moon
+  mesha/9/mars
+  mesha/9/mercury
+  mesha/9/saturn
+  mesha/9/ketu
+  mesha/10/moon
+  mesha/10/saturn
+  mesha/11/sun
+  mesha/11/moon
+  mesha/11/mars
+  mesha/11/jupiter
+  mesha/11/rahu
+  mesha/12/sun
+  mesha/12/moon
+  mesha/12/mercury
+  mesha/12/venus
+  mesha/12/saturn
+  mesha/12/rahu
+  mesha/12/ketu
+  vrishabha/1/sun
+  vrishabha/1/moon
+  vrishabha/1/jupiter
+  vrishabha/1/venus
+  vrishabha/1/saturn
+  vrishabha/1/rahu
+  vrishabha/2/moon
+  vrishabha/2/mars
+  vrishabha/2/jupiter
+  vrishabha/2/saturn
+  vrishabha/2/ketu
+  vrishabha/3/sun
+  vrishabha/3/moon
+  vrishabha/3/mars
+  vrishabha/3/jupiter
+  vrishabha/3/saturn
+  vrishabha/3/rahu
+  vrishabha/3/ketu
+  vrishabha/4/sun
+  vrishabha/4/moon
+  vrishabha/4/mars
+  vrishabha/4/venus
+  vrishabha/4/saturn
+  vrishabha/4/rahu
+  vrishabha/5/sun
+  vrishabha/5/moon
+  vrishabha/5/mars
+  vrishabha/5/venus
+  vrishabha/5/saturn
+  vrishabha/5/rahu
+  vrishabha/5/ketu
+  vrishabha/6/sun
+  vrishabha/6/moon
+  vrishabha/6/mars
+  vrishabha/6/saturn
+  vrishabha/6/rahu
+  vrishabha/6/ketu
+  vrishabha/7/sun
+  vrishabha/7/moon
+  vrishabha/7/mars
+  vrishabha/7/venus
+  vrishabha/8/sun
+  vrishabha/8/moon
+  vrishabha/8/mars
+  vrishabha/8/saturn
+  vrishabha/8/ketu
+  vrishabha/9/sun
+  vrishabha/9/mars
+  vrishabha/9/venus
+  vrishabha/9/saturn
+  vrishabha/9/ketu
+  vrishabha/10/sun
+  vrishabha/10/moon
+  vrishabha/10/jupiter
+  vrishabha/10/venus
+  vrishabha/10/saturn
+  vrishabha/10/rahu
+  vrishabha/11/sun
+  vrishabha/11/moon
+  vrishabha/11/mercury
+  vrishabha/11/jupiter
+  vrishabha/11/rahu
+  vrishabha/12/sun
+  vrishabha/12/moon
+  vrishabha/12/mars
+  vrishabha/12/mercury
+  vrishabha/12/venus
+  vrishabha/12/saturn
+  vrishabha/12/rahu
+  vrishabha/12/ketu
+  mithuna/1/sun
+  mithuna/1/mars
+  mithuna/1/mercury
+  mithuna/1/jupiter
+  mithuna/1/venus
+  mithuna/1/rahu
+  mithuna/2/sun
+  mithuna/2/moon
+  mithuna/2/mars
+  mithuna/2/jupiter
+  mithuna/2/venus
+  mithuna/2/ketu
+  mithuna/3/sun
+  mithuna/3/moon
+  mithuna/3/mars
+  mithuna/3/mercury
+  mithuna/3/jupiter
+  mithuna/3/saturn
+  mithuna/3/ketu
+  mithuna/4/sun
+  mithuna/4/moon
+  mithuna/4/mars
+  mithuna/4/mercury
+  mithuna/4/jupiter
+  mithuna/4/saturn
+  mithuna/4/rahu
+  mithuna/4/ketu
+  mithuna/5/sun
+  mithuna/5/moon
+  mithuna/5/mars
+  mithuna/5/mercury
+  mithuna/5/jupiter
+  mithuna/5/venus
+  mithuna/5/saturn
+  mithuna/5/rahu
+  mithuna/5/ketu
+  mithuna/6/sun
+  mithuna/6/moon
+  mithuna/6/mars
+  mithuna/6/jupiter
+  mithuna/6/venus
+  mithuna/6/rahu
+  mithuna/6/ketu
+  mithuna/7/sun
+  mithuna/7/moon
+  mithuna/7/mars
+  mithuna/7/jupiter
+  mithuna/8/sun
+  mithuna/8/moon
+  mithuna/8/mars
+  mithuna/8/rahu
+  mithuna/9/sun
+  mithuna/9/moon
+  mithuna/9/mars
+  mithuna/9/mercury
+  mithuna/9/jupiter
+  mithuna/9/venus
+  mithuna/9/saturn
+  mithuna/9/rahu
+  mithuna/10/sun
+  mithuna/10/moon
+  mithuna/10/mars
+  mithuna/10/jupiter
+  mithuna/11/sun
+  mithuna/11/moon
+  mithuna/11/mars
+  mithuna/11/mercury
+  mithuna/11/jupiter
+  mithuna/11/venus
+  mithuna/11/rahu
+  mithuna/11/ketu
+  mithuna/12/sun
+  mithuna/12/moon
+  mithuna/12/mars
+  mithuna/12/mercury
+  mithuna/12/jupiter
+  mithuna/12/venus
+  mithuna/12/saturn
+  mithuna/12/ketu
+  karka/1/sun
+  karka/1/moon
+  karka/1/mercury
+  karka/1/venus
+  karka/1/saturn
+  karka/1/rahu
+  karka/1/ketu
+  karka/2/sun
+  karka/2/moon
+  karka/2/mars
+  karka/2/jupiter
+  karka/2/saturn
+  karka/2/rahu
+  karka/2/ketu
+  karka/3/sun
+  karka/3/moon
+  karka/3/mars
+  karka/3/venus
+  karka/3/rahu
+  karka/4/sun
+  karka/4/moon
+  karka/4/venus
+  karka/4/saturn
+  karka/4/rahu
+  karka/5/sun
+  karka/5/moon
+  karka/5/mars
+  karka/5/jupiter
+  karka/5/venus
+  karka/5/saturn
+  karka/5/rahu
+  karka/6/sun
+  karka/6/moon
+  karka/6/mars
+  karka/6/saturn
+  karka/6/rahu
+  karka/6/ketu
+  karka/7/moon
+  karka/7/mars
+  karka/7/venus
+  karka/7/ketu
+  karka/8/jupiter
+  karka/8/rahu
+  karka/9/sun
+  karka/9/moon
+  karka/9/mars
+  karka/9/venus
+  karka/9/saturn
+  karka/9/rahu
+  karka/10/sun
+  karka/10/moon
+  karka/10/mars
+  karka/10/rahu
+  karka/10/ketu
+  karka/11/sun
+  karka/11/moon
+  karka/11/mars
+  karka/11/mercury
+  karka/11/venus
+  karka/11/saturn
+  karka/11/rahu
+  karka/11/ketu
+  karka/12/sun
+  karka/12/moon
+  karka/12/mercury
+  karka/12/jupiter
+  karka/12/venus
+  karka/12/saturn
+  karka/12/rahu
+  karka/12/ketu
+  simha/1/sun
+  simha/1/mercury
+  simha/1/jupiter
+  simha/1/venus
+  simha/1/saturn
+  simha/1/rahu
+  simha/1/ketu
+  simha/2/sun
+  simha/2/moon
+  simha/2/mars
+  simha/2/jupiter
+  simha/2/venus
+  simha/2/rahu
+  simha/2/ketu
+  simha/3/sun
+  simha/3/moon
+  simha/3/mars
+  simha/3/jupiter
+  simha/3/venus
+  simha/3/saturn
+  simha/3/rahu
+  simha/4/sun
+  simha/4/moon
+  simha/4/mars
+  simha/4/jupiter
+  simha/4/venus
+  simha/4/saturn
+  simha/4/rahu
+  simha/4/ketu
+  simha/5/moon
+  simha/5/mars
+  simha/5/mercury
+  simha/5/jupiter
+  simha/5/venus
+  simha/5/saturn
+  simha/5/rahu
+  simha/5/ketu
+  simha/6/sun
+  simha/6/mars
+  simha/6/mercury
+  simha/6/venus
+  simha/6/saturn
+  simha/6/rahu
+  simha/7/moon
+  simha/7/mars
+  simha/7/jupiter
+  simha/7/venus
+  simha/7/saturn
+  simha/7/rahu
+  simha/8/sun
+  simha/8/moon
+  simha/8/mars
+  simha/8/venus
+  simha/8/saturn
+  simha/8/rahu
+  simha/8/ketu
+  simha/9/sun
+  simha/9/moon
+  simha/9/mars
+  simha/9/jupiter
+  simha/9/saturn
+  simha/9/rahu
+  simha/9/ketu
+  simha/10/sun
+  simha/10/moon
+  simha/10/rahu
+  simha/11/sun
+  simha/11/moon
+  simha/11/mars
+  simha/11/mercury
+  simha/11/jupiter
+  simha/11/venus
+  simha/11/saturn
+  simha/11/rahu
+  simha/11/ketu
+  simha/12/sun
+  simha/12/moon
+  simha/12/mars
+  simha/12/mercury
+  simha/12/jupiter
+  simha/12/venus
+  simha/12/saturn
+  simha/12/rahu
+  simha/12/ketu
+  kanya/1/sun
+  kanya/1/moon
+  kanya/1/mars
+  kanya/1/venus
+  kanya/1/saturn
+  kanya/2/sun
+  kanya/2/moon
+  kanya/2/mars
+  kanya/2/mercury
+  kanya/2/saturn
+  kanya/2/rahu
+  kanya/2/ketu
+  kanya/3/sun
+  kanya/3/moon
+  kanya/3/mars
+  kanya/3/jupiter
+  kanya/3/saturn
+  kanya/3/rahu
+  kanya/3/ketu
+  kanya/4/sun
+  kanya/4/moon
+  kanya/4/mars
+  kanya/4/jupiter
+  kanya/4/rahu
+  kanya/4/ketu
+  kanya/5/sun
+  kanya/5/moon
+  kanya/5/mars
+  kanya/5/jupiter
+  kanya/5/venus
+  kanya/5/ketu
+  kanya/6/sun
+  kanya/6/moon
+  kanya/6/jupiter
+  kanya/6/venus
+  kanya/6/saturn
+  kanya/6/rahu
+  kanya/6/ketu
+  kanya/7/moon
+  kanya/7/jupiter
+  kanya/7/venus
+  kanya/7/rahu
+  kanya/8/sun
+  kanya/8/moon
+  kanya/8/jupiter
+  kanya/8/rahu
+  kanya/9/sun
+  kanya/9/moon
+  kanya/9/mars
+  kanya/9/jupiter
+  kanya/9/venus
+  kanya/9/saturn
+  kanya/9/rahu
+  kanya/10/sun
+  kanya/10/moon
+  kanya/10/jupiter
+  kanya/11/sun
+  kanya/11/moon
+  kanya/11/mars
+  kanya/11/mercury
+  kanya/11/jupiter
+  kanya/11/venus
+  kanya/11/saturn
+  kanya/11/rahu
+  kanya/11/ketu
+  kanya/12/sun
+  kanya/12/moon
+  kanya/12/mars
+  kanya/12/mercury
+  kanya/12/jupiter
+  kanya/12/venus
+  kanya/12/saturn
+  kanya/12/rahu
+  kanya/12/ketu
+  tula/1/sun
+  tula/1/moon
+  tula/1/mars
+  tula/1/jupiter
+  tula/1/rahu
+  tula/2/sun
+  tula/2/moon
+  tula/2/mars
+  tula/2/jupiter
+  tula/2/rahu
+  tula/2/ketu
+  tula/3/sun
+  tula/3/jupiter
+  tula/3/rahu
+  tula/4/sun
+  tula/4/moon
+  tula/4/mars
+  tula/4/jupiter
+  tula/4/saturn
+  tula/5/sun
+  tula/5/moon
+  tula/5/mars
+  tula/5/jupiter
+  tula/5/venus
+  tula/5/saturn
+  tula/5/rahu
+  tula/5/ketu
+  tula/6/sun
+  tula/6/moon
+  tula/6/mars
+  tula/6/jupiter
+  tula/6/venus
+  tula/6/saturn
+  tula/6/ketu
+  tula/7/sun
+  tula/7/mars
+  tula/7/jupiter
+  tula/7/rahu
+  tula/8/sun
+  tula/8/moon
+  tula/8/mars
+  tula/8/jupiter
+  tula/8/venus
+  tula/8/saturn
+  tula/9/sun
+  tula/9/moon
+  tula/9/jupiter
+  tula/9/venus
+  tula/9/saturn
+  tula/9/ketu
+  tula/10/moon
+  tula/10/mars
+  tula/10/jupiter
+  tula/10/saturn
+  tula/10/ketu
+  tula/11/sun
+  tula/11/moon
+  tula/11/jupiter
+  tula/11/venus
+  tula/11/saturn
+  tula/11/rahu
+  tula/11/ketu
+  tula/12/sun
+  tula/12/moon
+  tula/12/mars
+  tula/12/jupiter
+  tula/12/venus
+  tula/12/saturn
+  tula/12/rahu
+  tula/12/ketu
+  vrishchika/1/sun
+  vrishchika/1/jupiter
+  vrishchika/1/venus
+  vrishchika/1/saturn
+  vrishchika/1/ketu
+  vrishchika/2/sun
+  vrishchika/2/moon
+  vrishchika/2/mars
+  vrishchika/2/jupiter
+  vrishchika/2/venus
+  vrishchika/2/rahu
+  vrishchika/2/ketu
+  vrishchika/3/sun
+  vrishchika/3/mercury
+  vrishchika/3/venus
+  vrishchika/3/saturn
+  vrishchika/3/rahu
+  vrishchika/3/ketu
+  vrishchika/4/sun
+  vrishchika/4/moon
+  vrishchika/4/mars
+  vrishchika/4/mercury
+  vrishchika/4/jupiter
+  vrishchika/4/saturn
+  vrishchika/4/rahu
+  vrishchika/5/sun
+  vrishchika/5/mars
+  vrishchika/5/venus
+  vrishchika/5/rahu
+  vrishchika/5/ketu
+  vrishchika/6/sun
+  vrishchika/6/mars
+  vrishchika/6/mercury
+  vrishchika/6/rahu
+  vrishchika/6/ketu
+  vrishchika/7/sun
+  vrishchika/7/mars
+  vrishchika/7/jupiter
+  vrishchika/8/sun
+  vrishchika/8/moon
+  vrishchika/8/jupiter
+  vrishchika/8/rahu
+  vrishchika/8/ketu
+  vrishchika/9/sun
+  vrishchika/9/moon
+  vrishchika/9/mars
+  vrishchika/9/mercury
+  vrishchika/9/saturn
+  vrishchika/9/rahu
+  vrishchika/9/ketu
+  vrishchika/10/mars
+  vrishchika/10/ketu
+  vrishchika/11/sun
+  vrishchika/11/moon
+  vrishchika/11/jupiter
+  vrishchika/11/venus
+  vrishchika/11/saturn
+  vrishchika/11/rahu
+  vrishchika/12/sun
+  vrishchika/12/mercury
+  vrishchika/12/jupiter
+  vrishchika/12/venus
+  vrishchika/12/saturn
+  vrishchika/12/rahu
+  vrishchika/12/ketu
+  dhanu/1/sun
+  dhanu/1/jupiter
+  dhanu/1/venus
+  dhanu/1/saturn
+  dhanu/1/rahu
+  dhanu/1/ketu
+  dhanu/2/moon
+  dhanu/2/mars
+  dhanu/2/jupiter
+  dhanu/2/rahu
+  dhanu/2/ketu
+  dhanu/3/sun
+  dhanu/3/moon
+  dhanu/3/mercury
+  dhanu/3/jupiter
+  dhanu/3/saturn
+  dhanu/3/rahu
+  dhanu/4/sun
+  dhanu/4/moon
+  dhanu/4/mars
+  dhanu/4/jupiter
+  dhanu/4/saturn
+  dhanu/4/rahu
+  dhanu/4/ketu
+  dhanu/5/sun
+  dhanu/5/moon
+  dhanu/5/saturn
+  dhanu/5/rahu
+  dhanu/6/sun
+  dhanu/6/moon
+  dhanu/6/jupiter
+  dhanu/6/rahu
+  dhanu/7/moon
+  dhanu/7/mars
+  dhanu/7/jupiter
+  dhanu/7/venus
+  dhanu/7/rahu
+  dhanu/8/sun
+  dhanu/8/moon
+  dhanu/8/venus
+  dhanu/9/sun
+  dhanu/9/moon
+  dhanu/9/mars
+  dhanu/9/rahu
+  dhanu/9/ketu
+  dhanu/10/sun
+  dhanu/10/moon
+  dhanu/11/sun
+  dhanu/11/moon
+  dhanu/11/mars
+  dhanu/11/venus
+  dhanu/11/saturn
+  dhanu/11/rahu
+  dhanu/11/ketu
+  dhanu/12/sun
+  dhanu/12/moon
+  dhanu/12/mars
+  dhanu/12/mercury
+  dhanu/12/jupiter
+  dhanu/12/venus
+  dhanu/12/rahu
+  dhanu/12/ketu
+  makara/1/sun
+  makara/1/moon
+  makara/1/mars
+  makara/1/mercury
+  makara/1/venus
+  makara/1/saturn
+  makara/1/rahu
+  makara/2/sun
+  makara/2/mars
+  makara/2/mercury
+  makara/2/jupiter
+  makara/2/saturn
+  makara/3/sun
+  makara/3/moon
+  makara/3/mars
+  makara/3/jupiter
+  makara/4/sun
+  makara/4/moon
+  makara/4/mars
+  makara/4/jupiter
+  makara/4/rahu
+  makara/4/ketu
+  makara/5/sun
+  makara/5/moon
+  makara/5/mars
+  makara/5/venus
+  makara/5/rahu
+  makara/5/ketu
+  makara/6/sun
+  makara/6/moon
+  makara/6/mars
+  makara/6/mercury
+  makara/6/jupiter
+  makara/6/venus
+  makara/6/rahu
+  makara/7/sun
+  makara/7/moon
+  makara/7/jupiter
+  makara/7/saturn
+  makara/7/rahu
+  makara/8/sun
+  makara/8/moon
+  makara/8/mars
+  makara/8/rahu
+  makara/9/sun
+  makara/9/moon
+  makara/9/mars
+  makara/9/mercury
+  makara/9/jupiter
+  makara/9/saturn
+  makara/10/sun
+  makara/10/moon
+  makara/11/sun
+  makara/11/moon
+  makara/11/mars
+  makara/11/jupiter
+  makara/11/venus
+  makara/11/saturn
+  makara/11/rahu
+  makara/11/ketu
+  makara/12/sun
+  makara/12/moon
+  makara/12/mars
+  makara/12/jupiter
+  makara/12/venus
+  makara/12/saturn
+  makara/12/rahu
+  makara/12/ketu
+  kumbha/1/sun
+  kumbha/1/moon
+  kumbha/1/mars
+  kumbha/1/mercury
+  kumbha/1/jupiter
+  kumbha/1/saturn
+  kumbha/2/sun
+  kumbha/2/moon
+  kumbha/2/jupiter
+  kumbha/2/saturn
+  kumbha/2/rahu
+  kumbha/2/ketu
+  kumbha/3/sun
+  kumbha/3/moon
+  kumbha/3/mars
+  kumbha/3/jupiter
+  kumbha/3/ketu
+  kumbha/4/sun
+  kumbha/4/moon
+  kumbha/4/mars
+  kumbha/4/jupiter
+  kumbha/4/venus
+  kumbha/4/ketu
+  kumbha/5/sun
+  kumbha/5/moon
+  kumbha/5/mars
+  kumbha/5/jupiter
+  kumbha/5/venus
+  kumbha/5/ketu
+  kumbha/6/sun
+  kumbha/6/moon
+  kumbha/6/saturn
+  kumbha/6/ketu
+  kumbha/7/sun
+  kumbha/7/moon
+  kumbha/7/jupiter
+  kumbha/7/venus
+  kumbha/7/ketu
+  kumbha/8/sun
+  kumbha/8/moon
+  kumbha/8/mars
+  kumbha/8/jupiter
+  kumbha/8/saturn
+  kumbha/8/ketu
+  kumbha/9/sun
+  kumbha/9/moon
+  kumbha/9/mars
+  kumbha/9/jupiter
+  kumbha/9/venus
+  kumbha/9/saturn
+  kumbha/9/rahu
+  kumbha/9/ketu
+  kumbha/10/moon
+  kumbha/10/mars
+  kumbha/10/jupiter
+  kumbha/10/venus
+  kumbha/10/saturn
+  kumbha/11/sun
+  kumbha/11/moon
+  kumbha/11/venus
+  kumbha/11/saturn
+  kumbha/11/rahu
+  kumbha/11/ketu
+  kumbha/12/sun
+  kumbha/12/moon
+  kumbha/12/mars
+  kumbha/12/venus
+  kumbha/12/rahu
+  kumbha/12/ketu
+  meena/1/mars
+  meena/1/mercury
+  meena/1/jupiter
+  meena/1/rahu
+  meena/1/ketu
+  meena/2/sun
+  meena/2/moon
+  meena/2/mars
+  meena/2/saturn
+  meena/2/rahu
+  meena/2/ketu
+  meena/3/sun
+  meena/3/moon
+  meena/3/jupiter
+  meena/3/ketu
+  meena/4/sun
+  meena/4/moon
+  meena/4/mars
+  meena/4/venus
+  meena/4/ketu
+  meena/5/sun
+  meena/5/moon
+  meena/5/mars
+  meena/5/jupiter
+  meena/5/venus
+  meena/5/saturn
+  meena/5/rahu
+  meena/6/sun
+  meena/6/moon
+  meena/6/mercury
+  meena/6/venus
+  meena/6/saturn
+  meena/7/sun
+  meena/7/moon
+  meena/7/venus
+  meena/7/ketu
+  meena/8/sun
+  meena/8/moon
+  meena/8/mars
+  meena/8/mercury
+  meena/8/venus
+  meena/8/saturn
+  meena/8/ketu
+  meena/9/sun
+  meena/9/moon
+  meena/9/mars
+  meena/9/venus
+  meena/9/ketu
+  meena/10/moon
+  meena/10/saturn
+  meena/11/sun
+  meena/11/moon
+  meena/11/mars
+  meena/11/jupiter
+  meena/11/saturn
+  meena/11/rahu
+  meena/11/ketu
+  meena/12/sun
+  meena/12/moon
+  meena/12/mars
+  meena/12/jupiter
+  meena/12/venus
+  meena/12/saturn
+  meena/12/rahu
+  meena/12/ketu
+
+=== First 50 junk marker contexts ===
+
+[  86683 / mesha] prefix tail:
+  'ंख्या १८१\n\n(x) ‘ag’ राशि पर हो शो संख्या १८४\n\n(झिग) \'सकर\' राशि पर हो सो संख्या! १८५\n\n{ट} रम्भः राशि पर हो तो संख्या १८६\n\n(3) ‘etter’ राशि प्र हो तो संख्या १८७\n\n‘Sq’ लग्न मे न्यनि" '
+
+[  91191 / mesha] prefix tail:
+  'े पिता से अनदन\nरहेगी तथां राजकीय मामलों में विफलताएँ आपगी । TT\n९९८ of से प्रभाव से कुछ-न-झुछ सम्मान अवश्य बना रहेगा ।\n\n--- Page 83 ---\née\n\nSpa? लग्न को कुण्डली के eae स्थित सूर्य! '
+
+[  95686 / mesha] prefix tail:
+  "ा दैनिकः awe\nके शेते में भी सफलता प्राप्त होती है । पैसे जातक\nका दाम्पत्य-जोमन et ठका शारीरिक स्वाध्यय'\nउत्तम रहता है ।\n\n--- Page 86 ---\nहरे\n\nJe! सम की कुण्डली के Ethers’ fers ara "
+
+[  97830 / mesha] prefix tail:
+  "ग्य, विद्वानू, मम्तोषी,\nमाता से gat, भू-सम्पत्ति का स्वामी, परन्तु व्यव-\nसाय एवं लाभ को क्षेत्र मं कटिनाएयाँ उठाने बाला\n१24 होता #4\nye! सग्त की कुण्डली के aesera” ल्थित 'घन्द्रमा' "
+
+[  99495 / mesha] prefix tail:
+  "देखने के कारण जातकं को धन प्राप्ति के धोग\nनिरन्तर मिलते रहते है वथा वहु धन एवं ga को\nअजित करने के लिए निरन्तर अयस्नशील भौ बना\n\nरहता है !\nभेष सन्न को कुण्डलो के 'तवमभाव' स्थित wera "
+
+[ 101656 / mesha] prefix tail:
+  " ऐसी ग्रहस्थिति का व्यक्ति युधो तथा सन्तुष्ट जोधन बिताने बाला\nएवं शतृपक्ष पर कपनी शालीनता से विजय प्रात वालः होता है 1\n\nशेषः लगन मे मंगल\n\nSee लग्न को कुंप्डली के sree स्थित “मंगल' "
+
+[ 106560 / mesha] prefix tail:
+  'कारण भाई-बहित के\nga में कमी आती है। आठवों नीच दृष्टि से चतुर्घ\n\nभाव को देखने के कारण यात्रा, भूमि, भवन आदि-के ge में कमी बनी रहती है ।\nQe’ लग्न की gees के ‘arene’ सें स्थित "मेगस\' '
+
+[ 107080 / mesha] prefix tail:
+  "ं कमी आती Fi आठुयों से arya\nको देखने से विद्या, बुद्धि एवं सन्तान के क्षेत्र में\nजातक को विशेष सफलता प्राप्त होती है १\n\n--- Page 93 ---\n4,\nier लग कौ कुप्शली के ences’ एि पत 'संगल' "
+
+[ 109586 / mesha] prefix tail:
+  'ूदि करता\nहै सथा कुछ कमी के साथ धर्म-यालन की are भी प्रेरित\nकरता रहेगा। ऐसी ग्रहं स्थिति वाला जातक बिवेकी,\n९४४ परिश्रमी सथा प्राक्रमी होता है।\n\nae’ स्मन को कुष्डली के aga’ fers ga’ '
+
+[ 128726 / mesha] prefix tail:
+  "t है । दसवीं शत्रुदृष्टि से पंजमभाव को\n\n१ 1\nदेखने के कारण Rear तथा सन्तान पक्ष में सुटि रहती है + ऐसा जातक wart का\nलेज तथा Fret भौ होता है |\nSra’ rey को कुष्डली के repre’ fee 'शॉन "
+
+[ 132212 / mesha] prefix tail:
+  'ंसी, ग्रुक्तिवल में भ्रवीण तथा अपनी\nभतेरी कमजोरी की प्रकट मे करमे वाला होता है और\nअपने इन्हीं शणो के कारण सफलता भी प्राप्त करता है ॥\n\nAeq\nश्नेष\' लग्नं को हुष्डती ages’ स्थित "राहु '
+
+[ 132962 / mesha] prefix tail:
+  " पर यह सामान्य सफलतादें प्राप्त करता रहता है ।\nऐसा जातक कम पढ़ा-लिखा तथा परेशानियों में पषा\nरहने दाला होता है ।\n\n--- Page 110 ---\n११५\n\nSrey स्न को कुष्डली के 'वच्ठभाष स्थित 'राहु' "
+
+[ 133762 / mesha] prefix tail:
+  "े अल पर उन कठिनाइयों क्रा निगकरण\nकरता दहै ॥ व्यक्ति के प्रारिवारिक-कीवन में अनः\nिनाहियां आती हैं तथा जैसे-सैस ही निर्दाह ही पाता है।\n\nश्नेष' लन की ढली के “अच्टभभार्त' स्थित “राहुः "
+
+[ 135666 / mesha] prefix tail:
+  'र विथ प्राप्त करता तथा ठाठ-आट से इटृना- ये दोनों\nवाने भा साथ-साथ चलती हैं, परन्तु ऋण एवं व्यय के\naia से मुक्त नहीं मिल पाती a\naq aa में कतुः\n“नेष लग्न को कुंडली के serra स्थित eg’ '
+
+[ 136918 / mesha] prefix tail:
+  "त-धुकितयों के आश्रम से स्वार्थ\nसाधन करना हौ उसका viva होता है. परन्तु\nअत्यधिक Wort करते पर भी उसे सफलता बहुत कम\n\nso हो गिल पाती है ।\n\nster लात की कुण्डलो के 'अंशुर्धझाव स्थित ‘eg! "
+
+[ 137782 / mesha] prefix tail:
+  'भावं\nAi. wt, से संग्र तथा कठोर वधन बोलने बाला होता है । अत्यन्त\n\nपरिश्रम करते पर भी उसे कमर सफलता ही मिल ती\' है 9\n\n--- Page 113 ---\n१२\n\nSry लग्न को कुष्डसी के "वष्टि" स्थित “केतु, '
+
+[ 138537 / mesha] prefix tail:
+  'शुक्तियों से काम\nलेना पड़ता है + अपनी गुप्त-सुक्तियों द्वारा उसे व्यवसाय\nतथा स्त्री-पक्ष में कुछ कमियों से साथ सफलता मिलती\nरहती है ।\n\nrq! तन को कुण्डलो के \'अध्ययन्ताज स्थित "केतु" '
+
+[ 138943 / mesha] prefix tail:
+  "अपनी कठिनाइयों पर कुछ\nविजय भी पासा हैं, TOS कष्टौ का मन्त नहीं होता ।\nउसके शरीर में भी कोई-न-कोई रोग बना ही रहता है|\n\n--- Page 114 ---\nRR\n\nrey’ लग्न को कुण्डली के reer स्थित 'कंतु "
+
+[ 139323 / mesha] prefix tail:
+  "ा उसे अनेक प्रकार के\nसंकटो एवं कठिनाइयों का सामना म्रौ करता पडता\nहै। कुल भिला कर एसा जातक Wea मृश एवं\n\nsae घामिक जीवन व्यतीत करता है 1\n\nBe लात की करष्डली के 'दतमभ्रावय' स्थित केतु "
+
+[ 140556 / mesha] prefix tail:
+  'ाभ भी होता तथा अणके कार्यों मे ही स्यय\n\nहोता है ।\n@\n\n--- Page 115 ---\n[‘qw लग्न की कुण्डलियों के विभिन्\u200dन भावों में स्थित विसिन्न\nग्रहों के फलादेश का पृथक्\u200c-पूथक चणेन|\n\n"वृषः लग्न '
+
+[ 141461 / mesha] prefix tail:
+  "बूष' लगतवालों को अपनी segue के विभित्न भावो म स्थित विभिन्\u200dन\nWel का हथायी-फलादेश आगे दी गई उदाहुरण-कुष्डल्षियों में संख्या २०५ भे ३३२ के\nचीच देख) चाहिए a =~\n\nगोचर-कण्डली के ग्रहों "
+
+[ 141585 / mesha] prefix tail:
+  '०५ भे ३३२ के\nचीच देख) चाहिए a =~\n\nगोचर-कण्डली के ग्रहों का फ़लादेश fer उदाहुरण-कुण्डलियों भे देखें। इसे\nआगे लिखे अनुसार समक्ष लेता चाहिए ।\n\n--- Page 116 ---\n१२९४\n‘qq लग्न सें ‘qa’ '
+
+[ 146189 / vrishabha] prefix tail:
+  ' तो संश्या २६२\n\n(म) "धनुः राधि पर हो तो संख्या २६३\n\n(=r) “पकर राप्ति पर हो तो संख्या २६४\n\n(2) “Rea” राशि पर हो तो संख्या २६५\n\n{ठ} \'मीन\' राशि पर हो तो संख्या २६६\n\n‘ga लगन भें हानि! '
+
+[ 146970 / vrishabha] prefix tail:
+  '-- Page 120 ---\nरय\n\n(झ) नु राशि पर हो त्तो सेख्या २०५\n(ar) “मकर राशि पर हो तो संख्या २०६\n(ट) ‘gen’ राशि पर हो तो संख्या ३०७\n(ठ) ‘ate’ राशि पर हो तौ संख्या ३०८\n\n‘aq’ लगन में “राहुः '
+
+[ 148498 / vrishabha] prefix tail:
+  "धनु राशिपर हो तो संख्या ३२९\n(st) ‘sae’ राशि पर हो तो dear ३३०\n{ट) कुम्भ राशि पर हो तो संख्या ३३४१\n{&) “प्रीन' राशि पर हो तो संख्या ३३२\n\nfay लग्न को कुण्डलो के “अ्थमभाज' स्थित ‘gd’ "
+
+[ 149423 / vrishabha] prefix tail:
+  "ारण जातक को मायु में वृद्धि होती है तथा उसे\nपुरातत्त्व का लाभ भी होता है । थों, जातक का दैनिक\nRAT Gat रहता है ।\n\n--- Page 122 ---\n११०\n“वर्षो सम्न की कुष्डसी के 'छुशीयभाज' स्थित gy "
+
+[ 151695 / vrishabha] prefix tail:
+  "्रथमभावको देखने के\nकारण जातकं के शारीरिक सौन्दर्य तथा पारिवारिक\nसुख में कुछ कमी अती है तथा छुदय में थी थोड़ी\nअंशान्ति बनी रहती है।\n\n'बुर्धो लग्न को कुण्डसों के 'अष्टसपाध स्थित qa? "
+
+[ 152568 / vrishabha] prefix tail:
+  'तथा भाई-बहिन के सुख में\nबुद्धि होती है । ऐसा जातक अपने पराक्रम रब बुद्धि\nवल के उपयोग हारा हो कूछ कमियों के साथ सफलता\nप्राप्त करता है ।\n\nशुषे" लग्न को कुण्डसी के “यशमघाव\' स्थित “gy '
+
+[ 154348 / vrishabha] prefix tail:
+  '्तमभाव की वेशने के\nकारण स्त्री एवं व्यवसाय के पक्ष में असन्तोष बता रहता\nहै तथा परिवार की चलाने में भी कुछ कठिताइयाँ\nसातौ रहती हैँ ।\n\ncay सन्न को seve के \'द्वितोषभाव\' स्थित "चन्दमा '
+
+[ 156111 / vrishabha] prefix tail:
+  'ष्टि से एकादा भाव\nकी देखने के कारण जातक पने बुद्धि-बल से आमदनी\nके साधनों को बढ़ता है तथा रत्वयणाली एवं धनी\nहोता &t\n\n--- Page 127 ---\n१२४\n\nश्व सन की कुण्डली के वष्ट भावः ल्वित ware '
+
+[ 158793 / vrishabha] prefix tail:
+  "थी अच्चां\nare होता है । संक्षेप में ऐसा whee बुद्धिमान, विद्वाग,\nसन्ततिकयन, ध्नी, मधुरभापी तथ ऐक्बर्यड्रभी होता Et\n\n--- Page 129 ---\n१३५\n\nee लगन को कुंडली के 'दावशसाव' स्थित वन्मा "
+
+[ 162274 / vrishabha] prefix tail:
+  'राशि वि aren भाव की देखने के कारण छत अधिक होता है तथा\nव्यवसाय की सन्तति के लिए afew परिश्स्प तथा ast करना पडता है |\n\n--- Page 131 ---\n१३९\n\nqe’ लग्न की कुण्डली के essere” स्थित are '
+
+[ 163939 / vrishabha] prefix tail:
+  "ानियाँ रहती ह । आठवीं नीचद्\u200cष्टि से तृतीवभाव की देखने के कारण भाई-\nअहिन के सु तथा पराक्रम में भी कभी था जाती है |\n\n--- Page 132 ---\n१.४०\n\nवषः लगन की कुण्डली के 'नद्मभाज feat 'मगल' "
+
+[ 165631 / vrishabha] prefix tail:
+  'से धष्यभाव को देखते\nके कारण grr भे प्रभाव कना रहता है । ऐसो ग्रह\nस्थिति याला जातक Wel चतुर तथा स्वार्थो होता है ।\n\n--- Page 133 ---\nxe\n“वृषः लग्न को कुष्डली के greene’ स्थित sine’ '
+
+[ 167093 / vrishabha] prefix tail:
+  "व की देखने\nके कारण जातक को यायु तथा पुरातस्व का लाभ\nहोता ह । ऐसी अहस्थिति वाला जातक शऐश्वयेशाली\nजीवन बितप्ता है ।\n\n--- Page 134 ---\n१४९\n\n‘ay सम्ब को कुण्डली के 'तृतीधभाव स्थित ge’ "
+
+[ 177722 / vrishabha] prefix tail:
+  'द्वारा पर्याप्त लाभ होता है परन्तु स्त्री-मल से कुछ कठिनाइयों के लाभ सुख\nमिलत्ता है । ऐसा जातक ऐश्वर्येशाती होता है ॥\n\n--- Page 141 ---\n।#\n\n"वृष ena को कुष्हली के renee स्थित \'गुर '
+
+[ 179222 / vrishabha] prefix tail:
+  " चातक को अयु तथा पुरातस्व के शेर थे कुछ\nकमी बनी रहती है, परन्तु शत्तु-पज से चातुर्य द्वारा लाभ\nमिश्षता है 1 ४\n\n--- Page 142 ---\n१५०\n\nववष सम्न को कुष्डली के शृतोयभाव' स्थित “शुक्र' "
+
+[ 180666 / vrishabha] prefix tail:
+  "करता है । ऐसी प्रहस्थिति दाता\nजातक, चिन्ता, ware, मस्तिप्क में परेज्ानी एवं\nशारीरिक seed में कमी प्राप्त करता है ।\n\n--- Page 143 ---\n१५६१\nशुषः सन्न की कुष्डली के 'थष्ठभाद' लत शुकः "
+
+[ 181234 / vrishabha] prefix tail:
+  "ता है तथा\nखर्चे की अधिकता रहती है। ऐसों ग्रहस्थिति बाला जातक किसी-न-किसी झगड़े में\nGar ही रहता है, परन्तु बड़ा प्रतापी को होता है !\n\negg’ लगन को कृष्डली के 'सप्लसणाय स्थित 'शुक्र' "
+
+[ 183073 / vrishabha] prefix tail:
+  "देखने के\nकारण गाता, afk तथां भवन के लेत से कुछ कठिनाइयों\nके साथ सफलता मिलती है॥ ऐसा व्यक्ति अहुकारी, सुक्री\nतथा उन्नति्ीस होता है।\n\nfae? oer की कृष्डली के श्दुकादराभाव' स्थित शकेः "
+
+[ 183497 / vrishabha] prefix tail:
+  'ी तथा विद्याध्ययन में लापरवाही\nरहती है । ऐसा व्यक्ति अनेक प्रवत्नों द्वारा अच्छा लाभ\nजठालसा तथा उन्नति करता है ।\n\n--- Page 145 ---\n1.\n\n"बुः लग्न की कुंष्टलो के "दादर भाव feet "दुक '
+
+[ 183953 / vrishabha] prefix tail:
+  "कारण mara से कुछ हानि भी उठाता हैं। ऐसा\nव्यक्ति Vat, रोगी सथा धन कमाने में कुशल परन्तू\nशत्रुओं द्वारा पीड़ित होता है ।\n\nfaq’ समन में दानि'\n\nger लगन की कुष्डलो के rare’ स्थित cafe’ "
+
+[ 185940 / vrishabha] prefix tail:
+  'मभाव की देखने से पिते।, राज्य एवं\nव्यवसाय के ser में सफलता मिलतौ है॥ दसवीं Kreg ite\nसे अधमभाव की देखने से शारीरिक प्रभाव एवं सम्मान में\n\nage? रल की कृष्डली के \'पंचरलाज (थति "सेति" '
+
+[ 187647 / vrishabha] prefix tail:
+  "ोती है। दसवीं शतु-दृष्टि SET\n\nभावं दौ देखने से गाता, सुमि ये भवन के सुख मे कुछ कमी का अनुभव होता है सूमि के भवन के कुछ कमी का ॥\n\nश्वुव लग्ने की कुष्डलो के 'जष्ठमभा त्रः स्थित “शमि "
+
+[ 188219 / vrishabha] prefix tail:
+  ' देखने से भरन्वानं तना\n\n> fear} छत में सफलता प्राप्त होती है। ऐसे जातक\nHT लागु तथा धुरातस्व का लाभ श्री होता है ॥\n\n--- Page 148 ---\n१५६\n\n‘qo’ लग्न को कृष्डलो के \'ववमभाव स्थित "सिः '
+
+[ 189835 / vrishabha] prefix tail:
+  " है 1 दसवीं शत्ु-दुष्टि से मष्टमभाव की देखने से यागु तणा\nपुरातत्त्व के वियय में कुछ कठिताइयों का अनुभव होता है ।\n\n--- Page 149 ---\n१५७\n\n“वृष eer की genet के 'हारशस्ताव' स्थिति Mee "
+
+[ 191191 / vrishabha] prefix tail:
+  "रर अपने धन\nसथा gent की वृद्धिं करता है, पदन्तु बीक्र-बीच में उसे\nकठिनादहयों सथा संषष का सामना भी करना पड़ता है ॥\n\n--- Page 150 ---\nIKE\n\nCe weg की कृष्डलो के 'तुतोषधाय' स्थित “राहु "
+
+[ 191530 / vrishabha] prefix tail:
+  " दै, परन्तु यह\nसपनी भीतरी फमणोरियों तथा चिन्ताओं की बड़ी\n'पतुराई से छिपाकर हौसला बनाये रखता है मौर प्रकट\n\nरूप में wer हिम्मती होता है ।\n\nqe सम्म की कुंप्डलो-को agora” स्थित “राहुः "
+
+[ 191905 / vrishabha] prefix tail:
+  'में जाकर रहता पहुंता है तथा\nare दुःख उठाने पह़ते हैं, अन्त में कठिन परिश्रम सथा\nगुप्त उपायों वारा सामान्य धन एवं सुख प्राप्त करता है॥\n\n“वृषः सन्न की कुष्डलो के error’ स्थित “राहुः '
+
+[ 192272 / vrishabha] prefix tail:
+  "ा aw बुद्धि की उम्नति होती है । ऐसा जानक\nअधिक बोलने बाला, गुप्त युक्तियों से कामसेने बाला\nते तथा नशेबात्र होता है ।\n\n--- Page 151 ---\n१५६\n\nfae” लग्न की कृष्डलो के sma’ स्थित 'राहु "

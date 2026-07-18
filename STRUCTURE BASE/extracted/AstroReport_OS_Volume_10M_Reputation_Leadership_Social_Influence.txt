@@ -1,0 +1,68 @@
+AstroReport OS Specification
+Volume 10M – Reputation, Leadership & Social
+Influence Knowledge Base
+Purpose
+Define structured question records for reputation, leadership, influence and contribution. These
+records enable the report engine to explain how authority, recognition and social impact develop
+throughout the life timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0121
+How do others perceive me?
+Reputation
+Whole Life
+Timeline
+Q0122
+What leadership style suits me?
+Leadership
+Adult
+Timeline
+Q0123
+How do I earn trust and respect?
+Leadership
+Adult
+Timeline
+Q0124
+When does recognition increase?
+Reputation
+Adult
+Timeline
+Q0125
+How do I influence people positively?
+Influence
+Adult
+Timeline
+Q0126
+What role does mentoring play?
+Mentorship
+Later Adult
+Timeline
+Q0127
+How should I build my professional reputation?
+Career
+Adult
+Timeline
+Q0128
+How do I handle criticism?
+Personal Growth
+Whole Life
+Summary
+Q0129
+What contribution should I make to society?
+Service
+Whole Life
+Summary
+Q0130
+How does leadership support my life purpose?
+Purpose
+Whole Life
+Legacy
+Implementation Rules
+Leadership themes should evolve naturally from self-management to influence, mentorship and
+contribution. Avoid assuming fame or public office; describe growth in responsibility and impact
+based on the underlying astrological evidence.
+Next Volume
+Volume 10N – Retirement, Wisdom & Legacy Knowledge Base.

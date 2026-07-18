@@ -1,0 +1,19 @@
+{
+  "item_code": "F1",
+  "item_name": "Sub-lord theory",
+  "books_covering": [
+    "Prashna_Marga"
+  ],
+  "total_passages": 1,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 3,
+      "context": "or Bhukti lord, the good effects of the directional lords are augmented or delayed and the bad effects intensified or lessened depending upon the nature of the transiting planet. If, for example, one is having the sub-period of a yogakaraka planet, Saturn in transit aspecting or associating the sub-lord can delay the operation of the Rajayoga. Stanza 27. If planets in transit are adverse, they should be propitiated by worshipping them with flowers of various hues appropriate to the planets, by wearing apparel of the colours of the planets thus: Sun and Mars — red; the Moon and Venus — white; S"
+    }
+  ],
+  "constants_extracted": [],
+  "pyjhora_reference": null
+}

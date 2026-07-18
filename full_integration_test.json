@@ -1,0 +1,100 @@
+{
+  "lagnam": "Makaram",
+  "current_dasha": "Moon",
+  "current_antardasha": "Mercury",
+  "current_antardasha_end": "2026-10-15",
+  "current_yogini_dasha": "Bhadrika",
+  "shadbala_summary": {},
+  "shadbala_planets": {},
+  "gochar": {
+    "computed_at": "2026-07-18",
+    "transit_planets": [
+      {
+        "planet": "Saturn",
+        "transit_sign": "Meenam",
+        "transit_longitude": 350.47,
+        "house_from_moon": 1,
+        "house_from_lagna": 3,
+        "gochar_title": "Sade Sati Peak",
+        "gochar_valence": "BAD",
+        "gochar_meaning": "Health stress, mental burden, financial obstacles. Most intense phase of Sade Sati.",
+        "tight_natal_aspects": [],
+        "corpus_transit_rules": [
+          {
+            "source": "Bhrigu_Samhita_deep",
+            "text": "If Saturn is on Aries sign, then number 406."
+          },
+          {
+            "source": "Bhrigu_Samhita_deep",
+            "text": "If Saturn is on Taurus sign, then number 407."
+          }
+        ]
+      },
+      {
+        "planet": "Jupiter",
+        "transit_sign": "Kadagam",
+        "transit_longitude": 99.71,
+        "house_from_moon": 5,
+        "house_from_lagna": 7,
+        "gochar_title": "5th house",
+        "gochar_valence": "GOOD",
+        "gochar_meaning": "Children prosper, intelligence heightened, speculation gains.",
+        "tight_natal_aspects": [],
+        "corpus_transit_rules": [
+          {
+            "source": "Bhrigu_Samhita_deep",
+            "text": "2. For those with Gemini Ascendant, the temporary predictions of Jupiter situated in various houses of their transit chart should be seen in the following example charts----"
+          },
+          {
+            "source": "Bhrigu_Samhita_deep",
+            "text": "If Jupiter is on Aries sign, then number 370."
+          }
+        ]
+      },
+      {
+        "planet": "Mars",
+        "transit_sign": "Rishabam",
+        "transit_longitude": 49.47,
+        "house_from_moon": 3,
+        "house_from_lagna": 5,
+        "gochar_title": "3rd house Mars",
+        "gochar_valence": "GOOD",
+        "gochar_meaning": "Courage, energy, victory. Best Mars transit.",
+        "tight_natal_aspects": [],
+        "corpus_transit_rules": [
+          {
+            "source": "Jataka_Bharanam_deep",
+            "text": "One line on each mount gives the following results when the planet transits that sign: Sun-wealth, Moon-happiness, Mars-courage, etc."
+          },
+          {
+            "source": "KP_Reader_3_Predictive_deep",
+            "text": "If Mars transits in Rohini, Hastham, or Sravanam (Moon-ruled stars) [for Taurus ascendant], Mars indicates [matters related to its lordship of] the 7th house (wife) and the 12th house (expenses);"
+          }
+        ]
+      },
+      {
+        "planet": "Rahu",
+        "transit_sign": "Kumbam",
+        "transit_longitude": 307.46,
+        "house_from_moon": 12,
+        "house_from_lagna": 2,
+        "gochar_title": "12th house Rahu",
+        "gochar_valence": "BAD",
+        "gochar_meaning": "Hidden losses, foreign travels, spiritual confusion.",
+        "tight_natal_aspects": [],
+        "corpus_transit_rules": [
+          {
+            "source": "Bhrigu_Samhita_deep",
+            "text": "If Rahu is on Aries sign, then number 4618."
+          },
+          {
+            "source": "Bhrigu_Samhita_deep",
+            "text": "If Rahu is on Taurus sign, then number 419."
+          }
+        ]
+      }
+    ]
+  },
+  "yoga_count": 2,
+  "total_dasha_periods": 0
+}

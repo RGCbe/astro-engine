@@ -1,0 +1,178 @@
+You are a senior Jyotish (Vedic astrology) expert writing a natal reading.
+
+CHART DATA:
+- Lagna: Sagittarius
+- Moon sign: Leo
+- Nakshatra: Magha
+- Ayanamsa: {'@type': 'Ayanamsa', 'name': 'True Chitra Paksha', 'value': np.float64(23.845672101671596)}
+
+PLANETARY POSITIONS:
+- Jupiter: Sagittarius H1 (Purva Ashadha pada 3) RETROGRADE
+- Saturn: Pisces H4 (Uttara Bhadrapada pada 3)
+- Ketu: Pisces H4 (Revati pada 2) RETROGRADE
+- Mars: Aries H5 (Bharani pada 3)
+- Mercury: Aries H5 (Bharani pada 4) RETROGRADE
+- Sun: Taurus H6 (Rohini pada 1)
+- Venus: Gemini H7 (Mrigashira pada 4) RETROGRADE
+- Moon: Leo H9 (Magha pada 4)
+- Rahu: Virgo H10 (Hasta pada 4) RETROGRADE
+
+FIRED YOGAS:
+- Hamsa: Jupiter in kendra H1 + own/exalted in Sagittarius
+- Kemadruma: Moon isolated
+
+TOP MATCHING RULES FROM CLASSICAL BOOKS (with citations):
+
+PLANET-IN-RASI RULES:
+- [BPHS_Vol1] Sun in Taurus: l0 degrees and
+Calculate the 5 UPagrahas, 
+as under :
+43
+rRiuwga{q{If+r"rTF!l
+fqaiqlriutie${IrndqsilFl:
+Sun 
+(400)+133020' 
+: 
+Dhooma
+Dhooma 
+(l?3020')+ 53020' : 
+VYatiPata
+Vyatipata 
+(226040')+ 1800 
+- [BPHS_Vol1] Moon in Leo: '
+Stagc { : Leo, aB any other sign, is 30 degrees in length.
+- [BPHS_Vol1] Mars in Aries: and
+aspected by Mercury will not produce the said adversity. unless
+Man is seriously affiicted otherwise.
+t54
+Brihat Parasara Hora Sastrd
+GrqrreFil sqtur q?rur qr{ iln} r
+ilEerr {rftin wd g;ua aq fqft
+- [Brihat_Parashara_v2] Sun in Taurus: 10 degrees and Calculate the 5 
+Upagrahas, as under: 
+Sun 
+= (40°) + 133°20' 
+= 
+Dhooma 
+= 173°20'.
+- [Brihat_Parashara_v2] Mars in Aries: and aspected by Mercury will not produce the said adversity, unless 
+Mars is seriously afflicted otherwise. 
+लग्नात्तधिौ कुजबुधौ चिेण यदि संयुतौ। 
+राहुणा शवनना साद्धं कुष्ठं ति विवनदियशेत्॥७॥ 
+लग्नात्
+- [Hora_Sara] Sun in Taurus: , his dasa will deprive the native of agriculture, cattle, son and wife.
+- [Hora_Sara] Moon in Leo: , in such dasa, the native will acquire knowledge and money.
+- [Phaladeepika] Ketu in Pisces: , Virgo, Viishabha and the later half of Dhanus,
+in
+Parivesha
+(q‘ft%qr) and Indra-chapa
+are
+strong if there be a conjunction
+of the Moon and
+the
+Sun and the time be night.
+- [Phaladeepika] Mars in Aries: or the Moon is aspected by Mars and the Sun in
+Aries
+q'^rgtrn^f^wlr:
+i
+3Ti^T
+Sloka 16
+.— If
+there be
+a
+birth
+at
+night when
+be>
+nefics are
+in
+depression or inimical houses identical
+with the 11th, the 
+- [Prashna_Marga] Jupiter in Sagittarius: means horse; in Leo, camel; in Aries and 
+Taurus, camel and donkey.
+
+PLANET-IN-HOUSE RULES:
+- [BPHS_Vol1] Jupiter in house 1: while Saturn, Sun, Mars and
+Merorry arc together in thc Znd.
+q{: 
+flln 
+Rgiil 
+gq{r 
+qqqurrr: I
+Wfq q.cqq: qrtRnn frqqal qtE rrlqtr
+36.
+- [BPHS_Vol1] Venus in house 7: , ibe native will b.e. exceedingly libidinous'
+Vr""t .i"f"i"g o .ut.fi" in any house will cause-loss 
+of wife'
+snrneitw: qt{m} 
+qr
+ilil 
+cr* q;it srr{t
+EJ fl 
+wdga: t
+qfqrdtt
+q|ifail t
+{fi 
+lrflts* 
+q
+- [BPHS_Vol1] Venus in house 7: from the 8th house (i.e. the 2nd from ascendant),
+while his dispositor is conjunct Mars.
+- [BPHS_Vol1] Mercury in house 5: from her, nor should she be in aspect to
+Mercury so that the Yoga obtained is not simultaneously givcn
+annulment.
+- [BPHS_Vol1] Mercury in house 5: from the Moon will be an impetus to
+GaF Kcsari rather than becoming an impediment.
+- [BPHS_Vol1] Mercury in house 5: lifting the native to Himalayan
+heights through the said Maha Raja yoga.
+- [BPHS_Vol1] Mars in house 5: being in Sayanavastha 
+is related to Saturn or Rahu, the native's
+Chapter 45 
+465
+head will be severed while with other malefics related to Mars
+iT the said state ears/hand will be cut off.
+- [BPHS_Vol1] Mercury in house 5: or in the l2th in Sabha-
+wsha will give many female issues; in the 7th it will make the
+native black i'r oomplexion.
+- [BPHS_Vol2] Mercury in house 5: : Mercury, the Moon and the Ascendant in the 3rd : the
+Ascendarrt, 
+the Sun, Satlrn and Mars in the 4th : the Ascendant,
+the Sun, Saturn, Mars, ivfercury and the Moon in the 10th : the
+Sun, the Moon, 
+- [BPHS_Vol2] Mars in house 5: : all except tl:re
+Sun in the 6th : the Sun in the 7th : the Sun and Mercury in
+the Sth : Mercury in the 9th: the Sun, Mgrs, the Ascendarrt antl
+Mercury in the 10th: all in the llth: Mars, Mercury, fu
+
+DIGNITY RULES:
+- [BPHS_Vol1] Jupiter own: .
+- [BPHS_Vol1] Mars own: .
+- [BPHS_Vol1] Mars own: if in
+Aries is better than Mars in Scorpio, a female sign.
+- [BPHS_Vol1] Mars own: .
+- [BPHS_Vol1] Mars own: or in exaltation) will
+make the nativc disinherit patrimony or enter into litigations.
+
+
+INSTRUCTIONS:
+Write a complete Jyotish reading in English. Cover these sections:
+
+1. OVERALL PERSONALITY (use Lagna + Moon sign + rising nakshatra)
+2. KEY YOGAS IN YOUR CHART (explain each fired yoga plainly)
+3. CAREER & SUCCESS INDICATORS (use 10th house rules + Rahu placement)
+4. MARRIAGE & RELATIONSHIPS (7th house + Venus + Darakaraka)
+5. FAMILY (4th + 2nd + parents' houses)
+6. CHILDREN (5th house + Jupiter)
+7. HEALTH & LONGEVITY (1st + 6th + 8th + Ayurdaya)
+8. WEALTH & FORTUNE (2nd + 11th + Jupiter)
+9. EDUCATION & INTELLIGENCE (5th + Mercury)
+10. KARMIC THEMES (Rahu/Ketu + D60)
+
+RULES FOR WRITING:
+- Cite every claim: "Per [BookName], X...", "Saravali says Y..."
+- Be honest: if a yoga is mixed (e.g. Kemadruma neutralized by Jupiter aspect), say so
+- Don't invent events or dates (use only what the rules say)
+- Be specific: "your Mars in Aries 5th house..." not generic "Mars gives..."
+- 3-5 paragraphs per section
+- Include traditional Sanskrit terms with English translation once per term
+
+Write the full reading now.

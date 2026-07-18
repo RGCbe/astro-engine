@@ -1,0 +1,196 @@
+{
+  "name": "A.R. Rahman",
+  "birth": {
+    "year": 1967,
+    "month": 1,
+    "day": 6,
+    "hour": 5,
+    "min": 50,
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "place": "Chennai (Madras), Tamil Nadu, India",
+    "tz": 5.5,
+    "weekday": "Friday"
+  },
+  "lagna": "Sagittarius",
+  "lagna_idx": 8,
+  "lagna_deg": 10.6474,
+  "lagna_lord": "Jupiter",
+  "ayanamsa": 23.396335,
+  "positions": {
+    "Sun": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 21.5867,
+      "lon_abs": 261.5867,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 1.0194,
+      "house": 1
+    },
+    "Moon": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 22.8145,
+      "lon_abs": 202.8145,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 13.7844,
+      "house": 11
+    },
+    "Mars": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 23.0277,
+      "lon_abs": 173.0277,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.4508,
+      "house": 10
+    },
+    "Mercury": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 14.3662,
+      "lon_abs": 254.3662,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.5736,
+      "house": 1
+    },
+    "Jupiter": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 7.9244,
+      "lon_abs": 97.9244,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.1245,
+      "house": 8
+    },
+    "Venus": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 5.6001,
+      "lon_abs": 275.6001,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 1.2544,
+      "house": 2
+    },
+    "Saturn": {
+      "rasi": "Pisces",
+      "rasi_idx": 11,
+      "deg": 0.94,
+      "lon_abs": 330.94,
+      "nak": "Purva Bhadrapada",
+      "nak_idx": 24,
+      "nak_lord": "Jupiter",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.0679,
+      "house": 4
+    },
+    "Rahu": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 19.6611,
+      "lon_abs": 19.6611,
+      "nak": "Bharani",
+      "nak_idx": 1,
+      "nak_lord": "Venus",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 5
+    },
+    "Ketu": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 19.6611,
+      "lon_abs": 199.6611,
+      "nak": "Swati",
+      "nak_idx": 14,
+      "nak_lord": "Rahu",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 11
+    }
+  },
+  "janma_nakshatra": "Vishakha",
+  "janma_nakshatra_lord": "Jupiter",
+  "moon_rasi": "Libra",
+  "moon_pada": 1,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 5:50 AM self-reported by Rahman in interview (astrodatabank)",
+  "known_events": [
+    {
+      "date": "1976-09-30",
+      "event": "Father died (age 9) — began playing piano professionally to support family"
+    },
+    {
+      "date": "1989-01-01",
+      "event": "Converted to Islam at age 22 — adopted name A.R. Rahman",
+      "date_precision": "year"
+    },
+    {
+      "date": "1992-08-15",
+      "event": "Film scoring debut: Tamil film Roja (dir. Mani Ratnam) — instant sensation"
+    },
+    {
+      "date": "1993-05-04",
+      "event": "Won National Film Award (Silver Lotus) for Best Music Direction for Roja"
+    },
+    {
+      "date": "1995-03-12",
+      "event": "Married Saira Banu in Chennai"
+    },
+    {
+      "date": "1997-08-12",
+      "event": "Released Vande Mataram album — massive global success"
+    },
+    {
+      "date": "2002-06-19",
+      "event": "Bombay Dreams West End stage play debut"
+    },
+    {
+      "date": "2003-01-06",
+      "event": "Son A.R. Ameen born (shares birthday with father)"
+    },
+    {
+      "date": "2009-02-22",
+      "event": "Won two Academy Awards (Oscars) for Slumdog Millionaire"
+    },
+    {
+      "date": "2010-01-31",
+      "event": "Won two Grammy Awards + received Padma Bhushan"
+    },
+    {
+      "date": "2020-12-28",
+      "event": "Mother Kareema Begum died in Chennai"
+    },
+    {
+      "date": "2024-11-19",
+      "event": "Announced separation from wife Saira Banu after 29 years of marriage"
+    }
+  ]
+}

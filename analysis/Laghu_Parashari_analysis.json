@@ -1,0 +1,2476 @@
+{
+  "book_key": "Laghu_Parashari",
+  "filename": "Laghu_Parashari.pdf",
+  "total_pages": 187,
+  "total_words": 50765,
+  "total_chars": 287977,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "lord",
+      "count": 746
+    },
+    {
+      "word": "house",
+      "count": 610
+    },
+    {
+      "word": "lagna",
+      "count": 431
+    },
+    {
+      "word": "dasa",
+      "count": 425
+    },
+    {
+      "word": "results",
+      "count": 394
+    },
+    {
+      "word": "auspicious",
+      "count": 363
+    },
+    {
+      "word": "saturn",
+      "count": 342
+    },
+    {
+      "word": "mars",
+      "count": 337
+    },
+    {
+      "word": "venus",
+      "count": 314
+    },
+    {
+      "word": "lords",
+      "count": 306
+    },
+    {
+      "word": "bhukti",
+      "count": 296
+    },
+    {
+      "word": "planets",
+      "count": 282
+    },
+    {
+      "word": "moon",
+      "count": 272
+    },
+    {
+      "word": "houses",
+      "count": 268
+    },
+    {
+      "word": "jupiter",
+      "count": 268
+    },
+    {
+      "word": "mercury",
+      "count": 262
+    },
+    {
+      "word": "maraka",
+      "count": 254
+    },
+    {
+      "word": "inauspicious",
+      "count": 253
+    },
+    {
+      "word": "kendra",
+      "count": 230
+    },
+    {
+      "word": "sun",
+      "count": 219
+    },
+    {
+      "word": "planet",
+      "count": 202
+    },
+    {
+      "word": "trikona",
+      "count": 198
+    },
+    {
+      "word": "related",
+      "count": 187
+    },
+    {
+      "word": "evil",
+      "count": 161
+    },
+    {
+      "word": "other",
+      "count": 159
+    },
+    {
+      "word": "rahu",
+      "count": 159
+    },
+    {
+      "word": "ketu",
+      "count": 137
+    },
+    {
+      "word": "laghu",
+      "count": 133
+    },
+    {
+      "word": "yoga",
+      "count": 131
+    },
+    {
+      "word": "sloka",
+      "count": 130
+    },
+    {
+      "word": "jataka",
+      "count": 125
+    },
+    {
+      "word": "parasari",
+      "count": 124
+    },
+    {
+      "word": "according",
+      "count": 124
+    },
+    {
+      "word": "chandrika",
+      "count": 121
+    },
+    {
+      "word": "therefore",
+      "count": 114
+    },
+    {
+      "word": "only",
+      "count": 110
+    },
+    {
+      "word": "yogakaraka",
+      "count": 104
+    },
+    {
+      "word": "years",
+      "count": 99
+    },
+    {
+      "word": "chart",
+      "count": 97
+    },
+    {
+      "word": "sign",
+      "count": 86
+    },
+    {
+      "word": "owns",
+      "count": 84
+    },
+    {
+      "word": "own",
+      "count": 83
+    },
+    {
+      "word": "good",
+      "count": 80
+    },
+    {
+      "word": "both",
+      "count": 77
+    },
+    {
+      "word": "neutral",
+      "count": 75
+    },
+    {
+      "word": "thus",
+      "count": 74
+    },
+    {
+      "word": "rajayoga",
+      "count": 73
+    },
+    {
+      "word": "owning",
+      "count": 72
+    },
+    {
+      "word": "same",
+      "count": 71
+    },
+    {
+      "word": "example",
+      "count": 71
+    },
+    {
+      "word": "some",
+      "count": 68
+    },
+    {
+      "word": "blemished",
+      "count": 67
+    },
+    {
+      "word": "etc",
+      "count": 65
+    },
+    {
+      "word": "naksatra",
+      "count": 64
+    },
+    {
+      "word": "combination",
+      "count": 64
+    },
+    {
+      "word": "trishadaya",
+      "count": 62
+    },
+    {
+      "word": "birth",
+      "count": 62
+    },
+    {
+      "word": "due",
+      "count": 61
+    },
+    {
+      "word": "tiikona",
+      "count": 61
+    },
+    {
+      "word": "death",
+      "count": 61
+    },
+    {
+      "word": "bhuktis",
+      "count": 60
+    },
+    {
+      "word": "text",
+      "count": 60
+    },
+    {
+      "word": "becomes",
+      "count": 60
+    },
+    {
+      "word": "ffi",
+      "count": 59
+    },
+    {
+      "word": "malefic",
+      "count": 59
+    },
+    {
+      "word": "notes",
+      "count": 59
+    },
+    {
+      "word": "yogas",
+      "count": 57
+    },
+    {
+      "word": "native",
+      "count": 57
+    },
+    {
+      "word": "auspiciousness",
+      "count": 56
+    },
+    {
+      "word": "dasas",
+      "count": 54
+    },
+    {
+      "word": "relation",
+      "count": 54
+    },
+    {
+      "word": "give",
+      "count": 53
+    },
+    {
+      "word": "become",
+      "count": 52
+    },
+    {
+      "word": "above",
+      "count": 50
+    },
+    {
+      "word": "unrelated",
+      "count": 50
+    },
+    {
+      "word": "like",
+      "count": 49
+    },
+    {
+      "word": "nature",
+      "count": 49
+    },
+    {
+      "word": "characteristics",
+      "count": 48
+    },
+    {
+      "word": "marakas",
+      "count": 48
+    },
+    {
+      "word": "conjunct",
+      "count": 47
+    },
+    {
+      "word": "occur",
+      "count": 46
+    },
+    {
+      "word": "under",
+      "count": 46
+    },
+    {
+      "word": "signs",
+      "count": 45
+    },
+    {
+      "word": "spoilt",
+      "count": 45
+    },
+    {
+      "word": "longevity",
+      "count": 44
+    },
+    {
+      "word": "cancer",
+      "count": 43
+    },
+    {
+      "word": "produce",
+      "count": 42
+    },
+    {
+      "word": "benefic",
+      "count": 41
+    },
+    {
+      "word": "strong",
+      "count": 41
+    },
+    {
+      "word": "because",
+      "count": 40
+    },
+    {
+      "word": "order",
+      "count": 40
+    },
+    {
+      "word": "months",
+      "count": 40
+    },
+    {
+      "word": "occupy",
+      "count": 40
+    },
+    {
+      "word": "blemish",
+      "count": 40
+    },
+    {
+      "word": "kendras",
+      "count": 39
+    },
+    {
+      "word": "natural",
+      "count": 39
+    },
+    {
+      "word": "cannot",
+      "count": 39
+    },
+    {
+      "word": "ataka",
+      "count": 38
+    },
+    {
+      "word": "though",
+      "count": 38
+    },
+    {
+      "word": "astrology",
+      "count": 37
+    }
+  ],
+  "calculations": [
+    {
+      "type": "time_period",
+      "value": "120\nyears",
+      "context": "and 9 Naksatras fall within 120o. This 120\" corresponds to 120 years of Vimsottari Dasa i.e., 6 years of the Sun; 10 years of th"
+    },
+    {
+      "type": "time_period",
+      "value": "6 years",
+      "context": "This 120\" corresponds to 120 years of Vimsottari Dasa i.e., 6 years of the Sun; 10 years of the Moory 7 years of Mars; L8 years"
+    },
+    {
+      "type": "time_period",
+      "value": "10 years",
+      "context": "s to 120 years of Vimsottari Dasa i.e., 6 years of the Sun; 10 years of the Moory 7 years of Mars; L8 years of Rahu; 16 yearJ of"
+    },
+    {
+      "type": "time_period",
+      "value": "7 years",
+      "context": "ottari Dasa i.e., 6 years of the Sun; 10 years of the Moory 7 years of Mars; L8 years of Rahu; 16 yearJ of Jupiter; L9 years of"
+    },
+    {
+      "type": "time_period",
+      "value": "8 years",
+      "context": "6 years of the Sun; 10 years of the Moory 7 years of Mars; L8 years of Rahu; 16 yearJ of Jupiter; L9 years of Saturn; 17 years"
+    },
+    {
+      "type": "time_period",
+      "value": "16 year",
+      "context": "n; 10 years of the Moory 7 years of Mars; L8 years of Rahu; 16 yearJ of Jupiter; L9 years of Saturn; 17 years of Mercury; T yea"
+    },
+    {
+      "type": "time_period",
+      "value": "9 years",
+      "context": "ry 7 years of Mars; L8 years of Rahu; 16 yearJ of Jupiter; L9 years of Saturn; 17 years of Mercury; T year:s of Ketu ana ZO yea"
+    },
+    {
+      "type": "time_period",
+      "value": "17 years",
+      "context": "L8 years of Rahu; 16 yearJ of Jupiter; L9 years of Saturn; 17 years of Mercury; T year:s of Ketu ana ZO years of Venus Dasa. 1o"
+    },
+    {
+      "type": "time_period",
+      "value": "1 year",
+      "context": "of Ketu ana ZO years of Venus Dasa. 1o of zodiac stands for 1 year of Dasa. Some astrologers usually interpret 120 years as fu"
+    },
+    {
+      "type": "time_period",
+      "value": "120 years",
+      "context": "ands for 1 year of Dasa. Some astrologers usually interpret 120 years as full longevity of human being but it is a wrong inferenc"
+    },
+    {
+      "type": "time_period",
+      "value": "18 years",
+      "context": "Lunar eclipses occur due to these two nodei and after every 18 years almost similar ecliPses occur. Due to uniformity of their m"
+    },
+    {
+      "type": "time_period",
+      "value": "20 years",
+      "context": "e interesting fact which supportsvimsottari Dasa system of L20 years is, thit, after 120 years, the Sun and the Moon are again o"
+    },
+    {
+      "type": "time_period",
+      "value": "116 years",
+      "context": "he same. Astottari Dasa is of 108 yei.lrs, Sotl.tsottari of 116 years, Dwadasottari of LL2 years and all thc:.,' lall sltort <tf"
+    },
+    {
+      "type": "time_period",
+      "value": "2 years",
+      "context": "108 yei.lrs, Sotl.tsottari of 116 years, Dwadasottari of LL2 years and all thc:.,' lall sltort <tf 120 years, the supposed ful"
+    },
+    {
+      "type": "time_period",
+      "value": "36 years",
+      "context": "l longevity of huntan bt'ing. ln Vrgini Dasa the span is of 36 years and the cycle starts again after every 36 years, which is a"
+    },
+    {
+      "type": "time_period",
+      "value": "5years",
+      "context": "Chitra Nakshatra, the balance of Mars's Dasa atbirthwouldbe 5years and3 months. Theformula for calculating Dasa balance is : D"
+    },
+    {
+      "type": "time_period",
+      "value": "3 months",
+      "context": "shatra, the balance of Mars's Dasa atbirthwouldbe 5years and3 months. Theformula for calculating Dasa balance is : Dasa Balance"
+    },
+    {
+      "type": "time_period",
+      "value": "5 years",
+      "context": "ormula, the Moon's Dasa balance at birth =  #  x 10 years = 5 years, 5 months. Calculations of Bhukti periods Suppose we want t"
+    },
+    {
+      "type": "time_period",
+      "value": "5 months",
+      "context": "he Moon's Dasa balance at birth =  #  x 10 years = 5 years, 5 months. Calculations of Bhukti periods Suppose we want the Bhukti"
+    },
+    {
+      "type": "time_period",
+      "value": "0 years",
+      "context": "the Moon. .'. Moon'Bhukt'  1ox 1o  10 I  =-izd- =T  Years = 0 years,10 months i  -0year,7months. Rahu's Bhuk\"  1o x L8 ti  =ff="
+    },
+    {
+      "type": "time_period",
+      "value": "10 months",
+      "context": ". .'. Moon'Bhukt'  1ox 1o  10 I  =-izd- =T  Years = 0 years,10 months i  -0year,7months. Rahu's Bhuk\"  1o x L8 ti  =ff=lyear,6mon"
+    },
+    {
+      "type": "time_period",
+      "value": "0year",
+      "context": "kt'  1ox 1o  10 I  =-izd- =T  Years = 0 years,10 months i  -0year,7months. Rahu's Bhuk\"  1o x L8 ti  =ff=lyear,6months Jupite"
+    },
+    {
+      "type": "time_period",
+      "value": "7months",
+      "context": "ox 1o  10 I  =-izd- =T  Years = 0 years,10 months i  -0year,7months. Rahu's Bhuk\"  1o x L8 ti  =ff=lyear,6months Jupiter's  Bhu"
+    },
+    {
+      "type": "time_period",
+      "value": "6months",
+      "context": "nths i  -0year,7months. Rahu's Bhuk\"  1o x L8 ti  =ff=lyear,6months Jupiter's  Bhukti = tt;Ju = 1yeaq,4  months saturn's Bhukti"
+    },
+    {
+      "type": "time_period",
+      "value": "4 \nmonths",
+      "context": "L8 ti  =ff=lyear,6months Jupiter's  Bhukti = tt;Ju = 1yeaq,4  months saturn's Bhukti = tHdtn ='!. year,7 months and so on upto t"
+    },
+    {
+      "type": "time_period",
+      "value": "7 months",
+      "context": "= tt;Ju = 1yeaq,4  months saturn's Bhukti = tHdtn ='!. year,7 months and so on upto the Sun's Bhukti: Now for calculating the Bh"
+    },
+    {
+      "type": "time_period",
+      "value": "5 year",
+      "context": "e Bhukti at birth, the Moon has already crossed (10 years - 5 year and 6 months) i.e. 4 years and 6 months remain as balance."
+    },
+    {
+      "type": "time_period",
+      "value": "6 months",
+      "context": "birth, the Moon has already crossed (10 years - 5 year and 6 months) i.e. 4 years and 6 months remain as balance. The total of"
+    },
+    {
+      "type": "time_period",
+      "value": "4 years",
+      "context": "n has already crossed (10 years - 5 year and 6 months) i.e. 4 years and 6 months remain as balance. The total of Bhuktis upto J"
+    },
+    {
+      "type": "time_period",
+      "value": "4 months",
+      "context": "of 4 years and 6 months including a balance of 1. year and 4 months of Saturn's Bhukti. Bhuktis yet to be followed in the Moon'"
+    },
+    {
+      "type": "time_period",
+      "value": "31 days",
+      "context": "dates. Readers should avoid falling into controversy of 30-31 days but can do well by adjusting or writing the English dates a"
+    },
+    {
+      "type": "time_period",
+      "value": "76 day",
+      "context": "s weak from the 8'h day of dark half or Krisna Paksa to the 76 day of the bright half or Sukla Paksa. Again, are we to include"
+    },
+    {
+      "type": "time_period",
+      "value": "32 years",
+      "context": "hat is span of longevity ? The short longevity span is upto 32 years, the medium is upto 64years and the long is upto O6 y\"utt."
+    },
+    {
+      "type": "time_period",
+      "value": "64years",
+      "context": "e short longevity span is upto 32 years, the medium is upto 64years and the long is upto O6 y\"utt. for the calculations of long"
+    },
+    {
+      "type": "time_period",
+      "value": "64 years",
+      "context": "on of liie will occur near to the extreme end i.e., near to 64 years as the medium life span starts at 32 years arrd extends uPt"
+    },
+    {
+      "type": "time_period",
+      "value": "18 days",
+      "context": "with his own Bhukti spreading over a period of 3 months and 18 days. The substance is that the whole of the auspicious or inaus"
+    },
+    {
+      "type": "time_period",
+      "value": "2 months",
+      "context": "rn. The singer was born with Mercury's balance L6 years and 2 months. she started her career as singer in Mercury's Dasa. Jupite"
+    },
+    {
+      "type": "time_period",
+      "value": "10 days",
+      "context": "i ka born with balance of Ketu's Dasa 4 years, 3 months and 10 days. A great Rajayoga is caused due to the exchange of the- Lag"
+    },
+    {
+      "type": "time_period",
+      "value": "0\nyears",
+      "context": "is of 120 years. This comprises of Sun's 6 years, Moon's 1-0 years, Mars's 7 years, Rahu's 1,8 years,Jupiter's 16 years, Satur"
+    },
+    {
+      "type": "time_period",
+      "value": "16 years",
+      "context": "oon's 1-0 years, Mars's 7 years, Rahu's 1,8 years,Jupiter's 16 years, Saturn's L9 years, Mercury's \\7 years, Ketu's 7 yearsand V"
+    },
+    {
+      "type": "time_period",
+      "value": "7 year",
+      "context": "native at birth. 13\"-20'of the Moon's movement in Aswini = 7 year's of Ketu's Dasa 1 0 ' / ,t  tt 13\"-20' 7 x (9\"-53') - L '"
+    },
+    {
+      "type": "time_period",
+      "value": "9 days",
+      "context": "s into years, months and days, we get,5 years, 3 months and 9 days. This means Ketu will rule the native or Ketu's Dasa will b"
+    },
+    {
+      "type": "time_period",
+      "value": "6 Years",
+      "context": "0 Vimsottari Dasa and Antardasa DASA Bukti or Antardasa Sun 6 Years Moon-10 Years Mars 7 Years Sub Periods Total Sub Periods To"
+    },
+    {
+      "type": "time_period",
+      "value": "10 Years",
+      "context": "Dasa and Antardasa DASA Bukti or Antardasa Sun 6 Years Moon-10 Years Mars 7 Years Sub Periods Total Sub Periods Total Sub Period"
+    },
+    {
+      "type": "time_period",
+      "value": "7 Years",
+      "context": "dasa DASA Bukti or Antardasa Sun 6 Years Moon-10 Years Mars 7 Years Sub Periods Total Sub Periods Total Sub Periods Total Sun M"
+    },
+    {
+      "type": "time_period",
+      "value": "18 Years",
+      "context": "-Jataka C h a n d r i ka 179 DASA Bukti or A,ntarclasa Rahu 18 Years f upiter 16 Years Saturn 19 Years Sub Periods Total Sub Per"
+    },
+    {
+      "type": "time_period",
+      "value": "16 Years",
+      "context": "r i ka 179 DASA Bukti or A,ntarclasa Rahu 18 Years f upiter 16 Years Saturn 19 Years Sub Periods Total Sub Periods Total Sub Per"
+    },
+    {
+      "type": "time_period",
+      "value": "19 Years",
+      "context": "Bukti or A,ntarclasa Rahu 18 Years f upiter 16 Years Saturn 19 Years Sub Periods Total Sub Periods Total Sub Periods fotal Rahu"
+    },
+    {
+      "type": "time_period",
+      "value": "17 Years",
+      "context": "3 7 \"t2 1 6  5 1 8 1 9 0  0 DASA Bukti or Antardasa Mercury 17 Years Ketu 7 Years Venus 20 Years Sub Periods Total Sub Periods T"
+    },
+    {
+      "type": "time_period",
+      "value": "20 Years",
+      "context": "DASA Bukti or Antardasa Mercury 17 Years Ketu 7 Years Venus 20 Years Sub Periods Total Sub Periods Total Sub Periods Total Mercu"
+    },
+    {
+      "type": "time_period",
+      "value": "48 years",
+      "context": "native or Rahu's Dasa will be on to the native from the age 48 years,3 months and 9 days till 66years,3 months and 9 days. Durin"
+    },
+    {
+      "type": "time_period",
+      "value": "66years",
+      "context": "o the native from the age 48 years,3 months and 9 days till 66years,3 months and 9 days. During this period the native will be"
+    },
+    {
+      "type": "time_period",
+      "value": "12 days",
+      "context": "Rahu's Dasa. Rahu  Bhuk,t  =ff  = ##= Zyears,S  months  and 12 days For Jupiter Bhukti in Rahu's Dasa : 18 x16  288 Jupiter  Bh"
+    },
+    {
+      "type": "time_period",
+      "value": "24 days",
+      "context": "288 Jupiter  Bhukti = 'f-20 \" = ffi=  Zyears,4  months  and 24 days. For convenience we can also take the numerator in the frac"
+    },
+    {
+      "type": "time_period",
+      "value": "8 months",
+      "context": "can also take the numerator in the fraction i.e., 288 as 28.8 months' The whole number 28 represents 2 years and 4 months and th"
+    },
+    {
+      "type": "time_period",
+      "value": "9\nYears",
+      "context": "=   4 . 9 7 x18 = 12.6 7x1.6 s l't.2 7x19 = 13.3 7x17 = 11.9 Years 0 L 0 0 0 1 0 L 0 Months 4 2 4 7 4 0 11 1 L1 Days 27 0 6 0"
+    },
+    {
+      "type": "time_period",
+      "value": "0\nMonths",
+      "context": "7x1.6 s l't.2 7x19 = 13.3 7x17 = 11.9 Years 0 L 0 0 0 1 0 L 0 Months 4 2 4 7 4 0 11 1 L1 Days 27 0 6 0 27 18 6 9 27 00 Total = 7"
+    },
+    {
+      "type": "time_period",
+      "value": "1\nDays",
+      "context": "x17 = 11.9 Years 0 L 0 0 0 1 0 L 0 Months 4 2 4 7 4 0 11 1 L1 Days 27 0 6 0 27 18 6 9 27 00 Total = 7 00  182 For Mars Dasa, 8"
+    },
+    {
+      "type": "time_period",
+      "value": "800 Years",
+      "context": "t t   t t   t t = J- l![-Years t,  t,  ,t  t, - 7-x 76 -  800 Years i I i 532 800 years = 0 years 7 months and 29days. I  The l"
+    },
+    {
+      "type": "time_period",
+      "value": "800 years",
+      "context": "J- l![-Years t,  t,  ,t  t, - 7-x 76 -  800 Years i I i 532 800 years = 0 years 7 months and 29days. I  The last Bhukti in Mars D"
+    },
+    {
+      "type": "time_period",
+      "value": "29days",
+      "context": "76 -  800 Years i I i 532 800 years = 0 years 7 months and 29days. I  The last Bhukti in Mars Dasa is of the Moon of 7 months"
+    },
+    {
+      "type": "time_period",
+      "value": "29 days",
+      "context": "ars Dasa is of the Moon of 7 months iduration. It means that29 days of the Sun's Bhukti was also there to be experienced. There"
+    },
+    {
+      "type": "time_period",
+      "value": "9 months",
+      "context": "Rahu in Mars Dasa and Mars Bhukti. Mars Bhukti = 7 x 7 = 4.9 months ='L47 days. L' 76'  Lag h u Parasari -J ataka C hand ri ka"
+    },
+    {
+      "type": "time_period",
+      "value": "47 days",
+      "context": "s Dasa and Mars Bhukti. Mars Bhukti = 7 x 7 = 4.9 months ='L47 days. L' 76'  Lag h u Parasari -J ataka C hand ri ka 183 1 4 7"
+    },
+    {
+      "type": "time_period",
+      "value": "22 days",
+      "context": "r ^ ^ L : - Now, T  ghatis =1323 ghatis. 1 323 = ff  days = 22 days and 3 ghatis .'. Mars/ Mars/ Rahu = 22 days, and t hours an"
+    },
+    {
+      "type": "time_period",
+      "value": "918 days",
+      "context": "Rahu's Bhukti. I  Rahu Bhukti = 18rI=17=  +=  30.6 months = 918 days. 120  120 Saturn'sPratyantara =Uffgnuti, = ?13'.:li::d 21 g"
+    },
+    {
+      "type": "time_period",
+      "value": "45 days",
+      "context": "3'.:li::d 21 ghatis - i r , '  . .'. Mercury/Rahu/Saturn = L45 days,8 hours and24 minuts. Similarly we can calculate Sookshama"
+    },
+    {
+      "type": "time_period",
+      "value": "20 months",
+      "context": "hu Pratyantara. Moon Bhukti in Venus dasa = L0 x 20 = 200 = 20 months Rahu' Pratyantara =lerx3o) x18 ' = 5400 ghatis , sookshama"
+    },
+    {
+      "type": "time_period",
+      "value": "108\nyears",
+      "context": "ristics. A Naksatra. A Naksatra. A Naksatra. Dasa system of 108 years. A Naksatra. The l1th house for movable signs, the 9th hous"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "19/4",
+      "context": "consonance with the Sun's degrees of birth. Phala Deepika (19/4) is very clear in this respect- iil,i  Lagh u Parasari-Jata"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "2/13",
+      "context": "ation of a house by that planet. About aspects Brihatlataka(2/13) opines: ffi  ur+gr*rwqrr+ot6qrfr qtunfrr{ka : t rffi-q{nfi"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6/29",
+      "context": "two houses is himself a Rajayogakaraka. 'Uttara Kalamrita' (6/29-30) a cl.ssic is more descriptive about this Sloka. TIqqT q"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "9/1",
+      "context": "nus \"lNz tv 12 77x; Lagna Sun Venus Ketu Mars Mercury Birth 9/1,0.6.'t955 jupiter Moon Rahu Saturn Prakash was at the peak"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "26/27",
+      "context": "\\ Venus c Jupiter 2 Saturn Mars I X 11 t2 Safurn Mars Birth 26/27-12-1943 Rahu Mercury Ketu Lagna Jupiter Sun Moon Venus  150"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "21/4",
+      "context": "the 1st leg of Krittika Naksatra. Thus, we see 1 + 1 + y4 = 21/4 Naksatra fall in a sign. As told in the text, total cycle o"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/30",
+      "context": "n his own sign. T The Lst, 5th or 9th house of a horoscope. 1/30th part of a sign. The 3rd, 6th and 11th houses of a horosco"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": "ffi Translation & Nofes by O.P. VERMA W RANJAN PUBLIGATIONS 16, Ansari Road, Darya Ganj NEW DELH| - 110002  (rNDrA)  ' , 1"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": ". Aspects of planets. 6. About Trikona and Trishadaya lords 7. About lords of Kendras. 8. About 2nd and 12th house lords."
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "About lords of Kendras. 8. About 2nd and 12th house lords. 9. Rule about 8,h house lord. 10. KendradhipatyaDosha 11. Sun"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "ished Kendra & Trikona lords. 16. More about Yogakarakatwa. 17. Rajayoga par excellence.  18. Dasas of Yogakarakas. 'i.9."
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "16. More about Yogakarakatwa. 17. Rajayoga par excellence.  18. Dasas of Yogakarakas. 'i.9. Bhuktis of related inauspiciou"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "f Yogakarakas. 'i.9. Bhuktis of related inauspicious lords. 20. Other auspicious Yogas. 21. lRahu-Ketu as Yogakarakas. 22."
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "aka Planc'ts. 25.  r!  rr  rr  rl 26. Other Maraka Planets. 27.  il  il  rl 28. Speciality of Saturn as Maraka. EVTITFrEIF"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": ".  r!  rr  rr  rl 26. Other Maraka Planets. 27.  il  il  rl 28. Speciality of Saturn as Maraka. EVTITFrEIFI:  103-l3t Dasa"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "and Bhuktis of plarrets 29. Special rulgs for Dasa results. 30.  il  rl  rr  rr  rl 31. Neutral Bhukti lord to Dasa lord."
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "l i l l l l l 35. Auspicious Dasa and Bhukti of Yogakaraka. 36. Dasa-Bhuktis of Rahu-Ketu. 37. Dasas of inauspicious plane"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "lanets. 38.  il  lr  rr  ll 39. Rule about Maraka Dasas.  t 40. Rule for Dasa-Bhukti of Venus and Saturn 41.. Specific Raj"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": "sairas in the zodiac and 9 Naksatras fall within 120o. This 120\" corresponds to 120 years of Vimsottari Dasa i.e., 6 years"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "starts at Moola Naksatra and finishes at Revati Naksatra.  12  Laghu Parasari-Jataka Chandrika The allotment of Dasa year"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "utr atrrl the Moon are again the same. Astottari Dasa is of 108 yei.lrs, Sotl.tsottari of 116 years, Dwadasottari of LL2 ye"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "rs Rahu Jupiter Srtun Ucrcur) K.tu Vcnug fcart 6 10 7 18 16 19 \\7 m Elrtr Nekltrr Krlttlk! Rohlni Mrigasira Aridra Pusya A"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "h 19.11:1917 Lagna Saturn Moon Mars Venus Rahu Sun Mercury  60  Laghu Parasari'Jataka Chandrika saturn is a Kendra lord wi"
+    },
+    {
+      "type": "significant_number",
+      "value": 360,
+      "context": "y seven Naksatras multipled by the elongation 13o -20' give 360' of the Naksatra Mandal (Zodiac) or Rasi Chakra. These Naks"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "Sun Moon Mars Rahu Jupiter Saturn Mercurv ymcl 539 2000 600 1000 700 1800 1600 1900 1700 ym 53 253 31  3 41  3 483 663 823 1"
+    }
+  ],
+  "connections": {
+    "planet_house": [
+      {
+        "planet": "Sun",
+        "house": 2,
+        "snippet": "Sun+Venus Yoga formed in the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 2,
+        "snippet": "Sun by owning the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun is inauspicious vide Sloka 6, being the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun is in the 8'h house and Mars in the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun forms Yoga (auspicious combination) if in relation with Satum, as the 5th and 10th lords in house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun is inauspicious vide Sloka 6, being the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun is inauspicious for he owns the 6th house, a Trishadaya house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "sun are in th;7,h house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun and Mercury's conjunction is considered auspicious in the 7th or 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun Venus Mercury Lagna Rahu Bhukti. saturn occupies the 7th house a Maraka house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun is in the 8'h house and Mars in the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun in the 9th house or both of them may be in the 9th or LOth house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun and Mercury's conjunction is considered auspicious in the 7th or 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun forms Yoga (auspicious combination) if in relation with Satum, as the 5th and 10th lords in house"
+      },
+      {
+        "planet": "Sun",
+        "house": 12,
+        "snippet": "Sun and the 10th lord Mercury are conjunct in the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon becomes the lord of the 2\"d and L2ft house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon sign lord in occupation of a Kendra, Trikona, the 2nd, Ll\"th or 8'h house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon has been included. The Moon being the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon Mars Rahu Venus Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon occupies the 10th house and Jupiter in exaltation is situated in the 5th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon in the list of inauspicious planets. ,  Mars owns the 6th and 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon become severe Marakas by owning the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon Mars Jupiter Birth 29-6-1883 Sun Venus Mercury Lagna Rahu Bhukti. saturn occupies the 7th house a Maraka house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon owning the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon in Mrityu Bhagas afflicted in a Kendra or 8th house. (ui) Malefics in Kendra, Trikona or the 8'h house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon as Kendra lords again in the reducing order. Thus the 8'h house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon in Mrityu Bhagas afflicted in a Kendra or 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon Rahu This sloka also tells that Rahu-Ketu conjunct the 8s lord or alone placed in the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 9,
+        "snippet": "Moon is aspecting the 9th lord Jupiter placed in her house"
+      },
+      {
+        "planet": "Moon",
+        "house": 9,
+        "snippet": "Moon. The Moon may be in the L0th house and the Sun in the 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 10,
+        "snippet": "Moon is in the 10th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 10,
+        "snippet": "Moon occupies the 10th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 11,
+        "snippet": "Moon being the 11.th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 1,
+        "snippet": "Mars fromAries in the 1\"0'h  house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars, so increases income. If Rahu or Ketu is in the 7h or 2\"d house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars. However in association with other evil planets in the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars occupies the 2nd or 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 3,
+        "snippet": "Mars and Saturn owning the 3'd and 6th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars is potent in his glances at the 4th and 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars being the war lord or the lord of death has got full aspect on the 4th or the house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars be in the 4th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars  = + 2  as lord of the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars be in the 6ft house and the 6'h lord Jupiter be in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars be in the 6ft house and the 6'h lord Jupiter be in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars owning the 6th and Llth house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars Jupiter = -/  as lord of the 6th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars and Saturn owning the 3'd and 6th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars is not considered severe Maraka for Libra Lagna. Concluding, we can say that the 7th house is prime Maraka house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars Jupiter Birth 29-6-1883 Sun Venus Mercury Lagna Rahu Bhukti. saturn occupies the 7th house a Maraka house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars owns the 7th house (a Maraka-sthana and Kendra) Mars being a malefic turns neutral owning the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars is potent in his glances at the 4th and 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars Moon Rahu This sloka also tells that Rahu-Ketu conjunct the 8s lord or alone placed in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars and the th lord Jupiter together eiiher be in the 10h house or the 9'h house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars becomes a Rajayogakaraka. Jupiter owning the 9th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars + ]upiter, a greatly auspicious combination if Jupiter occupies the 10th house and Mars the 9th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars relationship can be of good, if it occurs such as Mars occupies the 10th house in Thurus and venus occupies Aries as the 9th house. saturn owns the 6th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars. The Sun forms Yoga (auspicious combination) if in relation with Satum, as the 5th and 10th lords in house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars + Venus, only Venus is blemished. 4. Mars + ]upiter, a greatly auspicious combination if Jupiter occupies the 10th house and Mars the 9th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars relationship can be of good, if it occurs such as Mars occupies the 10th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 12,
+        "snippet": "Mars is conjunct the blemished 7th lord (a Kendra) Saturn. The Yoga is in the 12'h house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury is essentially inauspicious being a Trishadaya lord according to Sloka 6. venus is Maraka being the 2nd and 7th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 3,
+        "snippet": "Mercury is inauspicious for owning the 3rd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury in the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury and venus are conjunct in the 4th house as the 4h and 5'h house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury is auspicious while Saturn is Rajayogakaraka. There is difference of opinion in regard to the Sun, who owns the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury and venus are conjunct in the 4th house as the 4h and 5'h house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury, the 7th (Maraka) and 10h house lord is in the Lagna with Mars, the 5th and 12th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury being the 5th house lord also owns the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury's conjunction is considered auspicious in the 7th or 10th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury can provide benefic results by being in the 7th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury occupy other Kendras in own signs than the 7th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury and the strong Moon as Kendra lords again in the reducing order. Thus the 8'h house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury being the 5th house lord also owns the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury is not considered for the reason that his Moolatrikonisign falls in the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 9,
+        "snippet": "Mercury + Saturn, if Yoga is formed by exchange of houses in 4th and 9il'houses or Ist and 9th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 9,
+        "snippet": "Mercury produces Rajayoga in relatiorr to Venus. Venus in the 10th and Mercury in the 9th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 9,
+        "snippet": "Mercury in the 9th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury's conjunction is considered auspicious in the 7th or 10th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury produces Rajayoga in relatiorr to Venus. Venus in the 10th and Mercury in the 9th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury or both of them are conjunct in the 9th or 10th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 12,
+        "snippet": "Mercury, the 7th (Maraka) and 10h house lord is in the Lagna with Mars, the 5th and 12th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 12,
+        "snippet": "Mercury are conjunct in the 12th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 12,
+        "snippet": "Mercury. If the same Rahu is in the 12th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 1,
+        "snippet": "Jupiter in the 5ft house is aspected by Mars fromAries in the 1\"0'h  house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter and the 2\"d and 7th lord Mars, so increases income. If Rahu or Ketu is in the 7h or 2\"d house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter is powerful being exalted. There is also the Sun+Venus Yoga formed in the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter, the Moon has been included. The Moon being the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter is not considered Maraka for owning the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 3,
+        "snippet": "Jupiter as inauspicious. That is, as 12th house lord, Jupiter gives results according to his 3rd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter is very auspicious in his glances at the 5th and 9tr' houses. Mars is potent in his glances at the 4th and 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter for that particular horoscope. Mars being the war lord or the lord of death has got full aspect on the 4th or the house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter is placed in the 4th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter is very auspicious in his glances at the 5th and 9tr' house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter be in the 5th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter Ketu Birth 19-1L-1977 Lagna Saturn Moon Mars Rahu Venus Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 6,
+        "snippet": "Jupiter and Mars Jupiter = -/  as lord of the 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 6,
+        "snippet": "Jupiter are conjunct in the 5h then it is a Karaka Yoga and if in the 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 6,
+        "snippet": "Jupiter owning the 9th house is auspicious but is blemished for owning the 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter and Venus are strong Marakas particularly if occupying the 7'h house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter-Saturn' Jupiter- tvtars orlupiter-sun are in th;7,h house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter aspects the 5s and th houses also in addition to his 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter and Mercury can provide benefic results by being in the 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter and Mercury occupy other Kendras in own signs than the 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter, Venus, benefic associated Mercury and the strong Moon as Kendra lords again in the reducing order. Thus the 8'h house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter is very auspicious in his glances at the 5th and 9tr' houses. Mars is potent in his glances at the 4th and 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter together eiiher be in the 10h house or the 9'h house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter is in the 10th and Saturn is in the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter occupies the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter owning the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter be in the 10th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter are friendly to Mars. The Sun forms Yoga (auspicious combination) if in relation with Satum, as the 5th and 10th lords in house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter is in the 10th and Saturn is in the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 12,
+        "snippet": "Jupiter, Venus etc. with (iv) Similarly the planets in the above houses conjunct with the 12th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 12,
+        "snippet": "Jupiter as inauspicious. That is, as 12th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus being the 7th lord can also own the 2nd and l-2'h house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "venus is Maraka being the 2nd and 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus is a very strong Maraka if placed in the 7th or 2nd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 3,
+        "snippet": "Venus produces Rajayoga' The Sun is inauspicious vide Sloka 6, being the 3rd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 3,
+        "snippet": "Venus as the 10th lord turns neutral and again becomes inauspicious being a Trishadaya i.e.,3rd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 3,
+        "snippet": "Venus also becomes phagyadhipati by owning the 9th house' I  Mars owns the 3rd and 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus. (iii) If the Lagna lord Mars be in the 4th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "venus are conjunct in the 4th house as the 4h and 5'h house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus in 4th and Jupiter in the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "venus are conjunct in the 4th house as the 4h and 5'h house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus be in the 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus creates good or bad Yogas by associations for being the lord of the 5th and 12th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus produces Rajayoga' The Sun is inauspicious vide Sloka 6, being the 3rd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus as 9th lord is auspicious according to Sloka 6. He also owns the 2nd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus who lords the 10th and 3rd houses. For Gemini Lagna Mars owning the 6th and Llth house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus in the 6th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus are strong Marakas particularly if occupying the 7'h house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus is a strong Maraka, if in the 7th, as he owns two Marala house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus, Mercury and the Moon become severe Marakas by owning the 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus Mercury Lagna Rahu Bhukti. saturn occupies the 7th house a Maraka house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus, benefic associated Mercury and the strong Moon as Kendra lords again in the reducing order. Thus the 8'h house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus is J\"uiti,ur.o in the 8,r. house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus is auspicious only, if he is placed in the Lagna or 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus is the lugnu and 8th house lord. He is not auspicious being elsewhere than in the Lagna or the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus happens to be a Rajayogakaraka planet bging the same-lord of th; A'n and 9'r'house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus is blemished. 4. Mars + ]upiter, a greatly auspicious combination if Jupiter occupies the 10th house and Mars the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "venus occupies Aries as the 9th house. saturn owns the 6th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus also becomes phagyadhipati by owning the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 10,
+        "snippet": "Venus, only Venus is blemished. 4. Mars + ]upiter, a greatly auspicious combination if Jupiter occupies the 10th house and Mars the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 10,
+        "snippet": "Venus and Mars relationship can be of good, if it occurs such as Mars occupies the 10th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 10,
+        "snippet": "Venus. Venus in the 10th and Mercury in the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 11,
+        "snippet": "Venus agian becombs inauspicious by owning the 11th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 12,
+        "snippet": "Venus etc. with (iv) Similarly the planets in the above houses conjunct with the 12th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 12,
+        "snippet": "Venus creates good or bad Yogas by associations for being the lord of the 5th and 12th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 2,
+        "snippet": "Saturn is Maraka and evil. The Sun by owning the 2nd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 2,
+        "snippet": "Saturn, a great combination, if not in the 2nd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "Saturn owning the 3'd and 6th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "Saturn. According to this text any qlangt.b.ecomes inauspicious or evil wheihe owns the 3'd' 6fr' 8tn or 1Lth house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "Saturn does not kill. Saturn as 2nd house lord is definetely a Maraka. Again, Saturn owns the 3rd house, a Trishadaya house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn is purely a Trishadaya (the 3'd) lord and neutral being the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn is in own sign in the LOth  house and ]upiter in the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn the 4ft and 5ft lord is in the 10ft house. The 9ft lord Mercury in the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn Moon Mars Rahu Venus Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn, both the planets get spoilt. Jupiter in the 5th and Saturn in the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn becomes a Rajayogakaraka by owning the 4th and 5th houses. Mercury owns the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 6,
+        "snippet": "Saturn owning the 3'd and 6th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn' Jupiter- tvtars orlupiter-sun are in th;7,h house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn all the planets being lords of the 7th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn Moon Mars Jupiter Birth 29-6-1883 Sun Venus Mercury Lagna Rahu Bhukti. saturn occupies the 7th house a Maraka house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn is evil by owning the 8th house and a Maraka by owning the 7th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is strong being in a Kendra while Venus is J\"uiti,ur.o in the 8,r. house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is considered Maraka as he owns the 7'h house besides being lord of the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is a blemished Tiikona lord for being also the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is evil by owning the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "saturn alone occupies the 9'h or L0th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn is in aspectual relationship with the 9th and 12th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn is finally inauspicious i.e., Llth house lord. trf Jupiter is in the 10th and Saturn is in the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn, if Yoga is formed by exchange of houses in 4th and 9il'houses or Ist and 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 10,
+        "snippet": "Saturn. Examples of Aries Lagna- (i) If the 9ft lord Jupiter be in the 10th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 10,
+        "snippet": "Saturn is strong being in the 10th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 10,
+        "snippet": "saturn, a malefic becomes neutral owning the 10th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "saturn, a malefic becomes neutral owning the 10th house but again becomes inauspicious for owning the 11th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 12,
+        "snippet": "Saturn. The Yoga is in the 12'h house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 12,
+        "snippet": "saturn as the Lagna and 12th house lord gives results only as the Lagna lord. sa*turn placed in the L2th house is more a 12th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 2,
+        "snippet": "Rahu or Ketu is in the 7h or 2\"d house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 2,
+        "snippet": "Rahu or Ketu is placed in the 2fr,7'n,8'h  or l'2th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 3,
+        "snippet": "Rahu is conjunct with evil planets in the 3'r, 6th or'l1th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 4,
+        "snippet": "Rahu Bhukti when saturn in transit was passing through the 4th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu Venus Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 6,
+        "snippet": "Rahu is conjunct with evil planets in the 3'r, 6th or'l1th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 7,
+        "snippet": "Rahu or Ketu is placed in the 2fr,7'n,8'h  or l'2th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 7,
+        "snippet": "Rahu Bhukti. saturn occupies the 7th house a Maraka house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu or Ketu is placed in the 2fr,7'n,8'h  or l'2th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu This sloka also tells that Rahu-Ketu conjunct the 8s lord or alone placed in the 8th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 10,
+        "snippet": "Rahu is in Aquarius in the 10'h house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 10,
+        "snippet": "Rahu's Dasa from February 1998. Rahu alone is in the 10th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 12,
+        "snippet": "Rahu is in the 12th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 2,
+        "snippet": "Ketu is in the 7h or 2\"d house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 2,
+        "snippet": "Ketu is placed in the 2fr,7'n,8'h  or l'2th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 4,
+        "snippet": "Ketu (i) Saturn the 4ft and 5ft lord is in the 10ft house. The 9ft lord Mercury in the 4th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 5,
+        "snippet": "Ketu is in the 5th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 5,
+        "snippet": "Ketu Birth 19-1L-1977 Lagna Saturn Moon Mars Rahu Venus Sun Mercury Rahu is inauspicious being in the 5th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 7,
+        "snippet": "Ketu is placed in the 2fr,7'n,8'h  or l'2th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 8,
+        "snippet": "Ketu is placed in the 2fr,7'n,8'h  or l'2th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 8,
+        "snippet": "Ketu conjunct the 8s lord or alone placed in the 8th house"
+      }
+    ],
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Leo",
+        "count": 4
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Scorpio",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aries",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Taurus",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Gemini",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Leo",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Libra",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Scorpio",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Sagittarius",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Capricorn",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aquarius",
+        "count": 6
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Pisces",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Taurus",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Cancer",
+        "count": 6
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Leo",
+        "count": 3
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Libra",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Scorpio",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Sagittarius",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aquarius",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Taurus",
+        "count": 4
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Cancer",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Virgo",
+        "count": 5
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Libra",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Scorpio",
+        "count": 3
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Sagittarius",
+        "count": 4
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aquarius",
+        "count": 3
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Pisces",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aries",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Taurus",
+        "count": 2
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Cancer",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Capricorn",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aquarius",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aries",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Taurus",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Cancer",
+        "count": 6
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Libra",
+        "count": 4
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Scorpio",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aquarius",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aries",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Taurus",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Virgo",
+        "count": 4
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Libra",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Scorpio",
+        "count": 4
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Capricorn",
+        "count": 5
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aquarius",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aries",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Gemini",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Leo",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "Yoga for much income but the 11ft lord will not produce good results in his Dasa particularly or will produce evil results, unless he is associated with the lord of a trine or Trikona house. In this way w"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "Yoga productive or cannot bestow auspiciousness.  The 8tr'lord, if he is not in the 8th is certainly evil. For Gemini Lagna, Saturn being the 9'h lord also becomes the 8tr'lord, therefore he gets endowed"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa and Sasa Yogas of Pancha Mahapurusha Yogas are also present.  Laghu Parasari-Jataka  Chandrika  137 llqlT 6rq frqr{; Taurus Lagna *qvJ*'<q: !TQT: Erii uf+gd qdit rrq*rr\"5-t: qrq{ra6' qs {+, $iT:ll47l"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa and Bhadra Yogas of Pancha Mahapurusha Yogas are also present. The Lagna lord Mercury is exalted. Example- The larly of the following chart enjoyed some of theYoga like public acceptance and social h"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra U.Bhadra Revati Aswini Bharani Example - Suppose the Moon is just entering Chitra Naksatra at birth, then the native will have a balance of 7 years of lvtrars's Dasa at birth. But such would not be t"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra Yogas of Pancha Mahapurusha Yogas are also present. The Lagna lord Mercury is exalted. Example- The larly of the following chart enjoyed some of theYoga like public acceptance and social honour till"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa Yogas of Pancha Mahapurusha Yogas are also present.  Laghu Parasari-Jataka  Chandrika  137 llqlT 6rq frqr{; Taurus Lagna *qvJ*'<q: !TQT: Erii uf+gd qdit rrq*rr\"5-t: qrq{ra6' qs {+, $iT:ll47ll ffi  T6"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata and Brihat Parasara Hora Sasha etc. All these works are available from 1\\4/s Ranjan Publications. Some of the topics which are to be learnt from these work are : 1. Houses and their significations, 2"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata and many other commentators take only 5th and 9th houses as Tiikona houses. Jataka Parijata says Gril-( ffi\"r \"-qq  TE ffi  ql Pt. Vinayaka Sastri 'Betala', also known as Betala Sastri was a great si"
+      }
+    ],
+    "dasha_mentions": [
+      {
+        "term": "kalachakra",
+        "count": 2
+      },
+      {
+        "term": "yogini",
+        "count": 2
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Bharani",
+        "count": 4
+      },
+      {
+        "nakshatra": "Krittika",
+        "count": 6
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 6
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 2
+      },
+      {
+        "nakshatra": "Pushya",
+        "count": 2
+      },
+      {
+        "nakshatra": "Magha",
+        "count": 4
+      },
+      {
+        "nakshatra": "Uttara Phalguni",
+        "count": 1
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 3
+      },
+      {
+        "nakshatra": "Chitra",
+        "count": 6
+      },
+      {
+        "nakshatra": "Swati",
+        "count": 3
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 2
+      },
+      {
+        "nakshatra": "Uttara Bhadrapada",
+        "count": 1
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 4
+      }
+    ]
+  },
+  "chapters_found": [],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 94,
+    "planet_house_connections": 203,
+    "planet_rasi_connections": 92,
+    "yoga_mentions": 9,
+    "nakshatra_mentions": 13,
+    "dasha_mentions": 2,
+    "chapters_detected": 0
+  }
+}

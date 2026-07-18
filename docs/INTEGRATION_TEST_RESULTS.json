@@ -1,0 +1,3641 @@
+{
+  "section1": {
+    "engine": [
+      {
+        "module": "engine.accident",
+        "status": "ok",
+        "ms": 16.1,
+        "error": null,
+        "exposed": [
+          "AccidentPattern",
+          "NAKSHATRA_BODY",
+          "annotations",
+          "dataclass",
+          "detect_accident_patterns",
+          "render_accident_markdown"
+        ]
+      },
+      {
+        "module": "engine.afflictions",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "Affliction",
+          "BENEFICS",
+          "DEBILITATION_SIGN",
+          "ENEMY_SIGNS",
+          "EXALTATION_SIGN",
+          "MALEFICS",
+          "MARANA_HOUSES",
+          "SIGN_LORD"
+        ]
+      },
+      {
+        "module": "engine.argala",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "ARGALA_HOUSES",
+          "activated_houses",
+          "annotations",
+          "argala_for_house",
+          "argala_for_sign",
+          "summary"
+        ]
+      },
+      {
+        "module": "engine.ashtakavarga",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "BAV_STRONG_THRESHOLD",
+          "BINDU_RULES",
+          "BINDU_TABLES",
+          "EKADHIPATYA_PAIRS",
+          "PLANETS",
+          "SAV_STRONG_TOTAL",
+          "SAV_WEAK_TOTAL",
+          "SIGN_NAMES"
+        ]
+      },
+      {
+        "module": "engine.ayanamsa_picker",
+        "status": "ok",
+        "ms": 5.8,
+        "error": null,
+        "exposed": [
+          "AYANAMSA_RATE_PER_YEAR",
+          "AyanamsaChoice",
+          "INDIA_BBOX",
+          "J2000_JD",
+          "KP_TRADITION_STATES",
+          "SWE_MODES",
+          "THIRUKANITHAM_DEG_1996",
+          "THIRUKANITHAM_DMS_1996"
+        ]
+      },
+      {
+        "module": "engine.backtest",
+        "status": "ok",
+        "ms": 4.1,
+        "error": null,
+        "exposed": [
+          "BacktestResult",
+          "EPHE_PATH",
+          "EVENT_PATTERNS",
+          "KNOWN_CHARTS",
+          "KnownChart",
+          "LifeEvent",
+          "TIER_WEIGHT",
+          "annotations"
+        ]
+      },
+      {
+        "module": "engine.bhava_bala",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "BENEFICS",
+          "MALEFICS",
+          "SIGN_LORD",
+          "annotations",
+          "bhava_bala",
+          "ishta_kashta",
+          "math",
+          "summary"
+        ]
+      },
+      {
+        "module": "engine.bhrigu_predictions",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "ASCENDANT_TOKENS",
+          "BhriguPrediction",
+          "HOUSE_ORDINALS",
+          "PLANETS",
+          "annotations",
+          "dataclass",
+          "lru_cache",
+          "predictions_for"
+        ]
+      },
+      {
+        "module": "engine.blessings",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "BENEFICS",
+          "Blessing",
+          "DEBILITATION_SIGN",
+          "DUSTHANAS",
+          "EXALTATION_SIGN",
+          "KENDRAS",
+          "OWN_SIGNS",
+          "SIGN_LORD"
+        ]
+      },
+      {
+        "module": "engine.book_rules",
+        "status": "ok",
+        "ms": 9.2,
+        "error": null,
+        "exposed": [
+          "BookRule",
+          "Citation",
+          "PLANET_NAMES",
+          "Path",
+          "Prediction",
+          "RULES_PATH",
+          "SIGNS",
+          "SIGN_LORD"
+        ]
+      },
+      {
+        "module": "engine.calibration",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "EVENT_PATTERNS",
+          "TIER_WEIGHT",
+          "TierPrior",
+          "annotations",
+          "brier_score",
+          "dataclass",
+          "event_priors",
+          "forecast_confidence"
+        ]
+      },
+      {
+        "module": "engine.cause_and_effect",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "annotations",
+          "generate_cause_and_effect_chain"
+        ]
+      },
+      {
+        "module": "engine.chapters",
+        "status": "ok",
+        "ms": 1.6,
+        "error": null,
+        "exposed": [
+          "CHAPTER_EXPECT_BULLETS",
+          "CHAPTER_INTRO_TEMPLATE",
+          "CHAPTER_SUBHEAD_3COL",
+          "CHAPTER_THEME",
+          "CHAPTER_WATCH_BULLETS",
+          "Chapter",
+          "HOUSE_DOMAINS",
+          "PLANET_DOMAINS"
+        ]
+      },
+      {
+        "module": "engine.chapters_ta",
+        "status": "ok",
+        "ms": 3.0,
+        "error": null,
+        "exposed": [
+          "EXPECT_BULLETS_TA",
+          "HOUSE_DOMAINS_TA",
+          "PLANETS_TA",
+          "PLANET_INTRO_TA",
+          "SIGNS_TA",
+          "SUBHEAD_3COL_TA",
+          "THEME_BAND_TA",
+          "WATCH_BULLETS_TA"
+        ]
+      },
+      {
+        "module": "engine.chart",
+        "status": "ok",
+        "ms": 7.3,
+        "error": null,
+        "exposed": [
+          "AYANAMSA_MODES",
+          "Any",
+          "BODIES",
+          "Chart",
+          "EPHE_PATH",
+          "NAKSHATRAS",
+          "NAKSHATRA_LORD_TABLE",
+          "Path"
+        ]
+      },
+      {
+        "module": "engine.chart_builder",
+        "status": "ok",
+        "ms": 2.3,
+        "error": null,
+        "exposed": [
+          "DEBILITATION",
+          "DEFAULT_TZ_HOURS",
+          "EXALTATION",
+          "NAKSHATRAS",
+          "PLANETS",
+          "Path",
+          "RASIS",
+          "RULES"
+        ]
+      },
+      {
+        "module": "engine.chart_profile",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "Any",
+          "RASIS",
+          "SIGN_LORD",
+          "annotations",
+          "build_chart_profile"
+        ]
+      },
+      {
+        "module": "engine.chart_relative",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "ChartFactors",
+          "OrderedDict",
+          "SIGN_LORD",
+          "annotations",
+          "chart_factors",
+          "chart_relative_lords",
+          "dataclass",
+          "score_event_relative"
+        ]
+      },
+      {
+        "module": "engine.chart_render",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "PLANET_SHORT",
+          "SIGN_NAMES",
+          "SIGN_SHORT",
+          "SOUTH_GRID",
+          "annotations",
+          "render_north",
+          "render_south",
+          "save"
+        ]
+      },
+      {
+        "module": "engine.chinese_engine",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "BRANCHES",
+          "SOLAR_MONTHS",
+          "STEMS",
+          "analyze_elements",
+          "compute_chinese_chart",
+          "compute_zi_wei_dou_shu",
+          "dt",
+          "get_bazi_pillars"
+        ]
+      },
+      {
+        "module": "engine.cli",
+        "status": "ok",
+        "ms": 10.3,
+        "error": null,
+        "exposed": [
+          "GRAHAS",
+          "LANGUAGES",
+          "NAKSHATRAS",
+          "Path",
+          "SIGNS",
+          "VARAS",
+          "argparse",
+          "compute_chart"
+        ]
+      },
+      {
+        "module": "engine.client_report",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "HOUSE_DOMAINS",
+          "PLANET_DOMAINS",
+          "affliction_narrative",
+          "annotations",
+          "blessing_narrative",
+          "closing_blessing",
+          "datetime",
+          "forecast_narrative"
+        ]
+      },
+      {
+        "module": "engine.client_report_ta",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "HOUSE_DOMAINS_TA",
+          "PLANETS_TA",
+          "PLANET_DOMAINS_TA",
+          "SIGNS_TA",
+          "SIGN_TEMPERAMENT_TA",
+          "affliction_narrative_ta",
+          "annotations",
+          "blessing_narrative_ta"
+        ]
+      },
+      {
+        "module": "engine.client_report_v2",
+        "status": "ok",
+        "ms": 5.9,
+        "error": null,
+        "exposed": [
+          "SIGNS",
+          "annotations",
+          "build_chapters",
+          "build_jathagam_full",
+          "build_prediction_section_header",
+          "datetime",
+          "generate_client_report_v2"
+        ]
+      },
+      {
+        "module": "engine.comparative_test",
+        "status": "ok",
+        "ms": 5.0,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "execute_corpus_battle_comparison",
+          "get_aspected_houses",
+          "get_corpus",
+          "json",
+          "synthesize_consensus"
+        ]
+      },
+      {
+        "module": "engine.conditioned",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "AFFLICTION_EVENT_MODIFIERS",
+          "BLESSING_EVENT_MODIFIERS",
+          "annotations",
+          "conditioned_LR",
+          "conditioned_forecast_for_chart"
+        ]
+      },
+      {
+        "module": "engine.consensus_report",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "generate_consensus_report_markdown",
+          "render_client_narrative",
+          "render_consensus_meter"
+        ]
+      },
+      {
+        "module": "engine.constants",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "DEBILITATION_TAMIL",
+          "EXALTATION_TAMIL",
+          "NAKSHATRAS",
+          "OWN_SIGNS_TAMIL",
+          "SIGNS",
+          "SIGNS_TAMIL",
+          "SIGN_LORDS",
+          "SIGN_LORDS_TAMIL"
+        ]
+      },
+      {
+        "module": "engine.corpus",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "Corpus",
+          "CorpusRule",
+          "EXCLUDED_BOOKS",
+          "NAKSHATRA_NAMES",
+          "Optional",
+          "PLANETS",
+          "Path",
+          "RASIS"
+        ]
+      },
+      {
+        "module": "engine.cross_check",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "CrossCheckReport",
+          "FieldDiff",
+          "PYJHORA_PATH",
+          "Path",
+          "annotations",
+          "cross_check_chart",
+          "cross_check_known_charts",
+          "dataclass"
+        ]
+      },
+      {
+        "module": "engine.cross_validate",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "CrossCheck",
+          "DOMAIN_TO_HOUSE",
+          "annotations",
+          "cross_check_domain",
+          "dataclass",
+          "render_cross_validation_markdown"
+        ]
+      },
+      {
+        "module": "engine.dasa_narrative",
+        "status": "ok",
+        "ms": 2.3,
+        "error": null,
+        "exposed": [
+          "BHAVA_AREAS",
+          "ChartFact",
+          "Citation",
+          "DIGNITY_CONFIDENCE",
+          "DUSTHANA",
+          "DasaPrediction",
+          "EVENT_HEADLINES",
+          "KARAKA"
+        ]
+      },
+      {
+        "module": "engine.dasha",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DasaPeriod",
+          "DashaResult",
+          "NAKSHATRA_LORDS_VIMSHOTTARI",
+          "NAKSHATRA_SPAN",
+          "NAK_LORDS_27",
+          "VIMSHOTTARI_ORDER",
+          "VIMSHOTTARI_YEARS",
+          "ashtottari"
+        ]
+      },
+      {
+        "module": "engine.dasha_compute",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "NAKSHATRA_LORDS",
+          "VIMSHOTTARI_ORDER",
+          "VIMSHOTTARI_TOTAL",
+          "VIMSHOTTARI_YEARS",
+          "YOGINI_LORDS",
+          "YOGINI_ORDER",
+          "YOGINI_YEARS",
+          "calculate_vimshottari"
+        ]
+      },
+      {
+        "module": "engine.deep_rules",
+        "status": "ok",
+        "ms": 3.4,
+        "error": null,
+        "exposed": [
+          "Citation",
+          "DEEP_DIR",
+          "DeepRule",
+          "PLANET_NAMES",
+          "Path",
+          "Prediction",
+          "SIGN_NAMES",
+          "TOPIC_REGEX"
+        ]
+      },
+      {
+        "module": "engine.education",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "PLANET_FIELD_AFFINITY",
+          "SIGN_FIELD_AFFINITY",
+          "SubjectSignal",
+          "annotations",
+          "dataclass",
+          "predict_subjects",
+          "render_education_markdown"
+        ]
+      },
+      {
+        "module": "engine.engine_topic_confirm",
+        "status": "ok",
+        "ms": 6.4,
+        "error": null,
+        "exposed": [
+          "Any",
+          "DEFAULT_SELECTED_BOOKS",
+          "TOPICS",
+          "TOPIC_ENGINE",
+          "annotations",
+          "build_chart_profile",
+          "build_engine_confirmed_report",
+          "confirm_topic"
+        ]
+      },
+      {
+        "module": "engine.ensemble",
+        "status": "ok",
+        "ms": 1.5,
+        "error": null,
+        "exposed": [
+          "EVENT_PATTERNS",
+          "EnsembleScore",
+          "annotations",
+          "backtest_ensemble",
+          "dataclass",
+          "ensemble_score",
+          "lru_cache",
+          "math"
+        ]
+      },
+      {
+        "module": "engine.evaluator",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "evaluate_dasha_period",
+          "evaluate_planet",
+          "get_functional_nature",
+          "get_planetary_dignity"
+        ]
+      },
+      {
+        "module": "engine.event_age_policy",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "AgeFit",
+          "Any",
+          "CATEGORY_AGE_RULES",
+          "Literal",
+          "age_at",
+          "annotate_band_age_fit",
+          "annotations",
+          "band_fits_puthi_window"
+        ]
+      },
+      {
+        "module": "engine.event_feedback",
+        "status": "ok",
+        "ms": 10.4,
+        "error": null,
+        "exposed": [
+          "DATA",
+          "EVENT_TAG",
+          "EventLog",
+          "Path",
+          "annotations",
+          "apply_weight",
+          "asdict",
+          "confirm_event"
+        ]
+      },
+      {
+        "module": "engine.event_narrative",
+        "status": "ok",
+        "ms": 1.4,
+        "error": null,
+        "exposed": [
+          "Any",
+          "CAREER_CATS",
+          "CAT_PRIORITY_LIFE",
+          "DISCLAIMER_EN",
+          "DISCLAIMER_TA",
+          "GENERIC_EVENT_CATS",
+          "HOUSE_GAIN",
+          "HOUSE_LOSS"
+        ]
+      },
+      {
+        "module": "engine.event_valence",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "infer_event_valence"
+        ]
+      },
+      {
+        "module": "engine.feedback",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DATA_FILE",
+          "Path",
+          "annotations",
+          "apply_module_weight",
+          "dt",
+          "get_module_weights",
+          "json",
+          "os"
+        ]
+      },
+      {
+        "module": "engine.feedback_loop",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "FEEDBACK_DB_PATH",
+          "annotations",
+          "dt",
+          "get_adjusted_confidence",
+          "json",
+          "os",
+          "record_feedback"
+        ]
+      },
+      {
+        "module": "engine.feedback_v2",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DATA_FILE",
+          "Path",
+          "dt",
+          "get_learned_weights",
+          "json",
+          "record_feedback"
+        ]
+      },
+      {
+        "module": "engine.forecast",
+        "status": "ok",
+        "ms": 4.7,
+        "error": null,
+        "exposed": [
+          "EVENT_PATTERNS",
+          "EVENT_VALENCE",
+          "ForecastWindow",
+          "RELIABLY_PREDICTABLE",
+          "UNRELIABLE",
+          "annotations",
+          "current_dasha",
+          "dataclass"
+        ]
+      },
+      {
+        "module": "engine.geocode",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "CITY_DB",
+          "Geo",
+          "Optional",
+          "dataclass",
+          "geocode",
+          "lookup"
+        ]
+      },
+      {
+        "module": "engine.gochar",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "GOCHAR_FROM_MOON",
+          "SIGN_NAMES",
+          "SLOW_PLANETS",
+          "annotations",
+          "datetime",
+          "get_transit_snapshot",
+          "swe"
+        ]
+      },
+      {
+        "module": "engine.i18n",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "BHAVAS",
+          "GRAHAS",
+          "LANGUAGES",
+          "NAKSHATRAS",
+          "REMEDY_TYPE_LABELS",
+          "SECTION_HEADINGS",
+          "SEVERITY_LABELS",
+          "SIGNS"
+        ]
+      },
+      {
+        "module": "engine.jaimini_full",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "all_jaimini_dashas_full",
+          "dt",
+          "get_jaimini_analysis",
+          "jaimini_summary",
+          "os",
+          "sys"
+        ]
+      },
+      {
+        "module": "engine.jathagam_extras",
+        "status": "ok",
+        "ms": 2.8,
+        "error": null,
+        "exposed": [
+          "Any",
+          "CHARA_KARANAS",
+          "DIRECTION_TA",
+          "FIXED_KARANAS",
+          "GANA_TA",
+          "KARANA_TA",
+          "NAKSHATRA_SPAN",
+          "NAK_DEVATA_PLACE_TA"
+        ]
+      },
+      {
+        "module": "engine.jathagam_pages_advanced",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "Any",
+          "BHAVA_TA",
+          "PLANETS_SB",
+          "RASIS",
+          "annotations",
+          "build_page6_bhava_cusps",
+          "build_page7_shadbala_table",
+          "build_page8_sav_table"
+        ]
+      },
+      {
+        "module": "engine.jathagam_template",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "Any",
+          "JATHAGAM_FRONT_PAGE_ORDER",
+          "JATHAGAM_PAGE_ORDER",
+          "PAGE_TITLES",
+          "annotations",
+          "build_chart_details_markdown",
+          "build_jathagam_front_matter",
+          "build_jathagam_full"
+        ]
+      },
+      {
+        "module": "engine.kalachakra",
+        "status": "ok",
+        "ms": 1.5,
+        "error": null,
+        "exposed": [
+          "KALACHAKRA_RASI_YEARS",
+          "KalachakraDasha",
+          "KalachakraPeriod",
+          "NAKSHATRA_SPAN",
+          "PADA_RASI_TABLE",
+          "PADA_SPAN",
+          "SIGN_NAMES",
+          "annotations"
+        ]
+      },
+      {
+        "module": "engine.known_charts",
+        "status": "ok",
+        "ms": 1.6,
+        "error": null,
+        "exposed": [
+          "KNOWN_CHARTS",
+          "KnownChart",
+          "LifeEvent",
+          "all_charts",
+          "annotations",
+          "by_event_type",
+          "by_quality",
+          "dataclass"
+        ]
+      },
+      {
+        "module": "engine.kp_predictions",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "HOUSE_TO_CATEGORIES",
+          "KPPrediction",
+          "annotations",
+          "dataclass",
+          "lru_cache",
+          "predictions_for_chart",
+          "predictions_for_house",
+          "predictions_for_planet"
+        ]
+      },
+      {
+        "module": "engine.kp_sublord",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "cuspal_sub_lord",
+          "get_kp_chart",
+          "get_kp_position",
+          "get_sub_lord",
+          "get_sub_sub_lord",
+          "kp_event_significators",
+          "kp_summary",
+          "os"
+        ]
+      },
+      {
+        "module": "engine.kuta",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "FRIENDS",
+          "GANA",
+          "KutaResult",
+          "NADI",
+          "NAKSHATRA_LORDS_VIMSHOTTARI",
+          "NAKSHATRA_NAMES",
+          "SIGNS",
+          "SIGN_LORDS"
+        ]
+      },
+      {
+        "module": "engine.lagna_filter",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "annotations",
+          "lagna_signs_mentioned",
+          "re",
+          "rule_applies_to_lagna"
+        ]
+      },
+      {
+        "module": "engine.lal_kitab",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "CLOSED_HOUSE_PATTERNS",
+          "LAL_KITAB_ASPECTS",
+          "LAL_KITAB_KARZ",
+          "LAL_KITAB_PAKKA_GHAR",
+          "LalKitabChart",
+          "LalKitabPlacement",
+          "RIN_PATTERNS",
+          "SIGN_NAMES"
+        ]
+      },
+      {
+        "module": "engine.life_domains",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "CAREER_BY_SIGN_OF_10",
+          "MARRIAGE_TIMING_BY_VENUS",
+          "SIGNS",
+          "SIGN_LORD",
+          "SPOUSE_BY_7TH_SIGN",
+          "annotations",
+          "dataclass",
+          "predict_career"
+        ]
+      },
+      {
+        "module": "engine.life_engine",
+        "status": "ok",
+        "ms": 17.9,
+        "error": null,
+        "exposed": [
+          "EVENT_LABEL",
+          "annotations",
+          "calculate_momentum",
+          "calculate_opportunity_curve",
+          "calculate_pressure",
+          "detect_repeating_patterns",
+          "dt",
+          "evaluate_dimensions"
+        ]
+      },
+      {
+        "module": "engine.life_metrics",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "annotations",
+          "calculate_life_score",
+          "calculate_momentum",
+          "calculate_opportunity_curve",
+          "calculate_pressure",
+          "dt"
+        ]
+      },
+      {
+        "module": "engine.life_narrative",
+        "status": "ok",
+        "ms": 10.2,
+        "error": null,
+        "exposed": [
+          "Answer",
+          "AnswerWindow",
+          "DasaPrediction",
+          "FUTURE_QUESTION",
+          "PAST_QUESTION",
+          "QUESTION_PATTERNS",
+          "annotations",
+          "ask"
+        ]
+      },
+      {
+        "module": "engine.marriage_outcomes",
+        "status": "ok",
+        "ms": 3.5,
+        "error": null,
+        "exposed": [
+          "DATA_PATH",
+          "Iterator",
+          "MarriageRecord",
+          "Path",
+          "all_records",
+          "annotations",
+          "by_outcome",
+          "csv"
+        ]
+      },
+      {
+        "module": "engine.mayan_engine",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "DAY_SIGNS",
+          "GALACTIC_TONES",
+          "compute_mayan_chart",
+          "compute_tzolkin",
+          "dt",
+          "get_julian_day_int",
+          "math"
+        ]
+      },
+      {
+        "module": "engine.meta_reasoner",
+        "status": "ok",
+        "ms": 308.6,
+        "error": null,
+        "exposed": [
+          "Any",
+          "BaseModel",
+          "Dict",
+          "Evidence",
+          "List",
+          "MetaReasoner",
+          "NarrativeFactChecker",
+          "Optional"
+        ]
+      },
+      {
+        "module": "engine.muhurta",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "ACTIVITY_RULES",
+          "MuhurtaScore",
+          "NAKSHATRAS",
+          "Panchanga",
+          "VARAS",
+          "annotations",
+          "dataclass",
+          "dt"
+        ]
+      },
+      {
+        "module": "engine.muhurta_verbatim",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "ACTIVITY_TO_CATEGORIES",
+          "VerbatimMuhurtaRule",
+          "annotations",
+          "dataclass",
+          "lru_cache",
+          "rules_for_activity",
+          "rules_for_dosha",
+          "stats"
+        ]
+      },
+      {
+        "module": "engine.multi_source_synthesis",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "Any",
+          "TOPICS",
+          "annotations",
+          "build_chart_profile",
+          "execute_corpus_battle_comparison",
+          "synthesize_life_topics"
+        ]
+      },
+      {
+        "module": "engine.nadi_jyotish",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "NADI_TRANSIT_RULES",
+          "complete_nadi_analysis",
+          "dt",
+          "get_nadi_analysis",
+          "get_nadi_transit_reading",
+          "os",
+          "sys",
+          "transit_positions"
+        ]
+      },
+      {
+        "module": "engine.narrative",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "HOUSE_DOMAINS",
+          "PLANET_DOMAINS",
+          "affliction_narrative",
+          "annotations",
+          "blessing_narrative",
+          "closing_blessing",
+          "dasha_age_phrase",
+          "forecast_narrative"
+        ]
+      },
+      {
+        "module": "engine.narrative_ta",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "HOUSE_DOMAINS_TA",
+          "PLANETS_TA",
+          "PLANET_DOMAINS_TA",
+          "SIGNS_TA",
+          "SIGN_TEMPERAMENT_TA",
+          "affliction_narrative_ta",
+          "annotations",
+          "blessing_narrative_ta"
+        ]
+      },
+      {
+        "module": "engine.negative_backtest",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "EVENT_PATTERNS",
+          "KNOWN_CHARTS",
+          "KnownChart",
+          "TieredCount",
+          "annotations",
+          "current_dasha",
+          "dataclass",
+          "dt"
+        ]
+      },
+      {
+        "module": "engine.numerology_engine",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "PYTHAGOREAN_VALUES",
+          "VOWELS",
+          "classify_letters",
+          "compute_lo_shu_grid",
+          "compute_numerology_report",
+          "compute_personal_cycles",
+          "compute_pythagorean_triad",
+          "compute_tamil_numerology"
+        ]
+      },
+      {
+        "module": "engine.numerology_match",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "NUM_PLANET",
+          "PLANET_ENEMIES_BY_NUM",
+          "PLANET_FRIENDS_BY_NUM",
+          "annotations",
+          "compute_compatibility",
+          "dt",
+          "name_advisor",
+          "number_relation"
+        ]
+      },
+      {
+        "module": "engine.panchanga",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "KARANAS",
+          "NAKSHATRAS",
+          "Panchanga",
+          "TITHIS",
+          "VARAS",
+          "YOGAS",
+          "dataclass",
+          "dt"
+        ]
+      },
+      {
+        "module": "engine.pattern_detector",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "annotations",
+          "detect_repeating_patterns"
+        ]
+      },
+      {
+        "module": "engine.pdf_render",
+        "status": "ok",
+        "ms": 5317.9,
+        "error": null,
+        "exposed": [
+          "FPDF",
+          "VedicPDF",
+          "render_pdf"
+        ]
+      },
+      {
+        "module": "engine.per_book_predictions",
+        "status": "ok",
+        "ms": 1.4,
+        "error": null,
+        "exposed": [
+          "Any",
+          "BOOK_DISPLAY",
+          "BOOK_TRADITION",
+          "CorpusRule",
+          "Counter",
+          "DEFAULT_SELECTED_BOOKS",
+          "TOPICS",
+          "TopicSpec"
+        ]
+      },
+      {
+        "module": "engine.philosophy",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "MISSION_STATEMENT",
+          "PRINCIPLES",
+          "get_philosophy_text"
+        ]
+      },
+      {
+        "module": "engine.prashna",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "EPHE_PATH",
+          "OBSTRUCTING_HOUSES",
+          "PLANET_IDS",
+          "PrashnaChart",
+          "QUESTION_HOUSE",
+          "SIGN_LORD",
+          "SIGN_NAMES",
+          "annotations"
+        ]
+      },
+      {
+        "module": "engine.prediction_confirm",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "Any",
+          "Path",
+          "ROOT",
+          "TOPICS",
+          "annotations",
+          "build_chart_profile",
+          "build_confirmation_report",
+          "datetime"
+        ]
+      },
+      {
+        "module": "engine.raasi_dasha",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "RaasiDasha",
+          "RaasiPeriod",
+          "SAVYA_SIGNS",
+          "SIGN_LORD",
+          "SIGN_NAMES",
+          "STHIRA_YEARS",
+          "annotations",
+          "chara_dasha"
+        ]
+      },
+      {
+        "module": "engine.reading",
+        "status": "ok",
+        "ms": 2.5,
+        "error": null,
+        "exposed": [
+          "MatchedRule",
+          "Path",
+          "ROOT",
+          "RULES_PATH",
+          "Reading",
+          "ReadingSection",
+          "TIER_RANK",
+          "annotations"
+        ]
+      },
+      {
+        "module": "engine.remedies",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "Affliction",
+          "PLANET_GENERIC_REMEDIES",
+          "REMEDY_TABLE",
+          "Remedy",
+          "annotations",
+          "dataclass",
+          "detect_all",
+          "field"
+        ]
+      },
+      {
+        "module": "engine.remedies_verbatim",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "VerbatimRemedy",
+          "annotations",
+          "asdict",
+          "dataclass",
+          "lru_cache",
+          "remedies_for_affliction_code",
+          "remedies_for_planet",
+          "remedies_in_category"
+        ]
+      },
+      {
+        "module": "engine.report_chart_details",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "Any",
+          "HOUSE_THEMES_EN",
+          "LABELS",
+          "PLANET_ORDER",
+          "RASIS",
+          "SIGN_LORD",
+          "annotations",
+          "build_chart_details_markdown"
+        ]
+      },
+      {
+        "module": "engine.shadbala",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "BalaScore",
+          "DEBILITATION",
+          "DIG_BALA_HOUSE",
+          "ENEMIES",
+          "EXALTATION",
+          "FRIENDS",
+          "NAISARGIKA",
+          "NAISARGIKA_VIRUPAS"
+        ]
+      },
+      {
+        "module": "engine.synth",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "BHAVA_AREAS",
+          "ChartFact",
+          "DEBILITATION",
+          "EXALTATION",
+          "KARAKA",
+          "OWN_SIGNS",
+          "PLANETS",
+          "SIGNS"
+        ]
+      },
+      {
+        "module": "engine.synthesis",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "generate_synthesis"
+        ]
+      },
+      {
+        "module": "engine.tajik",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "AnnualChart",
+          "EPHE_PATH",
+          "PLANET_IDS",
+          "SIGN_LORD",
+          "SIGN_NAMES",
+          "TAJIK_ORB",
+          "WEEKDAY_LORDS",
+          "annotations"
+        ]
+      },
+      {
+        "module": "engine.tamil_calendar",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "PUTHANDU_DAY",
+          "TAMIL_MONTHS",
+          "TAMIL_YEAR_AT_PUTHANDU",
+          "annotations",
+          "dt",
+          "tamil_solar_date"
+        ]
+      },
+      {
+        "module": "engine.tamil_numerology",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "NUM_PLANET",
+          "PLANET_COLOR",
+          "PLANET_DAY",
+          "PLANET_DEITY",
+          "PLANET_DIRECTION",
+          "PLANET_ENEMIES_BY_NUM",
+          "PLANET_FRIENDS_BY_NUM",
+          "PLANET_GEMSTONE"
+        ]
+      },
+      {
+        "module": "engine.tier_refit",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "Counter",
+          "EVENT_PATTERNS",
+          "KNOWN_CHARTS",
+          "LORDS",
+          "Path",
+          "REFIT_CACHE",
+          "annotations",
+          "build_and_cache"
+        ]
+      },
+      {
+        "module": "engine.timeline",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "HOUSE_DOMAINS",
+          "PLANET_BORN_INTO",
+          "PLANET_DOMAINS",
+          "PLANET_THEME_SHORT",
+          "SIGN_MOOD",
+          "TimelineEntry",
+          "annotations",
+          "build_timeline"
+        ]
+      },
+      {
+        "module": "engine.timeline_consensus",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "execute_corpus_battle_comparison",
+          "generate_deep_timeline",
+          "normalize_planet_name",
+          "render_deep_timeline_markdown"
+        ]
+      },
+      {
+        "module": "engine.timeline_deep",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "ADEvent",
+          "EVENT_LABEL",
+          "KARAKA",
+          "annotations",
+          "dataclass",
+          "dt",
+          "predict_ad_events",
+          "render_deep_timeline_markdown"
+        ]
+      },
+      {
+        "module": "engine.traits_72",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DEITY_BY_PLANET",
+          "DOSHA_BY_ELEMENT",
+          "GEMSTONE_BY_PLANET",
+          "LUCKY_COLOR_BY_LAGNA",
+          "LUCKY_DAY_BY_RASI",
+          "LUCKY_NUMBER_BY_PLANET",
+          "SIGNS",
+          "SIGN_ELEMENT"
+        ]
+      },
+      {
+        "module": "engine.transit_conditioned",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "Counter",
+          "EVENT_PATTERNS",
+          "EVENT_TRANSIT_PREDICTORS",
+          "KNOWN_CHARTS",
+          "annotations",
+          "current_dasha",
+          "dataclass",
+          "dt"
+        ]
+      },
+      {
+        "module": "engine.transits",
+        "status": "ok",
+        "ms": 1.9,
+        "error": null,
+        "exposed": [
+          "EPHE_PATH",
+          "PLANET_IDS",
+          "PLANET_PERIOD_YRS",
+          "SIGN_NAMES",
+          "SadeSatiPhase",
+          "SaturnReturn",
+          "SignIngress",
+          "TransitWindow"
+        ]
+      },
+      {
+        "module": "engine.truth_engine",
+        "status": "ok",
+        "ms": 2.5,
+        "error": null,
+        "exposed": [
+          "Any",
+          "Mapping",
+          "TruthClaim",
+          "TruthEngine",
+          "TruthEvidence",
+          "TruthGraph",
+          "annotations",
+          "build_truth_report"
+        ]
+      },
+      {
+        "module": "engine.truth_graph",
+        "status": "ok",
+        "ms": 1.6,
+        "error": null,
+        "exposed": [
+          "Any",
+          "GRAPH_SCHEMA_VERSION",
+          "Mapping",
+          "TruthEdge",
+          "TruthGraph",
+          "TruthNode",
+          "annotations",
+          "asdict"
+        ]
+      },
+      {
+        "module": "engine.truth_graph_store",
+        "status": "ok",
+        "ms": 8.4,
+        "error": null,
+        "exposed": [
+          "GRAPH_SCHEMA_VERSION",
+          "Path",
+          "SQLiteTruthGraphStore",
+          "TruthGraph",
+          "annotations",
+          "closing",
+          "json",
+          "sqlite3"
+        ]
+      },
+      {
+        "module": "engine.truth_policy",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "CITED_FIELDS",
+          "CLIENT_DISCLAIMER",
+          "MECHANICAL_FIELDS",
+          "POLICY_VERSION",
+          "RESEARCH_ONLY_MARKERS",
+          "SYNTHESIS_FIELDS",
+          "annotations",
+          "assert_production_clean"
+        ]
+      },
+      {
+        "module": "engine.vargas",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "EXTRA_VARGA_FNS",
+          "VARGA_LIST",
+          "all_vargas",
+          "all_vargas_summary",
+          "build_divisional_chart",
+          "build_extra_varga",
+          "os",
+          "sys"
+        ]
+      },
+      {
+        "module": "engine.verse_locator",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "DEEP_DIR",
+          "Path",
+          "annotations",
+          "cite",
+          "defaultdict",
+          "json",
+          "lru_cache",
+          "re"
+        ]
+      },
+      {
+        "module": "engine.web",
+        "status": "ok",
+        "ms": 395.1,
+        "error": null,
+        "exposed": [
+          "FORM_HTML",
+          "Flask",
+          "LANGUAGES",
+          "RESULT_HTML",
+          "annotations",
+          "api_chart",
+          "app",
+          "chart"
+        ]
+      },
+      {
+        "module": "engine.western_engine",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "BODIES",
+          "EPHE_PATH",
+          "EXALTATIONS",
+          "Path",
+          "SIGNS",
+          "SIGN_LORDS",
+          "ZR_PERIODS",
+          "compute_aspects"
+        ]
+      },
+      {
+        "module": "engine.yogas",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "DEBILITATION",
+          "EXALTATION",
+          "OWN_SIGNS",
+          "SIGNS",
+          "SIGN_LORDS",
+          "detect_all"
+        ]
+      },
+      {
+        "module": "engine.yogas_extended",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "BENEFICS",
+          "BHAVA_YOGA_NAMES",
+          "DUAL",
+          "DUSTHANAS",
+          "ExtendedYoga",
+          "FIXED",
+          "KENDRAS",
+          "MALEFICS"
+        ]
+      },
+      {
+        "module": "engine.yogas_nabhasa",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "BENEFICS",
+          "DUAL",
+          "DUSTHANAS",
+          "ExtendedYoga",
+          "FIXED",
+          "KENDRAS",
+          "MALEFICS",
+          "MOVABLE"
+        ]
+      }
+    ],
+    "runtime": [
+      {
+        "module": "_accuracy_scorer",
+        "status": "ok",
+        "ms": 13.8,
+        "error": null,
+        "exposed": [
+          "CATEGORY_KEYWORDS",
+          "CAT_ALIASES",
+          "CELEBRITIES",
+          "CHARTS_DIR",
+          "Path",
+          "argparse",
+          "categorize_event",
+          "check_match"
+        ]
+      },
+      {
+        "module": "_battle_vijay",
+        "status": "ok",
+        "ms": 1.5,
+        "error": null,
+        "exposed": [
+          "EVENTS",
+          "NAME",
+          "OLD_CAT_MAP",
+          "Path",
+          "asyncio",
+          "chart",
+          "collapse_consecutive",
+          "datetime"
+        ]
+      },
+      {
+        "module": "_corpus_quality_audit",
+        "status": "ok",
+        "ms": 2.7,
+        "error": null,
+        "exposed": [
+          "CLASSICAL_LOW",
+          "CLASSICAL_TERMS",
+          "CORPUS_V2",
+          "CORPUS_V3",
+          "Counter",
+          "DEVANAGARI_BLOCK",
+          "DOC_OUT",
+          "LATIN_LETTER"
+        ]
+      },
+      {
+        "module": "_extract_all_rules",
+        "status": "ok",
+        "ms": 305.8,
+        "error": null,
+        "exposed": [
+          "A4",
+          "ATRO",
+          "CREAM",
+          "GOLD",
+          "GREEN",
+          "INDIGO",
+          "KeepTogether",
+          "PageBreak"
+        ]
+      },
+      {
+        "module": "_full_categories_pdf",
+        "status": "ok",
+        "ms": 1.8,
+        "error": null,
+        "exposed": [
+          "A4",
+          "CREAM",
+          "GOLD",
+          "GREEN",
+          "INDIGO",
+          "ORANGE",
+          "PageBreak",
+          "Paragraph"
+        ]
+      },
+      {
+        "module": "_patch_predictions",
+        "status": "ok",
+        "ms": 6.3,
+        "error": null,
+        "exposed": [
+          "NEW_FUNC",
+          "Path",
+          "SRC",
+          "match",
+          "new_text",
+          "pattern",
+          "re",
+          "sys"
+        ]
+      },
+      {
+        "module": "_regen_all_tamil",
+        "status": "ok",
+        "ms": 78.8,
+        "error": null,
+        "exposed": [
+          "CHARTS",
+          "CHARTS_DIR",
+          "Path",
+          "REPORTS_DIR",
+          "generate",
+          "json",
+          "main",
+          "os"
+        ]
+      },
+      {
+        "module": "_reverse_audit",
+        "status": "ok",
+        "ms": 1.7,
+        "error": null,
+        "exposed": [
+          "ALL_PATTERNS_V2",
+          "CHARTS",
+          "Path",
+          "SIGNS",
+          "TEST_EVENTS",
+          "audit_event",
+          "build_d10_dasha_timeline",
+          "build_d9_dasha_timeline"
+        ]
+      },
+      {
+        "module": "_yoga_audit",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "CHARTS",
+          "CHARTS_DIR",
+          "json",
+          "load_chart",
+          "main",
+          "os",
+          "safe_run",
+          "sys"
+        ]
+      },
+      {
+        "module": "argala_jaimini",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "argala_summary",
+          "compute_argala",
+          "sys"
+        ]
+      },
+      {
+        "module": "ashtakavarga_reductions",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "LORD_PAIRS",
+          "RASIS",
+          "RASI_LORDS",
+          "TRINES",
+          "ekadhipatya_sodhana",
+          "kakshya_bala",
+          "sodhita_ashtakavarga",
+          "sys"
+        ]
+      },
+      {
+        "module": "aspects_engine",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "ASPECT_EFFECTS",
+          "PLANETS_REGULAR",
+          "SPECIAL_ASPECT_PLANETS",
+          "aspect_summary",
+          "aspects_from",
+          "detect_significant_aspects",
+          "planets_aspecting_house",
+          "planets_aspecting_planet"
+        ]
+      },
+      {
+        "module": "atro_cli",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "CHARTS",
+          "COMMANDS",
+          "Path",
+          "REPORTS",
+          "ROOT",
+          "argparse",
+          "cmd_check",
+          "cmd_events"
+        ]
+      },
+      {
+        "module": "avasthas_engine",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "BALADI_STATES",
+          "COMBUST_ORB",
+          "DEBILITATION_SIGNS",
+          "DIGNITIES",
+          "EXALTATION_SIGNS",
+          "MASCULINE_SIGN_IDX",
+          "MOOLATRIKONA",
+          "NAISARGIKA_ENEMIES"
+        ]
+      },
+      {
+        "module": "body_moles",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "GENDER_RULES",
+          "MOLE_COLORS",
+          "MOLE_POSITIONS",
+          "MOLE_SHAPES",
+          "list_all_positions",
+          "lookup_mole",
+          "mole_summary",
+          "sys"
+        ]
+      },
+      {
+        "module": "body_moles_v2",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "DIVINE_MOLE_REFERENCES",
+          "GENDER_RULES",
+          "MOLE_COLORS",
+          "MOLE_PATTERNS",
+          "MOLE_POSITIONS",
+          "MOLE_SHAPES",
+          "RARE_MOLE_POSITIONS",
+          "list_all_positions"
+        ]
+      },
+      {
+        "module": "book_citation",
+        "status": "ok",
+        "ms": 2.6,
+        "error": null,
+        "exposed": [
+          "Path",
+          "ROOT",
+          "RUNTIME_DIR",
+          "citation_for",
+          "cite_for_aspect",
+          "cite_for_career",
+          "cite_for_children",
+          "cite_for_conjunction"
+        ]
+      },
+      {
+        "module": "book_corpus_indexer",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "BOOKS_DIR",
+          "PASSAGE_LEN",
+          "PASSAGE_OVERLAP",
+          "Path",
+          "ROOT",
+          "RUNTIME_DIR",
+          "TOPIC_KEYWORDS",
+          "build_index"
+        ]
+      },
+      {
+        "module": "category_catalog",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "CATEGORIES_CATALOG"
+        ]
+      },
+      {
+        "module": "category_engine",
+        "status": "ok",
+        "ms": 3.3,
+        "error": null,
+        "exposed": [
+          "CATEGORIES_CATALOG",
+          "DEFAULT_WEIGHTS",
+          "DIGNITIES",
+          "DeclarativeCategoryEngine",
+          "Evidence",
+          "MetaReasoner",
+          "Path",
+          "RASIS"
+        ]
+      },
+      {
+        "module": "celebrity_event_comparison",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "CELEBRITIES",
+          "CHARTS_DIR",
+          "Path",
+          "SEP",
+          "analyse_chart",
+          "build_full_timeline",
+          "collapse_consecutive",
+          "compute_sade_sati_periods"
+        ]
+      },
+      {
+        "module": "chamatkar_chintamani",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "BHAVA_KARAKA_OVERLAYS",
+          "CHAMATKAR_VERSES",
+          "DEBILITATION_SIGNS",
+          "DIGNITIES",
+          "DUSTHANA_HOUSES",
+          "EXALTATION_SIGNS",
+          "KENDRA_HOUSES",
+          "PLANETS_ALL"
+        ]
+      },
+      {
+        "module": "char_dasha",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "RASI_LORDS",
+          "char_dasha",
+          "dt",
+          "sys"
+        ]
+      },
+      {
+        "module": "chart_rectification",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "RASI_LORDS",
+          "copy",
+          "dt",
+          "json",
+          "recompute_chart",
+          "rectify_birth_time",
+          "score_event_match"
+        ]
+      },
+      {
+        "module": "claude_categories",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "ALL_CATALOG_PATTERNS",
+          "CATEGORIES_CATALOG",
+          "DIGNITIES",
+          "Path",
+          "RASIS",
+          "RASI_LORDS",
+          "compile_dynamic_patterns",
+          "event_adhi_yoga"
+        ]
+      },
+      {
+        "module": "compatibility_kuta",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "FRIENDSHIPS",
+          "GANA",
+          "NADI",
+          "NAKSHATRAS",
+          "RASI_LORDS",
+          "VARNA_BY_RASI",
+          "VARNA_RANK",
+          "VASYA_BY_SIGN"
+        ]
+      },
+      {
+        "module": "comprehensive_yogas",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "ALL_YOGA_FNS",
+          "DIGNITIES",
+          "DUAL_SIGNS",
+          "DUSTHANA_HOUSES",
+          "FIXED_SIGNS",
+          "KENDRA_HOUSES",
+          "MOVABLE_SIGNS",
+          "NATURAL_BENEFICS"
+        ]
+      },
+      {
+        "module": "compute_celebrities",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "ATRO",
+          "CELEBRITIES",
+          "CHARTS_DIR",
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "Path",
+          "RASIS",
+          "RASI_LORDS"
+        ]
+      },
+      {
+        "module": "compute_celebrities_v2",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "ATRO",
+          "CELEBRITIES",
+          "CHARTS_DIR",
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "Path",
+          "RASIS",
+          "RASI_LORDS"
+        ]
+      },
+      {
+        "module": "compute_jayaprakesh",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "ATRO",
+          "BIRTH",
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "NAME",
+          "Path",
+          "RASIS",
+          "RASI_LORDS"
+        ]
+      },
+      {
+        "module": "compute_krishnan",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "ATRO",
+          "BIRTH",
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "NAME",
+          "Path",
+          "RASIS",
+          "RASI_LORDS"
+        ]
+      },
+      {
+        "module": "compute_sree",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "ATRO",
+          "BIRTH",
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "NAME",
+          "Path",
+          "RASIS",
+          "compute"
+        ]
+      },
+      {
+        "module": "compute_vijay_full",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "ATRO",
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "Path",
+          "RASIS",
+          "RASI_LORDS",
+          "VIJAY",
+          "calendar"
+        ]
+      },
+      {
+        "module": "conjunction_effects",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "CONJUNCTION_GENERAL",
+          "HOUSE_MODIFIER",
+          "NATURAL_FRIENDSHIPS",
+          "PLANETS",
+          "conjunction_summary",
+          "detect_conjunctions",
+          "relationship",
+          "sys"
+        ]
+      },
+      {
+        "module": "corpus_upgrade",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "BOOKS_DIR",
+          "Counter",
+          "EXPANDED_TOPICS",
+          "NOISE_INDICATORS",
+          "Path",
+          "ROOT",
+          "RUNTIME_DIR",
+          "VERSE_INDICATORS"
+        ]
+      },
+      {
+        "module": "dasha_systems_extended",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "CHATURASHEETI_LORDS",
+          "DASHA_REGISTRY",
+          "DEBILITATION_SIGNS",
+          "DUAL_SIGNS",
+          "DWADASHOTTARI_LORDS",
+          "DWADASHOTTARI_YEARS",
+          "DWISAPTATI_LORDS",
+          "EXALTATION_SIGNS"
+        ]
+      },
+      {
+        "module": "dasha_systems_full",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "DUAL_SIGNS",
+          "FIXED_SIGNS",
+          "KALACHAKRA_DIRECTION",
+          "KALACHAKRA_YEARS",
+          "MOVABLE_SIGNS",
+          "NAKSHATRAS",
+          "NAK_LORDS_27",
+          "RASIS"
+        ]
+      },
+      {
+        "module": "divisional_charts",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "DUAL",
+          "FIXED",
+          "MOVABLE",
+          "RASIS",
+          "RASI_LORDS",
+          "analyze_d10_career",
+          "analyze_d60_karma",
+          "analyze_d9_marriage"
+        ]
+      },
+      {
+        "module": "divisional_dasha",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "NAK_LORDS_27",
+          "Path",
+          "VIMSHOTTARI_YEARS",
+          "build_d10_dasha_timeline",
+          "build_d9_dasha_timeline",
+          "build_divisional_chart",
+          "build_full_timeline",
+          "dt"
+        ]
+      },
+      {
+        "module": "dosha_cancellations",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "RASI_LORDS",
+          "all_doshas_summary",
+          "detect_bhakoot_dosha_full",
+          "detect_kaal_sarpa",
+          "detect_manglik_dosha",
+          "detect_nadi_dosha_full",
+          "sys"
+        ]
+      },
+      {
+        "module": "eclipse_impact",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "analyze_eclipse_impact",
+          "dt",
+          "find_eclipses",
+          "swe",
+          "sys",
+          "transit_positions",
+          "upcoming_eclipses_impact"
+        ]
+      },
+      {
+        "module": "engine_bridge",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "SIGNS",
+          "SIGN_LORDS",
+          "SimpleNamespace",
+          "annotations",
+          "os",
+          "reports_to_dict",
+          "run_engines",
+          "sys"
+        ]
+      },
+      {
+        "module": "engine_orchestrator",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "dt",
+          "full_analysis",
+          "integrity_check",
+          "safe_run",
+          "sys",
+          "traceback"
+        ]
+      },
+      {
+        "module": "engine_pure_hybrid",
+        "status": "ok",
+        "ms": 2.8,
+        "error": null,
+        "exposed": [
+          "AstrologicalHybridEngine",
+          "CATEGORY_ALIASES",
+          "Path",
+          "category_engine_instance",
+          "dt",
+          "hybrid_engine_instance",
+          "pure_classical_engine_instance",
+          "sys"
+        ]
+      },
+      {
+        "module": "event_predictor",
+        "status": "ok",
+        "ms": 6.7,
+        "error": null,
+        "exposed": [
+          "AGE_FILTERS",
+          "ALL_EVENT_PATTERNS",
+          "DIGNITIES",
+          "RASIS",
+          "RASI_LORDS",
+          "SEVERITY_THRESHOLD",
+          "build_full_timeline",
+          "detect_all_yogas"
+        ]
+      },
+      {
+        "module": "event_predictor_v2",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "ALL_CATALOG_PATTERNS",
+          "ALL_PATTERNS_V2",
+          "DIGNITIES",
+          "RASIS",
+          "RASI_LORDS",
+          "build_full_timeline",
+          "collapse_consecutive",
+          "detect_all_yogas"
+        ]
+      },
+      {
+        "module": "event_predictor_v2_recovered_debug",
+        "status": "fail",
+        "ms": 5.4,
+        "error": "SyntaxError: invalid syntax (event_predictor_v2_recovered_debug.py, line 52)",
+        "trace": "en importlib._bootstrap_external>\", line 1074, in get_code\n  File \"<frozen importlib._bootstrap_external>\", line 1004, in source_to_code\n  File \"<frozen importlib._bootstrap>\", line 241, in _call_with_frames_removed\n  File \"F:\\astro\\runtime\\event_predictor_v2_recovered_debug.py\", line 52\n    pyoga = (lambda .0: pass# WARNING: Decompyle incomplete\n                    ^^\nSyntaxError: invalid syntax\n"
+      },
+      {
+        "module": "event_property_deep",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "RASI_LORDS",
+          "event_property_deep"
+        ]
+      },
+      {
+        "module": "event_yoga_detector",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "ALL_YOGAS",
+          "DIGNITIES",
+          "NATURAL_BENEFICS",
+          "NATURAL_MALEFICS",
+          "RASIS",
+          "RASI_LORDS",
+          "detect_all_yogas",
+          "os"
+        ]
+      },
+      {
+        "module": "expanded_yogas",
+        "status": "ok",
+        "ms": 8.9,
+        "error": null,
+        "exposed": [
+          "ALL_DARIDRA",
+          "ALL_PUTRA_BANDHYA",
+          "ARISHTA_YOGAS_DATA",
+          "CAREER_YOGAS_DATA",
+          "CATEGORY_FNS",
+          "DEBILITATION_SIGNS",
+          "DHANA_BHAVA_YOGAS",
+          "DHANA_YOGAS_DATA"
+        ]
+      },
+      {
+        "module": "extra_vargas",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "EXTRA_VARGA_FNS",
+          "RASIS",
+          "RASI_LORDS",
+          "VARGA_PURPOSE",
+          "all_vargas_summary",
+          "build_divisional_chart",
+          "build_extra_varga",
+          "sys"
+        ]
+      },
+      {
+        "module": "face_reading",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "CHEEKS",
+          "CHIN",
+          "DIGNITIES",
+          "EARS",
+          "EYEBROWS",
+          "EYES",
+          "FACE_SHAPES",
+          "FOREHEAD"
+        ]
+      },
+      {
+        "module": "face_reading_v2",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "AIR_SIGNS",
+          "BODY_MARKS",
+          "BODY_PROPORTIONS",
+          "CHEEKS",
+          "CHIN",
+          "DIGNITIES",
+          "DUAL_SIGNS",
+          "EARS"
+        ]
+      },
+      {
+        "module": "generate_deep_pdf",
+        "status": "ok",
+        "ms": 18.0,
+        "error": null,
+        "exposed": [
+          "A4",
+          "ACCENT",
+          "AMBER",
+          "BLUE",
+          "CREAM",
+          "EVENT_PLAIN",
+          "GOLD",
+          "GREEN"
+        ]
+      },
+      {
+        "module": "generate_hindi_pdf",
+        "status": "ok",
+        "ms": 23.0,
+        "error": null,
+        "exposed": [
+          "A4",
+          "ACCENT",
+          "BOOK_TA",
+          "CREAM",
+          "EVENT_PLAIN_HI",
+          "GOLD",
+          "GREEN",
+          "GREY_LT"
+        ]
+      },
+      {
+        "module": "generate_report",
+        "status": "ok",
+        "ms": 72.1,
+        "error": null,
+        "exposed": [
+          "A4",
+          "ATRO",
+          "BLUE_INK",
+          "BaseDocTemplate",
+          "CHARTS",
+          "CREAM",
+          "CREAM_2",
+          "ChapterHeader"
+        ]
+      },
+      {
+        "module": "generate_summary_pdf",
+        "status": "ok",
+        "ms": 1.4,
+        "error": null,
+        "exposed": [
+          "A4",
+          "ACCENT",
+          "AD_FLAVOR",
+          "AMBER",
+          "CREAM",
+          "GOLD",
+          "GREEN",
+          "GREY_LT"
+        ]
+      },
+      {
+        "module": "generate_tamil_pdf",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "A4",
+          "ACCENT",
+          "BOOK_TA",
+          "CREAM",
+          "EVENT_PLAIN_TA",
+          "GOLD",
+          "GREEN",
+          "GREY_LT"
+        ]
+      },
+      {
+        "module": "granular_dasha",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "NAK_LORDS_27",
+          "Path",
+          "VIMSHOTTARI_ORDER",
+          "VIMSHOTTARI_YEARS",
+          "build_full_timeline",
+          "dt",
+          "lookup"
+        ]
+      },
+      {
+        "module": "hindi_translations",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "EVENT_PLAIN_HI",
+          "HOUSES_HI",
+          "KARANAS_HI",
+          "LABELS_HI",
+          "MD_EXPECT_HI",
+          "MD_THEME_HI",
+          "NAKSHATRAS_HI",
+          "PAKSHA_HI"
+        ]
+      },
+      {
+        "module": "jaimini_full",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "DUAL_SIGNS",
+          "FIXED_SIGNS",
+          "MOVABLE_SIGNS",
+          "NAKSHATRAS",
+          "PLANETS_ALL",
+          "PLANETS_MAIN",
+          "RASIS",
+          "RASI_LORDS"
+        ]
+      },
+      {
+        "module": "kp_paddhati",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "NAKSHATRAS",
+          "NAK_LORDS",
+          "NAK_SIZE",
+          "VIMS_ORDER",
+          "VIMS_YEARS",
+          "cuspal_sub_lord",
+          "get_sub_lord",
+          "get_sub_sub_lord"
+        ]
+      },
+      {
+        "module": "longevity_ayurdaya",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "DIGNITIES",
+          "NAISARGIKA_YEARS",
+          "RASIS",
+          "RASI_LORDS",
+          "categorize_ayu",
+          "longevity_analysis",
+          "markesha_planets",
+          "naisargika_ayurdaya"
+        ]
+      },
+      {
+        "module": "medical_astrology",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "HOUSE_BODY",
+          "LAGNA_DOSHA",
+          "PLANET_DISEASES",
+          "medical_analysis",
+          "sys"
+        ]
+      },
+      {
+        "module": "migrate_to_hindi",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "migrate",
+          "os",
+          "re"
+        ]
+      },
+      {
+        "module": "muhurta_engine",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "NAKSHATRAS",
+          "RASIS",
+          "TARA_GOOD",
+          "TARA_TYPES",
+          "chandra_bala",
+          "compute_panchanga",
+          "dt",
+          "find_auspicious_dates"
+        ]
+      },
+      {
+        "module": "muhurta_extended",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "ALL_MUHURTAS",
+          "BHADRA_TITHIS",
+          "JAYA_TITHIS",
+          "KARANAS",
+          "NAKSHATRAS",
+          "NANDA_TITHIS",
+          "PURNA_TITHIS",
+          "RASIS"
+        ]
+      },
+      {
+        "module": "nadi_full",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DIGNITIES",
+          "HOUSE_THEMES",
+          "KARAKA_AGENTS",
+          "NADI_CELLS",
+          "NATURAL_BENEFICS",
+          "NATURAL_MALEFICS",
+          "PLANET_ARCHETYPES",
+          "RASIS"
+        ]
+      },
+      {
+        "module": "nadi_jyotish",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "ATMAKARAKA_THEMES",
+          "BHRIGU_RULES",
+          "nadi_analysis",
+          "sys"
+        ]
+      },
+      {
+        "module": "numerology_vedic",
+        "status": "ok",
+        "ms": 0.7,
+        "error": null,
+        "exposed": [
+          "PLANET_BY_NUMBER",
+          "bhagyanka",
+          "mulanka",
+          "name_number",
+          "sys",
+          "vedic_numerology"
+        ]
+      },
+      {
+        "module": "omens_shakuna",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "ANIMAL_OMENS",
+          "BIRD_OMENS",
+          "BODY_OMENS",
+          "DISHA_ANTIDOTES",
+          "DISHA_SHOOLA",
+          "DREAM_OMENS",
+          "OBJECT_OMENS",
+          "SCHOOL_DISAGREEMENTS"
+        ]
+      },
+      {
+        "module": "optimizer_loop",
+        "status": "ok",
+        "ms": 1.3,
+        "error": null,
+        "exposed": [
+          "DEFAULT_WEIGHTS",
+          "Path",
+          "WEIGHTS_PATH",
+          "category_engine_instance",
+          "copy",
+          "datetime",
+          "evaluate_accuracy",
+          "infer_event_valence"
+        ]
+      },
+      {
+        "module": "other_dashas",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "ASHTOTTARI_ORDER",
+          "ASHTOTTARI_YEARS",
+          "YOGINI_LORDS",
+          "YOGINI_NAMES",
+          "YOGINI_YEARS",
+          "all_dashas_summary",
+          "compute_ashtottari",
+          "compute_yogini"
+        ]
+      },
+      {
+        "module": "palmistry_engine",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DIGNITIES",
+          "FINGERPRINTS",
+          "FINGERS",
+          "HAND_SHAPES",
+          "MAIN_LINES",
+          "MOUNTS",
+          "PLANETS_MAIN",
+          "SECONDARY_LINES"
+        ]
+      },
+      {
+        "module": "palmistry_v2",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "DIGNITIES",
+          "DOT_MARKS",
+          "FINGERPRINTS",
+          "FINGERS",
+          "FINGERTIP_SHAPES",
+          "FINGER_PHALANGES",
+          "HAND_COLOR",
+          "HAND_SHAPES"
+        ]
+      },
+      {
+        "module": "panchanga",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "KARANAS",
+          "NAKSHATRAS",
+          "TITHIS",
+          "VARAS",
+          "VARA_LORDS",
+          "YOGAS",
+          "compute_panchanga",
+          "dt"
+        ]
+      },
+      {
+        "module": "prashna_horary",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "QUESTION_HOUSES",
+          "RASIS",
+          "RASI_LORDS",
+          "answer_prashna",
+          "cast_prashna_chart",
+          "dt",
+          "swe",
+          "sys"
+        ]
+      },
+      {
+        "module": "present_moment",
+        "status": "ok",
+        "ms": 6.0,
+        "error": null,
+        "exposed": [
+          "dt",
+          "present_moment_reading",
+          "sys"
+        ]
+      },
+      {
+        "module": "pure_classical_engine",
+        "status": "ok",
+        "ms": 1.4,
+        "error": null,
+        "exposed": [
+          "Path",
+          "PureClassicalEngine",
+          "RASIS",
+          "RASI_LORDS",
+          "build_full_timeline",
+          "chara_karakas_jaimini",
+          "compute_arudha_padas",
+          "detect_triggers"
+        ]
+      },
+      {
+        "module": "sade_sati",
+        "status": "ok",
+        "ms": 0.4,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "compute_sade_sati_periods",
+          "dt",
+          "sade_sati_summary",
+          "sys",
+          "transit_positions"
+        ]
+      },
+      {
+        "module": "sahams",
+        "status": "ok",
+        "ms": 0.5,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "RASI_LORDS",
+          "compute_sahams",
+          "sys"
+        ]
+      },
+      {
+        "module": "shadbala_full",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DEBILITATION_SIGNS",
+          "DIGNITIES",
+          "DIG_BALA_HOUSE",
+          "DUAL_SIGNS",
+          "EXALTATION_SIGNS",
+          "FIXED_SIGNS",
+          "KENDRA_HOUSES",
+          "MASCULINE_SIGN_IDX"
+        ]
+      },
+      {
+        "module": "sibling_predictor",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "DIGNITIES",
+          "FEMALE_PLANETS",
+          "FEMININE_SIGNS",
+          "MALE_PLANETS",
+          "MASCULINE_SIGNS",
+          "NEUTRAL_PLANETS",
+          "RASIS",
+          "RASI_LORDS"
+        ]
+      },
+      {
+        "module": "special_lagnas",
+        "status": "ok",
+        "ms": 0.6,
+        "error": null,
+        "exposed": [
+          "INDU_KALAS",
+          "RASIS",
+          "RASI_LORDS",
+          "all_special_lagnas",
+          "bhava_lagna",
+          "chandra_lagna",
+          "ghatika_lagna",
+          "hora_lagna"
+        ]
+      },
+      {
+        "module": "spouse_inference",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "DIGNITIES",
+          "DK_PLANET_TYPES",
+          "RASIS",
+          "RASI_LORDS",
+          "SPOUSE_TRAITS_BY_SIGN",
+          "build_divisional_chart",
+          "infer_spouse",
+          "sys"
+        ]
+      },
+      {
+        "module": "tajik_yogas_16",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "ALL_TAJIK_YOGA_FNS",
+          "DEBILITATION_SIGNS",
+          "DIGNITIES",
+          "DUAL_SIGNS",
+          "EXALTATION_SIGNS",
+          "FIXED_SIGNS",
+          "HADDA_BOUNDARIES",
+          "INDU_YAMAYA_ORB_DEG"
+        ]
+      },
+      {
+        "module": "tamil_renderer",
+        "status": "ok",
+        "ms": 23.7,
+        "error": null,
+        "exposed": [
+          "BasePen",
+          "Canvas",
+          "Flowable",
+          "Path",
+          "TTFont",
+          "TamilParagraph",
+          "black",
+          "draw_mixed"
+        ]
+      },
+      {
+        "module": "tamil_translations",
+        "status": "ok",
+        "ms": 1.8,
+        "error": null,
+        "exposed": [
+          "CATEGORY_TA",
+          "DASHA_ABBR_TA",
+          "DASHA_EFFECT_TA",
+          "DASHA_LEVEL_TA",
+          "DOMAIN_TA",
+          "EVENT_NAME_TA",
+          "EVENT_PLAIN_TA",
+          "HOUSES_TA"
+        ]
+      },
+      {
+        "module": "tara_chakra",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "NAKSHATRAS",
+          "NAKSHATRA_DETAILS",
+          "NAK_LORDS_27",
+          "get_nakshatra_full",
+          "sys",
+          "tara_chakra_summary"
+        ]
+      },
+      {
+        "module": "traditional_jadhagam_pages",
+        "status": "ok",
+        "ms": 1.8,
+        "error": null,
+        "exposed": [
+          "A4",
+          "AMBER",
+          "CREAM",
+          "GOLD",
+          "GREEN",
+          "GREY_LT",
+          "GREY_MD",
+          "HRFlowable"
+        ]
+      },
+      {
+        "module": "transit_engine",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "PLANET_IDS",
+          "RASIS",
+          "detect_triggers",
+          "dt",
+          "jd_from_dt",
+          "swe",
+          "transit_positions"
+        ]
+      },
+      {
+        "module": "transit_forecast",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "build_full_timeline",
+          "chandra_bala",
+          "compute_panchanga",
+          "daily_forecast",
+          "detect_triggers",
+          "dt",
+          "find_best_days",
+          "find_difficult_days"
+        ]
+      },
+      {
+        "module": "tri_pataki_chakra",
+        "status": "ok",
+        "ms": 0.8,
+        "error": null,
+        "exposed": [
+          "NAKSHATRAS",
+          "NAK_LORDS_27",
+          "PLANETS",
+          "annual_tri_pataki_summary",
+          "dt",
+          "sys",
+          "tri_pataki"
+        ]
+      },
+      {
+        "module": "upagrahas",
+        "status": "ok",
+        "ms": 1.1,
+        "error": null,
+        "exposed": [
+          "GULIKA_DAY_PORTIONS",
+          "GULIKA_NIGHT_PORTIONS",
+          "RASIS",
+          "compute_upagrahas",
+          "sys",
+          "upagraha_summary"
+        ]
+      },
+      {
+        "module": "varshaphala",
+        "status": "ok",
+        "ms": 0.9,
+        "error": null,
+        "exposed": [
+          "RASIS",
+          "RASI_LORDS",
+          "annual_chart",
+          "compute_muntha",
+          "dt",
+          "find_solar_return",
+          "swe",
+          "sys"
+        ]
+      },
+      {
+        "module": "varshaphala_dashas",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "VIMSHOTTARI_ORDER",
+          "VIMSHOTTARI_TOTAL",
+          "VIMSHOTTARI_YEARS",
+          "annual_dashas_summary",
+          "dt",
+          "mudda_dasha",
+          "patyayini_dasha",
+          "sys"
+        ]
+      },
+      {
+        "module": "vastu_shastra",
+        "status": "ok",
+        "ms": 1.6,
+        "error": null,
+        "exposed": [
+          "AAYA_TYPES",
+          "DIRECTIONS",
+          "ENTRANCE_PADAS_RANK",
+          "PER_ROOM_RULES",
+          "PLANET_ARCHETYPES",
+          "RASIS",
+          "RASI_LORDS",
+          "ROOM_PLACEMENT"
+        ]
+      },
+      {
+        "module": "vedic_core",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "AIR_SIGNS",
+          "BAD_HOUSES",
+          "DEBILITATION_SIGNS",
+          "DEBILITATION_TAMIL",
+          "DIGNITIES",
+          "DUAL_SIGNS",
+          "DUSTHANA_HOUSES",
+          "EARTH_SIGNS"
+        ]
+      },
+      {
+        "module": "vimshopaka_bala",
+        "status": "ok",
+        "ms": 1.0,
+        "error": null,
+        "exposed": [
+          "DASAVARGA_WEIGHTS",
+          "DIGNITIES",
+          "DIGNITY_FRACTIONS",
+          "RASIS",
+          "RASI_LORDS",
+          "compute_vimshopaka",
+          "planet_dignity_in_varga",
+          "sys"
+        ]
+      },
+      {
+        "module": "weight_manager",
+        "status": "ok",
+        "ms": 1.7,
+        "error": null,
+        "exposed": [
+          "DEFAULT_WEIGHTS",
+          "Path",
+          "WEIGHTS_PATH",
+          "evaluate_accuracy",
+          "gatekeeper_check",
+          "json",
+          "load_verified_charts",
+          "os"
+        ]
+      },
+      {
+        "module": "yoga_library_v2",
+        "status": "ok",
+        "ms": 1.2,
+        "error": null,
+        "exposed": [
+          "BENEFICS",
+          "DIGNITIES",
+          "EXTRA_YOGA_FNS",
+          "MALEFICS",
+          "RASIS",
+          "RASI_LORDS",
+          "detect_all_yogas_combined",
+          "detect_extra_yogas"
+        ]
+      }
+    ],
+    "engine_total": 113,
+    "engine_ok": 113,
+    "runtime_total": 101,
+    "runtime_ok": 100
+  },
+  "section2": {
+    "bridges": [
+      {
+        "bridge": "engine.dasha \u2192 runtime/granular_dasha",
+        "status": "ok",
+        "details": {
+          "md_count_match": true,
+          "md_via_bridge": 9,
+          "ashtottari_periods": 8,
+          "yogini_periods": 8,
+          "char_periods": 12
+        }
+      },
+      {
+        "bridge": "engine.vargas \u2192 runtime/divisional_charts + extra_vargas",
+        "status": "ok",
+        "details": {
+          "vargas_returned": [
+            "D1",
+            "D10",
+            "D12",
+            "D16",
+            "D2",
+            "D20",
+            "D24",
+            "D27",
+            "D3",
+            "D30",
+            "D4",
+            "D40",
+            "D45",
+            "D60",
+            "D7",
+            "D9"
+          ],
+          "missing": [],
+          "vargottama_count": 0
+        }
+      },
+      {
+        "bridge": "engine.kp_sublord \u2192 runtime/kp_paddhati",
+        "status": "ok",
+        "details": {
+          "kp_chart_keys": [
+            "H10_career",
+            "H11_gains/wishes",
+            "H2_wealth",
+            "H4_home/comforts",
+            "H5_children",
+            "H6_service/disputes",
+            "H7_marriage",
+            "H9_fortune/dharma"
+          ],
+          "kp_position_keys": [
+            "longitude",
+            "nakshatra",
+            "nakshatra_lord",
+            "sub_lord",
+            "sub_sub_lord"
+          ]
+        }
+      },
+      {
+        "bridge": "engine.panchanga \u2192 runtime/panchanga",
+        "status": "ok",
+        "details": {
+          "exposed": [
+            "NAKSHATRAS",
+            "VARAS",
+            "TITHIS",
+            "YOGAS",
+            "KARANAS",
+            "Panchanga"
+          ],
+          "panchanga_today_keys": [
+            "datetime",
+            "is_amavasya",
+            "is_bhadra",
+            "is_purnima",
+            "karana",
+            "nakshatra",
+            "pada",
+            "paksha",
+            "tithi",
+            "tithi_number",
+            "vara",
+            "vara_lord",
+            "yoga"
+          ]
+        }
+      }
+    ]
+  },
+  "section3": {
+    "status": "ok",
+    "detect_all_count": 9,
+    "runtime_classical_count": 8,
+    "runtime_extra_count": 1,
+    "engine_extended_count": 0,
+    "merge_logic_intact": true
+  },
+  "section4": {
+    "orchestrator": [
+      {
+        "chart": "manoj",
+        "status": "ok",
+        "elapsed_s": 228.92,
+        "modules_total": 77,
+        "modules_ok": 77,
+        "modules_error": 0,
+        "errors": []
+      },
+      {
+        "chart": "sree",
+        "status": "ok",
+        "elapsed_s": 217.78,
+        "modules_total": 77,
+        "modules_ok": 77,
+        "modules_error": 0,
+        "errors": []
+      },
+      {
+        "chart": "krishnan",
+        "status": "ok",
+        "elapsed_s": 225.11,
+        "modules_total": 77,
+        "modules_ok": 77,
+        "modules_error": 0,
+        "errors": []
+      },
+      {
+        "chart": "jayaprakesh",
+        "status": "ok",
+        "elapsed_s": 217.41,
+        "modules_total": 77,
+        "modules_ok": 77,
+        "modules_error": 0,
+        "errors": []
+      }
+    ],
+    "unified": [
+      {
+        "chart": "manoj",
+        "status": "ok",
+        "elapsed_s": 226.16,
+        "modules_total": 41,
+        "modules_ok": 41,
+        "modules_error": 0,
+        "errors": []
+      },
+      {
+        "chart": "sree",
+        "status": "ok",
+        "elapsed_s": 212.84,
+        "modules_total": 41,
+        "modules_ok": 41,
+        "modules_error": 0,
+        "errors": []
+      },
+      {
+        "chart": "krishnan",
+        "status": "ok",
+        "elapsed_s": 227.87,
+        "modules_total": 41,
+        "modules_ok": 41,
+        "modules_error": 0,
+        "errors": []
+      },
+      {
+        "chart": "jayaprakesh",
+        "status": "ok",
+        "elapsed_s": 216.59,
+        "modules_total": 41,
+        "modules_ok": 41,
+        "modules_error": 0,
+        "errors": []
+      }
+    ],
+    "pdf": [
+      {
+        "chart": "manoj",
+        "status": "ok",
+        "elapsed_s": 6.18,
+        "out": "F:\\astro\\reports\\MANOJ_INTEGRATION_TEST.pdf",
+        "size_kb": 314.6
+      },
+      {
+        "chart": "sree",
+        "status": "ok",
+        "elapsed_s": 6.04,
+        "out": "F:\\astro\\reports\\SREE_INTEGRATION_TEST.pdf",
+        "size_kb": 316.0
+      },
+      {
+        "chart": "krishnan",
+        "status": "ok",
+        "elapsed_s": 6.19,
+        "out": "F:\\astro\\reports\\KRISHNAN_INTEGRATION_TEST.pdf",
+        "size_kb": 314.4
+      },
+      {
+        "chart": "jayaprakesh",
+        "status": "ok",
+        "elapsed_s": 5.75,
+        "out": "F:\\astro\\reports\\JAYAPRAKESH_INTEGRATION_TEST.pdf",
+        "size_kb": 308.8
+      }
+    ]
+  },
+  "section5": {
+    "manoj": {
+      "status": "ok",
+      "runs": [
+        {
+          "iter": 1,
+          "elapsed_s": 222.0,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 2,
+          "elapsed_s": 221.42,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 3,
+          "elapsed_s": 221.41,
+          "modules_ok": 41,
+          "modules_error": 0
+        }
+      ],
+      "avg_s": 221.61,
+      "p50_s": 221.42,
+      "max_s": 222.0,
+      "min_s": 221.41,
+      "modules_ok_each_run": [
+        41,
+        41,
+        41
+      ],
+      "state_mutation_detected": false
+    },
+    "sree": {
+      "status": "ok",
+      "runs": [
+        {
+          "iter": 1,
+          "elapsed_s": 212.73,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 2,
+          "elapsed_s": 212.26,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 3,
+          "elapsed_s": 212.9,
+          "modules_ok": 41,
+          "modules_error": 0
+        }
+      ],
+      "avg_s": 212.63,
+      "p50_s": 212.73,
+      "max_s": 212.9,
+      "min_s": 212.26,
+      "modules_ok_each_run": [
+        41,
+        41,
+        41
+      ],
+      "state_mutation_detected": false
+    },
+    "krishnan": {
+      "status": "ok",
+      "runs": [
+        {
+          "iter": 1,
+          "elapsed_s": 225.12,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 2,
+          "elapsed_s": 223.56,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 3,
+          "elapsed_s": 223.43,
+          "modules_ok": 41,
+          "modules_error": 0
+        }
+      ],
+      "avg_s": 224.04,
+      "p50_s": 223.56,
+      "max_s": 225.12,
+      "min_s": 223.43,
+      "modules_ok_each_run": [
+        41,
+        41,
+        41
+      ],
+      "state_mutation_detected": false
+    },
+    "jayaprakesh": {
+      "status": "ok",
+      "runs": [
+        {
+          "iter": 1,
+          "elapsed_s": 217.32,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 2,
+          "elapsed_s": 216.48,
+          "modules_ok": 41,
+          "modules_error": 0
+        },
+        {
+          "iter": 3,
+          "elapsed_s": 216.22,
+          "modules_ok": 41,
+          "modules_error": 0
+        }
+      ],
+      "avg_s": 216.67,
+      "p50_s": 216.48,
+      "max_s": 217.32,
+      "min_s": 216.22,
+      "modules_ok_each_run": [
+        41,
+        41,
+        41
+      ],
+      "state_mutation_detected": false
+    }
+  },
+  "section6": {
+    "import": "ok",
+    "has_app": true,
+    "has_jathagam": true,
+    "has_book_battle": true,
+    "corpus_loaded": true,
+    "corpus_total_rules": 15342,
+    "corpus_books": 22
+  }
+}

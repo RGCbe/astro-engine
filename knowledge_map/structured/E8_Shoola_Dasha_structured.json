@@ -1,0 +1,16 @@
+{
+  "item_code": "E8",
+  "item_name": "Shoola Dasha",
+  "books_covering": [
+    "Brihat_Parashara_v2"
+  ],
+  "total_passages": 2,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [],
+  "constants_extracted": [],
+  "pyjhora_reference": {
+    "module": "horoscope/dhasa/graha/vimsottari.py",
+    "function": "vimsottari_dhasa"
+  }
+}

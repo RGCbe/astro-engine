@@ -1,0 +1,454 @@
+{
+  "chart": {
+    "birth": {
+      "year": 1996,
+      "month": 5,
+      "day": 25,
+      "hour": 20,
+      "min": 25,
+      "lat": 11.01,
+      "lon": 76.57,
+      "place": "Coimbatore"
+    },
+    "lagna": "Sagittarius",
+    "lagna_idx": 8,
+    "ayanamsa": 23.8068,
+    "positions": {
+      "Sun": {
+        "lon": 40.8597,
+        "rasi": "Taurus",
+        "rasi_idx": 1,
+        "nak": "Rohini",
+        "nak_lord": "Moon",
+        "pada": 1,
+        "house": 6,
+        "deg": 10.8597
+      },
+      "Moon": {
+        "lon": 131.1845,
+        "rasi": "Leo",
+        "rasi_idx": 4,
+        "nak": "Magha",
+        "nak_lord": "Ketu",
+        "pada": 4,
+        "house": 9,
+        "deg": 11.1845
+      },
+      "Mars": {
+        "lon": 23.1665,
+        "rasi": "Aries",
+        "rasi_idx": 0,
+        "nak": "Bharani",
+        "nak_lord": "Venus",
+        "pada": 3,
+        "house": 5,
+        "deg": 23.1665
+      },
+      "Mercury": {
+        "lon": 26.0144,
+        "rasi": "Aries",
+        "rasi_idx": 0,
+        "nak": "Bharani",
+        "nak_lord": "Venus",
+        "pada": 4,
+        "house": 5,
+        "deg": 26.0144
+      },
+      "Jupiter": {
+        "lon": 263.1645,
+        "rasi": "Sagittarius",
+        "rasi_idx": 8,
+        "nak": "Purva Ashadha",
+        "nak_lord": "Venus",
+        "pada": 3,
+        "house": 1,
+        "deg": 23.1645
+      },
+      "Venus": {
+        "lon": 63.9134,
+        "rasi": "Gemini",
+        "rasi_idx": 2,
+        "nak": "Mrigashira",
+        "nak_lord": "Mars",
+        "pada": 4,
+        "house": 7,
+        "deg": 3.9134
+      },
+      "Saturn": {
+        "lon": 341.2339,
+        "rasi": "Pisces",
+        "rasi_idx": 11,
+        "nak": "Uttara Bhadrapada",
+        "nak_lord": "Saturn",
+        "pada": 3,
+        "house": 4,
+        "deg": 11.2339
+      },
+      "Rahu": {
+        "lon": 170.9185,
+        "rasi": "Virgo",
+        "rasi_idx": 5,
+        "nak": "Hasta",
+        "nak_lord": "Moon",
+        "pada": 4,
+        "house": 10,
+        "deg": 20.9185
+      },
+      "Ketu": {
+        "lon": 350.9185,
+        "rasi": "Pisces",
+        "rasi_idx": 11,
+        "nak": "Revati",
+        "nak_lord": "Mercury",
+        "pada": 2,
+        "house": 4,
+        "deg": 20.9185
+      }
+    },
+    "janma_nakshatra": "Magha",
+    "janma_nakshatra_lord": "Ketu",
+    "moon_rasi": "Leo"
+  },
+  "current_dasha_tree": {
+    "maha": {
+      "level": "maha",
+      "lord": "Moon",
+      "parent": null,
+      "start": "2023-07-12 09:40:11.970000",
+      "end": "2033-07-11 21:40:11.970000",
+      "years": 10
+    },
+    "antar": {
+      "level": "antar",
+      "lord": "Rahu",
+      "parent": "Moon",
+      "start": "2024-12-10 20:10:11.970000",
+      "end": "2026-06-11 17:10:11.970000",
+      "years": 1.5
+    },
+    "pratyantar": {
+      "level": "pratyantar",
+      "lord": "Moon",
+      "parent": "Rahu",
+      "start": "2026-03-26 02:23:41.970000",
+      "end": "2026-05-10 18:08:41.970000",
+      "years": 0.125
+    },
+    "sookshma": {
+      "level": "sookshma",
+      "lord": "Mercury",
+      "parent": "Moon",
+      "start": "2026-04-21 17:34:56.970000",
+      "end": "2026-04-28 04:48:49.470000",
+      "years": 0.017708333333333333
+    },
+    "prana": {
+      "level": "prana",
+      "lord": "Moon",
+      "parent": "Mercury",
+      "start": "2026-04-24 10:15:43.845000",
+      "end": "2026-04-24 23:11:53.220000",
+      "years": 0.0014756944444444442
+    }
+  },
+  "ashtakavarga": {
+    "bhinnashtakavarga": {
+      "Sun": {
+        "1": 5,
+        "2": 5,
+        "3": 4,
+        "4": 4,
+        "5": 3,
+        "6": 6,
+        "7": 4,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 5,
+        "12": 5
+      },
+      "Moon": {
+        "1": 4,
+        "2": 4,
+        "3": 6,
+        "4": 3,
+        "5": 2,
+        "6": 4,
+        "7": 4,
+        "8": 4,
+        "9": 5,
+        "10": 4,
+        "11": 6,
+        "12": 3
+      },
+      "Mars": {
+        "1": 2,
+        "2": 4,
+        "3": 4,
+        "4": 2,
+        "5": 2,
+        "6": 4,
+        "7": 3,
+        "8": 2,
+        "9": 1,
+        "10": 5,
+        "11": 6,
+        "12": 4
+      },
+      "Mercury": {
+        "1": 4,
+        "2": 7,
+        "3": 3,
+        "4": 5,
+        "5": 5,
+        "6": 4,
+        "7": 4,
+        "8": 4,
+        "9": 2,
+        "10": 6,
+        "11": 6,
+        "12": 4
+      },
+      "Jupiter": {
+        "1": 5,
+        "2": 5,
+        "3": 7,
+        "4": 4,
+        "5": 5,
+        "6": 5,
+        "7": 4,
+        "8": 6,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 3
+      },
+      "Venus": {
+        "1": 6,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 5,
+        "6": 1,
+        "7": 5,
+        "8": 5,
+        "9": 6,
+        "10": 5,
+        "11": 5,
+        "12": 2
+      },
+      "Saturn": {
+        "1": 3,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 2,
+        "6": 5,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 4
+      }
+    },
+    "sarvashtakavarga": {
+      "1": 29,
+      "2": 32,
+      "3": 32,
+      "4": 27,
+      "5": 24,
+      "6": 29,
+      "7": 27,
+      "8": 23,
+      "9": 24,
+      "10": 30,
+      "11": 35,
+      "12": 25
+    },
+    "strong_houses": [
+      11,
+      2,
+      3,
+      10
+    ],
+    "weak_houses": [
+      8,
+      5,
+      9
+    ]
+  },
+  "varshaphala_current": {
+    "year": 2026,
+    "return_datetime": "2026-05-26T13:00:00",
+    "jd": 2461186.8125
+  },
+  "transits_now": {
+    "Sun": {
+      "transit_lon": 9.98,
+      "transit_rasi": "Aries",
+      "transit_house": 5,
+      "natal_rasi": "Taurus",
+      "natal_house": 6
+    },
+    "Moon": {
+      "transit_lon": 103.44,
+      "transit_rasi": "Cancer",
+      "transit_house": 8,
+      "natal_rasi": "Leo",
+      "natal_house": 9
+    },
+    "Mars": {
+      "transit_lon": 347.06,
+      "transit_rasi": "Pisces",
+      "transit_house": 4,
+      "natal_rasi": "Aries",
+      "natal_house": 5
+    },
+    "Mercury": {
+      "transit_lon": 350.02,
+      "transit_rasi": "Pisces",
+      "transit_house": 4,
+      "natal_rasi": "Aries",
+      "natal_house": 5
+    },
+    "Jupiter": {
+      "transit_lon": 83.81,
+      "transit_rasi": "Gemini",
+      "transit_house": 7,
+      "natal_rasi": "Sagittarius",
+      "natal_house": 1
+    },
+    "Venus": {
+      "transit_lon": 36.03,
+      "transit_rasi": "Taurus",
+      "transit_house": 6,
+      "natal_rasi": "Gemini",
+      "natal_house": 7
+    },
+    "Saturn": {
+      "transit_lon": 344.16,
+      "transit_rasi": "Pisces",
+      "transit_house": 4,
+      "natal_rasi": "Pisces",
+      "natal_house": 4
+    },
+    "Rahu": {
+      "transit_lon": 311.94,
+      "transit_rasi": "Aquarius",
+      "transit_house": 3,
+      "natal_rasi": "Virgo",
+      "natal_house": 10
+    }
+  },
+  "chara_dasha": [
+    {
+      "rasi": "Sagittarius",
+      "lord": "Jupiter",
+      "years": 12,
+      "start": "1996-05-25",
+      "end": "2008-05-25",
+      "age_from": 0.0,
+      "age_to": 12.0
+    },
+    {
+      "rasi": "Capricorn",
+      "lord": "Saturn",
+      "years": 2,
+      "start": "2008-05-25",
+      "end": "2010-05-26",
+      "age_from": 12.0,
+      "age_to": 14.0
+    },
+    {
+      "rasi": "Aquarius",
+      "lord": "Saturn",
+      "years": 1,
+      "start": "2010-05-26",
+      "end": "2011-05-26",
+      "age_from": 14.0,
+      "age_to": 15.0
+    },
+    {
+      "rasi": "Pisces",
+      "lord": "Jupiter",
+      "years": 9,
+      "start": "2011-05-26",
+      "end": "2020-05-25",
+      "age_from": 15.0,
+      "age_to": 24.0
+    },
+    {
+      "rasi": "Aries",
+      "lord": "Mars",
+      "years": 12,
+      "start": "2020-05-25",
+      "end": "2032-05-25",
+      "age_from": 24.0,
+      "age_to": 36.0
+    },
+    {
+      "rasi": "Taurus",
+      "lord": "Venus",
+      "years": 1,
+      "start": "2032-05-25",
+      "end": "2033-05-26",
+      "age_from": 36.0,
+      "age_to": 37.0
+    },
+    {
+      "rasi": "Gemini",
+      "lord": "Mercury",
+      "years": 10,
+      "start": "2033-05-26",
+      "end": "2043-05-26",
+      "age_from": 37.0,
+      "age_to": 47.0
+    },
+    {
+      "rasi": "Cancer",
+      "lord": "Moon",
+      "years": 1,
+      "start": "2043-05-26",
+      "end": "2044-05-25",
+      "age_from": 47.0,
+      "age_to": 48.0
+    },
+    {
+      "rasi": "Leo",
+      "lord": "Sun",
+      "years": 9,
+      "start": "2044-05-25",
+      "end": "2053-05-26",
+      "age_from": 48.0,
+      "age_to": 57.0
+    },
+    {
+      "rasi": "Virgo",
+      "lord": "Mercury",
+      "years": 7,
+      "start": "2053-05-26",
+      "end": "2060-05-25",
+      "age_from": 57.0,
+      "age_to": 64.0
+    },
+    {
+      "rasi": "Libra",
+      "lord": "Venus",
+      "years": 8,
+      "start": "2060-05-25",
+      "end": "2068-05-25",
+      "age_from": 64.0,
+      "age_to": 72.0
+    },
+    {
+      "rasi": "Scorpio",
+      "lord": "Mars",
+      "years": 5,
+      "start": "2068-05-25",
+      "end": "2073-05-26",
+      "age_from": 72.0,
+      "age_to": 77.0
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "book_key": "Yavanajataka_1",
+  "filename": "1978 Yavanajataka 1.pdf",
+  "total_pages": 520,
+  "total_words": 17442,
+  "total_chars": 109432,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "vss",
+      "count": 148
+    },
+    {
+      "word": "adhyaya",
+      "count": 85
+    },
+    {
+      "word": "year",
+      "count": 83
+    },
+    {
+      "word": "inscription",
+      "count": 71
+    },
+    {
+      "word": "copied",
+      "count": 66
+    },
+    {
+      "word": "contains",
+      "count": 60
+    },
+    {
+      "word": "inscriptions",
+      "count": 56
+    },
+    {
+      "word": "atrapa",
+      "count": 54
+    },
+    {
+      "word": "manuscript",
+      "count": 53
+    },
+    {
+      "word": "sarp",
+      "count": 51
+    },
+    {
+      "word": "coins",
+      "count": 47
+    },
+    {
+      "word": "nasik",
+      "count": 44
+    },
+    {
+      "word": "son",
+      "count": 44
+    },
+    {
+      "word": "buhler",
+      "count": 44
+    },
+    {
+      "word": "adhyayas",
+      "count": 40
+    },
+    {
+      "word": "saka",
+      "count": 37
+    },
+    {
+      "word": "yavanajataka",
+      "count": 35
+    },
+    {
+      "word": "raja",
+      "count": 35
+    },
+    {
+      "word": "western",
+      "count": 34
+    },
+    {
+      "word": "work",
+      "count": 33
+    },
+    {
+      "word": "found",
+      "count": 33
+    },
+    {
+      "word": "karle",
+      "count": 33
+    },
+    {
+      "word": "mahak",
+      "count": 32
+    },
+    {
+      "word": "property",
+      "count": 32
+    },
+    {
+      "word": "cave",
+      "count": 29
+    },
+    {
+      "word": "baroda",
+      "count": 29
+    },
+    {
+      "word": "india",
+      "count": 28
+    },
+    {
+      "word": "manuscripts",
+      "count": 28
+    },
+    {
+      "word": "first",
+      "count": 27
+    },
+    {
+      "word": "introduction",
+      "count": 27
+    },
+    {
+      "word": "senart",
+      "count": 27
+    },
+    {
+      "word": "see",
+      "count": 26
+    },
+    {
+      "word": "verses",
+      "count": 26
+    },
+    {
+      "word": "made",
+      "count": 26
+    },
+    {
+      "word": "rudradaman",
+      "count": 26
+    },
+    {
+      "word": "yavana",
+      "count": 25
+    },
+    {
+      "word": "text",
+      "count": 24
+    },
+    {
+      "word": "svamin",
+      "count": 24
+    },
+    {
+      "word": "rudrasena",
+      "count": 24
+    },
+    {
+      "word": "sphujidhvaja",
+      "count": 22
+    },
+    {
+      "word": "only",
+      "count": 22
+    },
+    {
+      "word": "known",
+      "count": 22
+    },
+    {
+      "word": "benares",
+      "count": 22
+    },
+    {
+      "word": "indian",
+      "count": 21
+    },
+    {
+      "word": "dated",
+      "count": 21
+    },
+    {
+      "word": "reign",
+      "count": 20
+    },
+    {
+      "word": "greek",
+      "count": 19
+    },
+    {
+      "word": "some",
+      "count": 19
+    },
+    {
+      "word": "following",
+      "count": 19
+    },
+    {
+      "word": "minaraja",
+      "count": 18
+    },
+    {
+      "word": "date",
+      "count": 17
+    },
+    {
+      "word": "other",
+      "count": 17
+    },
+    {
+      "word": "mysore",
+      "count": 17
+    },
+    {
+      "word": "transcript",
+      "count": 16
+    },
+    {
+      "word": "during",
+      "count": 16
+    },
+    {
+      "word": "second",
+      "count": 16
+    },
+    {
+      "word": "kings",
+      "count": 16
+    },
+    {
+      "word": "kosambi",
+      "count": 16
+    },
+    {
+      "word": "used",
+      "count": 16
+    },
+    {
+      "word": "iii",
+      "count": 16
+    },
+    {
+      "word": "perhaps",
+      "count": 15
+    },
+    {
+      "word": "grandson",
+      "count": 15
+    },
+    {
+      "word": "mentioned",
+      "count": 14
+    },
+    {
+      "word": "between",
+      "count": 14
+    },
+    {
+      "word": "him",
+      "count": 14
+    },
+    {
+      "word": "century",
+      "count": 14
+    },
+    {
+      "word": "yavanacarya",
+      "count": 14
+    },
+    {
+      "word": "part",
+      "count": 13
+    },
+    {
+      "word": "verse",
+      "count": 13
+    },
+    {
+      "word": "yavanas",
+      "count": 13
+    },
+    {
+      "word": "satavahana",
+      "count": 13
+    },
+    {
+      "word": "tra",
+      "count": 13
+    },
+    {
+      "word": "probably",
+      "count": 13
+    },
+    {
+      "word": "era",
+      "count": 13
+    },
+    {
+      "word": "sanskrit",
+      "count": 12
+    },
+    {
+      "word": "commentary",
+      "count": 12
+    },
+    {
+      "word": "vasi",
+      "count": 12
+    },
+    {
+      "word": "near",
+      "count": 12
+    },
+    {
+      "word": "apparently",
+      "count": 12
+    },
+    {
+      "word": "gautamiputra",
+      "count": 12
+    },
+    {
+      "word": "nahapana",
+      "count": 12
+    },
+    {
+      "word": "bombay",
+      "count": 12
+    },
+    {
+      "word": "mathura",
+      "count": 12
+    },
+    {
+      "word": "nak",
+      "count": 12
+    },
+    {
+      "word": "bori",
+      "count": 12
+    },
+    {
+      "word": "bengal",
+      "count": 12
+    },
+    {
+      "word": "viii",
+      "count": 12
+    },
+    {
+      "word": "years",
+      "count": 11
+    },
+    {
+      "word": "though",
+      "count": 11
+    },
+    {
+      "word": "ias",
+      "count": 11
+    },
+    {
+      "word": "number",
+      "count": 11
+    },
+    {
+      "word": "another",
+      "count": 11
+    },
+    {
+      "word": "caitya",
+      "count": 11
+    },
+    {
+      "word": "below",
+      "count": 11
+    },
+    {
+      "word": "district",
+      "count": 11
+    },
+    {
+      "word": "south",
+      "count": 11
+    },
+    {
+      "word": "several",
+      "count": 11
+    },
+    {
+      "word": "incomplete",
+      "count": 11
+    },
+    {
+      "word": "early",
+      "count": 10
+    },
+    {
+      "word": "works",
+      "count": 10
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "24°",
+      "context": "er the larger part of Western and Central India, from about 24°  north latitude down to some point south of the Go<iavari, an"
+    },
+    {
+      "type": "degree_measure",
+      "value": "78°",
+      "context": "own to some point south of the Go<iavari, and from perhaps  78° east longitude towards the west. Their interest in the caves"
+    },
+    {
+      "type": "time_period",
+      "value": "40 years",
+      "context": "of Yativr~abha (between  473 and 609) Naravahana ruled for 40 years, followed by the Bhatthaghanas,  who ruled 242 years before"
+    },
+    {
+      "type": "time_period",
+      "value": "242 years",
+      "context": "led for 40 years, followed by the Bhatthaghanas,  who ruled 242 years before the Guptas, who ruled for 231 years. 37 This chrono-"
+    },
+    {
+      "type": "time_period",
+      "value": "231 years",
+      "context": "anas,  who ruled 242 years before the Guptas, who ruled for 231 years. 37 This chrono- logy places the beginning of the Bhatthatt"
+    },
+    {
+      "type": "time_period",
+      "value": "24 years",
+      "context": ". 35), apparently ruled over the Western Ghats for at least 24 years  (c. A.O. 136 to 160) ; 46 but he seems to have lost contro"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "269/270",
+      "context": "uthor's  name and that the date of his composition was A.D. 269/270. We are further  informed that it is a versified version of"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "149/150",
+      "context": "ne  Yavanesvara, \"the lord of the Greeks,\" in the year A.D. 149/150. That Yavanes- vara's translation was from a Greek text is"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1961/62",
+      "context": "o this  field has already been made by me in ]OR Madras 31, 1961/62, 28- 31.  In Western India itself- that is, in Konkal).a, t"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "118/119",
+      "context": "Nasik on the  orders of Usavadata c~~abhadatta) in C. A.D. 118/119. There is an inscription  of the late second century B.C. f"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1933/34",
+      "context": ", Calcutta 1965, pp. 89- 90.  2. R. D. Bhandarkar in EI 22, 1933/34, 198- 205. On Nagari see D. R. Bhandarkar,  The Archaeologi"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1905/06",
+      "context": "o. A 46.  4. Ibid., p. 32 no. A 49a.  5. E. Senart in EI 8, 1905/06, 71- 73.  6   I•  INTRODUCTION  name of the city from which"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1892/94",
+      "context": "ippalus' discovery of the seasonable  6. G. Buhler in EI 2, 1892/94,\" 109 no. I 108.  7. The inscriptions of stupa I are publis"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "120/130",
+      "context": "J. Pirenne14  and R. C. Majumdar,15 should be dated c. A.D. 120/130,16 mentions an emporia  south of Bapvya,a (Bhrgukaccha) .Eo"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1902/03",
+      "context": "E. Senart, \"The Inscriptions in the Caves at Karle,\" El 7, 1902/03, 47-74, and  \"The Inscriptions in the Caves at Nasik,\" El 8"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1904/05",
+      "context": "47-74, and  \"The Inscriptions in the Caves at Nasik,\" El 8, 1904/05, 59-96.  19. M. S. Vats, \"Unpublished Votive Inscriptions i"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1925/26",
+      "context": "Votive Inscriptions in the Chaitya Cave at Karle,\"  El 18, 1925/26, 325-329.  20. D. D. Kosambi, \"Dhenukakata,\" ]AS Bombay, NS"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1949/50",
+      "context": "i, \"Some Roman Antiquities from Akota near Baroda,\" BBM 7,  1949/50, 21-23.  B. Subbarao, Baroda Through the Ages, Baroda 1953,"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1962/63",
+      "context": "xamination of a Metal Image  from Samalaji,\" JOI Baroda 12, 1962/63, 177-180.  U. P. Shah and R. N. Mehta, \"Nagara,\" JOI Baroda"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1963/64",
+      "context": "6.  R. N. Mehta, \"Valabhi of the Maitrakas,\" JOI Baroda 13, 1963/64, 240- 251.  Indian Archaeology 1961- 62- A Review, New Delh"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1955/57",
+      "context": "\" Satavahana Coins from Brahmapuri (Kol- hapur),\" BPWMWI 5, 1955/57, 62- 73; and P. L. Gupta, \"Coins from Brahmapuri  Excavatio"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1960/61",
+      "context": ". L. Gupta, \"Coins from Brahmapuri  Excavations,\" BDCRI 21, 1960/61, 38- 84.  29. L. R enou, ed., La Geographie de Ptolemee. L'"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "124/125",
+      "context": "of R~abhadatta and Ayama.  Nahapana was overthrown in A.D. 124/125 by an invasion of the Satavahana  ruler Gautamiputra Sataka"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1956/57",
+      "context": "ntioned in the Tiloyapai:ii:iatti,\" ]AS  Bombay, NS 31- 32, 1956/57, 274-276.  38. \"The Date of the Karle Chaitya,\" Lalit Kala"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1921/22",
+      "context": "The Andhau Inscriptions of the Time of Rudradaman,\" El 16,  1921/22, 19- 25; see H. C. Ray, \"The Andhau Inscriptions,\" IA 52, 1"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1967/68",
+      "context": "roda 11, 1961 /62, 237- 238, and P. R. Srinivasan in El 37, 1967/68,  139- 142.  50. F. Kielhorn, \"Junagadh Rock Inscription of"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "146/147",
+      "context": "ruled over Kausambi and Benares in the years 2 and 3 (A.D. 146/147).  Rudradaman's expedition, if there was one, must have bee"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1937/38",
+      "context": "nscription of (the Reign of) Kanishka: The Year 2,\"  Ef 24, 1937/38, 210- 212.  55. ]. P. Vogel in El 8, 1905/06, 173- 179.  56"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1894/95",
+      "context": "m Yupa Inscription,\" El 24,  1937 /38, 245- 251.  59. El 3, 1894/95, pl. opposite p. 306.  60. The following inscriptions of th"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1955/56",
+      "context": ", 253-256.  2. Year 83 (A.D. 227) N. P. Chakravarti, El 31, 1955/56, 173, n. 4; G. R. Sharma  in Annual Bibliography of Indian"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1935/36",
+      "context": "now, \"Allahabad Museum Inscription of the Year  87,\" Ef 23, 1935/36, 245- 248; G. Chatterji, \"Two Inscriptions from Kosam,\"  ]h"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1936/37",
+      "context": "Inscription of Maharaja  Bhimavarman. The Year 130,\" IC 3, 1936/37, 177- 182.  2. Year 139 (A.D. 283). J. F. Fleet, Inscriptio"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1934/35",
+      "context": "67.  See further A. Ghosh, \" The Maghas of Kausambi,\" JC 1, 1934/35, 715- 716; V. Appa  Rao, \" The Meghas of Kosala,\" JAHRS 9,"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1934/36",
+      "context": ", 715- 716; V. Appa  Rao, \" The Meghas of Kosala,\" JAHRS 9, 1934/36, 47- 48; Motichandra, \" A Hoard of  Kausambi Coins from Fat"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1941/42",
+      "context": "V. Mirashi, \"Dates of  Some Early Kings ofKausambi,\" EJ26, 1941/42, 297- 304; A. S. Altekar, \"The Maghas  of South Kosala,\" JG"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "172/3",
+      "context": "(K 156, 157)  (K 160, MK 161 )  (K 160, MK 162- 172)  (MK 172/3, 174-176)  I  Rudrasena II  (MK I 7x, 180, 181 ?, 183, 184,"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "269/70",
+      "context": "aman I; the metric version of Sphujidhvaja  was produced in 269/70, during the long reign of Rurasena II. The general  impress"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1947/48",
+      "context": ".  67. See A. S. Altekar, \"Nandsa Yupa Inscription,\" El 27, 1947/48, 252-257; this  inscription mentions the Malaka Soma, leade"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1882/83",
+      "context": "1966. This manuscript contains adhyayas 1-71.  *BORI 349 of 1882/83. Ff. 113-140. The first part of this manuscript  (ff. 50-l"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1873/74",
+      "context": "contains adhyaya 5 7 with numerous additions.  *BORI 104 of 1873/74. 160ff. Copied in Sarp.. 1659 = A.D. 1602. This  manuscript"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1883/84",
+      "context": ". 1789 = A.D. 1732. Contains  adhyayas 40-71.  *BORI 211 of 1883/84. 80ff. Copied in Sarp.. 1806 = A.D. 1749. Contains  adhyaya"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1899/1915",
+      "context": "yas 1- 53. From H. Jacobi.  26   INTRODUCTION  *BORI 558 of 1899/1915. 235ff. Contains adhyayas 1-68.  ?CP, Hiralal 3338. Propert"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1887/91",
+      "context": "Contains adhyayas 58-62 with the  yogadhyaya.  *BORI 861 of 1887/91. 24ff.  GVS 2966 (1643). Ff. 3-14. Contains adhyaya 62.  Mi"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1958/59",
+      "context": "ave used a transcript in 33 pp. of this latter  prepared in 1958/59 by R. Ganesan and collqted by K. M. Subrah- manya Sastri an"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1886/92",
+      "context": "085. l lff. Copied in Sarp. 1875 = A.D. 1818.  *BORI 999 of 1886/92. 143ff. Copied in Sarp. 1885 = A.D. 1828. Contains  adhyaya"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1902/07",
+      "context": "ribed to Yavana<:arya in several manuscripts:  *BORI 187 of 1902/07. 30ff.  CP, Hiralal 2393. Property of Raghunathrav of Rehli"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1884/86",
+      "context": "works on tajika ascribed to Yavana are known:  BORI 399 of 1884/86. 20ff. Copied in Sarp.. 1621 = A.D. 1564. This  manuscript"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1911/12",
+      "context": "identified at  present:  GOML Madras R 355. 19ff. Copied in 1911/12 from a manuscript  belonging to Devulapalli Venkatappa Sast"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1869/70",
+      "context": "05. Property of  Hariramasastri of Ankalesvara.  BORI 66 of 1869/70. 4ff.  BORI 324 of 1882/83. Ff. 1- 8. From Gujarat.  *IO 30"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "e can ·point to passages in the present edition where  some 28 verses have been lost; and a few verses are preserved in ot"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": ", and Ajivakas are perhaps included among the atheists (21, 20) and  heretics (22, 6) whom he despises. Rather he admires"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "ther he admires yogis and munis possessing  the divine eye (9, 5). And he traces his knowledge through Surya and the  Asv"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "inal verse of our text, but also by U tpala on  Brhajjataka 7, 9. The element dhvaja, \"standard, banner,\" is common as th"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "r the Mahamatra Sramar:ia), a resident of Nasika,  had cave 19 at Nasik excavated. 10 The caves at Nana.ghat yield inscrip"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "f the seasonable  6. G. Buhler in EI 2, 1892/94,\" 109 no. I 108.  7. The inscriptions of stupa I are published by G. Btihle"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "c. A.D. 45, large numbers of Greek traders came  to India. 12 The lIEpL'TTAovs rfjs 'Epv8pas 8aM.aa7Js, 13 which, despite"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": "J. Pirenne14  and R. C. Majumdar,15 should be dated c. A.D. 120/130,16 mentions an emporia  south of Bapvya,a (Bhrgukaccha)"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": "ne14  and R. C. Majumdar,15 should be dated c. A.D. 120/130,16 mentions an emporia  south of Bapvya,a (Bhrgukaccha) .Eov7r"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "irst and second centuries A.D. have been  edited by Buhler, 17 Senart, 18 Vats, 19 and Kosambi. 20 The majority of these"
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "cond centuries A.D. have been  edited by Buhler, 17 Senart, 18 Vats, 19 and Kosambi. 20 The majority of these  individuals"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "s,  ASWI 4, repr. Varanasi 1964, pp. 82-140, and plates 44- 60 by Bhagvanlal Indraji.  18. E. Senart, \"The Inscriptions in"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "325-329.  20. D. D. Kosambi, \"Dhenukakata,\" ]AS Bombay, NS 30,2,1955, 50-71. I do not  accept his identification of Miti~"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "asangatas ?). In the Caitya cave at  Karle. Vats 1, Kosambi 27.  Yavanas from Datamitiya (DattamitrI):  The northerner (ot"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "oi:iipadra sahacaras). Shakardarra Inscription of  the year 40. GI! 2, 1, pp. 159- 160.  Dasavharei:ia Posapuriaputrai:ia"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "ption of the reign of Nahapana is that inscribed at J unnar 36 by Ayama of  27. Cf. Sphujidhvaja 3, 34c: raktan prakurvan"
+    },
+    {
+      "type": "significant_number",
+      "value": 360,
+      "context": "may also be indicated by his  issuance of lead coins in the 360's.  The latest coins in the Vasoj and Sonpur hoards are dat"
+    }
+  ],
+  "connections": {
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga. 120 vss.  50. Labhasrayayoga. 120 vss.  51. Vyayasrayayoga. 120 vss.  52. Sarikhyasrayayoga. 6 vss.  53. Vajradiyoga. 5 vss.  54. Tanvadidvadasabhavadhisaphala.  55. Dvadasabhavasthanacinta.  145  1"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga  Karal).aphalakathana  Dvigrahayoga. Cf. Saravali 15  Caturgrahayoga. Cf. Saravali 17  $ac;l.grahayoga. Cf. Saravali 19  Paficamahapuru~ayoga. Cf. Sara- vali 37  44. Vasivesyubhayacariyoga. Cf. Sara-"
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Magha",
+        "count": 6
+      }
+    ]
+  },
+  "chapters_found": [],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 66,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 2,
+    "nakshatra_mentions": 1,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  }
+}

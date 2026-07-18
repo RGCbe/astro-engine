@@ -1,0 +1,191 @@
+{
+  "name": "Indira Gandhi",
+  "birth": {
+    "year": 1917,
+    "month": 11,
+    "day": 19,
+    "hour": 23,
+    "min": 11,
+    "lat": 25.4358,
+    "lon": 81.8463,
+    "place": "Allahabad (Prayagraj), India",
+    "tz": 5.5,
+    "weekday": "Monday"
+  },
+  "lagna": "Cancer",
+  "lagna_idx": 3,
+  "lagna_deg": 27.3655,
+  "lagna_lord": "Moon",
+  "ayanamsa": 22.710235,
+  "positions": {
+    "Sun": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 4.1252,
+      "lon_abs": 214.1252,
+      "nak": "Anuradha",
+      "nak_idx": 16,
+      "nak_lord": "Saturn",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.0098,
+      "house": 5
+    },
+    "Moon": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 5.588,
+      "lon_abs": 275.588,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 13.8189,
+      "house": 7
+    },
+    "Mars": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 16.3749,
+      "lon_abs": 136.3749,
+      "nak": "Purva Phalguni",
+      "nak_idx": 10,
+      "nak_lord": "Venus",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.504,
+      "house": 2
+    },
+    "Mercury": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 13.2294,
+      "lon_abs": 223.2294,
+      "nak": "Anuradha",
+      "nak_idx": 16,
+      "nak_lord": "Saturn",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 1.54,
+      "house": 5
+    },
+    "Jupiter": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 15.0019,
+      "lon_abs": 45.0019,
+      "nak": "Rohini",
+      "nak_idx": 3,
+      "nak_lord": "Moon",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.1321,
+      "house": 11
+    },
+    "Venus": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 21.0054,
+      "lon_abs": 261.0054,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 1.0719,
+      "house": 6
+    },
+    "Saturn": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 21.7874,
+      "lon_abs": 111.7874,
+      "nak": "Ashlesha",
+      "nak_idx": 8,
+      "nak_lord": "Mercury",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.0121,
+      "house": 1
+    },
+    "Rahu": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 10.5655,
+      "lon_abs": 250.5655,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 6
+    },
+    "Ketu": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 10.5655,
+      "lon_abs": 70.5655,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 12
+    }
+  },
+  "janma_nakshatra": "Uttara Ashadha",
+  "janma_nakshatra_lord": "Sun",
+  "moon_rasi": "Capricorn",
+  "moon_pada": 3,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 23:11 IST from Krishnamurti Padhdhati (KP) sources + Nehru family records",
+  "known_events": [
+    {
+      "date": "1942-03-26",
+      "event": "Married Feroze Gandhi (no relation to Mahatma) in Allahabad"
+    },
+    {
+      "date": "1944-08-20",
+      "event": "Birth of son Rajiv Gandhi"
+    },
+    {
+      "date": "1946-12-14",
+      "event": "Birth of son Sanjay Gandhi"
+    },
+    {
+      "date": "1960-09-08",
+      "event": "Husband Feroze Gandhi died of heart attack \u2014 widowhood at age 42"
+    },
+    {
+      "date": "1964-05-27",
+      "event": "Father Jawaharlal Nehru died \u2014 Indira became Information & Broadcasting Minister"
+    },
+    {
+      "date": "1966-01-24",
+      "event": "Sworn in as 3rd Prime Minister of India (first female PM)"
+    },
+    {
+      "date": "1975-06-25",
+      "event": "Declared Emergency \u2014 suspended civil liberties for 21 months"
+    },
+    {
+      "date": "1977-03-22",
+      "event": "Lost election after Emergency \u2014 Janata Party won"
+    },
+    {
+      "date": "1980-01-14",
+      "event": "Returned as PM (second term)"
+    },
+    {
+      "date": "1980-06-23",
+      "event": "Son Sanjay Gandhi died in plane crash \u2014 devastating personal loss"
+    },
+    {
+      "date": "1984-10-31",
+      "event": "Assassinated by Sikh bodyguards at PM residence, Delhi \u2014 age 66"
+    }
+  ]
+}

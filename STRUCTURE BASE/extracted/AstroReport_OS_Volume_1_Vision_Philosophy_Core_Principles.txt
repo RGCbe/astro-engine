@@ -1,0 +1,56 @@
+AstroReport OS Specification
+Volume 1 – Vision, Philosophy & Core Principles
+1. Vision
+AstroReport OS exists to transform a person's birth chart into a complete, understandable, and
+meaningful life report. The report should feel like a personalized Life Operating Manual rather than
+astrology software.
+2. Product Philosophy
+The software does not sell predictions. It delivers understanding, clarity, self-awareness, life
+direction, practical guidance, and personal growth. Predictions exist only to support understanding.
+3. Reader Experience
+The reader should progressively recognize themselves, understand past life stages, gain clarity
+about present patterns, and finish the report feeling they understand their life journey.
+4. The Report Is Not an Astrology Report
+It is a Life Journey Report. Astrology powers the analysis, while the report explains the meaning in
+plain language.
+5. Primary Goal
+Answer nearly every meaningful life question naturally within the timeline so readers rarely need
+follow-up consultations.
+6. Core Design Principle
+Organize the report chronologically rather than by isolated topics such as career or marriage.
+7. Storytelling Principle
+Every chapter should have a beginning, development, reflection, growth, and transition to the next
+chapter.
+8. Timeline Principle
+Use the person's actual Mahadasha and Bhukti sequence to structure life chapters while presenting
+a natural human story.
+9. Human First
+Describe the human experience before explaining the astrological reason.
+10. Explain Before Predicting
+Every section should answer: What is happening? Why? How might it feel? What can the reader
+do?
+11. Educational Value
+Every chapter should teach the reader something meaningful about themselves.
+12. Child-Friendly Principle
+A 10-year-old should be able to understand the report through stories, analogies, and simple
+language.
+13. Hope Over Fear
+Avoid fatalistic language. Present challenges as opportunities for learning and growth.
+14. Guidance with Every Challenge
+Every challenge must include practical guidance and constructive actions.
+15. Continuous Life Story
+Each chapter should build on previous chapters and prepare for future ones.
+16. Growth over Events
+Focus on personal development rather than isolated predictions.
+17. Hidden Question Principle
+Answer important questions naturally within the story instead of separate FAQs.
+18. Recognition Principle
+Readers should frequently recognize themselves through relatable patterns and experiences.
+19. Respect Uncertainty
+Present themes and possibilities rather than guaranteed outcomes.
+20. Reader Outcome
+The reader should finish with self-understanding, life understanding, practical guidance, emotional
+clarity, and confidence.
+21. Mission Statement
+AstroReport OS is a personal life companion—a biography guided by the birth chart that explains
+life's unfolding journey in clear, compassionate language.

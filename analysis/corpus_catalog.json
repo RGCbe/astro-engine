@@ -1,0 +1,553 @@
+{
+  "schema_version": 1,
+  "target_corpus_size": 50,
+  "current_size": 23,
+  "last_updated": "2026-04-25",
+  "books": [
+    {
+      "key": "BPHS_Vol1",
+      "title": "Brihat Parashara Hora Shastra Vol 1",
+      "author": "Maharshi Parashara",
+      "translator": "R Santhanam",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 1,
+      "status": "have_partial_gemma",
+      "pdf_path": "Books/BPHS - 1 RSanthanam.pdf",
+      "txt_path": "Books/BPHS1_extracted.txt",
+      "logic_json": "logic_base/BPHS_Vol1_logic.json",
+      "gemma_json": "gemma_extractions/BPHS_Vol1_gemma.json",
+      "size_bytes": 25273,
+      "rules_count": 23,
+      "notes": "Foundational. Currently 3 chunks failed. Retrying."
+    },
+    {
+      "key": "BPHS_Vol2",
+      "title": "Brihat Parashara Hora Shastra Vol 2",
+      "author": "Maharshi Parashara",
+      "translator": "R Santhanam",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 1,
+      "status": "have_partial_gemma",
+      "pdf_path": "Books/BPHS - 2 RSanthanam.pdf",
+      "txt_path": "Books/BPHS2_extracted.txt",
+      "size_bytes": 11443,
+      "rules_count": 9
+    },
+    {
+      "key": "BPHS_Vol3",
+      "title": "Brihat Parashara Hora Shastra Vol 3 (extended chapters)",
+      "author": "Maharshi Parashara",
+      "translator": "R Santhanam",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 1,
+      "status": "missing",
+      "priority": "P0",
+      "sources": [
+        "https://archive.org/search.php?query=Brihat+Parasara+Hora+Shastra+Volume+3",
+        "Sagar Publications hardcopy",
+        "Sapna Online India"
+      ]
+    },
+    {
+      "key": "Brihat_Parashara_Sharma",
+      "title": "Brihat Parashara Hora Shastra (Sharma translation)",
+      "author": "Maharshi Parashara",
+      "translator": "Girish Chandra Sharma",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 2,
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Alternative translation — cross-validate against Santhanam"
+    },
+    {
+      "key": "Phaladeepika",
+      "title": "Phaladeepika",
+      "author": "Mantreswara",
+      "translator": "G. S. Kapoor",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 2,
+      "status": "have_partial_gemma",
+      "pdf_path": "Books/Phaladeepika.pdf",
+      "txt_path": "Books/Phaladeepika_extracted.txt",
+      "size_bytes": 735,
+      "rules_count": 0,
+      "notes": "All 3 chunks failed in Apr 24 run — retrying now"
+    },
+    {
+      "key": "Phaladeepika_Vasanthi",
+      "title": "Phaladeepika with Vasanthi commentary",
+      "author": "Mantreswara",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 2,
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Saravali",
+      "title": "Saravali",
+      "author": "Kalyana Varma",
+      "translator": "R Santhanam",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 3,
+      "status": "have_partial_gemma",
+      "pdf_path": "Books/Saravali.pdf",
+      "txt_path": "Books/Saravali_extracted.txt",
+      "size_bytes": 786,
+      "notes": "Failed Apr 24, retrying"
+    },
+    {
+      "key": "Hora_Sara",
+      "title": "Hora Sara",
+      "author": "Prithuyasas",
+      "translator": "R Santhanam",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 4,
+      "status": "have_partial_gemma",
+      "pdf_path": "Books/Hora_Sara.pdf",
+      "size_bytes": 24943,
+      "rules_count": 20
+    },
+    {
+      "key": "Jataka_Parijata",
+      "title": "Jataka Parijata (8 vols)",
+      "author": "Vaidyanatha Dikshita",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 5,
+      "status": "have_gemma_partial_volumes",
+      "size_bytes": 21450,
+      "rules_count": 21,
+      "notes": "Currently only 1 vol. Need full 8-volume set."
+    },
+    {
+      "key": "Brihat_Jataka",
+      "title": "Brihat Jataka",
+      "author": "Varahamihira",
+      "translator": "N. Chidambaram Iyer",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 6,
+      "status": "have_no_gemma",
+      "pdf_path": "Books/Brihat_Jataka.pdf",
+      "txt_path": "Books/Brihat_Jataka_extracted.txt",
+      "notes": "Concise but seminal. 6th century. Needs Gemma re-run."
+    },
+    {
+      "key": "Yavanajataka_1",
+      "title": "Yavanajataka Vol 1",
+      "author": "Sphujidhvaja",
+      "translator": "David Pingree",
+      "school": "Parashari (Greek-influenced)",
+      "tier": "core",
+      "authority_rank": 7,
+      "status": "have_gemma",
+      "size_bytes": 20458
+    },
+    {
+      "key": "Yavanajataka_2",
+      "title": "Yavanajataka Vol 2",
+      "author": "Sphujidhvaja",
+      "translator": "David Pingree",
+      "school": "Parashari (Greek-influenced)",
+      "tier": "core",
+      "authority_rank": 7,
+      "status": "have_no_gemma",
+      "notes": "Needs Gemma run"
+    },
+    {
+      "key": "Sarvartha_Chintamani",
+      "title": "Sarvartha Chintamani",
+      "author": "Venkatesa Sharma",
+      "translator": "B Suryanarayan Rao",
+      "school": "Parashari",
+      "tier": "core",
+      "authority_rank": 5,
+      "status": "have_gemma",
+      "size_bytes": 38520,
+      "rules_count": 32
+    },
+    {
+      "key": "Uttara_Kalamrita",
+      "title": "Uttara Kalamrita",
+      "author": "Kalidasa",
+      "translator": "PS Sastri",
+      "school": "Parashari (Tantric flavor)",
+      "tier": "core",
+      "authority_rank": 4,
+      "status": "have_gemma",
+      "size_bytes": 59440,
+      "rules_count": 68
+    },
+    {
+      "key": "Laghu_Parashari",
+      "title": "Laghu Parashari (Jaimini-flavored short text)",
+      "author": "anonymous Parashari summary",
+      "school": "Parashari + Jaimini bridge",
+      "tier": "core",
+      "authority_rank": 4,
+      "status": "have_gemma",
+      "size_bytes": 40445,
+      "rules_count": 31
+    },
+    {
+      "key": "Jaimini_Sutras",
+      "title": "Jaimini Sutras",
+      "author": "Maharshi Jaimini",
+      "translator": "BS Rao",
+      "school": "Jaimini",
+      "tier": "core",
+      "authority_rank": 1,
+      "status": "have_partial_gemma",
+      "size_bytes": 17676,
+      "notes": "Foundational Jaimini. 1 chunk failed."
+    },
+    {
+      "key": "Jaimini_Upadesa_Rath",
+      "title": "Jaimini Upadesa Sutras",
+      "author": "Maharshi Jaimini",
+      "translator": "Sanjay Rath",
+      "school": "Jaimini",
+      "tier": "extended",
+      "authority_rank": 2,
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Jaimini_Krishnamurti_commentary",
+      "title": "Jaimini Sutras with commentary",
+      "translator": "Krishnamurti",
+      "school": "Jaimini + KP",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P2"
+    },
+    {
+      "key": "Bhrigu_Samhita",
+      "title": "Bhrigu Samhita (current ~800 pages)",
+      "author": "Maharshi Bhrigu (legendary)",
+      "school": "Bhrigu (Naadi)",
+      "tier": "core",
+      "authority_rank": 8,
+      "status": "have_gemma_partial",
+      "size_bytes": 27152,
+      "notes": "Have ~800 pages of ~2000-page work. Need full set."
+    },
+    {
+      "key": "Bhrigu_Sutras",
+      "title": "Bhrigu Sutras",
+      "translator": "RS Sharma",
+      "school": "Bhrigu",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Devakeralam",
+      "title": "Chandra Kala Naadi (Devakeralam)",
+      "author": "Naadi",
+      "school": "Naadi",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P2",
+      "notes": "Per-degree predictions"
+    },
+    {
+      "key": "Kalachakra_BPHS49",
+      "title": "Kalachakra Dasha — BPHS Ch.49 dedicated commentary",
+      "school": "Parashari",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Most-complex dasha system. Need standalone treatment."
+    },
+    {
+      "key": "Pancha_Siddhantika",
+      "title": "Pancha Siddhantika",
+      "author": "Varahamihira",
+      "translator": "GR Kaye",
+      "school": "Siddhanta (mathematical)",
+      "tier": "core",
+      "status": "have_gemma",
+      "size_bytes": 12920
+    },
+    {
+      "key": "Surya_Siddhanta",
+      "title": "Surya Siddhanta",
+      "translator": "Ebenezer Burgess",
+      "school": "Siddhanta",
+      "tier": "core",
+      "status": "have_gemma",
+      "size_bytes": 134623,
+      "rules_count": 32
+    },
+    {
+      "key": "Aryabhatiya_v1",
+      "title": "Aryabhatiya v1",
+      "author": "Aryabhata",
+      "school": "Siddhanta",
+      "tier": "core",
+      "status": "have_gemma",
+      "size_bytes": 64052
+    },
+    {
+      "key": "Aryabhatiya_v2",
+      "title": "Aryabhatiya v2",
+      "author": "Aryabhata",
+      "school": "Siddhanta",
+      "tier": "core",
+      "status": "have_gemma",
+      "size_bytes": 59006,
+      "rules_count": 16
+    },
+    {
+      "key": "Vedanga_Jyotisa",
+      "title": "Vedanga Jyotisa (Lagadha)",
+      "author": "Lagadha",
+      "school": "Vedic",
+      "tier": "core",
+      "status": "have_gemma",
+      "size_bytes": 19076,
+      "notes": "Oldest extant Vedic astronomy/astrology text"
+    },
+    {
+      "key": "Muhurtha_Chintamani",
+      "title": "Muhurtha Chintamani",
+      "author": "Rama Daivajna",
+      "translator": "BV Raman",
+      "school": "Muhurta",
+      "tier": "core",
+      "status": "have_gemma",
+      "size_bytes": 21923,
+      "rules_count": 13,
+      "notes": "Auspicious-timing engine reference"
+    },
+    {
+      "key": "Prashna_Marga",
+      "title": "Prashna Marga",
+      "translator": "BV Raman",
+      "school": "Kerala Prashna",
+      "tier": "core",
+      "status": "have_partial_gemma",
+      "size_bytes": 791,
+      "notes": "All chunks failed, retrying. Foundational for horary."
+    },
+    {
+      "key": "Mahaprashna",
+      "title": "Mahaprashna",
+      "school": "Kerala Prashna",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Krishneeyam",
+      "title": "Krishneeyam",
+      "school": "Kerala Prashna",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P1",
+      "notes": "Famous Kerala Prashna text"
+    },
+    {
+      "key": "Tajika_Sara",
+      "title": "Tajika Sara",
+      "school": "Tajik (annual horoscopy)",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Core for Varshaphala / Tajik yogas"
+    },
+    {
+      "key": "Tajika_Neelakanthi",
+      "title": "Tajika Neelakanthi",
+      "author": "Neelakantha",
+      "school": "Tajik",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0"
+    },
+    {
+      "key": "KP_Vol1",
+      "title": "Krishnamurti Padhdhati Vol 1",
+      "author": "K S Krishnamurti",
+      "school": "KP",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Foundational KP text"
+    },
+    {
+      "key": "KP_Vol2",
+      "title": "Krishnamurti Padhdhati Vol 2",
+      "author": "K S Krishnamurti",
+      "school": "KP",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0"
+    },
+    {
+      "key": "KP_Vol3",
+      "title": "Krishnamurti Padhdhati Vol 3",
+      "author": "K S Krishnamurti",
+      "school": "KP",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0"
+    },
+    {
+      "key": "KP_Vol4",
+      "title": "Krishnamurti Padhdhati Vol 4",
+      "author": "K S Krishnamurti",
+      "school": "KP",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "KP_Vol5",
+      "title": "Krishnamurti Padhdhati Vol 5",
+      "author": "K S Krishnamurti",
+      "school": "KP",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Lal_Kitab_Original",
+      "title": "Lal Kitab (original Urdu)",
+      "school": "Lal Kitab",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Different metaphysics — separate engine path needed"
+    },
+    {
+      "key": "Lal_Kitab_Hindi",
+      "title": "Lal Kitab (Hindi commentary)",
+      "school": "Lal Kitab",
+      "tier": "core",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Raman_HowToJudge_V1",
+      "title": "How to Judge a Horoscope Vol 1",
+      "author": "BV Raman",
+      "school": "Modern Parashari",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Modern master, methodology + case studies"
+    },
+    {
+      "key": "Raman_HowToJudge_V2",
+      "title": "How to Judge a Horoscope Vol 2",
+      "author": "BV Raman",
+      "school": "Modern Parashari",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P0"
+    },
+    {
+      "key": "Raman_300Combinations",
+      "title": "300 Important Combinations",
+      "author": "BV Raman",
+      "school": "Modern Parashari",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Cross-validates yogas with case studies"
+    },
+    {
+      "key": "Raman_Notable_Horoscopes",
+      "title": "Notable Horoscopes",
+      "author": "BV Raman",
+      "school": "Modern Parashari",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P0",
+      "notes": "Famous-charts library — Phase III feeder"
+    },
+    {
+      "key": "KNRao_Chara",
+      "title": "Predicting through Jaimini's Chara Dasha",
+      "author": "KN Rao",
+      "school": "Jaimini Modern",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P0"
+    },
+    {
+      "key": "KNRao_Yogis",
+      "title": "Yogis, Destiny and Wheel of Time",
+      "author": "KN Rao",
+      "school": "Modern",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Rath_Crux",
+      "title": "Crux of Vedic Astrology",
+      "author": "Sanjay Rath",
+      "school": "Modern Parashari",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P0"
+    },
+    {
+      "key": "Rath_Vimshottari_Yogini",
+      "title": "Vimshottari and Yogini Dashas",
+      "author": "Sanjay Rath",
+      "school": "Modern Parashari",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P1"
+    },
+    {
+      "key": "Frawley_Seers",
+      "title": "Astrology of the Seers",
+      "author": "David Frawley",
+      "school": "Western Vedic",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P2",
+      "notes": "Cross-cultural framing"
+    },
+    {
+      "key": "deFouw_LightOnLife",
+      "title": "Light on Life",
+      "author": "Hart de Fouw + Robert Svoboda",
+      "school": "Western Vedic",
+      "tier": "extended",
+      "status": "missing",
+      "priority": "P2"
+    },
+    {
+      "key": "Phaladeepika_Sastri",
+      "title": "Phaladeepika (Subrahmanya Sastri translation, 1937)",
+      "school": "Parashari",
+      "tier": "core",
+      "status": "have_gemma",
+      "notes": "Older translation. Cross-validation source.",
+      "author": "Mantreswara",
+      "translator": "Pandit V. Subrahmanya Sastri",
+      "authority_rank": 2
+    }
+  ],
+  "summary_by_status": {
+    "have_gemma_complete": 12,
+    "have_partial_gemma": 5,
+    "have_no_gemma_yet": 3,
+    "missing_pdfs": 27,
+    "total_target": 50
+  }
+}

@@ -1,0 +1,6 @@
+﻿age 12.02 dasha Venus Jupiter Saturn
+age12 None
+age18 {'event': 'Marriage / engagement / serious committed relationship', 'category': 'marriage', 'severity': 3, 'yoga': None, 'why': ['Venus MD', 'Jupiter AD (karaka)', 'ΓÜá D9 7L (Mars) in dusthana H6'], 'source': '7L + Venus + Jupiter timing + 3 classical gates (BPHS Ch. 80, Phaladeepika Ch. 13)'}
+  Venus MD
+  Jupiter AD (karaka)
+  ΓÜá D9 7L (Mars) in dusthana H6

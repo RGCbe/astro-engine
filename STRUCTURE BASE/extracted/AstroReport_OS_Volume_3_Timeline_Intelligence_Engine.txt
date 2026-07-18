@@ -1,0 +1,48 @@
+AstroReport OS Specification
+Volume 3 – Timeline Intelligence Engine (TIE)
+1. Purpose
+The Timeline Intelligence Engine is the heart of AstroReport OS. Its job is to transform raw
+astrological timing into a continuous human life story rather than a collection of disconnected
+predictions.
+2. Philosophy
+People experience life through events, emotions and growth—not through planetary names. The
+report must follow the human experience while astrology remains the hidden explanation.
+3. Timeline Layers
+Five synchronized layers operate together: (1) Chronological Age, (2) Astrological Time
+(Mahadasha/Bhukti/Transits), (3) Life Stage, (4) Experience Timeline, and (5) Growth Timeline.
+4. Timeline Synchronization
+A new chapter begins only when there is a meaningful change: a new Mahadasha, Bhukti, major
+transit, major life stage, or significant astrological activation.
+5. Chapter Creation Rules
+Chapters are based on meaningful life transitions rather than arbitrary dates. If nothing significant
+changes, the current chapter continues.
+6. Life Stage Engine
+Every age belongs to a primary life stage such as infancy, childhood, education, career building,
+family life, leadership, retirement or legacy. These stages adapt to the individual's chart.
+7. Experience Engine
+Every chapter answers one question: 'What is life asking from this person now?' The focus is on
+growth rather than prediction.
+8. Domain Priority Engine
+Each chapter assigns priority to life domains such as family, education, career, wealth and
+relationships. Important domains receive more narrative space.
+9. Experience Progression
+Each chapter follows a storytelling rhythm: Beginning → Adjustment → Growth → Challenge →
+Learning → Transformation → Preparation → Transition.
+10. Timeline Memory
+The report remembers earlier chapters and shows how early experiences become later strengths,
+responsibilities and life lessons.
+11. Timeline Connections
+Each chapter references previous and future chapters so the report feels like one continuous
+biography.
+12. Chapter Ending Rules
+Every chapter concludes with: What changed? What remains? What was learned? What begins
+next?
+13. Timeline Integrity Rules
+Do not discuss life topics before they naturally become relevant. Let life unfold in chronological
+order.
+14. Timeline Completion Checklist
+Verify that every Mahadasha, Bhukti, life stage, major transition and important life domain has been
+covered and connected.
+15. Mission Statement
+The Timeline Intelligence Engine transforms astrology into a complete life biography where the
+reader experiences a coherent journey from birth to legacy.

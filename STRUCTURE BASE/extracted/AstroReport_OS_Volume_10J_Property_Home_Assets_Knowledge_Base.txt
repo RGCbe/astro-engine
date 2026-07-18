@@ -1,0 +1,65 @@
+AstroReport OS Specification
+Volume 10J – Property, Home, Vehicles & Material
+Assets Knowledge Base
+Purpose
+Define structured question records for property ownership, homes, vehicles and material assets.
+These records help the report engine describe how material stability develops through the life
+timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0091
+Will owning a home become an important life goal?Property
+Adult
+Timeline
+Q0092
+What type of property suits me?
+Property
+Adult
+Timeline
+Q0093
+How do I build long-term property wealth?
+Property
+Whole Life
+Summary
+Q0094
+When should I focus on buying property?
+Property
+Adult
+Timeline
+Q0095
+How does my home environment affect me?
+Home
+Whole Life
+Timeline
+Q0096
+Should I relocate for better opportunities?
+Relocation
+Adult
+Timeline
+Q0097
+How do vehicles influence my lifestyle?
+Assets
+Adult
+Timeline
+Q0098
+What material assets become important?
+Assets
+Adult
+Timeline
+Q0099
+How should I manage and protect my assets?
+Finance
+Whole Life
+Summary
+Q0100
+How do material assets support my life purpose? Purpose
+Whole Life
+Legacy
+Implementation Rules
+Property topics should evolve from aspiration to acquisition, management and legacy. Discuss
+practical planning, timing and responsibility instead of making guaranteed predictions.
+Next Volume
+Volume 10K – Travel, Relocation & Foreign Opportunities Knowledge Base.

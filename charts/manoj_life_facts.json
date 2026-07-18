@@ -1,0 +1,67 @@
+{
+  "client": "Manoj Kumar",
+  "chart_file": "manoj_chart.json",
+  "updated": "2026-06-02",
+  "notes": "Life facts from client chat - used to confirm engine predictions.",
+  "facts": {
+    "education": {
+      "completed_12th": true,
+      "completed_ug": true,
+      "completed_pg": false,
+      "highest_level": "UG civil engineering",
+      "field": "civil engineering",
+      "year_12th": null,
+      "year_ug": null
+    },
+    "career": {
+      "field_actual": "civil engineering / construction",
+      "employer_count": 7,
+      "positions": [
+        "site engineer (~6 months, Tiruppur)",
+        "assistant draftsman (~1.5 years, Tiruppur)",
+        "site engineer (~2 years, Tiruppur)",
+        "dairy business (~2 years, Tiruppur)",
+        "draftsman (Coimbatore, after ~2-2.5 years in Tiruppur)"
+      ],
+      "locations": ["Tiruppur", "Coimbatore"],
+      "notes": "Multiple role changes; client estimates ~6-7 job/position changes overall."
+    },
+    "health": {
+      "major_accident": false,
+      "accident_years": [],
+      "major_illness": true,
+      "illness_years": [2022],
+      "surgery": true,
+      "surgery_notes": "Appendix surgery (year not exact - client said 'around 6 or 7', unclear if age or year)",
+      "appendix_surgery_year_approx": null,
+      "diabetes_from_year": 2022
+    },
+    "marriage": {
+      "status": "unmarried",
+      "marriage_date": null,
+      "engagement_date": null
+    },
+    "siblings": {
+      "count": 1,
+      "elder_brothers": 0,
+      "elder_sisters": 0,
+      "younger_brothers": 0,
+      "younger_sisters": 1,
+      "younger_sister_birth_year": 1999
+    }
+  },
+  "known_events": [
+    {
+      "date": "1999-06-15",
+      "event": "Younger sister born (approx mid-1999)"
+    },
+    {
+      "date": "2018-06-15",
+      "event": "Completed civil engineering UG (approx - typical age 22 if 2018)"
+    },
+    {
+      "date": "2022-06-15",
+      "event": "Diabetes diagnosis / chronic illness"
+    }
+  ]
+}

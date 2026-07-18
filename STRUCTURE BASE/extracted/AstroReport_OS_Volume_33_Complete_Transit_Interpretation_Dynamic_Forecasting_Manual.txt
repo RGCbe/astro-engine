@@ -1,0 +1,52 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 33 – Complete Transit Interpretation &
+Dynamic Forecasting Manual
+Purpose
+This manual defines how current planetary transits are combined with the natal chart, divisional
+charts and Dasha periods to generate dynamic forecasts and continuously updated timeline
+reports.
+Component
+Purpose
+Output
+Transit Engine
+Current planetary positions
+Transit dataset
+Natal Comparison
+Transit to natal interaction
+Active influences
+House Activation
+Transit through houses
+Life-domain effects
+Dasha Integration
+Combine with active periods
+Timing refinement
+Event Trigger
+Detect activation windows
+Potential events
+Forecast Engine
+Generate outlook
+Daily/Monthly/Yearly
+Confidence Layer
+Weight evidence
+Forecast confidence
+Timeline Update
+Refresh life story
+Dynamic timeline
+Validation
+Consistency checks
+Approved forecast
+Forecast Workflow
+Collect current transits, compare them with the natal chart, confirm using Dasha periods, evaluate
+supporting evidence, estimate confidence, generate timeline updates and validate the final forecast.
+Supported Forecasts
+Daily trends, weekly highlights, monthly themes, yearly outlooks, important activation windows,
+opportunity periods and periods requiring additional attention.
+Developer Specification
+Store transit objects, ephemeris references, affected houses, related natal planets, activation
+scores, confidence values, forecast templates, update intervals and audit history.
+Quality Standards
+Use multiple indicators before describing a forecast. Clearly communicate confidence levels and
+avoid presenting uncertain outcomes as guaranteed.
+Next Volume
+Volume 34 – Complete Jaimini Integration & Advanced Predictive Techniques Manual.

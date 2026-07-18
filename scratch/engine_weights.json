@@ -1,0 +1,13 @@
+{
+    "h_lord_md": 3.0,
+    "h_lord_ad": 2.0,
+    "h_lord_pd": 1.0,
+    "karaka_md": 2.0,
+    "karaka_ad": 1.5,
+    "karaka_pd": 0.5,
+    "karaka_auspicious": 1.0,
+    "karaka_dusthana": 1.5,
+    "transit_trigger": 1.5,
+    "threshold_auspicious": 4.0,
+    "threshold_inauspicious": 2.75
+}

@@ -1,0 +1,175 @@
+{
+  "name": "Narendra Modi",
+  "birth": {
+    "year": 1950,
+    "month": 9,
+    "day": 17,
+    "hour": 11,
+    "min": 0,
+    "lat": 23.7936,
+    "lon": 72.6376,
+    "place": "Vadnagar, Gujarat, India",
+    "tz": 5.5,
+    "weekday": "Sunday"
+  },
+  "lagna": "Scorpio",
+  "lagna_idx": 7,
+  "lagna_deg": 1.2469,
+  "lagna_lord": "Mars",
+  "ayanamsa": 23.168637,
+  "positions": {
+    "Sun": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 0.5917,
+      "lon_abs": 150.5917,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.9758,
+      "house": 11
+    },
+    "Moon": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 8.8079,
+      "lon_abs": 218.8079,
+      "nak": "Anuradha",
+      "nak_idx": 16,
+      "nak_lord": "Saturn",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 14.3734,
+      "house": 1
+    },
+    "Mars": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 0.9297,
+      "lon_abs": 210.9297,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.6793,
+      "house": 1
+    },
+    "Mercury": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 0.7847,
+      "lon_abs": 150.7847,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -1.0464,
+      "house": 11
+    },
+    "Jupiter": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 6.5948,
+      "lon_abs": 306.5948,
+      "nak": "Dhanishta",
+      "nak_idx": 22,
+      "nak_lord": "Mars",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.109,
+      "house": 4
+    },
+    "Venus": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 15.6873,
+      "lon_abs": 135.6873,
+      "nak": "Purva Phalguni",
+      "nak_idx": 10,
+      "nak_lord": "Venus",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.2385,
+      "house": 10
+    },
+    "Saturn": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 29.6514,
+      "lon_abs": 149.6514,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.1249,
+      "house": 10
+    },
+    "Rahu": {
+      "rasi": "Pisces",
+      "rasi_idx": 11,
+      "deg": 5.2174,
+      "lon_abs": 335.2174,
+      "nak": "Uttara Bhadrapada",
+      "nak_idx": 25,
+      "nak_lord": "Saturn",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 5
+    },
+    "Ketu": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 5.2174,
+      "lon_abs": 155.2174,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 11
+    }
+  },
+  "janma_nakshatra": "Anuradha",
+  "janma_nakshatra_lord": "Saturn",
+  "moon_rasi": "Scorpio",
+  "moon_pada": 2,
+  "rodden_rating": "DD",
+  "birth_time_note": "Birth time disputed: 11:00 AM (AstroDatabank) vs 9:35 AM (elder brother Amrit Modi, 2014)",
+  "known_events": [
+    {
+      "date": "2001-10-07",
+      "event": "Sworn in as Chief Minister of Gujarat (first term)"
+    },
+    {
+      "date": "2002-02-27",
+      "event": "Godhra train burning \u2014 Gujarat communal riots followed under his CM tenure"
+    },
+    {
+      "date": "2002-12-22",
+      "event": "Re-elected as Gujarat CM \u2014 BJP won 127/182 seats"
+    },
+    {
+      "date": "2014-05-26",
+      "event": "Sworn in as 14th Prime Minister of India \u2014 BJP won 282/543 seats"
+    },
+    {
+      "date": "2016-11-08",
+      "event": "Announced demonetisation of Rs 500 and Rs 1000 notes at 8:15 PM"
+    },
+    {
+      "date": "2019-05-30",
+      "event": "Sworn in for second PM term \u2014 BJP won 303/543 seats"
+    },
+    {
+      "date": "2024-06-09",
+      "event": "Sworn in for third PM term heading NDA coalition (BJP won 240 seats)"
+    }
+  ]
+}

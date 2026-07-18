@@ -1,0 +1,48 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 16 – Complete Planet Interpretation Manual
+Purpose
+This manual defines the interpretation framework for every planet. It standardizes how planetary
+meaning is converted into timeline-aware, reader-friendly report content.
+Planet
+Core Theme
+Primary Life Areas
+Sun
+Identity & Purpose
+Leadership, confidence, recognition
+Moon
+Mind & Emotions
+Feelings, habits, family
+Mars
+Action
+Courage, energy, competition
+Mercury
+Learning
+Communication, business, intellect
+Jupiter
+Growth
+Wisdom, education, prosperity
+Venus
+Harmony
+Love, art, comfort, relationships
+Saturn
+Responsibility
+Discipline, delays, maturity
+Rahu
+Expansion
+Innovation, ambition, foreign influences
+Ketu
+Detachment
+Insight, spirituality, inner growth
+Interpretation Framework
+Interpret each planet using the same sequence: natural meaning → house placement → sign
+placement → dignity → house lordship → aspects → conjunctions → yogas → divisional chart
+confirmation → Dasha activation → timeline impact.
+Narrative Rules
+Describe how the planetary energy is experienced in everyday life before explaining the astrological
+reasoning. Use clear language suitable for general readers.
+Developer Specification
+For every planet maintain: keywords, strengths, weaknesses, life domains, timeline triggers, related
+questions, report templates, confidence modifiers and validation rules.
+Roadmap
+Subsequent implementation manuals will expand each planet into detailed rules, examples and
+report templates.

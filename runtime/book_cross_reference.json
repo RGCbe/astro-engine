@@ -1,0 +1,1818 @@
+{
+ "kp_paddhati": {
+  "total_passages": 3399,
+  "books_covering": 37,
+  "top_sources": [
+   [
+    "Yavanajataka_2",
+    553
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    359
+   ],
+   [
+    "KP_Reader_6_Horary",
+    240
+   ],
+   [
+    "Brihat_Parashara_v2",
+    225
+   ],
+   [
+    "BPHS2",
+    183
+   ]
+  ]
+ },
+ "moon": {
+  "total_passages": 5702,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    517
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    458
+   ],
+   [
+    "Yavanajataka_2",
+    425
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    393
+   ],
+   [
+    "Raman_HowToJudge",
+    367
+   ]
+  ]
+ },
+ "career": {
+  "total_passages": 1250,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    237
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    159
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    122
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    116
+   ],
+   [
+    "Brihat_Parashara_v2",
+    108
+   ]
+  ]
+ },
+ "wealth": {
+  "total_passages": 3443,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    509
+   ],
+   [
+    "Yavanajataka_2",
+    306
+   ],
+   [
+    "Raman_HowToJudge",
+    261
+   ],
+   [
+    "Saravali",
+    261
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    250
+   ]
+  ]
+ },
+ "education": {
+  "total_passages": 1799,
+  "books_covering": 32,
+  "top_sources": [
+   [
+    "Yavanajataka_2",
+    213
+   ],
+   [
+    "Brihat_Parashara_v2",
+    162
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    148
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    141
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    126
+   ]
+  ]
+ },
+ "remedies": {
+  "total_passages": 1717,
+  "books_covering": 36,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    279
+   ],
+   [
+    "BPHS2",
+    174
+   ],
+   [
+    "Yavanajataka_2",
+    166
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    130
+   ],
+   [
+    "Saravali",
+    112
+   ]
+  ]
+ },
+ "conjunction": {
+  "total_passages": 1733,
+  "books_covering": 29,
+  "top_sources": [
+   [
+    "Surya_Siddhanta",
+    186
+   ],
+   [
+    "Brihat_Parashara_v2",
+    180
+   ],
+   [
+    "surya_siddhanta_english_text",
+    178
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    134
+   ],
+   [
+    "BPHS1",
+    130
+   ]
+  ]
+ },
+ "death": {
+  "total_passages": 2237,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    280
+   ],
+   [
+    "Raman_HowToJudge",
+    203
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    195
+   ],
+   [
+    "BPHS2",
+    158
+   ],
+   [
+    "Phaladeepika",
+    125
+   ]
+  ]
+ },
+ "sun": {
+  "total_passages": 6010,
+  "books_covering": 35,
+  "top_sources": [
+   [
+    "surya_siddhanta_english_text",
+    576
+   ],
+   [
+    "Surya_Siddhanta",
+    567
+   ],
+   [
+    "Brihat_Parashara_v2",
+    489
+   ],
+   [
+    "Yavanajataka_2",
+    408
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    393
+   ]
+  ]
+ },
+ "property": {
+  "total_passages": 5487,
+  "books_covering": 34,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    639
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    526
+   ],
+   [
+    "Raman_HowToJudge",
+    470
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    349
+   ],
+   [
+    "KP_Reader_6_Horary",
+    321
+   ]
+  ]
+ },
+ "speech": {
+  "total_passages": 844,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Yavanajataka_2",
+    139
+   ],
+   [
+    "Raman_HowToJudge",
+    67
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    62
+   ],
+   [
+    "Brihat_Parashara_v2",
+    55
+   ],
+   [
+    "Phaladeepika",
+    53
+   ]
+  ]
+ },
+ "dasha": {
+  "total_passages": 2659,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    439
+   ],
+   [
+    "BPHS2",
+    323
+   ],
+   [
+    "Raman_HowToJudge",
+    316
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    291
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    259
+   ]
+  ]
+ },
+ "fame": {
+  "total_passages": 1331,
+  "books_covering": 30,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    205
+   ],
+   [
+    "Yavanajataka_2",
+    205
+   ],
+   [
+    "Saravali",
+    102
+   ],
+   [
+    "BPHS2",
+    100
+   ],
+   [
+    "BPHS1",
+    83
+   ]
+  ]
+ },
+ "children": {
+  "total_passages": 2153,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    316
+   ],
+   [
+    "BPHS2",
+    158
+   ],
+   [
+    "Prashna_Marga",
+    157
+   ],
+   [
+    "Phaladeepika",
+    154
+   ],
+   [
+    "Saravali",
+    150
+   ]
+  ]
+ },
+ "marriage": {
+  "total_passages": 5090,
+  "books_covering": 32,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    618
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    439
+   ],
+   [
+    "Yavanajataka_2",
+    423
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    390
+   ],
+   [
+    "Raman_HowToJudge",
+    382
+   ]
+  ]
+ },
+ "saturn": {
+  "total_passages": 4384,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    484
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    433
+   ],
+   [
+    "Raman_HowToJudge",
+    377
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    371
+   ],
+   [
+    "Yavanajataka_2",
+    364
+   ]
+  ]
+ },
+ "jupiter": {
+  "total_passages": 4424,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    458
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    450
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    378
+   ],
+   [
+    "Yavanajataka_2",
+    374
+   ],
+   [
+    "Raman_HowToJudge",
+    357
+   ]
+  ]
+ },
+ "mars": {
+  "total_passages": 4277,
+  "books_covering": 31,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    437
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    406
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    383
+   ],
+   [
+    "Raman_HowToJudge",
+    371
+   ],
+   [
+    "Yavanajataka_2",
+    360
+   ]
+  ]
+ },
+ "venus": {
+  "total_passages": 4062,
+  "books_covering": 32,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    424
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    369
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    362
+   ],
+   [
+    "Yavanajataka_2",
+    357
+   ],
+   [
+    "Raman_HowToJudge",
+    334
+   ]
+  ]
+ },
+ "mercury": {
+  "total_passages": 3849,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    392
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    379
+   ],
+   [
+    "Yavanajataka_2",
+    340
+   ],
+   [
+    "Raman_HowToJudge",
+    323
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    322
+   ]
+  ]
+ },
+ "aspect": {
+  "total_passages": 2984,
+  "books_covering": 30,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    397
+   ],
+   [
+    "Raman_HowToJudge",
+    367
+   ],
+   [
+    "Brihat_Parashara_v2",
+    264
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    192
+   ],
+   [
+    "Saravali",
+    191
+   ]
+  ]
+ },
+ "spirituality": {
+  "total_passages": 1739,
+  "books_covering": 30,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    177
+   ],
+   [
+    "Yavanajataka_2",
+    176
+   ],
+   [
+    "Raman_HowToJudge",
+    167
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    145
+   ],
+   [
+    "Brihat_Parashara_v2",
+    142
+   ]
+  ]
+ },
+ "solar_yoga": {
+  "total_passages": 197,
+  "books_covering": 22,
+  "top_sources": [
+   [
+    "Yavanajataka_2",
+    32
+   ],
+   [
+    "Yavanajataka_1",
+    21
+   ],
+   [
+    "Surya_Siddhanta",
+    17
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    15
+   ],
+   [
+    "surya_siddhanta_english_text",
+    15
+   ]
+  ]
+ },
+ "father": {
+  "total_passages": 1542,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    202
+   ],
+   [
+    "Brihat_Parashara_v2",
+    155
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    107
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    104
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    103
+   ]
+  ]
+ },
+ "travel": {
+  "total_passages": 1606,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    249
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    196
+   ],
+   [
+    "Brihat_Parashara_v2",
+    153
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    151
+   ],
+   [
+    "Yavanajataka_2",
+    129
+   ]
+  ]
+ },
+ "health": {
+  "total_passages": 2736,
+  "books_covering": 30,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    337
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    285
+   ],
+   [
+    "Yavanajataka_2",
+    226
+   ],
+   [
+    "Raman_HowToJudge",
+    219
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    205
+   ]
+  ]
+ },
+ "mother": {
+  "total_passages": 1304,
+  "books_covering": 33,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    130
+   ],
+   [
+    "Saravali",
+    113
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    106
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    102
+   ],
+   [
+    "Raman_HowToJudge",
+    94
+   ]
+  ]
+ },
+ "siblings": {
+  "total_passages": 1216,
+  "books_covering": 26,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    163
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    138
+   ],
+   [
+    "Brihat_Parashara_v2",
+    126
+   ],
+   [
+    "KP_Reader_6_Horary",
+    97
+   ],
+   [
+    "Phaladeepika",
+    86
+   ]
+  ]
+ },
+ "panch_mahapurusha": {
+  "total_passages": 469,
+  "books_covering": 29,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    77
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    48
+   ],
+   [
+    "BPHS2",
+    36
+   ],
+   [
+    "Prashna_Marga",
+    35
+   ],
+   [
+    "Yavanajataka_2",
+    35
+   ]
+  ]
+ },
+ "enemies": {
+  "total_passages": 1541,
+  "books_covering": 30,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    195
+   ],
+   [
+    "Yavanajataka_2",
+    177
+   ],
+   [
+    "Raman_HowToJudge",
+    116
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    91
+   ],
+   [
+    "Phaladeepika",
+    88
+   ]
+  ]
+ },
+ "muhurta": {
+  "total_passages": 138,
+  "books_covering": 20,
+  "top_sources": [
+   [
+    "Yavanajataka_2",
+    33
+   ],
+   [
+    "Prashna_Marga",
+    24
+   ],
+   [
+    "Brihat_Parashara_v2",
+    13
+   ],
+   [
+    "BPHS1",
+    10
+   ],
+   [
+    "Uttara_Kalamrita",
+    10
+   ]
+  ]
+ },
+ "transit": {
+  "total_passages": 674,
+  "books_covering": 27,
+  "top_sources": [
+   [
+    "KP_Reader_3_Predictive",
+    129
+   ],
+   [
+    "Phaladeepika",
+    96
+   ],
+   [
+    "Prashna_Marga",
+    79
+   ],
+   [
+    "KP_Reader_6_Horary",
+    71
+   ],
+   [
+    "Yavanajataka_2",
+    68
+   ]
+  ]
+ },
+ "ashtakavarga": {
+  "total_passages": 334,
+  "books_covering": 19,
+  "top_sources": [
+   [
+    "Prashna_Marga",
+    69
+   ],
+   [
+    "Brihat_Parashara_v2",
+    66
+   ],
+   [
+    "BPHS2",
+    61
+   ],
+   [
+    "Phaladeepika",
+    45
+   ],
+   [
+    "Hora_Sara",
+    24
+   ]
+  ]
+ },
+ "jaimini": {
+  "total_passages": 290,
+  "books_covering": 15,
+  "top_sources": [
+   [
+    "Jaimini_Sutras",
+    199
+   ],
+   [
+    "Brihat_Parashara_v2",
+    26
+   ],
+   [
+    "BPHS1",
+    23
+   ],
+   [
+    "Uttara_Kalamrita",
+    10
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    9
+   ]
+  ]
+ },
+ "dhana_yoga": {
+  "total_passages": 69,
+  "books_covering": 8,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    39
+   ],
+   [
+    "Raman_HowToJudge",
+    14
+   ],
+   [
+    "Brihat_Parashara_v2",
+    5
+   ],
+   [
+    "Bhavartha_Ratnakara_Raman",
+    3
+   ],
+   [
+    "BPHS1",
+    3
+   ]
+  ]
+ },
+ "raja_yoga": {
+  "total_passages": 191,
+  "books_covering": 18,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    48
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    33
+   ],
+   [
+    "BPHS1",
+    22
+   ],
+   [
+    "Saravali",
+    22
+   ],
+   [
+    "Uttara_Kalamrita",
+    16
+   ]
+  ]
+ },
+ "rahu": {
+  "total_passages": 2221,
+  "books_covering": 27,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    317
+   ],
+   [
+    "Brihat_Parashara_v2",
+    288
+   ],
+   [
+    "Raman_HowToJudge",
+    244
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    243
+   ],
+   [
+    "KP_Reader_6_Horary",
+    184
+   ]
+  ]
+ },
+ "ketu": {
+  "total_passages": 1298,
+  "books_covering": 25,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    219
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    216
+   ],
+   [
+    "Raman_HowToJudge",
+    161
+   ],
+   [
+    "BPHS2",
+    123
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    85
+   ]
+  ]
+ },
+ "neecha_bhanga": {
+  "total_passages": 135,
+  "books_covering": 12,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    74
+   ],
+   [
+    "Raman_HowToJudge",
+    46
+   ],
+   [
+    "Saravali",
+    4
+   ],
+   [
+    "Bhavartha_Ratnakara_Raman",
+    2
+   ],
+   [
+    "BPHS_Sharma_Vol1",
+    2
+   ]
+  ]
+ },
+ "nabhasa": {
+  "total_passages": 84,
+  "books_covering": 11,
+  "top_sources": [
+   [
+    "Saravali",
+    23
+   ],
+   [
+    "Brihat_Parashara_v2",
+    17
+   ],
+   [
+    "BPHS1",
+    12
+   ],
+   [
+    "Hora_Sara",
+    7
+   ],
+   [
+    "Laghu_Parashari",
+    6
+   ]
+  ]
+ },
+ "navamsa_d9": {
+  "total_passages": 1319,
+  "books_covering": 24,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    264
+   ],
+   [
+    "Raman_HowToJudge",
+    236
+   ],
+   [
+    "Brihat_Parashara_v2",
+    130
+   ],
+   [
+    "Prashna_Marga",
+    117
+   ],
+   [
+    "Hora_Sara",
+    100
+   ]
+  ]
+ },
+ "bhratrukaraka": {
+  "total_passages": 18,
+  "books_covering": 6,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    9
+   ],
+   [
+    "Jaimini_Sutras",
+    3
+   ],
+   [
+    "BPHS1",
+    2
+   ],
+   [
+    "Brihat_Parashara_v2",
+    2
+   ],
+   [
+    "Bhavartha_Ratnakara_Raman",
+    1
+   ]
+  ]
+ },
+ "gaja_kesari": {
+  "total_passages": 47,
+  "books_covering": 6,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    28
+   ],
+   [
+    "Brihat_Parashara_v2",
+    6
+   ],
+   [
+    "BPHS1",
+    5
+   ],
+   [
+    "Raman_HowToJudge",
+    5
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    2
+   ]
+  ]
+ },
+ "vimshottari": {
+  "total_passages": 182,
+  "books_covering": 13,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    71
+   ],
+   [
+    "BPHS2",
+    58
+   ],
+   [
+    "Laghu_Parashari",
+    28
+   ],
+   [
+    "Hora_Sara",
+    7
+   ],
+   [
+    "Raman_HowToJudge",
+    5
+   ]
+  ]
+ },
+ "dashamsa_d10": {
+  "total_passages": 143,
+  "books_covering": 18,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    26
+   ],
+   [
+    "Prashna_Marga",
+    23
+   ],
+   [
+    "BPHS1",
+    21
+   ],
+   [
+    "Phaladeepika",
+    19
+   ],
+   [
+    "Saravali",
+    9
+   ]
+  ]
+ },
+ "shashtiamsa_d60": {
+  "total_passages": 62,
+  "books_covering": 8,
+  "top_sources": [
+   [
+    "BPHS1",
+    17
+   ],
+   [
+    "Brihat_Parashara_v2",
+    16
+   ],
+   [
+    "Raman_HowToJudge",
+    8
+   ],
+   [
+    "Saravali",
+    6
+   ],
+   [
+    "Phaladeepika",
+    5
+   ]
+  ]
+ },
+ "drekkana_d3": {
+  "total_passages": 301,
+  "books_covering": 21,
+  "top_sources": [
+   [
+    "Phaladeepika",
+    41
+   ],
+   [
+    "Brihat_Parashara_v2",
+    40
+   ],
+   [
+    "BPHS1",
+    34
+   ],
+   [
+    "Saravali",
+    32
+   ],
+   [
+    "Prashna_Marga",
+    29
+   ]
+  ]
+ },
+ "trimsamsa_d30": {
+  "total_passages": 97,
+  "books_covering": 16,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    24
+   ],
+   [
+    "BPHS1",
+    18
+   ],
+   [
+    "Phaladeepika",
+    14
+   ],
+   [
+    "Hora_Sara",
+    7
+   ],
+   [
+    "BPHS2",
+    6
+   ]
+  ]
+ },
+ "shodasamsa_d16": {
+  "total_passages": 14,
+  "books_covering": 5,
+  "top_sources": [
+   [
+    "BPHS1",
+    7
+   ],
+   [
+    "Brihat_Parashara_v2",
+    2
+   ],
+   [
+    "Phaladeepika",
+    2
+   ],
+   [
+    "Saravali",
+    2
+   ],
+   [
+    "BPHS_Sharma_Vol1",
+    1
+   ]
+  ]
+ },
+ "atmakaraka": {
+  "total_passages": 172,
+  "books_covering": 7,
+  "top_sources": [
+   [
+    "Jaimini_Sutras",
+    49
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    43
+   ],
+   [
+    "Brihat_Parashara_v2",
+    33
+   ],
+   [
+    "BPHS1",
+    25
+   ],
+   [
+    "Raman_HowToJudge",
+    15
+   ]
+  ]
+ },
+ "kemadruma": {
+  "total_passages": 36,
+  "books_covering": 10,
+  "top_sources": [
+   [
+    "Hora_Sara",
+    6
+   ],
+   [
+    "Saravali",
+    6
+   ],
+   [
+    "Yavanajataka_2",
+    6
+   ],
+   [
+    "Brihat_Parashara_v2",
+    4
+   ],
+   [
+    "Jaimini_Sutras",
+    4
+   ]
+  ]
+ },
+ "lunar_yoga": {
+  "total_passages": 128,
+  "books_covering": 17,
+  "top_sources": [
+   [
+    "Yavanajataka_2",
+    22
+   ],
+   [
+    "Saravali",
+    19
+   ],
+   [
+    "Brihat_Parashara_v2",
+    14
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    13
+   ],
+   [
+    "Hora_Sara",
+    11
+   ]
+  ]
+ },
+ "saraswati_yoga": {
+  "total_passages": 17,
+  "books_covering": 9,
+  "top_sources": [
+   [
+    "Phaladeepika",
+    4
+   ],
+   [
+    "Laghu_Parashari",
+    3
+   ],
+   [
+    "BPHS1",
+    2
+   ],
+   [
+    "BPHS2",
+    2
+   ],
+   [
+    "Brihat_Parashara_v2",
+    2
+   ]
+  ]
+ },
+ "lagna_lord": {
+  "total_passages": 628,
+  "books_covering": 14,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    172
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    106
+   ],
+   [
+    "Brihat_Parashara_v2",
+    89
+   ],
+   [
+    "Tajik_Adawal_Encyclopedia",
+    85
+   ],
+   [
+    "BPHS1",
+    60
+   ]
+  ]
+ },
+ "prashna": {
+  "total_passages": 199,
+  "books_covering": 14,
+  "top_sources": [
+   [
+    "KP_Reader_6_Horary",
+    81
+   ],
+   [
+    "Tajik_Adawal_Encyclopedia",
+    38
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    23
+   ],
+   [
+    "Prashna_Marga",
+    16
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    10
+   ]
+  ]
+ },
+ "budha_aditya": {
+  "total_passages": 20,
+  "books_covering": 7,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    6
+   ],
+   [
+    "Brihat_Parashara_v2",
+    4
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    3
+   ],
+   [
+    "Saravali",
+    3
+   ],
+   [
+    "BPHS2",
+    2
+   ]
+  ]
+ },
+ "dwadasamsa_d12": {
+  "total_passages": 77,
+  "books_covering": 17,
+  "top_sources": [
+   [
+    "Prashna_Marga",
+    23
+   ],
+   [
+    "Phaladeepika",
+    14
+   ],
+   [
+    "Hora_Sara",
+    7
+   ],
+   [
+    "BPHS2",
+    4
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    4
+   ]
+  ]
+ },
+ "saptamsa_d7": {
+  "total_passages": 21,
+  "books_covering": 10,
+  "top_sources": [
+   [
+    "Phaladeepika",
+    6
+   ],
+   [
+    "Raman_AstrologyForBeginners",
+    3
+   ],
+   [
+    "Tajik_Adawal_Encyclopedia",
+    3
+   ],
+   [
+    "Brihat_Parashara_v2",
+    2
+   ],
+   [
+    "Uttara_Kalamrita",
+    2
+   ]
+  ]
+ },
+ "matrukaraka": {
+  "total_passages": 37,
+  "books_covering": 6,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    25
+   ],
+   [
+    "BPHS1",
+    4
+   ],
+   [
+    "Jaimini_Sutras",
+    4
+   ],
+   [
+    "Brihat_Parashara_v2",
+    2
+   ],
+   [
+    "Hora_Sara",
+    1
+   ]
+  ]
+ },
+ "vipareeta": {
+  "total_passages": 36,
+  "books_covering": 11,
+  "top_sources": [
+   [
+    "Jaimini_Sutras",
+    7
+   ],
+   [
+    "Prashna_Marga",
+    6
+   ],
+   [
+    "Raman_HowToJudge",
+    6
+   ],
+   [
+    "BPHS1",
+    3
+   ],
+   [
+    "Phaladeepika",
+    3
+   ]
+  ]
+ },
+ "amatyakaraka": {
+  "total_passages": 24,
+  "books_covering": 5,
+  "top_sources": [
+   [
+    "BPHS1",
+    8
+   ],
+   [
+    "Brihat_Parashara_v2",
+    7
+   ],
+   [
+    "Jaimini_Sutras",
+    7
+   ],
+   [
+    "BPHS2",
+    1
+   ],
+   [
+    "Uttara_Kalamrita",
+    1
+   ]
+  ]
+ },
+ "putrakaraka": {
+  "total_passages": 54,
+  "books_covering": 8,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    23
+   ],
+   [
+    "Brihat_Parashara_v2",
+    9
+   ],
+   [
+    "BPHS1",
+    8
+   ],
+   [
+    "Jaimini_Sutras",
+    8
+   ],
+   [
+    "Raman_AstrologyForBeginners",
+    3
+   ]
+  ]
+ },
+ "gnatikaraka": {
+  "total_passages": 6,
+  "books_covering": 4,
+  "top_sources": [
+   [
+    "BPHS1",
+    2
+   ],
+   [
+    "Brihat_Parashara_v2",
+    2
+   ],
+   [
+    "Jaimini_Sutras",
+    1
+   ],
+   [
+    "Raman_Notable_Horoscopes",
+    1
+   ]
+  ]
+ },
+ "darakaraka": {
+  "total_passages": 3,
+  "books_covering": 3,
+  "top_sources": [
+   [
+    "BPHS1",
+    1
+   ],
+   [
+    "Brihat_Parashara_v2",
+    1
+   ],
+   [
+    "Jaimini_Sutras",
+    1
+   ]
+  ]
+ },
+ "amala_yoga": {
+  "total_passages": 14,
+  "books_covering": 4,
+  "top_sources": [
+   [
+    "Raman_Notable_Horoscopes",
+    5
+   ],
+   [
+    "BPHS1",
+    4
+   ],
+   [
+    "Brihat_Parashara_v2",
+    3
+   ],
+   [
+    "Saravali",
+    2
+   ]
+  ]
+ },
+ "kalachakra_dasha": {
+  "total_passages": 67,
+  "books_covering": 9,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    24
+   ],
+   [
+    "BPHS2",
+    21
+   ],
+   [
+    "Phaladeepika",
+    12
+   ],
+   [
+    "Laghu_Parashari",
+    3
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    2
+   ]
+  ]
+ },
+ "shapit_yoga": {
+  "total_passages": 69,
+  "books_covering": 11,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    20
+   ],
+   [
+    "BPHS2",
+    15
+   ],
+   [
+    "Prashna_Marga",
+    11
+   ],
+   [
+    "Phaladeepika",
+    9
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    6
+   ]
+  ]
+ },
+ "yogini_dasha": {
+  "total_passages": 8,
+  "books_covering": 3,
+  "top_sources": [
+   [
+    "Tajik_Adawal_Encyclopedia",
+    4
+   ],
+   [
+    "Brihat_Parashara_v2",
+    3
+   ],
+   [
+    "BPHS2",
+    1
+   ]
+  ]
+ },
+ "chara_dasha": {
+  "total_passages": 10,
+  "books_covering": 1,
+  "top_sources": [
+   [
+    "Brihat_Parashara_v2",
+    10
+   ]
+  ]
+ },
+ "parivartana": {
+  "total_passages": 43,
+  "books_covering": 7,
+  "top_sources": [
+   [
+    "Raman_HowToJudge",
+    33
+   ],
+   [
+    "Phaladeepika",
+    4
+   ],
+   [
+    "KP_Reader_2_Fundamentals",
+    2
+   ],
+   [
+    "Laghu_Parashari",
+    1
+   ],
+   [
+    "Prashna_Marga",
+    1
+   ]
+  ]
+ },
+ "varshaphala": {
+  "total_passages": 225,
+  "books_covering": 9,
+  "top_sources": [
+   [
+    "Tajik_Adawal_Encyclopedia",
+    196
+   ],
+   [
+    "Yavanajataka_1",
+    6
+   ],
+   [
+    "Yavanajataka_2",
+    5
+   ],
+   [
+    "KP_Reader_3_Predictive",
+    4
+   ],
+   [
+    "Surya_Siddhanta",
+    4
+   ]
+  ]
+ },
+ "sade_sati": {
+  "total_passages": 1,
+  "books_covering": 1,
+  "top_sources": [
+   [
+    "Saravali",
+    1
+   ]
+  ]
+ }
+}

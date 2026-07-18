@@ -1,0 +1,49 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 50 – Complete Dasha & Bhukti Knowledge
+Base
+Purpose
+This manual defines how the Dasha knowledge database is populated with detailed timing
+interpretations. Every Mahadasha, Bhukti and Antardasha becomes a reusable knowledge object
+for the timeline engine and report generator.
+Knowledge Set
+Coverage
+Target Records
+Mahadasha Library
+9 planetary Mahadashas
+9+
+Bhukti Library
+9 × 9 combinations
+81+
+Antardasha Library
+Nested timing
+729+
+Timeline Chapters
+Life-phase records
+1000+
+Event Activation
+Trigger patterns
+2000+
+Transition Narratives
+Period changes
+1000+
+Emotional Journey
+Psychological themes
+1000+
+Narrative Blocks
+Reusable paragraphs
+5000+
+Evidence Objects
+Validation rules
+Unlimited
+Knowledge Record Template
+Each record includes Knowledge ID, Dasha type, ruling planet, parent period, duration, major
+themes, life domains, event triggers, transition rules, timeline impact, child explanation, professional
+explanation, narrative block IDs, confidence score, cross references and version history.
+Population Strategy
+Store atomic timing records rather than complete chapters. The report engine combines active
+timing records with birth chart evidence to create a continuous life story.
+Developer Specification
+Support multilingual content, semantic indexing, vector embeddings, graph relationships,
+immutable IDs, API-ready retrieval, audit metadata and version control.
+Next Volume
+Volume 51 – Complete Timeline Experience Knowledge Base.

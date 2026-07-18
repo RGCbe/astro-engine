@@ -1,0 +1,22 @@
+{
+  "book_key": "Aryabhatiya_v1",
+  "filename": "Aryabhatiya v1 1976.pdf",
+  "total_pages": 293,
+  "total_words": 1,
+  "total_chars": 3,
+  "is_scanned": true,
+  "top_100_words": [],
+  "calculations": [],
+  "connections": {},
+  "chapters_found": [],
+  "summary": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  }
+}

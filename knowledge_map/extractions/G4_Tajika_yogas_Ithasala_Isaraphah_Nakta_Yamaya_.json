@@ -1,0 +1,16 @@
+{
+  "item": "G4_Tajika yogas (Ithasala/Isaraphah/Nakta/Yamaya)",
+  "books_covering": [
+    "Surya_Siddhanta"
+  ],
+  "per_book_passages": {
+    "Surya_Siddhanta": [
+      {
+        "position": 710423,
+        "match_text": "nakta",
+        "context": "o have been other- wise from the beginning. No ono of the genera! names for the asterisms (nakshatra, bha, dhishnya) means literally anything more than \" star \" or \" constellation \" : their most ancient and usual appellation, nakshatra, as a word of doubtful etymology (it may be radically akin with nakta, nox, vv£ \" night \"), but it is not infrequently met with in tho Vedic writings, with the general signification of \" star,\" or \" group of stars \": the moon is several times designated as \" sovereign of the nahshatras,\" but evidently in no other sense than that in which we style her \" queen of night; \" for the same titje is in other passages given to the sun, and oven also to the Milky Way. When the name came to be especially applied to the system of zodiacal asterisms, we have seen above that a",
+        "pattern_hit": "\\bnakta\\b"
+      }
+    ]
+  }
+}

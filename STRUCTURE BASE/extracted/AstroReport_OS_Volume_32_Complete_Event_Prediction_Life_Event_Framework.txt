@@ -1,0 +1,50 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 32 – Complete Event Prediction & Life
+Event Framework
+Purpose
+This manual defines how AstroReport OS converts astrological evidence into a structured timeline
+of potential life events. It organizes events by probability, timing, supporting evidence and narrative
+impact while preserving traceability.
+Layer
+Description
+Output
+Event Library
+Catalog of life events
+Standard event objects
+Evidence Engine
+Planets, houses, yogas, Vargas
+Evidence bundle
+Timing Engine
+Dasha, Bhukti, Transit
+Event window
+Probability
+Weighted confidence
+Likelihood score
+Impact Analysis
+Life domains affected
+Impact profile
+Narrative Engine
+Story generation
+Timeline chapter
+Validation
+Evidence consistency
+Approved event
+Feedback Loop
+Quality improvement
+Refined models
+Supported Event Categories
+Education, career, business, finances, marriage, relationships, children, property, travel, relocation,
+health phases, spiritual milestones, leadership, retirement and legacy.
+Prediction Workflow
+Identify candidate events, collect supporting evidence, determine timing windows, assign
+confidence, merge related events, generate a chronological narrative and validate consistency
+before report publication.
+Developer Specification
+Each event object stores event ID, domain, supporting evidence, timing range, confidence score,
+severity/importance, related questions, narrative template and cross references.
+Ethical Presentation
+Present events as interpretations derived from chart patterns. Clearly distinguish confidence levels
+and avoid portraying uncertain outcomes as certainties.
+Next Volume
+Volume 33 – Complete Transit Interpretation & Dynamic Forecasting Manual.

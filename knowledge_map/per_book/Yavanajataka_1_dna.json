@@ -1,0 +1,622 @@
+{
+  "book": "Yavanajataka_1",
+  "total_chars": 109383,
+  "by_category": {
+    "A. CALCULATIONS (math/algorithms)": {
+      "A3": {
+        "name": "House cusps / Bhava sphuta",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 95094,
+            "match_text": "Sripati",
+            "context": ". Then comes: srifakc 1760 vibhavasarpvatsare udagayane sisirartau phalgune mase suklapak~e saptamyarp tithau irpduvasare, followed by a variant \"On the rest of the intro_- duction. As remarked above, the date may be that of the birthday of the scribe. 20 ~k~a. 12 vss. 21 Tatkalikalagna. From Sripati and the Siddhantasiroma1;i. 4 vss. 22 J anmalagna. 3 vss. 23 Bhavasthagrahai:iaql__Qhalani. 94 vss. *Anandasrama 1891. 20ff. This manuscript contains: 1 = adhyaya 1 2 = adhyaya 2 3 = adhyaya 3 4 = adhyaya 6 5 = adhyaya 8 6 = adhyaya 7 followed by the introductory verses of Mysore 1403. 7 = adhyaya 9 8 = adhyaya 10 9 = Nak~atrar.hala. 27 vss. Differs from adhyaya 11 1 o = adhyaya 9 of Anandasrama 8265 11 = adhyaya 14 12 = adhyaya 15 13 = adhyaya 13 14 = adhyaya 12 15 = adhyaya",
+            "pattern_hit": "sripati"
+          }
+        ]
+      },
+      "A8": {
+        "name": "Ashtakavarga (BAV + SAV)",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 70027,
+            "match_text": "bindu",
+            "context": "cript was not available t.0 me. I ts size indicates that it is a small fragment. L. Leipzig 1081. l lff. Sarada script. This manuscript, on ff. lv-9r, contains Tavanajtitaka 44; 50; 48; 49; 46; 4 7; and 45. All the variants are indicated in the apparatus criticus. Ff. 9r-l l r contain a text on binduphala. L is only in- frequently useful. It is possible the RORI 643 6ff., which contains the NamapraJna from the Tavanajataka of Yavanacarya, is a manuscript of adhyayas 71-72. A large number of later commentators and compilers have preserved verses of the Tavanajtitaka, and other astrologers have depended directly on Sphujidh- vaja; especially useful have been Minaraja, Kalyal).avarman, Govindasvamin, Utpala, Vi~J).usarman, Kamalakara, and Nrsirp.ha. Full references to quotations and dire",
+            "pattern_hit": "bindu"
+          }
+        ]
+      },
+      "A13": {
+        "name": "Panchanga (tithi/vara/nakshatra/yoga/karana)",
+        "passage_count": 2,
+        "passages": [
+          {
+            "position": 5993,
+            "match_text": "vara",
+            "context": "e concluding three verses of the Yavanajataka we know the author's name and that the date of his composition was A.D. 269/270. We are further informed that it is a versified version of a prose translation, made by one Yavanesvara, \"the lord of the Greeks,\" in the year A.D. 149/150. That Yavanes- vara's translation was from a Greek text is implied by Sphujidhvaja's words and fully corroborated by the contents of the work itself, as will be pointed out frequently in the commentary. One may even specifiy the provenience of the Greek original, with a high degree of probability, as · Alexandria. What we have in the Yavanajataka, then, is the clearest evidence that has yet come to light of the direct transmission of scientific knowledge from the ancient world of the Mediterranean to the anc",
+            "pattern_hit": "\\bvara\\b"
+          },
+          {
+            "position": 73999,
+            "match_text": "Vara",
+            "context": "will appear in the Gaekwad's Oriental Series. For his section on sakuna (chapters 67- 71) Minaraja refers to the prior works of Garga and Parasara; the Gargasa1µhitii in its original version dates from the beginning of the Christian era, and the Parasara here referred to is undoubtedly he whom Vara- hamihira cites in Brhatsarp.hita 60, 1 : parasaraJ:i praha brhadrathaya golak~aryarp yat kriyate tato Jyam / maya samasal.1 subhalak~aryas ta}:i sarvas tathapy agamato Jbhidhasye // 76. India, ed. p. 122, trans. vol. 1, p. 158: \"There is a larger book than this (the Siiriivali), a compendium on every subject of astrology, known as the Tavana, that is, belonging to ( or by) the Greeks.\" 24 INTRODUCTION 10. Candradarsanacara. 72 vss. 11. Bhaumadarsanacara. 72 vss. 12. Budhadarsanacara.",
+            "pattern_hit": "\\bvara\\b"
+          }
+        ]
+      }
+    },
+    "B. PREDICTIVE RULES": {
+      "B8": {
+        "name": "Yoga definitions + effects",
+        "passage_count": 18,
+        "passages": [
+          {
+            "position": 75236,
+            "match_text": "yoga",
+            "context": ". 30 vss. 28. Sutasthanacinta. 29 vss. 29. Ripusthanacinta. 29 vss. 30. Kalatrasthanacinta. 28 vss. 31. Mrtyusthanacinta. 28 vss. 32. Dharmasthanacinta. 27 vss. 33. Karmasthanacinta. 28 vss. 34. Labhasthanacinta. 28 vss. 35. Vyayasthanacinta. 28 vss: 36. Lagnadarsanacara. 7 vss. 37. Anaphayoga. 31 vss. 38. Sunaphayoga. 30 vss. 39. Durdharayoga. 1 73 vss. 40. Lagnasrayayoga. 143 vss. 41. Dhanasrayayoga. 120 vss. 42. Sahajasrayayoga. 120 vss. 43. Sukhasrayayoga. 120 vss. 44. Sutasrayayoga. 120 vss. 45. Satrubhavasrayayoga. 120 vss. 46. Kamasrayayoga. 120 vss. 47. Mrtyusthanasrayayoga. 120 vss. 48. Dharmasrayayoga. 120 vss. 49. Karmasra ya yoga. 120 vss. 50. Labhasrayayoga. 120 vss. 51. Vyayasrayayoga. 120 vss. 52. Sarikhyasrayayoga. 6 vss. 53. Vajradiyoga. 5 vss. 54. T",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 75440,
+            "match_text": "yoga",
+            "context": "bhasthanacinta. 28 vss. 35. Vyayasthanacinta. 28 vss: 36. Lagnadarsanacara. 7 vss. 37. Anaphayoga. 31 vss. 38. Sunaphayoga. 30 vss. 39. Durdharayoga. 1 73 vss. 40. Lagnasrayayoga. 143 vss. 41. Dhanasrayayoga. 120 vss. 42. Sahajasrayayoga. 120 vss. 43. Sukhasrayayoga. 120 vss. 44. Sutasrayayoga. 120 vss. 45. Satrubhavasrayayoga. 120 vss. 46. Kamasrayayoga. 120 vss. 47. Mrtyusthanasrayayoga. 120 vss. 48. Dharmasrayayoga. 120 vss. 49. Karmasra ya yoga. 120 vss. 50. Labhasrayayoga. 120 vss. 51. Vyayasrayayoga. 120 vss. 52. Sarikhyasrayayoga. 6 vss. 53. Vajradiyoga. 5 vss. 54. Tanvadidvadasabhavadhisaphala. 55. Dvadasabhavasthanacinta. 145 145 vss. vss. 56. Rasmicinta. 56 vss. 57. Rajayoga. 66 vss. 58- 62. Strijataka (published separate- 63. Nak~at:,ragul).a. 27 vss. ly",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 75663,
+            "match_text": "yoga",
+            "context": ". 42. Sahajasrayayoga. 120 vss. 43. Sukhasrayayoga. 120 vss. 44. Sutasrayayoga. 120 vss. 45. Satrubhavasrayayoga. 120 vss. 46. Kamasrayayoga. 120 vss. 47. Mrtyusthanasrayayoga. 120 vss. 48. Dharmasrayayoga. 120 vss. 49. Karmasra ya yoga. 120 vss. 50. Labhasrayayoga. 120 vss. 51. Vyayasrayayoga. 120 vss. 52. Sarikhyasrayayoga. 6 vss. 53. Vajradiyoga. 5 vss. 54. Tanvadidvadasabhavadhisaphala. 55. Dvadasabhavasthanacinta. 145 145 vss. vss. 56. Rasmicinta. 56 vss. 57. Rajayoga. 66 vss. 58- 62. Strijataka (published separate- 63. Nak~at:,ragul).a. 27 vss. ly also): 58. Lagnaphala. 12 vss. 59. Candrarasigul).a. 12 vss. 60. Nak~atragul).a. 27 vss. 61. Bhavaphala. 85 vss. 62. Rajayoga. 14 vss. 64. Mrtyujfiana. 45 vss. 65. Ani~tasiicana. 31 vss. 66. Subhasvapna. 41 vss. 67",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 76070,
+            "match_text": "yoga",
+            "context": "55. Dvadasabhavasthanacinta. 145 145 vss. vss. 56. Rasmicinta. 56 vss. 57. Rajayoga. 66 vss. 58- 62. Strijataka (published separate- 63. Nak~at:,ragul).a. 27 vss. ly also): 58. Lagnaphala. 12 vss. 59. Candrarasigul).a. 12 vss. 60. Nak~atragul).a. 27 vss. 61. Bhavaphala. 85 vss. 62. Rajayoga. 14 vss. 64. Mrtyujfiana. 45 vss. 65. Ani~tasiicana. 31 vss. 66. Subhasvapna. 41 vss. 67. Misrika. 29 vss. \\ 68. Kakaruta. 29 vss. 69. Syamace~tita. 7 vss. 70. Svace~tita. 15 vss. 71. Goce~tita. 6 vss. The following manuscripts of Minaraja's Vrddhayavanajataka are known to me (all those which contain adhyaya 47 exhibit the same lacunae and are therefore derived from a single imperfect archetype). *SOI 9503. Copied in Saka 1447 = A.D. 1527. I have used a transcript in 253 pp. made",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 81715,
+            "match_text": "yoga",
+            "context": "2. 8ff. Copied m Sarp. 1809, Saka 1674 = A.D. 1752. Contains adhyayas 60-62. 27 THE YAVANAJ.ATAKA RORI 3793. 12ff. Copied in SaJTl. 1851 = A.D. 1794. *AS Bengal 7334 (G 8077). !Off. Copied in SaJTl. 1884 and 1886 = A.D. 1827 and 1829. Contains adhyayas 60-62 and 59; an extra chapter entitled yogadhyaya is added. Mithila 277 A. 2lff. Copied in Saka 1777 = A.D. 1855. * AS Bengal 7336 (G 3066) l 4ff. Contains adhyayas 58-62 with the yogadhyaya. *BORI 861 of 1887/91. 24ff. GVS 2966 (1643). Ff. 3-14. Contains adhyaya 62. Mithila 277. 19ff. N-W PIX (.1885) A. 14. 9ff. Property of Syama Carar;ia of Benares. N-W P X ( 1886) A. 11. 2ff. Property of Balabhaii Sapre of Benares. Oudh XVIII (1885) VIII 7. 28 pp. Property of Kunjabihari Lala of Sultanpur Zila. PL, Buhler IVE *452. 8ff. Pro",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 84673,
+            "match_text": "Yoga",
+            "context": "9. Lagnaphalakathana 11. Dvi ti yagrahicin ta 13. Sukhasthanacin ta 15. Satrusthanacinta 17. A~tamagrhacinta 19. Dasamagrhacin ta 21. Vyayasthanacinta 23. Candrasra yadr~ti phala 25. B udhasra yadmi phala 27. Sukrasrayaphala 29. Rahuketor bhavaphala 31. Nak~atraphala 33. Tithiphala 35. Yogaphala 37. Trigrahayoga. Cf. Siiravali 16 39. Pancagrahayoga. Cf. Siiravali 18 41. Rajayoga. Cf. Saravali 35 43. Bhaskaradiyoga. 45. SunaphanapharakaraJ)a. Cf. Sara- vali 13 4 7 Kul)c;l.alayoga 49. Nalayoga 51. Mrtyuyoga 53. Caturthadvigrahase~aphalaka- tha'na 55. Dasamadvigrahayoga 57. ( Rajayoga) 59. Raver a~takavargaphala 61. Sukra~takavarga 63. Masajatakavidhir a~takavarga 65. Suryadasaprakaral)a 6 7. Bhaumadasaprakaral)a 69. GurudasaprakaraJ)a 71. MandadasaprakaraJ).a 29",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 84885,
+            "match_text": "yoga",
+            "context": "27. Sukrasrayaphala 29. Rahuketor bhavaphala 31. Nak~atraphala 33. Tithiphala 35. Yogaphala 37. Trigrahayoga. Cf. Siiravali 16 39. Pancagrahayoga. Cf. Siiravali 18 41. Rajayoga. Cf. Saravali 35 43. Bhaskaradiyoga. 45. SunaphanapharakaraJ)a. Cf. Sara- vali 13 4 7 Kul)c;l.alayoga 49. Nalayoga 51. Mrtyuyoga 53. Caturthadvigrahase~aphalaka- tha'na 55. Dasamadvigrahayoga 57. ( Rajayoga) 59. Raver a~takavargaphala 61. Sukra~takavarga 63. Masajatakavidhir a~takavarga 65. Suryadasaprakaral)a 6 7. Bhaumadasaprakaral)a 69. GurudasaprakaraJ)a 71. MandadasaprakaraJ).a 29 2. 4. 6. 8. 10. 12. 14. 16. 18. 20. 22. 24. 26. 28. 30. 32. 34. 36. 38. 40. 42. Candrabharal).a Na varpsaka phala Drekal).aphala N ak~atratithidevata U da yalagnagrahacinta Sahajacinta",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 85551,
+            "match_text": "yoga",
+            "context": "34. 36. 38. 40. 42. Candrabharal).a Na varpsaka phala Drekal).aphala N ak~atratithidevata U da yalagnagrahacinta Sahajacinta Pu trasthanadnta Kalatrasthanacin ta Bhagyagrhacinta Labhacinta Arkasrayadmi Bhaumasrayaphala Gurvasrayaphala Mandasra yadr~ti phala Varaphala Balari~ta yoga Karal).aphalakathana Dvigrahayoga. Cf. Saravali 15 Caturgrahayoga. Cf. Saravali 17 $ac;l.grahayoga. Cf. Saravali 19 Paficamahapuru~ayoga. Cf. Sara- vali 37 44. Vasivesyubhayacariyoga. Cf. Sara- vali 14 46. Dhurudhurayoga. Cf. Saravali 13 48. VIJ).ayoga 50. Saktiyoga 52. Lagnadvigrahayogaphala 54. Jamitradvigrahayoga... 56. Karmaphala 58. A~takavargaphala 60. Candrangarakabudhagurva~taka- varga. 62. Sanaiscara~takavarga 64. Jatikaphala( ?) 66. Candradasanirupa1.1a 68. Budhadasa",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 85779,
+            "match_text": "yoga",
+            "context": "ayaphala Gurvasrayaphala Mandasra yadr~ti phala Varaphala Balari~ta yoga Karal).aphalakathana Dvigrahayoga. Cf. Saravali 15 Caturgrahayoga. Cf. Saravali 17 $ac;l.grahayoga. Cf. Saravali 19 Paficamahapuru~ayoga. Cf. Sara- vali 37 44. Vasivesyubhayacariyoga. Cf. Sara- vali 14 46. Dhurudhurayoga. Cf. Saravali 13 48. VIJ).ayoga 50. Saktiyoga 52. Lagnadvigrahayogaphala 54. Jamitradvigrahayoga... 56. Karmaphala 58. A~takavargaphala 60. Candrangarakabudhagurva~taka- varga. 62. Sanaiscara~takavarga 64. Jatikaphala( ?) 66. Candradasanirupa1.1a 68. Budhadasaprakara1.1a 70. Bhrgudasaprakara1.1a 72. Candra bharal).asarp.skara THE YAVANAJATAKA 73. Dasanayana 75. Grahabala 77. SuryantardasaprakaraQa 79. Bhaumantardasaprakaral).a 81. Jivantardasaprakaral).a 83. Mandan tardasapr",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 86341,
+            "match_text": "yoga",
+            "context": "68. Budhadasaprakara1.1a 70. Bhrgudasaprakara1.1a 72. Candra bharal).asarp.skara THE YAVANAJATAKA 73. Dasanayana 75. Grahabala 77. SuryantardasaprakaraQa 79. Bhaumantardasaprakaral).a 81. Jivantardasaprakaral).a 83. Mandan tardasaprakaral).a 85. Stripuru~asa:qijnabhidhana 87. Madhyamayuryoga 89. Kalanubhava 91. Garbhadhiyoga 93. Na~tajatakavidhi 95. Jatakabhanga 97. Nirya.Qalak~al).a 99. Maral).akalalak~al).a 101. Satruvyayayoga 74. ~!akavargadasa 76. Grahabala 78. CandrantardasaprakaraQa 80. BudhantardasaprakaraQa 82. Bhrgor antardasaprakaral).a 84. Dasantara 86. Y oganusarel).a dasaphala 88. Cirayuryoga 90. Grahanama 92. Strijatakaphala 94. Dvigraha yogavise~akathana 96. Dasanuyoga 98. Maral).akalakathana 1 oo. Matrpitrcinta The following manuscripts of the",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 86676,
+            "match_text": "yoga",
+            "context": "iyoga 93. Na~tajatakavidhi 95. Jatakabhanga 97. Nirya.Qalak~al).a 99. Maral).akalalak~al).a 101. Satruvyayayoga 74. ~!akavargadasa 76. Grahabala 78. CandrantardasaprakaraQa 80. BudhantardasaprakaraQa 82. Bhrgor antardasaprakaral).a 84. Dasantara 86. Y oganusarel).a dasaphala 88. Cirayuryoga 90. Grahanama 92. Strijatakaphala 94. Dvigraha yogavise~akathana 96. Dasanuyoga 98. Maral).akalakathana 1 oo. Matrpitrcinta The following manuscripts of the Candriibharar;ahorii are known to me: *Adyar List= Adyar Cat. 21 E 17. 20ff. = Adyar Index 2018. Grantha script. I have used a Devanagari transcript prepared for my use in 1957. The transcript has 28ff. and contains adhyayas 4-10 and 30-35 plus additional material in a highly confused order: F. 1. End of adhyaya 31 Ff. 1-4. Adh",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 91697,
+            "match_text": "Yoga",
+            "context": "ut it is not found in the printed versions of that work. 13. Gar:iaphala. 3 vss. 15. Karar:iaphala. 11 vss. 17. Grahabhavaphalani. 12 vss. 2. Ayanaphala. 2 vss. 4. Me~adilagnaphala. 12 vss. 6. _Masaphalani. 12 vss. 8. Pak~aphala. 2 vss. 10. Varaphala. 11 vss. 12. Yoniphala. 14 vss. 14. Yogaphala. 27 vss. 16. Rasiphala. 39 vss. The manuscripts of this Yavanajataka known to me are: *Mysore (1922) 1403. 79ff. I have used a transcript in 92 pp. made in 1958. This manuscript contains the following elements presented as Yavana's responses to Kasyapa: l. Tithiphala. Includes adhyaya 9. The first verse is: krtvagnihotram asinarp yavanarp munipungavam / vinayenopasangamya kasyapa}:1 pariprcchati // 2. Varaphala. Includes adhyaya 10. 3. Nak~atraphala. Cf. adhyaya 1 I. The first ve",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 92319,
+            "match_text": "Yoga",
+            "context": "s: krtvagnihotram asinarp yavanarp munipungavam / vinayenopasangamya kasyapa}:1 pariprcchati // 2. Varaphala. Includes adhyaya 10. 3. Nak~atraphala. Cf. adhyaya 1 I. The first verse is: athatas sarppravak~yami nak~atrar:iarp phalarµ sri:iu / sadhu kasyapa tattvena yathovaca pitamaha}:1 '/ 4. Yogaphala. lncludes adhyaya 14. 32 INTRODUCTION 5. Kara9aphala. Includes adhyaya 15. 6. Rasiphalani. Differs from adhyaya 16. 7. Janmalagnaphalani. Cf. adhyaya 4. 8. Dvadasaryisaphalani. The rest of the manuscript contains an anonymous nibandha quoting from a wide variety of sources. *GOML Madras D 13788. 32 pp. I have used a transcript in 26 pp. made / by R. Ganesan and collated by K. M. Subrahmanya ~astri in 1958. This manuscript is very similar to Mysore i403. Its contents are: 1. (;",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 98497,
+            "match_text": "yoga",
+            "context": "s 1958. Oudh XVI (1883) VIII 1. 44 pp. Copied in 1840. Property ofBholanatha of Lucknow Zila. PL, Buhler IV E 380. 42ff. Copied in Sarp. 1913 = A.D. 1856. Property of Jagannatha Josi of Ahmadabad. Incomplete. RORI 636. 3ff. Copied in Sarp. 1820 = A.D. 1763. RORI 648. 6ff. SOI 10875. $oc;lasayoga only. SOI 11091. VII. The Strijataka of Yavanacarya A second Strijataka of Yavanacarya evidently imitates the rm,anajataka de- scribed on pp. 32- 35, but also incorporates several chapters from the Stri.Jataka based on the Vrddhayavanajataka. The contents of this work are: 1. Ayanaphala. 2 vss. Cf. adhyaya 2. 2. ~tuphala. 6 vss. Cf. adhyaya 3. 3. Masaphala. 12 vss. Cf. adhyaya 6. 4. Pak~aphala. 2 vss. Cf. adhyaya 8. 5. Tithiphala. 16 vss. Cf. adhyaya 9. 6. Varaphala. 7 vss. Cf. adh~ya",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 99068,
+            "match_text": "Yoga",
+            "context": "s work are: 1. Ayanaphala. 2 vss. Cf. adhyaya 2. 2. ~tuphala. 6 vss. Cf. adhyaya 3. 3. Masaphala. 12 vss. Cf. adhyaya 6. 4. Pak~aphala. 2 vss. Cf. adhyaya 8. 5. Tithiphala. 16 vss. Cf. adhyaya 9. 6. Varaphala. 7 vss. Cf. adh~ya 10. 7. Nak~atraphala. 27 vss. = Minaraja 60. Cf. adhyaya 11. 8. Yogaphala. 27 vss. CC adhyaya 14. 9. Kara-i:rnphala. 11 vss. Cf. adhyaya 15. 10. Navarpsakaphala. 9 vss. 11. Gai:iaphala. 3 vss. Cf. adhyaya 13. 12. Candrarasiphala. 12 vss. = Minaraja 59. Cf. adhyaya 16. 13 . .Janmaphala. 12 vss. = Minaraja 58. Cf adhyaya 4. 14. Tanubhavaphala. Incomplete. 15. Bhavaphala. 96 vss. = Minaraja 61. Cf. adhyaya 5. 16. Dasaphala. 8 vss. 17. Stri9arp bhavagatagrahai:iarp phalani. B4 vss. Cf. adhyaya 17. 36 • INTRODUCTION The manuscripts of this Strijataka are",
+            "pattern_hit": "yoga"
+          }
+        ]
+      },
+      "B9": {
+        "name": "Dasha-specific predictions",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 61238,
+            "match_text": "dasa of",
+            "context": "radaman of Avanti, and by Vi~x:iurudrasivala- nanda Satakarx:ii of Vanavasi; this implies an extension of A.bhira rule, at least briefly, over all of the former Satavahana territory in the 330's. This leads Mirashi to assert that the Abhira kings were also overlords of the Maharajas ofValkha-Svamidasa of the year 67 (A.D. 31\"7), Bhulunda of the year 107 (A.D. 357), and Rudradasa of the year 117 (A.D. 367) (CII 4, pp. 5-12). This may be true, but I am inclined to doubt the further claims made by Mirashi for an extensive A.bhira empire stretching for any length of time north of the Narmada. 66. V. V. Mirashi, \"A Problem Raised by the Finds of Coins in Vidarbha,\" J NS/ 24, 1962, 27-30. 67. See A. S. Altekar, \"Nandsa Yupa Inscription,\" El 27, 1947/48, 252-257; this inscription mentions the",
+            "pattern_hit": "dasa of"
+          }
+        ]
+      },
+      "B10": {
+        "name": "Antardasha combinations (81 pairs)",
+        "passage_count": 4,
+        "passages": [
+          {
+            "position": 71846,
+            "match_text": "Antardasa",
+            "context": "buddhya vicintya cakre =>~tasahasramatram // ya purvakarmaprabhavasya dhatri dhatra lalate likhita prasasti}:i / tarp sastram etat prakatarp vidhatte dipo yatha vastughane ::,ndhakare // 2. Grahayonibheda. 32 vss. 3. Adhana. 39 vss. 4. Janma. 26 vss. 5. Ayurdaya. 15 vss. 6. Dasa. 42 vss. 7. Antardasa. 70 vss. 8. A~takavargaphalani. 129 vss. 9. Suryadarsanacaraphalani. 72 vss. 75. The first element in the name Minaraja appears to be a designation of the Sakas; cf. the M1.v 1r0Ais- located in .EaK<XGT<XVYJ by Isidore of Charax (.ETaBµ,01. llapB,Ko{, ed. W. H. Schoff, Philadelphia 1914, par. 18); the M,vvayapa which, according to the Periplus of the Erythraean Sea (ed. H. Frisk, Goteborg 1927, par. 41) was the capital of Mav{3avos-, who is usually identified with Nahapana (see above, p.",
+            "pattern_hit": "antardasa"
+          },
+          {
+            "position": 86183,
+            "match_text": "antardasa",
+            "context": "a... 56. Karmaphala 58. A~takavargaphala 60. Candrangarakabudhagurva~taka- varga. 62. Sanaiscara~takavarga 64. Jatikaphala( ?) 66. Candradasanirupa1.1a 68. Budhadasaprakara1.1a 70. Bhrgudasaprakara1.1a 72. Candra bharal).asarp.skara THE YAVANAJATAKA 73. Dasanayana 75. Grahabala 77. SuryantardasaprakaraQa 79. Bhaumantardasaprakaral).a 81. Jivantardasaprakaral).a 83. Mandan tardasaprakaral).a 85. Stripuru~asa:qijnabhidhana 87. Madhyamayuryoga 89. Kalanubhava 91. Garbhadhiyoga 93. Na~tajatakavidhi 95. Jatakabhanga 97. Nirya.Qalak~al).a 99. Maral).akalalak~al).a 101. Satruvyayayoga 74. ~!akavargadasa 76. Grahabala 78. CandrantardasaprakaraQa 80. BudhantardasaprakaraQa 82. Bhrgor antardasaprakaral).a 84. Dasantara 86. Y oganusarel).a dasaphala 88. Cirayuryoga 90. Grahan",
+            "pattern_hit": "antardasa"
+          },
+          {
+            "position": 86538,
+            "match_text": "antardasa",
+            "context": "Jivantardasaprakaral).a 83. Mandan tardasaprakaral).a 85. Stripuru~asa:qijnabhidhana 87. Madhyamayuryoga 89. Kalanubhava 91. Garbhadhiyoga 93. Na~tajatakavidhi 95. Jatakabhanga 97. Nirya.Qalak~al).a 99. Maral).akalalak~al).a 101. Satruvyayayoga 74. ~!akavargadasa 76. Grahabala 78. CandrantardasaprakaraQa 80. BudhantardasaprakaraQa 82. Bhrgor antardasaprakaral).a 84. Dasantara 86. Y oganusarel).a dasaphala 88. Cirayuryoga 90. Grahanama 92. Strijatakaphala 94. Dvigraha yogavise~akathana 96. Dasanuyoga 98. Maral).akalakathana 1 oo. Matrpitrcinta The following manuscripts of the Candriibharar;ahorii are known to me: *Adyar List= Adyar Cat. 21 E 17. 20ff. = Adyar Index 2018. Grantha script. I have used a Devanagari transcript prepared for my use in 1957. The transcript has 28",
+            "pattern_hit": "antardasa"
+          },
+          {
+            "position": 100013,
+            "match_text": "antardasa",
+            "context": "9 of 1886/92. 143ff. Copied in Sarp. 1885 = A.D. 1828. Contains adhyayas 1- 10, 13, 11 - 12, and 17 with a grahabhavaphala from a Camatkiiracintiimm;i, ~ rajayoga (part of Minaraja 62), a grahabhava- phala in 67 vss., and a bhavaphala in 34 vss. After the colophon is a long treatise on dasas and antardasas which claims to be derived from the Strijiitaka of the Vrddhayavanajiitaka. *AS Bengal 7335 (G 8073). 24ff. Contains adhyayas 2- 10, 13, 11 - 12, and 1 7, followed by various extracts from a Camatkiiracin(iimar;i, a Sakunikasiis- tra, l)hul)c;lhiraja's ]iitakiibharar;a, and Vasi~tha among others. *Wien Universitat 281. 23ff. Contains adhyayas 1- 9 and 11- 17 as well as a bhuvanavicara in 12 vss. from a Strijiitaka on ff. 20 and 23 and vss. 133- 152 ofan unidentified astrological text on",
+            "pattern_hit": "antardasa"
+          }
+        ]
+      },
+      "B12": {
+        "name": "Marriage indicators",
+        "passage_count": 4,
+        "passages": [
+          {
+            "position": 44782,
+            "match_text": "marriage",
+            "context": "aprabhava Maha- k~atraparu ... putri). Thus is explained the term \"sarµbarp.dhav[i]diira[ta]ya\" occurring in the J unagac;lh inscription with respect to the twice-defeated Satakar:r:ii (PuJumavi), and the fact that Vasi~thiputra Sri Satakarl)i imitates the K~atrapa coinage. 52 Apparently, at the marriage of his daughter to the brother and heir-apparent of the Satavahana monarch, Rudradaman withdrew to the north of the Narmada. Two verses found in the VrddhayavanaJataka and probably borrowed by Minaraja from the YavanaJataka (see below ad 9, 4) appear to indicate that Rudradaman's expeditions extended even further to the north than is indicated by Suvisakha. They read (2, 9-10): sahasrarasmir yavane~u jato vibhavarisas tu tatha kalinge / avantidesodbhava eva bhaumal:i kausambikeyo himara",
+            "pattern_hit": "marriage"
+          },
+          {
+            "position": 17170,
+            "match_text": "wife",
+            "context": "however, inform us of some of the trade relations between Gujarat and the Ganges Valley that was continuous since at least the Mauryan period ( though relatively few punch-marked coins come from Western India). An inscription from Bharhut 3 refers to a pillar given by Gorakhita (Gorak~ita), the wife of Vasuka and an inhabitant of Nasika. Another Bharhut inscription 4 on a pillar records that it is the gift of Tisa (Ti~ya), an inhabitant of Benakata; Gotamiputa Siri Sadakal).i (Gautamiputra Sri Satakarl).i) is called Benakatasvamin in a Nasik cave inscription dated in his eighteenth regnal year. 5 This same city is probably intended by Bedakara, the 1. D. C. Sircar, Select Inscriptions, vol. 1, 2nd ed., Calcutta 1965, pp. 89- 90. 2. R. D. Bhandarkar in EI 22, 1933/34, 198- 205. On Nag",
+            "pattern_hit": "wife"
+          },
+          {
+            "position": 30572,
+            "match_text": "wife",
+            "context": "took Kalya:r;ia, but Nahapana's son-in-law, the Saka U~avadata (R~abhadatta), the son of Dinika, apparently governed the whole region. During his governance R~abhadatta had excavated cave 10 at Nasik, in which are found several inscriptions recording grants made to the monks by himself and his wife, Du}:ikhamitra. The first 24 contains the formal statement of R~abhadatta's donation and a eulogy of him which is largely repeated in the third inscription 25 and in an inscription on the fa~ade of the Caitya cave at Karle; 26 this is followed by copies of two later grants. The eulogy of R~abha- datta, though incised in Buddhist caves, records his benefactions to Brahma:r;ias on the river Bar:r;iasa, at Prabhasa (Somanathapagana), at Bharukaccha, at Dasapura, at Govardhana, at Sorparaga, o",
+            "pattern_hit": "wife"
+          },
+          {
+            "position": 34924,
+            "match_text": "wife",
+            "context": "urther donations by R~abhadatta to the monks in cave 10 are mentioned in a final inscription. 31 The three inscriptions are dated in the 41st, 42nd, and 45th years. If these dates are referred to the Saka era, they correspond to A.D. 119, 120, and 123. The other grants by R~abhadatta 32 and his wife 33 at Nasik and by him at Karle 34 are not dated, nor is the inscription of Mitadevai:iaka (Mitradevai:iaka), the son of Usabhadata, from Dhenukakata in the Caitya cave at Karle, 35 though he may not be the son of the son-in-law of Nahapana. The latest dated inscription of the reign of Nahapana is that inscribed at J unnar 36 by Ayama of 27. Cf. Sphujidhvaja 3, 34c: raktan prakurvan malaye tapasvi. The Malayas are sometimes said to be the Ma.lavas, but the identification seems untenable t",
+            "pattern_hit": "wife"
+          }
+        ]
+      },
+      "B13": {
+        "name": "Children indicators",
+        "passage_count": 49,
+        "passages": [
+          {
+            "position": 16746,
+            "match_text": "son",
+            "context": "y the Yavana (presumably Menander). Another group of inscriptions comes from Nagari and is dated to the early first century A.D. ; 2 these record the establishment of the Narayal).avatika for the blessed (bhagavat) Sankar~al).a and Vasudeva by Sarvatata (Sarvatrata ?) of the Gajayana gotra, the son of a lady of the Pasasara gotra and the performer of an asvamedha sacrifice. Inscriptions from outside Western India, however, inform us of some of the trade relations between Gujarat and the Ganges Valley that was continuous since at least the Mauryan period ( though relatively few punch-marked coins come from Western India). An inscription from Bharhut 3 refers to a pillar given by Gorakhita (Gorak~ita), the wife of Vasuka and an inhabitant of Nasika. Another Bharhut inscription 4 on a",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 20498,
+            "match_text": "son",
+            "context": "west. Their interest in the caves at Nana.ghat and Nasik and a reference in the Periplus indicate that their rule continued into the Konkar:ia, but they evidently did not penetrate into Northern Gujurat or Southern Rajasthan. But during the first century, following Hippalus' discovery of the seasonable 6. G. Buhler in EI 2, 1892/94,\" 109 no. I 108. 7. The inscriptions of stupa I are published by G. Btihler in EI 2, 1892/94, 97- 110 and 370- 396; those ofstupa 2 ibid. , 110- 112 and 396-402. 8. R. Chanda, Dates of the Votive Inscriptions on the Stupas at Sanchi, MASI 1, Calcutta 1919, pl. VI no. I. 9. B. Barua, Old Brahmi Inscriptions in the Udayagiri and Kharp/.agiri Caves, Calcutta 1929, section 3. 10. EI 8, 1905/06, 93. 11. Select Inscriptions, pp. 190- 197. 7 THE YAVANAJATAK",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 24758,
+            "match_text": "son",
+            "context": "ambi, perhaps correctly, identified with the modern Devaga<;l. Yavanas from Umehanakata: Yavana of the Vitasagatas (Vetrasangatas ?). In the Caitya cave at Karle. Vats 1, Kosambi 27. Yavanas from Datamitiya (DattamitrI): The northerner (otaraha), the Yo:r:iaka ldragnidata (Indragnidatta), the son of Dhaqimadeva (Dharmadeva), together with his son Dhaqi- marakhita (Dharmarak~ita). In the veranda of cave 17 at Nasik. Buhler Nasik 19, Senart Nasik 18. Yavanas from Dhenukakata: Culayakhana Yavana. If one reads Culayakh( a) na, then ·this will be Yavana of the Culayakhas (Cu<;layak~as). In the Caitya cave at Karle. Vats 6, Kosambi 22. Yavana of the Dhamadhayas (Dharmadhvajas). In the Caitya cave at Karle. Vats 4, Kosambi 24. Dhammayavana. Is this an abbreviated expression for Yavana",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 26204,
+            "match_text": "son",
+            "context": "the Bahlika of the lntavhria- putras). Taxila Silver Scroll Inscription of the year 136. GIi 2, 1, pp. 70- 77. Sahayara Travasakurai:ia (Travasakura sahacaras). Peshawar Museum Inscription of the year 168. GIi 2, 1, pp. 77- 79. Sahaehi pidaputrehi U<;liliakehi (U<;liliaka sahayas, fathers and sons). Jamal- garhi Inscription of the year 359. G/12, 1, pp. 110- 113. The following such associations are found in inscriptions of the Ku~ai:ia period: M athurai:iayp. sailalakanam Candaka bhratrka iti vijnayamananarp te~arp putrehi Nandibalapramukhehi darakehi (the boys led by Nandibala, the \"sons\" of the actors of Mathura known as the Candaka Brothers). Mathura Inscription of the year 26. Li.iders, Mathura Inscriptions, pp. 62- 63. Droi:iiva<;lrai:ia saharai:ia (Droi:iipadra sahacaras). S",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 26504,
+            "match_text": "son",
+            "context": "sons). Jamal- garhi Inscription of the year 359. G/12, 1, pp. 110- 113. The following such associations are found in inscriptions of the Ku~ai:ia period: M athurai:iayp. sailalakanam Candaka bhratrka iti vijnayamananarp te~arp putrehi Nandibalapramukhehi darakehi (the boys led by Nandibala, the \"sons\" of the actors of Mathura known as the Candaka Brothers). Mathura Inscription of the year 26. Li.iders, Mathura Inscriptions, pp. 62- 63. Droi:iiva<;lrai:ia saharai:ia (Droi:iipadra sahacaras). Shakardarra Inscription of the year 40. GI! 2, 1, pp. 159- 160. Dasavharei:ia Posapuriaputrai:ia (Dasavhara of the Posapuriaputras = Pu~pa- purikaputras ?). Ara Inscription of the year 41. GIi 2, 1, pp. 162- 165. 9 THE YAVANAJA.TAKA Evidently at least some of these Greek traders under the Satava",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 27721,
+            "match_text": "son",
+            "context": "hern Gujarat and Saura~tra. It is perhaps significant that the coins of the earliest members of the Saka dynasty, Arta( ?) and Bhiimaka, have a lion and wheel as the reverse-type of their coinage, while a lion is also found as one of the reverse-types on the coins of the K~atrapa Kharaosta, the son of Arta, and as an obverse-type on some potin coins of Rajiivula, the Mahak~atrapa of Mathura. The coinage of Arta and Bhiimaka is found in Saura~tra, and at Pu~kara near Ajmer, at Ujjain, and at Bhilsa (Vidisa). The most important of the K~aharata K~atrapas, however, was Nahapana, who first extended Saka control along the coast down below the Narmada to the region around Bombay, and up into the Western Ghats. The Konka:r:ia, as we have noted, had previously been under Satavahana dominati",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 28758,
+            "match_text": "son",
+            "context": "of Cukhsa in the year 78 during the reign of the Maharaya Mahanta Moga (Taxila Copper Plate in S. Konow, Kharoshthi Inscriptions, CII 2, 1, Calcutta 1929, pp. 23-29). The Kusuluka clan, then, of which the Mahak~atrapa Patika (Taxila Cop~er Plate and Mathura Lion Capital, ibid., pp. 30-49), the son of Liaka, was also a member, appears to have been a subdivision of the K~aharatas. A Brahmi inscription found at Mathura (H. Li.iders, Mathura Inscriptions, AAWG, Phil.-hist. Kl. 3, 47, Gottingen 1961, pp. 157-158, no. 118) records a <K~at)r <apa) K~aharata Ghataka. 23. For the material remains of that trade in Western India, see: Annual Administration Report of the Archaeological Department, Gwalior State> for the Year 1938-39, Gwalior 1940, p. 18. A. S. Cadre, Archaeology in Baroda (19",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 29877,
+            "match_text": "son",
+            "context": "H. D. Sankalia and S. B. Deo, Report on the Excavations at Nasik and]orwe 1950- 51, Poona 1955, pp. 69-70. R. C. Agrawala in JBRS 41, 1955, 296-298. H. D. Sankalia, B. Subbarao, and S. B. Deo, The Excavations at Maheshwar and Navdatoli 1952- 53, Poona-Baroda 1958, pp. 159-162. B. Subbarao, Personality of India, 2nd ed., Baroda 1958, pp. 46-47. M. N. Deshpande in AI 15, 1959, 90. H. Rydh, Rang Mahal, Lund-Bonn-Bombay 1959, pp. 147- 149. M. R. Majmudar, ed., Historical and Cultural Chronology of Gujarat, Baroda 1960, pp. 95-97. H. D. Sankalia, ·S. B. Deo, Z. D. Ansari, and S. Ehrhardt, From History to 10 INTRODUCTION accurate and has been properly understood-one Candana who took Kalya:r;ia, but Nahapana's son-in-law, the Saka U~avadata (R~abhadatta), the son of Dinika, apparentl",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 30305,
+            "match_text": "son",
+            "context": "1959, pp. 147- 149. M. R. Majmudar, ed., Historical and Cultural Chronology of Gujarat, Baroda 1960, pp. 95-97. H. D. Sankalia, ·S. B. Deo, Z. D. Ansari, and S. Ehrhardt, From History to 10 INTRODUCTION accurate and has been properly understood-one Candana who took Kalya:r;ia, but Nahapana's son-in-law, the Saka U~avadata (R~abhadatta), the son of Dinika, apparently governed the whole region. During his governance R~abhadatta had excavated cave 10 at Nasik, in which are found several inscriptions recording grants made to the monks by himself and his wife, Du}:ikhamitra. The first 24 contains the formal statement of R~abhadatta's donation and a eulogy of him which is largely repeated in the third inscription 25 and in an inscription on the fa~ade of the Caitya cave at Karle; 26 t",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 35045,
+            "match_text": "son",
+            "context": "are dated in the 41st, 42nd, and 45th years. If these dates are referred to the Saka era, they correspond to A.D. 119, 120, and 123. The other grants by R~abhadatta 32 and his wife 33 at Nasik and by him at Karle 34 are not dated, nor is the inscription of Mitadevai:iaka (Mitradevai:iaka), the son of Usabhadata, from Dhenukakata in the Caitya cave at Karle, 35 though he may not be the son of the son-in-law of Nahapana. The latest dated inscription of the reign of Nahapana is that inscribed at J unnar 36 by Ayama of 27. Cf. Sphujidhvaja 3, 34c: raktan prakurvan malaye tapasvi. The Malayas are sometimes said to be the Ma.lavas, but the identification seems untenable to me. See nn. 29 and 30 below. 28. On the Kuras see now M. Rama Rao, \" Coins of the Kura Kings from Brahma- puri,\" ] N",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 36354,
+            "match_text": "son",
+            "context": "y :R~abhadatta to the ascetics of Mount Trirasmi in cave 3 at Nasik (Buhler Nasik 13, Senart Nasik 4) is dated in his 18th regnal year from his victorious camp at Vejayanti (Banavasi) ; and the prasasti of Gautamiputra set up by his mother, Balasri, in the same cave in the 19th year of he\"r grandson, Vasi~thiputra Sri Pulumayi (Buhler Nasik 18, Senart Nasik 2) mentions Gautamiputra as lord of the Malaya mountains. 31. Buhler N asik 9, Sen art N asik 12. 32. Buhler Nasik 7 and 8, Senart Nasik 14a and 14b. 33. Buhler Nasik 10a and 13, Senart Nasik 11 and 13. 34. Buhler Karle 19, Senart Karle 13, Kosambi 29. 35. Buhler Karle 11, Senart Karle 11, Kosambi 15. 36. Buhler Junnar 32. 12 INTRODUCTION the Vacha (Vatsa) gotra, amata (amatya) of the Mahakhatapa Sarni Nahapana (Mahak~atrapa",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 38327,
+            "match_text": "son",
+            "context": "was overthrown in A.D. 124/125 by an invasion of the Satavahana ruler Gautamiputra Satakarr:i.i. At once the monks came to the conqueror to seek a renewal of the grants made by his predecessors; and in the 14th year of his reign (c. A.D. 125), on the first day of the fourth pak~a of the rainy season, he granted again 39 to the Mahasanghika monks in the Caitya at Karle the town of Karajaka which had previously been granted to them by R~abhadatta; 40 and in his I8th 41 and 24th 42 regnal years-c. A.D. 129 and 135-he made grants to the monks in cave 3 at Nasik through his amatyas at Govardhana, Vi~r:i.upalita and Syamaka, respectively. The first grant, made during his campaign against the Kuras, involved a field formerly owned by R~abhadatta. To the Bhadrayana monks of the same cave 3",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 38913,
+            "match_text": "son",
+            "context": "tyas at Govardhana, Vi~r:i.upalita and Syamaka, respectively. The first grant, made during his campaign against the Kuras, involved a field formerly owned by R~abhadatta. To the Bhadrayana monks of the same cave 3 at Nasik Gautamiputra Satakarr:i.i's mother, Balasri (who was associated with her son in the grant of his 24th regnal year), gave a village in the 19th regnal year of her grandson, VasiHhiputra Sri PuJumayi (c. A.D. 155). 43 In her description ~f her son she calls him, inter alia, \"asikaasakamuJakasurathakukurapara:rp.taanupavidabha- akara va:rp. tira ja'' and '' vij hacha va taparica tasahyakar:i.hagirimacasiri tanama- la yamahidasetagiricakora pa va ta pa ti.\" These epithets indicate that his rule extended over Saura~tra, Kukura, Aparanta, Anupa, Vidarbha, Akara, and Avan",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 40179,
+            "match_text": "son",
+            "context": "t Nasik 4. 42. Buhler Nasik 14, Senart Nasik 5. 43. Buhler Nasik 18, Senart Nasik 2. 13 THE YAVANAJATAKA havani~iidana\" and \"khakharatavasaniravasesakara.\" These epithets are supported by his overstrikes of Nahapana's coinage 44 and their discovery in Saura~tra. 45 Gautamiputra Satakan:ii's son, Vasi~thiputra Sri Pulumayi or Pulumavi ( the l:,piTToA.Ep,a'ios whose capital was Bm8ava (Prati~thana) according to Ptolemy, Geography, p. 35), apparently ruled over the Western Ghats for at least 24 years (c. A.O. 136 to 160) ; 46 but he seems to have lost control over the territory north of the Narmada before his grandmother Balasri made her grant to the monks of cave 3 at Nasik in c. 155. He must, then, have been the Dak~i:r:iapathapati Satakar:r:ii whom Rudradaman I twice defeated.",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 41080,
+            "match_text": "son",
+            "context": "hich they approached Avanti was evidently similar to that by which Kalakacarya is alleged to have led the ~a.hi against Garda- bhilla of Ujjain. For the earliest notices of them come from Kaccha, where are found an inscription of the (regnal ?) year 11 at Andhau mentioning the ( K~at) - rapa, the son of Ysamotika, four inscriptions of the year 52 (A.O. 130) at Andhau mentioning the Raja Ca~ta:r:ia son of Ysamotika ( and) the Raja Rudradaman son ofJayadaman, 48 and an inscription of the year ( 5) 3 (A.O. 131) near Khac;lva mentioning Raja Svamin Rudradaman, the son of Raja Svamin Jayadaman, the son of Raja Mahak~atrapa Svamin Ca~ta:r:ia, the son of Ysamotika. 49 Since Ptolemy says that the capital of T,aaTavfJs is 'O(~vYJ (Geo- graphy, p. 28), and Rudradaman's niyukta for Anarta and Sur",
+            "pattern_hit": "son"
+          }
+        ]
+      },
+      "B14": {
+        "name": "Career indicators",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 10808,
+            "match_text": "profession",
+            "context": "Asvins back to Prajapati (79, 56-62). The client who would consult an astrologer following the Yavanajiitaka was evidently expected to be a member of the upper classes, a wealthy landowner or merchant, or one who had the possibility of becoming a government official or an army officer; lesser professions are mentioned infrequently and with opprobrium. Can one conclude, then, that, despite the (admittedly very scanty) epigraphic evidence, the leaders of society in the realm of the Western K~atrapas were predominantly Brahma:r:ias? I rather think so. But the Brah- ma:r:ia caste must have been open to wealthy and powerful members of other castes, and even to Mlecchas. The prose translation of Yavanesvara was evidently deemed an unsuitable vehicle for the transmission of sastraic knowledge.",
+            "pattern_hit": "profession"
+          }
+        ]
+      },
+      "B15": {
+        "name": "Wealth indicators",
+        "passage_count": 13,
+        "passages": [
+          {
+            "position": 10683,
+            "match_text": "wealth",
+            "context": "pises. Rather he admires yogis and munis possessing the divine eye (9, 5). And he traces his knowledge through Surya and the Asvins back to Prajapati (79, 56-62). The client who would consult an astrologer following the Yavanajiitaka was evidently expected to be a member of the upper classes, a wealthy landowner or merchant, or one who had the possibility of becoming a government official or an army officer; lesser professions are mentioned infrequently and with opprobrium. Can one conclude, then, that, despite the (admittedly very scanty) epigraphic evidence, the leaders of society in the realm of the Western K~atrapas were predominantly Brahma:r:ias? I rather think so. But the Brah- ma:r:ia caste must have been open to wealthy and powerful members of other castes, and even to Mleccha",
+            "pattern_hit": "wealth"
+          },
+          {
+            "position": 11123,
+            "match_text": "wealth",
+            "context": "mentioned infrequently and with opprobrium. Can one conclude, then, that, despite the (admittedly very scanty) epigraphic evidence, the leaders of society in the realm of the Western K~atrapas were predominantly Brahma:r:ias? I rather think so. But the Brah- ma:r:ia caste must have been open to wealthy and powerful members of other castes, and even to Mlecchas. The prose translation of Yavanesvara was evidently deemed an unsuitable vehicle for the transmission of sastraic knowledge. Sphujidhvaja therefore undertook to versify the work in A.D. 269/270, during the long reign of Rudra- 4 INTRODUCTION sena II. One suspects that the opportunity was not lost then to further Indianize the text. It was perhaps Sphujidhvaja who introduced the chapter on reincar- nation ( 43); the lists of mine",
+            "pattern_hit": "wealth"
+          },
+          {
+            "position": 18766,
+            "match_text": "dhana",
+            "context": "extent, the Godavari valley. The place-names which can be more or less securely identified are as follow: 7 Ujeni (Ujjayini), Kapasigama (Kapasi ?), Kuraghara (Kurawar?), Nandina- gara (Nandner?), Navagrama (in the a.hara of Ujjayini), Pokhara (Pu~kara near Ajmer), Prati~thana (Paithan), Bhogavadhana (Bhokardan), and Mahisati (Mahesvara, or perhaps Mandhata). A more famous inscription at Safici, 8 of course-that of Vasithiputra Ananda-refers to the Raja Siri Satakar:ii. He may be identical with the Satakar:ii whom the Kalingaraja _Kharavela ignored in his expedition to the West in his second year, during which he threatened Asakanagara (Asmakana- gara ?) . 9 He is presumably, then, Satakan::ii II, whose potin and copper coins are found mainly in Eastern Malwa. Among his predecessors",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 25381,
+            "match_text": "dhana",
+            "context": "rle. Vats 6, Kosambi 22. Yavana of the Dhamadhayas (Dharmadhvajas). In the Caitya cave at Karle. Vats 4, Kosambi 24. Dhammayavana. Is this an abbreviated expression for Yavana of the Dharmadhvajas? In the Caitya cave at Karle. Buhler Karle 19, Senart Ka.rle 10, Kosambi 9. Yavana of the Yasavadhanas (Yasovardhanas). In the Caitya cave at Karle. Vats I 0, Kosambi I 7. Yavana of the Sihadhayas (Siqihadhvajas). There are two inscriptions in the Caitya cave at Karle: Buhler Karle 7, Senart Karle 7, Kosambi 10, and Vats 7, Kosampi 11. Other Yavanas: Yavana of the Irilasagatas (Irila-sangatas). At Junnar. Buhler Junnar 5. Yavana of the Caqidas (Candras). At Junnar. Buhler Junnar 16. Yavana of the Citasagatas (Citrasangatas). ~Junnar. Buhler Junnar 8. Urasakei:ia lrptavhriaputrai:ia Ba",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 31054,
+            "match_text": "dhana",
+            "context": "ption on the fa~ade of the Caitya cave at Karle; 26 this is followed by copies of two later grants. The eulogy of R~abha- datta, though incised in Buddhist caves, records his benefactions to Brahma:r;ias on the river Bar:r;iasa, at Prabhasa (Somanathapagana), at Bharukaccha, at Dasapura, at Govardhana, at Sorparaga, on the Iba, Parada,· Dama:r;ia, Tapi, Karabe:r;ia, and Dahanuka rivers, at Pi:r;ic;litakavac;le, at Suvar:r;iamukha, and · at Ramatirtha (Cambay). He was concerned with promoting, then, the pilgrimage spots (tirthas) in Aparanta, La.ta, and even in Saura~tra, and in providing transportation across the rivers of the Northern Korika:r;ia in order to facilitate north-south traffic. This latter effort was perhaps intended to correct the situation mentioned in the Periplus ( 51)",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 38626,
+            "match_text": "dhana",
+            "context": "ason, he granted again 39 to the Mahasanghika monks in the Caitya at Karle the town of Karajaka which had previously been granted to them by R~abhadatta; 40 and in his I8th 41 and 24th 42 regnal years-c. A.D. 129 and 135-he made grants to the monks in cave 3 at Nasik through his amatyas at Govardhana, Vi~r:i.upalita and Syamaka, respectively. The first grant, made during his campaign against the Kuras, involved a field formerly owned by R~abhadatta. To the Bhadrayana monks of the same cave 3 at Nasik Gautamiputra Satakarr:i.i's mother, Balasri (who was associated with her son in the grant of his 24th regnal year), gave a village in the 19th regnal year of her grandson, VasiHhiputra Sri PuJumayi (c. A.D. 155). 43 In her description ~f her son she calls him, inter alia, \"asikaasakamuJa",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 46610,
+            "match_text": "Dhana",
+            "context": "AVANAJATAKA up by the nun Buddhamitra in the year 2 of Kani~ka. 54 She together with the monk Bala made a tour of the sacred cities of Buddhism in the Ganges-Yamuna valley in the years 2 and 3 of Kani~ka's reign and set up images in Sarna.th 55 and Saheth-Maheth; 56 Buddhamitra's niece, the nun Dhanavati, a pupil of Bala, set up a statue of a Bodhisattva at Mathura itself in the year 33, during the reign of Huvi~ka. 57 These inscriptions do not, of course, imply that Kani~ka necessarily ruled over Kausambi and Benares in the years 2 and 3 (A.D. 146/147). Rudradaman's expedition, if there was one, must have been mounted in the period between 145 and 150; it may have been intended simply as a demonstra- tion to the Ku~ai:ias and to the local authorities in Kausambi that the Western K~at",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 50508,
+            "match_text": "Dhana",
+            "context": "rawala, \"Clay Sealings from Rajghat,\" JNS/23, 1961, 408- 413; and K. D. Bajpai, \"The Ma_ghas ofKausambi and South Kosala and the Allied Problems,\" INC 3, 1962, 11- 21. The numismatic evidence shows that there were several other Magha kings (the Purai:ias, of course, state that there were nine): Dhanadeva, Jayamagha (or Vijaya- magha), Purumagha, Satamagha, and Rudramagha. The last is perhaps the Mahasena- pati (before he became Maharaja) of the Rajghat seal, and the Rudradeva conquered by Samudragupta in c. 370 (see CII 3, pp. 1- 17). It has often been argued that the kings of Bandhogarh belong to the Magha family; but this is impossible. The Mahasenapati Bhadrabala, who is the father of the Raja Vaisravar:ia (N. P. Chakravarti, \"Brahmi Inscriptions from Bandhogarh,\" El 31, 1955/56, 16",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 61827,
+            "match_text": "dhana",
+            "context": "the Narmada. 66. V. V. Mirashi, \"A Problem Raised by the Finds of Coins in Vidarbha,\" J NS/ 24, 1962, 27-30. 67. See A. S. Altekar, \"Nandsa Yupa Inscription,\" El 27, 1947/48, 252-257; this inscription mentions the Malaka Soma, leader of the Sogis and son of Javasoma and grandson of Prabhagravardhana( ?), in 282 of the Krta era (A.D. 225); another, more or less contemporary inscription found at Nandsa (which is in the Sahara District of Udaipur) mentions a Mahasenapati Bhattisoma, the Sogi. The four yupa inscriptions from Bac;lva in Kotah mention several Maukharis of whom one, Bala, was Mahasenapati in 295 of the Krta era (A.D. 238) ; see A. S. Altekar in El 23, 1935/36, 45-52 and 24, 193 7 /38, 251-253. 20 INTRODUCTION The Yavanas as a separate people probably did not long survive",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 71768,
+            "match_text": "dhana",
+            "context": "amunis tu sastraqi horamayaqi lak~amitaqi mayaya / tan minarajo nipm:iarp svabuddhya vicintya cakre =>~tasahasramatram // ya purvakarmaprabhavasya dhatri dhatra lalate likhita prasasti}:i / tarp sastram etat prakatarp vidhatte dipo yatha vastughane ::,ndhakare // 2. Grahayonibheda. 32 vss. 3. Adhana. 39 vss. 4. Janma. 26 vss. 5. Ayurdaya. 15 vss. 6. Dasa. 42 vss. 7. Antardasa. 70 vss. 8. A~takavargaphalani. 129 vss. 9. Suryadarsanacaraphalani. 72 vss. 75. The first element in the name Minaraja appears to be a designation of the Sakas; cf. the M1.v 1r0Ais- located in .EaK<XGT<XVYJ by Isidore of Charax (.ETaBµ,01. llapB,Ko{, ed. W. H. Schoff, Philadelphia 1914, par. 18); the M,vvayapa which, according to the Periplus of the Erythraean Sea (ed. H. Frisk, Goteborg 1927, par. 41) was",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 74856,
+            "match_text": "Dhana",
+            "context": "anacara. 72 vss. 15. Sanaiscaradarsanacara. 72 vss. 16. Grahal).arp. bhava. 84 vss. 17. Siiryacara. 68 vss. 18. Candracara. 68 vss. 19. Bhaumacara. 68 vss. 20. Budhacara. 68 vss. 21. Gurucara. 68 vss. 22. Sukracara. 68 vss. ,, 23. Sanaiscaracara. 68 vss. 24. Tanusthanacinta. 73 vss. 25. Dhanasthanacinta. 26 vss. 26. Sahajasthanacinta. 29 vss. 27. Sukhastha.nacinta. 30 vss. 28. Sutasthanacinta. 29 vss. 29. Ripusthanacinta. 29 vss. 30. Kalatrasthanacinta. 28 vss. 31. Mrtyusthanacinta. 28 vss. 32. Dharmasthanacinta. 27 vss. 33. Karmasthanacinta. 28 vss. 34. Labhasthanacinta. 28 vss. 35. Vyayasthanacinta. 28 vss: 36. Lagnadarsanacara. 7 vss. 37. Anaphayoga. 31 vss. 38. Sunaphayoga. 30 vss. 39. Durdharayoga. 1 73 vss. 40. Lagnasrayayoga. 143 vss. 41. Dhanasrayayoga. 120 v",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 75340,
+            "match_text": "Dhana",
+            "context": "31. Mrtyusthanacinta. 28 vss. 32. Dharmasthanacinta. 27 vss. 33. Karmasthanacinta. 28 vss. 34. Labhasthanacinta. 28 vss. 35. Vyayasthanacinta. 28 vss: 36. Lagnadarsanacara. 7 vss. 37. Anaphayoga. 31 vss. 38. Sunaphayoga. 30 vss. 39. Durdharayoga. 1 73 vss. 40. Lagnasrayayoga. 143 vss. 41. Dhanasrayayoga. 120 vss. 42. Sahajasrayayoga. 120 vss. 43. Sukhasrayayoga. 120 vss. 44. Sutasrayayoga. 120 vss. 45. Satrubhavasrayayoga. 120 vss. 46. Kamasrayayoga. 120 vss. 47. Mrtyusthanasrayayoga. 120 vss. 48. Dharmasrayayoga. 120 vss. 49. Karmasra ya yoga. 120 vss. 50. Labhasrayayoga. 120 vss. 51. Vyayasrayayoga. 120 vss. 52. Sarikhyasrayayoga. 6 vss. 53. Vajradiyoga. 5 vss. 54. Tanvadidvadasabhavadhisaphala. 55. Dvadasabhavasthanacinta. 145 145 vss. vss. 56. Rasmicinta. 56 vss.",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 86319,
+            "match_text": "dhana",
+            "context": "Candradasanirupa1.1a 68. Budhadasaprakara1.1a 70. Bhrgudasaprakara1.1a 72. Candra bharal).asarp.skara THE YAVANAJATAKA 73. Dasanayana 75. Grahabala 77. SuryantardasaprakaraQa 79. Bhaumantardasaprakaral).a 81. Jivantardasaprakaral).a 83. Mandan tardasaprakaral).a 85. Stripuru~asa:qijnabhidhana 87. Madhyamayuryoga 89. Kalanubhava 91. Garbhadhiyoga 93. Na~tajatakavidhi 95. Jatakabhanga 97. Nirya.Qalak~al).a 99. Maral).akalalak~al).a 101. Satruvyayayoga 74. ~!akavargadasa 76. Grahabala 78. CandrantardasaprakaraQa 80. BudhantardasaprakaraQa 82. Bhrgor antardasaprakaral).a 84. Dasantara 86. Y oganusarel).a dasaphala 88. Cirayuryoga 90. Grahanama 92. Strijatakaphala 94. Dvigraha yogavise~akathana 96. Dasanuyoga 98. Maral).akalakathana 1 oo. Matrpitrcinta The followin",
+            "pattern_hit": "dhana"
+          }
+        ]
+      },
+      "B18": {
+        "name": "Death timing",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 49951,
+            "match_text": "death",
+            "context": "( dated after A.D. 180), though we also have some inscriptions. 61 In the following stemma K = K~atrapa, MK = Mahak~atrapa, and the dates are given in the Saka era. Normal succession was from older brother to younger brother to older brother's son; the heir-apparent was made K~atrapa before the death of the Mahak~atrapa. Seal from Madhyadesa (U.P.),\" JNSI8, 1946, 7- 14; A. S. Altekar and D. B. Diskalkar, \"Kasarwad Hoard of 'Ujjain' Coins,\" JNS18, 1946, 99- 106; M. M. Nagar, \"Some New and Rare Coins from Kausambi,\" JNSI 11, 1949, 9-14; V. S. Agrawala, \"Clay Sealings from Rajghat,\" JNS/23, 1961, 408- 413; and K. D. Bajpai, \"The Ma_ghas ofKausambi and South Kosala and the Allied Problems,\" INC 3, 1962, 11- 21. The numismatic evidence shows that there were several other Magha kings (the",
+            "pattern_hit": "death"
+          }
+        ]
+      }
+    },
+    "C. CLASSIFICATIONS": {
+      "C1": {
+        "name": "Planet-planet relationships (natural + temporary)",
+        "passage_count": 17,
+        "passages": [
+          {
+            "position": 30586,
+            "match_text": "mitra",
+            "context": "a, but Nahapana's son-in-law, the Saka U~avadata (R~abhadatta), the son of Dinika, apparently governed the whole region. During his governance R~abhadatta had excavated cave 10 at Nasik, in which are found several inscriptions recording grants made to the monks by himself and his wife, Du}:ikhamitra. The first 24 contains the formal statement of R~abhadatta's donation and a eulogy of him which is largely repeated in the third inscription 25 and in an inscription on the fa~ade of the Caitya cave at Karle; 26 this is followed by copies of two later grants. The eulogy of R~abha- datta, though incised in Buddhist caves, records his benefactions to Brahma:r;ias on the river Bar:r;iasa, at Prabhasa (Somanathapagana), at Bharukaccha, at Dasapura, at Govardhana, at Sorparaga, on the Iba, Para",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 35022,
+            "match_text": "Mitra",
+            "context": "The three inscriptions are dated in the 41st, 42nd, and 45th years. If these dates are referred to the Saka era, they correspond to A.D. 119, 120, and 123. The other grants by R~abhadatta 32 and his wife 33 at Nasik and by him at Karle 34 are not dated, nor is the inscription of Mitadevai:iaka (Mitradevai:iaka), the son of Usabhadata, from Dhenukakata in the Caitya cave at Karle, 35 though he may not be the son of the son-in-law of Nahapana. The latest dated inscription of the reign of Nahapana is that inscribed at J unnar 36 by Ayama of 27. Cf. Sphujidhvaja 3, 34c: raktan prakurvan malaye tapasvi. The Malayas are sometimes said to be the Ma.lavas, but the identification seems untenable to me. See nn. 29 and 30 below. 28. On the Kuras see now M. Rama Rao, \" Coins of the Kura Kings fr",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 46343,
+            "match_text": "mitra",
+            "context": "\"Silver Coin ofVasishthi-putra Satakan:ii,\" EI 35, 1963/64, 247- 252. 53. D. Pingree, \"The Empires of Rudradaman and Yasodharman: Evidence from Two Astrological Geographies,\" JAOS 79, 1959, 267- 270, where the verses quoted from Minaraja are translated. 15 THE YAVANAJATAKA up by the nun Buddhamitra in the year 2 of Kani~ka. 54 She together with the monk Bala made a tour of the sacred cities of Buddhism in the Ganges-Yamuna valley in the years 2 and 3 of Kani~ka's reign and set up images in Sarna.th 55 and Saheth-Maheth; 56 Buddhamitra's niece, the nun Dhanavati, a pupil of Bala, set up a statue of a Bodhisattva at Mathura itself in the year 33, during the reign of Huvi~ka. 57 These inscriptions do not, of course, imply that Kani~ka necessarily ruled over Kausambi and Benares in the",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 46587,
+            "match_text": "mitra",
+            "context": "translated. 15 THE YAVANAJATAKA up by the nun Buddhamitra in the year 2 of Kani~ka. 54 She together with the monk Bala made a tour of the sacred cities of Buddhism in the Ganges-Yamuna valley in the years 2 and 3 of Kani~ka's reign and set up images in Sarna.th 55 and Saheth-Maheth; 56 Buddhamitra's niece, the nun Dhanavati, a pupil of Bala, set up a statue of a Bodhisattva at Mathura itself in the year 33, during the reign of Huvi~ka. 57 These inscriptions do not, of course, imply that Kani~ka necessarily ruled over Kausambi and Benares in the years 2 and 3 (A.D. 146/147). Rudradaman's expedition, if there was one, must have been mounted in the period between 145 and 150; it may have been intended simply as a demonstra- tion to the Ku~ai:ias and to the local authorities in Kausambi",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 78561,
+            "match_text": "Mitra",
+            "context": "adhyayas 1- 71. Alwar 1972. Anup 4965. 128ff. Anup 5179. l l 9ff. *AS Bengal 7193 (G 8074). 187ff. Contains adhyayas 1- 23 with a Marwari commentary by Mohanadasa, a minister of Jayasirp.ha. This latter is perhaps theJayasil!lha who ruled Sailana from 1716 to 1757. *AS Bengal 7195 (G 3141) = Mitra, Not. 4103. Ff. 8- 110. Contains adhyayas 5-47. *AS Bengal 7196 (G 5939). 144ff. Contains adhyayas 1-28 *Baroda 7660. 278ff. Contains adhyayas 1- 71. *Baroda 11336. 24ff. Contains adhyayas 64- 70, followed by Brhatsarrzhitii 32 and 30 and several chapters on sakuna ascribed to Vrddhayavana- Utpatadhyaya, Sivacqtita, Raktak~asakuna, and Sarvoparisamaya. There are also various short additions. Benares (1963) 35995 = Benares (1914-1915) 2456. Ff. 57- 61, -63, 65, 68- 71 , 80- 81 , 86- 8 7,",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 81400,
+            "match_text": "Mitra",
+            "context": "elow as VII) : Go:r:ic;lal 478. I3ff. Copied in Sarp. 1710 = A.D. 1653. Apparently contains only adhyaya 61. Baroda 3355. 9ff. Copied in Saka 1596 = A.D. 1674. *Poleman 5174 (Harvard 299). 16ff. Copied in Sarp. 1760, Saka 1625 = A.D. 1703. Contains adhyayas 58- 61. * AS Bengal 7242 (G 1841) = Mitra, Not. 2452. 8ff. Copied m Sarp. 1809, Saka 1674 = A.D. 1752. Contains adhyayas 60-62. 27 THE YAVANAJ.ATAKA RORI 3793. 12ff. Copied in SaJTl. 1851 = A.D. 1794. *AS Bengal 7334 (G 8077). !Off. Copied in SaJTl. 1884 and 1886 = A.D. 1827 and 1829. Contains adhyayas 60-62 and 59; an extra chapter entitled yogadhyaya is added. Mithila 277 A. 2lff. Copied in Saka 1777 = A.D. 1855. * AS Bengal 7336 (G 3066) l 4ff. Contains adhyayas 58-62 with the yogadhyaya. *BORI 861 of 1887/91. 24ff. GVS",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 85867,
+            "match_text": "mitra",
+            "context": "alakathana Dvigrahayoga. Cf. Saravali 15 Caturgrahayoga. Cf. Saravali 17 $ac;l.grahayoga. Cf. Saravali 19 Paficamahapuru~ayoga. Cf. Sara- vali 37 44. Vasivesyubhayacariyoga. Cf. Sara- vali 14 46. Dhurudhurayoga. Cf. Saravali 13 48. VIJ).ayoga 50. Saktiyoga 52. Lagnadvigrahayogaphala 54. Jamitradvigrahayoga... 56. Karmaphala 58. A~takavargaphala 60. Candrangarakabudhagurva~taka- varga. 62. Sanaiscara~takavarga 64. Jatikaphala( ?) 66. Candradasanirupa1.1a 68. Budhadasaprakara1.1a 70. Bhrgudasaprakara1.1a 72. Candra bharal).asarp.skara THE YAVANAJATAKA 73. Dasanayana 75. Grahabala 77. SuryantardasaprakaraQa 79. Bhaumantardasaprakaral).a 81. Jivantardasaprakaral).a 83. Mandan tardasaprakaral).a 85. Stripuru~asa:qijnabhidhana 87. Madhyamayuryoga 89. Kalanubhava 91. Garb",
+            "pattern_hit": "mitra"
+          },
+          {
+            "position": 75460,
+            "match_text": "Satru",
+            "context": "ss. 35. Vyayasthanacinta. 28 vss: 36. Lagnadarsanacara. 7 vss. 37. Anaphayoga. 31 vss. 38. Sunaphayoga. 30 vss. 39. Durdharayoga. 1 73 vss. 40. Lagnasrayayoga. 143 vss. 41. Dhanasrayayoga. 120 vss. 42. Sahajasrayayoga. 120 vss. 43. Sukhasrayayoga. 120 vss. 44. Sutasrayayoga. 120 vss. 45. Satrubhavasrayayoga. 120 vss. 46. Kamasrayayoga. 120 vss. 47. Mrtyusthanasrayayoga. 120 vss. 48. Dharmasrayayoga. 120 vss. 49. Karmasra ya yoga. 120 vss. 50. Labhasrayayoga. 120 vss. 51. Vyayasrayayoga. 120 vss. 52. Sarikhyasrayayoga. 6 vss. 53. Vajradiyoga. 5 vss. 54. Tanvadidvadasabhavadhisaphala. 55. Dvadasabhavasthanacinta. 145 145 vss. vss. 56. Rasmicinta. 56 vss. 57. Rajayoga. 66 vss. 58- 62. Strijataka (published separate- 63. Nak~at:,ragul).a. 27 vss. ly also): 58. Lagnaphal",
+            "pattern_hit": "satru"
+          },
+          {
+            "position": 84448,
+            "match_text": "Satru",
+            "context": "an who lived between, say, the eleventh and the sixteenth centuries A.D. The contents of the work, in so far as they are at present known to me, are: 1. Rasiprabheda 3. NavagrahabharaJ).a 5. Horaphala / 7. Arpsaphala 9. Lagnaphalakathana 11. Dvi ti yagrahicin ta 13. Sukhasthanacin ta 15. Satrusthanacinta 17. A~tamagrhacinta 19. Dasamagrhacin ta 21. Vyayasthanacinta 23. Candrasra yadr~ti phala 25. B udhasra yadmi phala 27. Sukrasrayaphala 29. Rahuketor bhavaphala 31. Nak~atraphala 33. Tithiphala 35. Yogaphala 37. Trigrahayoga. Cf. Siiravali 16 39. Pancagrahayoga. Cf. Siiravali 18 41. Rajayoga. Cf. Saravali 35 43. Bhaskaradiyoga. 45. SunaphanapharakaraJ)a. Cf. Sara- vali 13 4 7 Kul)c;l.alayoga 49. Nalayoga 51. Mrtyuyoga 53. Caturthadvigrahase~aphalaka- tha'na 55. Da",
+            "pattern_hit": "satru"
+          },
+          {
+            "position": 86478,
+            "match_text": "Satru",
+            "context": "SuryantardasaprakaraQa 79. Bhaumantardasaprakaral).a 81. Jivantardasaprakaral).a 83. Mandan tardasaprakaral).a 85. Stripuru~asa:qijnabhidhana 87. Madhyamayuryoga 89. Kalanubhava 91. Garbhadhiyoga 93. Na~tajatakavidhi 95. Jatakabhanga 97. Nirya.Qalak~al).a 99. Maral).akalalak~al).a 101. Satruvyayayoga 74. ~!akavargadasa 76. Grahabala 78. CandrantardasaprakaraQa 80. BudhantardasaprakaraQa 82. Bhrgor antardasaprakaral).a 84. Dasantara 86. Y oganusarel).a dasaphala 88. Cirayuryoga 90. Grahanama 92. Strijatakaphala 94. Dvigraha yogavise~akathana 96. Dasanuyoga 98. Maral).akalakathana 1 oo. Matrpitrcinta The following manuscripts of the Candriibharar;ahorii are known to me: *Adyar List= Adyar Cat. 21 E 17. 20ff. = Adyar Index 2018. Grantha script. I have used a Devanagar",
+            "pattern_hit": "satru"
+          },
+          {
+            "position": 32221,
+            "match_text": "Sama",
+            "context": "eem to suppose a route from Prati~thana down the Godavari through Pre-history at Nevasa (1954- 56), Poona 1960, pp. 69- 70, 200- 201, 279- 281, 307- 315, 421, and 446. Indian Archaeology 1960- 61- A Review, New Delhi 1961, pp. 7- 9, 18, and 21. S. N. Chowdhary; \"A Bronze Statuette of Atlas from SamaJaji,\" JOI Baroda 11, 1961/62, 309- 315. See K. Hegde, \"An Analytical Examination of a Metal Image from Samalaji,\" JOI Baroda 12, 1962/63, 177-180. U. P. Shah and R. N. Mehta, \"Nagara,\" JOI Baroda 12, 1962/63, 403-406. R. N. Mehta, \"Valabhi of the Maitrakas,\" JOI Baroda 13, 1963/64, 240- 251. Indian Archaeology 1961- 62- A Review, New Delhi 1964, pp. 13- 14. Indian Archaeology 1962- 63-A Review, New Delhi 1965, p. 7. R. N. Mehta and S. N. Chowdhary, Excavation at Devnimori, Baroda 1966, p",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 45330,
+            "match_text": "sama",
+            "context": "ad 9, 4) appear to indicate that Rudradaman's expeditions extended even further to the north than is indicated by Suvisakha. They read (2, 9-10): sahasrarasmir yavane~u jato vibhavarisas tu tatha kalinge / avantidesodbhava eva bhaumal:i kausambikeyo himarasmiputr~l:i // sindhau prajatas tridasesamantri janantyabhur bhojakate bhrgos ca / saura~trajas tik~:r:iakarasya putro rahur mahabarbarasarp.bhavas ca // I had previously attempted to interpret this verse on the assumption that both the Kani~ka era and that used by the Maghas of Kausambi coincide with the Saka era of A.D. 78; 53 I am now inclined to believe that they rather used A.D. 144 as their epoch. The earliest dated inscription at Kausambi is that set 51. The argument is sometimes made that Ca~taJ.la was a subordinate of the",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 72654,
+            "match_text": "sama",
+            "context": ". 8, n. 14), and which is the M,v&.yapa of Ptolemy, Geography 7, 1, 63; and the Mwvayap (Periplus par. 38) or B,vayapa (Ptolemy 7, 1, 61) near the mouth of the Indus. Vrddhayavanajiitaka 67, 1: prag brahmal).a proktam anekaruparµ yac chakunarµ purvajakarmasak~am / tan minarajo yavanadhiraja}:i samasataJ:i saratararµ cakara // As he uses Sphujidhvaja's Yavanajataka, Minaraja is later than 269/70; and as he is referred to by Varahamihira (Brhajjiitaka 12, 1; cf. the commentary on chapter 36 below) he must be before c. 500. His title, his sources, and his constant references to asses and camels (kharo~tra) (see S. Levi, BEFEO 4, 1904, 564-573, and Moti Chandra, JUPHS 16, 2, 1943, 10-12) place him in Western India, no doubt in the K~atrapa realm as he preserves what appears to be a prai",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 74121,
+            "match_text": "sama",
+            "context": "works of Garga and Parasara; the Gargasa1µhitii in its original version dates from the beginning of the Christian era, and the Parasara here referred to is undoubtedly he whom Vara- hamihira cites in Brhatsarp.hita 60, 1 : parasaraJ:i praha brhadrathaya golak~aryarp yat kriyate tato Jyam / maya samasal.1 subhalak~aryas ta}:i sarvas tathapy agamato Jbhidhasye // 76. India, ed. p. 122, trans. vol. 1, p. 158: \"There is a larger book than this (the Siiriivali), a compendium on every subject of astrology, known as the Tavana, that is, belonging to ( or by) the Greeks.\" 24 INTRODUCTION 10. Candradarsanacara. 72 vss. 11. Bhaumadarsanacara. 72 vss. 12. Budhadarsanacara. 72 vss. 13. Gurudarsanacara. 72 vss. 14. Sukradarsanacara. 72 vss. 15. Sanaiscaradarsanacara. 72 vss. 16. Grahal).arp",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 78919,
+            "match_text": "sama",
+            "context": "S Bengal 7196 (G 5939). 144ff. Contains adhyayas 1-28 *Baroda 7660. 278ff. Contains adhyayas 1- 71. *Baroda 11336. 24ff. Contains adhyayas 64- 70, followed by Brhatsarrzhitii 32 and 30 and several chapters on sakuna ascribed to Vrddhayavana- Utpatadhyaya, Sivacqtita, Raktak~asakuna, and Sarvoparisamaya. There are also various short additions. Benares (1963) 35995 = Benares (1914-1915) 2456. Ff. 57- 61, -63, 65, 68- 71 , 80- 81 , 86- 8 7, and 89- 90. *Benares (1963) 36381 = Benares (1878) 142 = Benares (1869) XXXIV 1. 20ff. Contains adhyayas 8- 12. *BM 484 (Or 5244). 75ff. Contains adhyayas 1- 53. From H. Jacobi. 26 INTRODUCTION *BORI 558 of 1899/1915. 235ff. Contains adhyayas 1-68. ?CP, Hiralal 3338. Property ofDilcand of Singhansara, Bila.spur District. Brhajjataka of Y avanacar",
+            "pattern_hit": "sama"
+          }
+        ]
+      },
+      "C5": {
+        "name": "Nakshatra classifications",
+        "passage_count": 2,
+        "passages": [
+          {
+            "position": 71744,
+            "match_text": "yoni",
+            "context": "aya // yad uktavan purvamunis tu sastraqi horamayaqi lak~amitaqi mayaya / tan minarajo nipm:iarp svabuddhya vicintya cakre =>~tasahasramatram // ya purvakarmaprabhavasya dhatri dhatra lalate likhita prasasti}:i / tarp sastram etat prakatarp vidhatte dipo yatha vastughane ::,ndhakare // 2. Grahayonibheda. 32 vss. 3. Adhana. 39 vss. 4. Janma. 26 vss. 5. Ayurdaya. 15 vss. 6. Dasa. 42 vss. 7. Antardasa. 70 vss. 8. A~takavargaphalani. 129 vss. 9. Suryadarsanacaraphalani. 72 vss. 75. The first element in the name Minaraja appears to be a designation of the Sakas; cf. the M1.v 1r0Ais- located in .EaK<XGT<XVYJ by Isidore of Charax (.ETaBµ,01. llapB,Ko{, ed. W. H. Schoff, Philadelphia 1914, par. 18); the M,vvayapa which, according to the Periplus of the Erythraean Sea (ed. H. Frisk, Got",
+            "pattern_hit": "yoni"
+          },
+          {
+            "position": 91673,
+            "match_text": "Yoni",
+            "context": "e Naradiyasarrihita, but it is not found in the printed versions of that work. 13. Gar:iaphala. 3 vss. 15. Karar:iaphala. 11 vss. 17. Grahabhavaphalani. 12 vss. 2. Ayanaphala. 2 vss. 4. Me~adilagnaphala. 12 vss. 6. _Masaphalani. 12 vss. 8. Pak~aphala. 2 vss. 10. Varaphala. 11 vss. 12. Yoniphala. 14 vss. 14. Yogaphala. 27 vss. 16. Rasiphala. 39 vss. The manuscripts of this Yavanajataka known to me are: *Mysore (1922) 1403. 79ff. I have used a transcript in 92 pp. made in 1958. This manuscript contains the following elements presented as Yavana's responses to Kasyapa: l. Tithiphala. Includes adhyaya 9. The first verse is: krtvagnihotram asinarp yavanarp munipungavam / vinayenopasangamya kasyapa}:1 pariprcchati // 2. Varaphala. Includes adhyaya 10. 3. Nak~atraphala. Cf. a",
+            "pattern_hit": "yoni"
+          }
+        ]
+      }
+    },
+    "D. REMEDIES": {
+      "D5": {
+        "name": "Donations (daan)",
+        "passage_count": 4,
+        "passages": [
+          {
+            "position": 21817,
+            "match_text": "donat",
+            "context": "idden and the Greek ships which arrived in this region were brought under guard to Bhrgukaccha . .Eapaya.vos is presumably either Sundara or Cakora Satakarr:ii of the Purar:iic lists, and .Eavoa.v71s would be a general or a governor of Aparanta under Nahapana. A number of inscriptions recording donations of Yavanas to Buddhist caves in the Western Ghats during the first and second centuries A.D. have been edited by Buhler, 17 Senart, 18 Vats, 19 and Kosambi. 20 The majority of these individuals are not named; the inscriptions mention the ethnic yavana in the genitive singular, followed by a proper name, usually compounded with saitgata, in the plural. The saitgatas, I would suggest, are trading corporations. 21 12. For a dating c. 100 B.c. see]. H. Thiel, Eudoxus ofCyzicus, Historisch",
+            "pattern_hit": "donat"
+          },
+          {
+            "position": 30654,
+            "match_text": "donat",
+            "context": "son of Dinika, apparently governed the whole region. During his governance R~abhadatta had excavated cave 10 at Nasik, in which are found several inscriptions recording grants made to the monks by himself and his wife, Du}:ikhamitra. The first 24 contains the formal statement of R~abhadatta's donation and a eulogy of him which is largely repeated in the third inscription 25 and in an inscription on the fa~ade of the Caitya cave at Karle; 26 this is followed by copies of two later grants. The eulogy of R~abha- datta, though incised in Buddhist caves, records his benefactions to Brahma:r;ias on the river Bar:r;iasa, at Prabhasa (Somanathapagana), at Bharukaccha, at Dasapura, at Govardhana, at Sorparaga, on the Iba, Parada,· Dama:r;ia, Tapi, Karabe:r;ia, and Dahanuka rivers, at Pi:r;ic;",
+            "pattern_hit": "donat"
+          },
+          {
+            "position": 34631,
+            "match_text": "donat",
+            "context": "'I7T7TOKovpa according to Ptolemy, 29 and who was the king overthrown by Gautamiputra Satakan:1i. 30 R~abhadatta's raid had no lasting effects; we are told that on his return to his father-in-law's territory he bathed at Pu~kara and gave 3,000 cows and a village to the monks at Nasika. Further donations by R~abhadatta to the monks in cave 10 are mentioned in a final inscription. 31 The three inscriptions are dated in the 41st, 42nd, and 45th years. If these dates are referred to the Saka era, they correspond to A.D. 119, 120, and 123. The other grants by R~abhadatta 32 and his wife 33 at Nasik and by him at Karle 34 are not dated, nor is the inscription of Mitadevai:iaka (Mitradevai:iaka), the son of Usabhadata, from Dhenukakata in the Caitya cave at Karle, 35 though he may not be t",
+            "pattern_hit": "donat"
+          },
+          {
+            "position": 60719,
+            "match_text": "donat",
+            "context": "; of the A.bhira ruler lsvaradeva, dated 254 (A.D. 332), now at the Kutch Museum in Bhuj (Indian Archaeology 1967- 68-A Review, New Delhi 1968, p. 52); and of the Raja Vasi~thiputra Vasu~ex:ia the A.bhira, set up at Nagar- junikonda in his 30th regnal year (c. 330). The last inscription records a donation by the Mahagramika Mahatalavara Mahadax:ic;lanayaka Sivaseba of the Kausikagotra, a member of the Peribic;lehas, by the Yorajis (Yavanaraja) of Sa.rpjayapura (Saiijan? Ptolemy's .Ecxyavnov?), by the Saka Rudradaman of Avanti, and by Vi~x:iurudrasivala- nanda Satakarx:ii of Vanavasi; this implies an extension of A.bhira rule, at least briefly, over all of the former Satavahana territory in the 330's. This leads Mirashi to assert that the Abhira kings were also overlords of the Maharajas",
+            "pattern_hit": "donat"
+          }
+        ]
+      },
+      "D6": {
+        "name": "Temple worship",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 22958,
+            "match_text": "Temple",
+            "context": "e la mer Erythree~\" ]A 249, 1961, 441--459. 15. R. C. Majumdar, \"The Date of the Periplus of the Erythraean Sea,\" !HQ 38, 1962, 89-97. 16. D. W. MacDowall, \"The Early Western Satraps and the Date of the Periplus,\" NC 7, 4, 1964, 271-280. 17. G. Buhler in J. Burgess, Report on the Buddhist Cave Temples and Their Inscriptions, ASWI 4, repr. Varanasi 1964, pp. 82-140, and plates 44- 60 by Bhagvanlal Indraji. 18. E. Senart, \"The Inscriptions in the Caves at Karle,\" El 7, 1902/03, 47-74, and \"The Inscriptions in the Caves at Nasik,\" El 8, 1904/05, 59-96. 19. M. S. Vats, \"Unpublished Votive Inscriptions in the Chaitya Cave at Karle,\" El 18, 1925/26, 325-329. 20. D. D. Kosambi, \"Dhenukakata,\" ]AS Bombay, NS 30,2,1955, 50-71. I do not accept his identification of Miti~da/Milir:pda in number",
+            "pattern_hit": "temple"
+          }
+        ]
+      }
+    },
+    "H. MUHURTA / PANCHANGA": {
+      "H2": {
+        "name": "Tithi selection",
+        "passage_count": 5,
+        "passages": [
+          {
+            "position": 84657,
+            "match_text": "Tithi",
+            "context": "7. Arpsaphala 9. Lagnaphalakathana 11. Dvi ti yagrahicin ta 13. Sukhasthanacin ta 15. Satrusthanacinta 17. A~tamagrhacinta 19. Dasamagrhacin ta 21. Vyayasthanacinta 23. Candrasra yadr~ti phala 25. B udhasra yadmi phala 27. Sukrasrayaphala 29. Rahuketor bhavaphala 31. Nak~atraphala 33. Tithiphala 35. Yogaphala 37. Trigrahayoga. Cf. Siiravali 16 39. Pancagrahayoga. Cf. Siiravali 18 41. Rajayoga. Cf. Saravali 35 43. Bhaskaradiyoga. 45. SunaphanapharakaraJ)a. Cf. Sara- vali 13 4 7 Kul)c;l.alayoga 49. Nalayoga 51. Mrtyuyoga 53. Caturthadvigrahase~aphalaka- tha'na 55. Dasamadvigrahayoga 57. ( Rajayoga) 59. Raver a~takavargaphala 61. Sukra~takavarga 63. Masajatakavidhir a~takavarga 65. Suryadasaprakaral)a 6 7. Bhaumadasaprakaral)a 69. GurudasaprakaraJ)a 71. Mandadasapr",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 85339,
+            "match_text": "tithi",
+            "context": ". Masajatakavidhir a~takavarga 65. Suryadasaprakaral)a 6 7. Bhaumadasaprakaral)a 69. GurudasaprakaraJ)a 71. MandadasaprakaraJ).a 29 2. 4. 6. 8. 10. 12. 14. 16. 18. 20. 22. 24. 26. 28. 30. 32. 34. 36. 38. 40. 42. Candrabharal).a Na varpsaka phala Drekal).aphala N ak~atratithidevata U da yalagnagrahacinta Sahajacinta Pu trasthanadnta Kalatrasthanacin ta Bhagyagrhacinta Labhacinta Arkasrayadmi Bhaumasrayaphala Gurvasrayaphala Mandasra yadr~ti phala Varaphala Balari~ta yoga Karal).aphalakathana Dvigrahayoga. Cf. Saravali 15 Caturgrahayoga. Cf. Saravali 17 $ac;l.grahayoga. Cf. Saravali 19 Paficamahapuru~ayoga. Cf. Sara- vali 37 44. Vasivesyubhayacariyoga. Cf. Sara- vali 14 46. Dhurudhurayoga. Cf. Saravali 13 48. VIJ).ayoga 50. Saktiyoga 52. Lagnadv",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 91283,
+            "match_text": "Tithi",
+            "context": "oranirmalacak~u~a // clearly reflects the third verse of the Vrddhayavanajataka cited above. The contents of this work after the introduction are as follows in the printed editions: 1. Sarpvatsaraphala. 60 vss. 3. }3..tuphala. 6 vss. 5. Grahabhavaphalani. 12 vss. 7. Dinaratriphala. 2 vss. 9. Tithiphala. 15 vss. 11. Nak~atraphala. 27 vss. The colo- phon ascribes this adhyaya to the Naradiyasarrihita, but it is not found in the printed versions of that work. 13. Gar:iaphala. 3 vss. 15. Karar:iaphala. 11 vss. 17. Grahabhavaphalani. 12 vss. 2. Ayanaphala. 2 vss. 4. Me~adilagnaphala. 12 vss. 6. _Masaphalani. 12 vss. 8. Pak~aphala. 2 vss. 10. Varaphala. 11 vss. 12. Yoniphala. 14 vss. 14. Yogaphala. 27 vss. 16. Rasiphala. 39 vss. The manuscripts of this Yavanajataka known to m",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 91970,
+            "match_text": "Tithi",
+            "context": "2. Yoniphala. 14 vss. 14. Yogaphala. 27 vss. 16. Rasiphala. 39 vss. The manuscripts of this Yavanajataka known to me are: *Mysore (1922) 1403. 79ff. I have used a transcript in 92 pp. made in 1958. This manuscript contains the following elements presented as Yavana's responses to Kasyapa: l. Tithiphala. Includes adhyaya 9. The first verse is: krtvagnihotram asinarp yavanarp munipungavam / vinayenopasangamya kasyapa}:1 pariprcchati // 2. Varaphala. Includes adhyaya 10. 3. Nak~atraphala. Cf. adhyaya 1 I. The first verse is: athatas sarppravak~yami nak~atrar:iarp phalarµ sri:iu / sadhu kasyapa tattvena yathovaca pitamaha}:1 '/ 4. Yogaphala. lncludes adhyaya 14. 32 INTRODUCTION 5. Kara9aphala. Includes adhyaya 15. 6. Rasiphalani. Differs from adhyaya 16. 7. Janmalagnaphalani. Cf.",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 98934,
+            "match_text": "Tithi",
+            "context": "ribed on pp. 32- 35, but also incorporates several chapters from the Stri.Jataka based on the Vrddhayavanajataka. The contents of this work are: 1. Ayanaphala. 2 vss. Cf. adhyaya 2. 2. ~tuphala. 6 vss. Cf. adhyaya 3. 3. Masaphala. 12 vss. Cf. adhyaya 6. 4. Pak~aphala. 2 vss. Cf. adhyaya 8. 5. Tithiphala. 16 vss. Cf. adhyaya 9. 6. Varaphala. 7 vss. Cf. adh~ya 10. 7. Nak~atraphala. 27 vss. = Minaraja 60. Cf. adhyaya 11. 8. Yogaphala. 27 vss. CC adhyaya 14. 9. Kara-i:rnphala. 11 vss. Cf. adhyaya 15. 10. Navarpsakaphala. 9 vss. 11. Gai:iaphala. 3 vss. Cf. adhyaya 13. 12. Candrarasiphala. 12 vss. = Minaraja 59. Cf. adhyaya 16. 13 . .Janmaphala. 12 vss. = Minaraja 58. Cf adhyaya 4. 14. Tanubhavaphala. Incomplete. 15. Bhavaphala. 96 vss. = Minaraja 61. Cf. adhyaya 5. 16. Dasaphala. 8",
+            "pattern_hit": "tithi"
+          }
+        ]
+      }
+    }
+  }
+}

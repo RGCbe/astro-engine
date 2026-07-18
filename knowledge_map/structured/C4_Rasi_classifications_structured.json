@@ -1,0 +1,332 @@
+{
+  "item_code": "C4",
+  "item_name": "Rasi classifications",
+  "books_covering": [
+    "BPHS_Vol1",
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Jataka_Parijata",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1",
+    "Uttara_Kalamrita",
+    "Laghu_Parashari",
+    "Prashna_Marga",
+    "Jaimini_Sutras",
+    "Yavanajataka_2",
+    "Unknown_6945"
+  ],
+  "total_passages": 167,
+  "formulas_found": [
+    {
+      "book": "BPHS_Vol1",
+      "score": 7,
+      "context": "lokas : Assume birth is at l6gh 25vi. When this is converted into vighatikas, we get 985. Divided by 15, this yields 65.66' Rasi which means 65 signs and 20 degrees. Expunging the multiples of 12, we have 5s 200 or 1700. The next step is to add this straightaway to the Sun's tongitude if he is in a movable sign. Suppose the Sun is in Aries 15 degrees, we get 170*15:185 or Libra 5 degrees as Pranapada ascendant. In the same example if the Sun is in a fixed sign, say Taurus 15 degrees, we have to add another 240 degrees, So to say,45 (the Sun)+240*170:455 or 95 degrees (Cancer 5 degrees) as Pranapada asceadant. Again, alternatively if the Sun is in a dual sign, say Gemini 150, we have to add only 120 degrees in place of 240 degrees. That is 75 (Sun's longitude)*120*170:365:50 Aries is Prana'",
+      "position": 70975
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "s: Assume birth is at 16gh 25vi. When this is converted into vighatikas, we get 985. Divided by 15, this yields 65.66. Rashi which means 65 signs and 20 degrees. Expunging the multiples of 12, we have 5s 20° or 170°. The next step is to add this straightaway to the Sun's longitude if he is in a movable sign. Suppose the Sun is in Aries 15 degrees, we get 170+ 15=185 or Libra 5 degrees as Prana-Pada ascendant. In the same example if the Sun is in a fixed sign, say Taurus 15 degrees, we have to add another 240 degrees. So, to say, 45 (the Sun) +240 + 170=455 or 95 degrees (Cancer 5 degrees) as Prana-Pada ascendant. Again, alternatively if the Sun is in a dual sign, say Gemini 15°, we have to add only 120 degrees in place of 240 degrees. That is 75 (Sun's longitude) + 120 + 170=365=5° Aries i",
+      "position": 75771
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "faqtf,q !t ffiq farloi gf q <si qrqqd aa llelll qT$t EI?q ftqrt'tqrf,t,itrepisfq q I sriqrqfi fffii AE TqI( iTaI vemE{ a}q ttuvtt 7l-74. CALCULATION OF PR,ANAPADA.' Convert the given time into vighatikas and divide the same by 15. The resultant Rasi, degrees etc. be added to the Sun if he is in a movable sign which will yield Paranapada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 120 degrees in furtherance to get Pranapada. The birth will be auspici-ous if Pranapada falls in the 2nd, 5th, 9th, 4th, 10th or llth from the natal ascendant. In other houses, Pranapada indicates an inausPicious birth. Notes : The calculation of Pranapada Lagna is exemplified below, as Per the above slokas : Assume birth is at l6gh 25vi. When this is converted into vighati",
+      "position": 70245
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "कोणे तुये च राज्ये प्राणििं तिा॥७३॥ शुभं जन्म विजानीयात्तथैिैकािशेऽपि च। अन्यस्थाने स्थस्थतं चेत् यात् तिा जन्माशुभं ििेत्॥७४॥ 71-74. CALCULATION OF PRANA-PADA: Convert the given time into vighatikas and divide the same by 15. The resultant Rashi, degrees etc. be added to the Sun if he is in a movable sign which will yield Paranapada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 120 degrees in furtherance to get Prana-Pada. The birth will be auspicious if Prana-Pada fall in the 2nd, 5th, 9th, 4th, 10th or 11th from the natal ascendant. In other houses, Prana-Pada indicates an inauspicious birth. Notes: The calculation of Prana-Pada Lagna is exemplified below, as per the above shlokas: Assume birth is at 16gh 25vi. When this is converted into vighatika",
+      "position": 75030
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "7 2 9 4 11 6 1 8 3 10 6th Dvn 6 1 8 3 10 5 12 7 2 9 4 11 7th Dvn 7 2 9 4 11 6 1 8 3 10 5 12 निांशेशाश्चरे तिापत्त्स्थरे तििमादितः। उभये तत्पंचमािेररवत चचन्त्यं विचक्षणौः। िेिा नृराक्षसाश्चैि चरादिषु गृहेषु च॥१२॥ 12. NAVAMSHA: The Navamsha calculation are for a movable sign from there itself, for a fixed sign from the 9th thereof and for a dual sign from the 5th thereof. They go by designations Deva (divine), Manushya (human) and Rakshasa (devilish) in a successive and repetitive order for a movable sign. (Manushya, Rakshasa and Deva are the order for a fixed sign while Rakshasa Manushya and Deva are a dual sign's order.) Notes: Navamsha is 1/9th part of a sign or 3° 20'. The 9 Navamsha in order commence from the same sign for a movable sign, from the 9th f",
+      "position": 117187
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "हेषु च॥१२॥ 12. NAVAMSHA: The Navamsha calculation are for a movable sign from there itself, for a fixed sign from the 9th thereof and for a dual sign from the 5th thereof. They go by designations Deva (divine), Manushya (human) and Rakshasa (devilish) in a successive and repetitive order for a movable sign. (Manushya, Rakshasa and Deva are the order for a fixed sign while Rakshasa Manushya and Deva are a dual sign's order.) Notes: Navamsha is 1/9th part of a sign or 3° 20'. The 9 Navamsha in order commence from the same sign for a movable sign, from the 9th for a. fixed sign and from 5th for a dual sign. For example: the Navamsha of Aries are counted from Aries itself; from Capricorn for Taurus and from Libra for Gemini. These are fully shown in the table below: Speculum of Navamsha Si",
+      "position": 117425
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "devilish) in a successive and repetitive order for a movable sign. (Manushya, Rakshasa and Deva are the order for a fixed sign while Rakshasa Manushya and Deva are a dual sign's order.) Notes: Navamsha is 1/9th part of a sign or 3° 20'. The 9 Navamsha in order commence from the same sign for a movable sign, from the 9th for a. fixed sign and from 5th for a dual sign. For example: the Navamsha of Aries are counted from Aries itself; from Capricorn for Taurus and from Libra for Gemini. These are fully shown in the table below: Speculum of Navamsha Signs 1 2 3 4 5 6 7 8 9 10 11 12 The Sixteen Divisions of a Sign Page 47 DIVISIONS 1st 1 10 7 4 1 10 7 4 1 10 7 4 2nd 2 11 8 5 2 11 8 5 2 11 8 5 3rd 3 12 9 6 3 12 9 6 3 12 9 6 4th 4 1 10 7 4",
+      "position": 117671
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "mini Aqua Libra 4th/16th Cancer Pisces Scorpio 5th Leo Aries Sagi 6th Virgo Taurus Capri 7th Libra Gemini Aqua 8th Scorpio Cancer Pisces 9th Sagi Leo Aries 10th Capri Virgo Taurus 11th Aqua Libra Gemini 12th Pisces Scorpio Cancer EXAMPLE: For Aries and other movable signs, the 20 divisions are in order distributed from Aries; for fixed signs from Sagittarius and for dual signs from Leo as could be seen from the Table. लसद्धांशकानामत्तधिाः लसंहािोजभगे ग्रहे। ककयद्युग्मभगे खेटे स्कन्दः िशुयधरोऽनलः॥२२॥ विश्वकमा भगो वमिो मयोऽन्तकिृषध्वजाः। गोविन्दो मिनो भीमः लसंहािौ विषमे क्रमात्। ककािौ समभे भीमादद्वलोमेन विचचन्तयेत्॥२३॥ 22-23. SIDDHAMSA: The Siddhamsa (1/24th part of a sign or 1° 15' each) distribution commences from Leo and Cancer respectively for an odd",
+      "position": 124234
+    },
+    {
+      "book": "Saravali",
+      "score": 4,
+      "context": "nd the 40th ones are respectively Libra, Scorpio, Sagittarius and Capricorn. (15) Akshavedamsas : Each Rasi is divided into 45 equal parts, each of 40’ ofarc. In the case of movable Rasis, the rulership is counted from Aries; from Leo in so far as fixed Rasis are concerned and from Sagittarius for dual signs, ====== PAGE 36 ====== 32 Saravali (16) Shashtiamsas : 301 of arc makes one Shashtiamsa and each Rasi has 60 such Shashtiamsas. In the case of an odd sign, the designations of Shashtiamsas are as under. The suffix ““M” indicates that it isa malefic Shashtiamsa while “B” tells you that it is benefic. 1. Ghora—M 2. Rakshasa—M 3. Deva—B 4. Kubera—B 5. Yaksha—B 6. Kinnera—B 7. Bhrashtamsa—M 8. Kulagnamsa—M 9. Garalamsa—M 10. Agani—M 11. Maya—M 12. Pretapureesa—M 13. Apampatya—B 14. Marutwa",
+      "position": 46946
+    },
+    {
+      "book": "Saravali",
+      "score": 4,
+      "context": "i from Scorpio. The second falls in Leo, the third in Virgo, the fourth in Libra and so on and so forth. ` \"\" (10) Shodasamsa (i.e. 1/16th of a Rasi): This is also called Khalaamsa. Each Rasi is made in 16 equal parts 1.6. 14 degrees. The counting commences from Aries for Chara Rasis, from Leo for Sthira Rasis and from Sagittarius for: Dwi- swabhava Rasis. To give an example, in the case of movable signs, the first Shodasamsa is Aries, the 2nd is Taurus, and so on; the 13th is again Aries, the 14th is again Taurus the 15th is again Gemini and the last one, 16th is again Cancer. Similar calculations should be made for fixed and dual (common) signs accerdingly (11) Vimsamsa : Each Rasi is made in 20 equal parts each of 1°30’... The counting for movable signs commences from Aries, for dual si",
+      "position": 44199
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Phaladeepika",
+      "rule_words": 10,
+      "context": "‘ (:d king. When the said pLinet is in hi * exaltation, th€^ person will become a king, H the planet should bo in his own house, the person will live in his own native place. He will always be on his legs if the planet be in a moveable house. He will be stationary in one place if the planet be in a fixed sign. The effect vvill be mixed if in a dual sign. SI 4-5 165 i%»?7T?r: crg^r ^5??T^ 3ficr?^ 5tfi:’^’5¥^?^??t f^^rft vr^^ig^: iiyii SJoka 4 .— If at the birth of a person, the lord of the Lagna be of brilliant rays, he will become famous; ii the planet . be well-placed, the person will be happ"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 9,
+      "context": "hese things and disregarding the rest, they say that \"animals\" are to be characterized by these rules. 29. When the most auspicious planets are in the cardines, one should say they are gods; when the malefic planets are strong, animals. When a mixture ( of benefic and malefic planets) is in the human signs, the category (yoni) of humans is spoken of; 30. when in the animal signs, one should say animals; and when in the forest signs, they belong to (the category of) forest-creatures. If malefic planets are in the animal signs, they say it is the category (yoni) of footless creatures. 31. For (t"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 8,
+      "context": "huma and other Upagrahas, these houses attain their destruction ; so says Parasara. Sloka 23 .—^When there is Dhuma, there will always 2B1 , Adh. XXV be trouble from heat and danger from fire and mental anguish. When Vyatipata is thus situated, there is danger from horned animals and death through quadrupeds. rfcT^R %5!T'7i^; mn ^r^sTTr^r iP.yti Sloka :'-4. When there is Parivesha or Paridhi, the native will feel afraid of water, will suffer from watery diseases and also have to endure imprisonment. When there is Indra Chapa or Kodanda, the native will be hit by a stone, will be wounded by wea"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 7,
+      "context": "he time required for the success or defeat of the enemy. NOTES According to some pandits the time-scale of the lord of the Navamsa Lagna should be multiplied by the number of Navamsa gained by the lord of Lagna. Stanza 73. If the planet that indicates success or otherwise of the event occupies a fixed sign, then its period should be multiplied by 3; and if it occupies a common sign, the period should be multiplied by two. NOTES In a moveable sign, the period assigned holds good. Stanza 74. If, at the time of query, the questioner or another person is seen standing along with him or one of them"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 7,
+      "context": "diurnal signs, and during night in nocturnal signs; if vice versa the result will be unfavourable. If the journey is begun when the Sun and the Moon are in tie ascendant which should be a moveable sigp, the object will be realised. NOTES If the Sun, the Moon and the ascendant are together in a fixed sign, return to own place can be done. Common signs are suitable for starting the journey and also for returning. Stanza 129. The 2nd, 3rd, 6th and 10th signs from the birth-ascendant and radical Moon of the native are auspicious for the journey. NOTES According to some the ascendant at the time of"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 6,
+      "context": "faqtf,q !t ffiq farloi gf q <si qrqqd aa llelll qT$t EI?q ftqrt'tqrf,t,itrepisfq q I sriqrqfi fffii AE TqI( iTaI vemE{ a}q ttuvtt 7l-74. CALCULATION OF PR,ANAPADA.' Convert the given time into vighatikas and divide the same by 15. The resultant Rasi, degrees etc. be added to the Sun if he is in a movable sign which will yield Paranapada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 120 degrees in furtherance to get Pranapada. The birth will be auspici-ous if Pranapada falls in the 2nd, 5th, 9th, 4th, 10th or llth from the natal ascendant. In other houses,"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 6,
+      "context": "कोणे तुये च राज्ये प्राणििं तिा॥७३॥ शुभं जन्म विजानीयात्तथैिैकािशेऽपि च। अन्यस्थाने स्थस्थतं चेत् यात् तिा जन्माशुभं ििेत्॥७४॥ 71-74. CALCULATION OF PRANA-PADA: Convert the given time into vighatikas and divide the same by 15. The resultant Rashi, degrees etc. be added to the Sun if he is in a movable sign which will yield Paranapada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 120 degrees in furtherance to get Prana-Pada. The birth will be auspicious if Prana-Pada fall in the 2nd, 5th, 9th, 4th, 10th or 11th from the natal ascendant. In other houses, Pr"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "s. If Rahu aspected by Mars be in the 6th or the 8th, the person concerned will suffer from carbun- cle. If Saturn in conjunction with the Moon occupy any of the above two houses, the native will suffer from the enlargement of spleen. If the waning Moon occupy any of the above houses identical with watery signs, in conjunction with a malefic, the person will suffer from a watery disease or consumption. Note : -In all those oases j^reat care should be used in inakiiiij predictions. Common sense and oxpjrionco arc to used guide :i. M<j Adh- XiV srierT iT’ssf^ %?r srs^^^ssr ^!*isr#^K3rr5!r5rT ^rr"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "r reference, death will be due to a tree, water, wood or weapon. If the Rasi be Makara, death will be by stomach-ache, want of appetite or aberration of mind, etc.,^. If Kumbha, it will be by cough, fever and consumption ; lastly, if Meena be the Rasi concerned, death will be by drowning or by some watery diseases such as ascitis (sRrt^^'Jalodara). <^«TIr!IVTt; IRo|l Shka 20.—When the 8th house happens to be own- ed by a malefic planet (and is also malefic) and be occupied also by a malefic, or a malefic asterism be there, death will be due to weapon, fire, tiger or snAke, If two malefics bein"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "ury, Jupiter or Venus occupies the 6th, then the enemy who has invaded will be defeated. Stanza 60. When the Moon occupies a fixed sign and the ascendant happens to be a moveable sign and Navamsa, the enemy will invade in strength. When the Moon is in a moveable sign and the ascendant falls in a fixed sign, the enemy though well prepared will not march for fighting. Stanza 61. If the ascendant is a fixed sign and the Moon is in a common sign, though the enemy may have come near, will return without fighting. Stanza 62. When the Moon is in a moveable sign and the ascendant in a common sign, the"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "me to fight. When Mercury, Jupiter and Venus are in the 4th, they will mount an attack immediately. Stanza 66. If Aries, Taurus, Leo or Sagittarius happens to be the ascendant or the 4th house and if any planet occupies them, the enemy will go back without fighting. Stanza 67. If a fixed sign ascends and Jupiter or Saturn occupies it, then the enemy will not come to fight. If the ascendant is a moveable sign and the Sun or Jupiter occupies it, then the enemy will invade. Stanza 68. If Jupiter or Venus occupies the 2nd or 3rd, the enemy will appear all of a sudden with his army. In regard to a "
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "V CHAPTER XXV Rainfall Stanza 1. At the time of the solar ingress into Gemini, when the Moon occupies a watery Navarasa and Venus is in the 2nd or 12th from the Sun, there will be copious rains. When the Sun, the Moon, Mars, Saturn and Rahu are in watery signs and Mercury and Venus conjoin in a fixed sign, there will be very heavy rains. Stanza 2. When the Sun, Mercury and Venus occupy the same sign and the same Navamsa, there will be heavy rains. But if the sign and Navamsa happen to be watery, the rains will be all the more heavy. Stanza 3. When Mercury and Venus occupy the same sign and the"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 5,
+      "context": "NEFITS; If the ascendant ford, Mercury, Jupiter or Venus be in an angle or in a trine, the native will be longlived, wealthy, intelligent and liked by the k.ing. Fame, wealtb, abundant pleasures and comforts of the body will 128 Brihat parasara Hora Sastra be aoquired if tho ascondant lord is in a movable sign and bc arpected by a benefic planet. Orle will bc endowed with royal marks (of fbrtune) if Mercury, Jupiter or Venus bo in the ascendant along vith the il{oon, or bc in anglc from the &l0€ndant. Notes : \"RaJalrkshtn!\" mcan$ mark of fortune. There arc 32 Lakshanas of m{or categ,ory in Sam"
+    },
+    {
+      "book": "Saravali",
+      "rule_words": 5,
+      "context": "ther, i.e. the father was absent from the place. If the Sun is in the °th identical with a movable Rasi, the father was in a foreign place. The Sun in the case of day birth and Saturn in the case of hight birth, if aspected by Mars, delivery is out of father’s sight. Ifthe said Sun or Saturn be ina movable sign, death of father (in a distant place) should be declared. Ifthe 5th, 6th and 7thfrom the Sun are aspected or occupied by malefics, the father was under confinement. Movable, fixed and common signs here indicate confinement, respectively in foreign place, own place and on the way. जायात्"
+    },
+    {
+      "book": "Saravali",
+      "rule_words": 5,
+      "context": "st two signs preceding the first dual sign indicate the east. The first dual sign, Gemini, denotes south- east. The next dual signs is Virgo denoting south-west. The signs Cancer and Leo denote the south. The third dual sign represents north-west while the signs Libra-Scorpio hint at west. The last dual signs Pisces repersents north-east while Capricorn and Aquarius indicate the north. Each sign ascending accor- dingly indicate the direction or quarter in which the delivery room is located. For example, Virgo rising denotes south- western room. Similarly other signs. दिग्भागराशिमण्डलकेनद्रेषु "
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "degrees",
+      "value": 240.0,
+      "context": "ada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 12"
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "es additionally and if in dual sign add 120 degrees in furtherance to get Pranapada. The bi"
+    },
+    {
+      "type": "degrees",
+      "value": 20.0,
+      "context": "ds 65.66' Rasi which means 65 signs and 20 degrees. Expunging the multiples of 12, we have"
+    },
+    {
+      "type": "degrees",
+      "value": 15.0,
+      "context": "vable sign. Suppose the Sun is in Aries 15 degrees, we get 170*15:185 or Libra 5 degrees a"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": " 15 degrees, we get 170*15:185 or Libra 5 degrees as Pranapada ascendant. In the same exa"
+    },
+    {
+      "type": "degrees",
+      "value": 15.0,
+      "context": " the Sun is in a fixed sign, say Taurus 15 degrees, we have to add another 240 degrees, So"
+    },
+    {
+      "type": "degrees",
+      "value": 240.0,
+      "context": "urus 15 degrees, we have to add another 240 degrees, So to say,45 (the Sun)+240*170:455 or "
+    },
+    {
+      "type": "degrees",
+      "value": 95.0,
+      "context": ", So to say,45 (the Sun)+240*170:455 or 95 degrees (Cancer 5 degrees) as Pranapada asceada"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": " Sun)+240*170:455 or 95 degrees (Cancer 5 degrees) as Pranapada asceadant. Again, alterna"
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "gn, say Gemini 150, we have to add only 120 degrees in place of 240 degrees. That is 75 (Su"
+    },
+    {
+      "type": "degrees",
+      "value": 240.0,
+      "context": "ave to add only 120 degrees in place of 240 degrees. That is 75 (Sun's longitude)*120*170:3"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": " be the same as in_ Sthira Dasa system (7 years for Movable signs, g years for Fixed si"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "able signs, g years for Fixed signs and 9 years for Dual signs). In this syst;m 6rery -"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": " be the same as in_ Sthira Dasa system (7 years for Movable signs, g years for Fixed si"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "able signs, g years for Fixed signs and 9 years for Dual signs). In this syst;m 6rery -"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": "e the' sthira Dasa. In this Dasa system 7 years, 8 years and 9 years (fre<rrra) signs i"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "hira Dasa. In this Dasa system 7 years, 8 years and 9 years (fre<rrra) signs in that or"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "n this Dasa system 7 years, 8 years and 9 years (fre<rrra) signs in that order. In this"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "wards. The Chara Dasa of Aquarius is of 8 years and Sthira Dasa is also of 8 years. The"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "s of 8 years and Sthira Dasa is also of 8 years. The Dasa of Aquarius in the Yogardha D"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "dha Dasa system will consequently be of 8 years (| of 8+8). The Chara Dasa of Pisccs is"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "isccs is one year and Sthira Dasa is of 9 years. Thus the Dasa of Fisces here will b? o"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "Thus the Dasa of Fisces here will b? of 5 years (* of l-r9). The Dasas of thc rcnaining"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "tivc Trble Sign Aquarius Pisces Dasa\" 8 5 Years Taurus Gemini Canccr 8+811 Aries 4 Sagi"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": ". Illustrative Table Sign Libra !\"-;asa 7 Years Taurus 8 Leo 8 Aquarius Scorpio Caprico"
+    },
+    {
+      "type": "degrees",
+      "value": 240.0,
+      "context": "ada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 12"
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "es additionally and if in dual sign add 120 degrees in furtherance to get Prana-Pada. The b"
+    },
+    {
+      "type": "degrees",
+      "value": 20.0,
+      "context": "s 65.66. Rashi which means 65 signs and 20 degrees. Expunging the multiples of 12, we have"
+    },
+    {
+      "type": "degrees",
+      "value": 20.0,
+      "context": "punging the multiples of 12, we have 5s 20° or 170°. The next step is to add this s"
+    },
+    {
+      "type": "degrees",
+      "value": 170.0,
+      "context": " the multiples of 12, we have 5s 20° or 170°. The next step is to add this straighta"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/house.py",
+    "function": "rasi_drishti"
+  }
+}

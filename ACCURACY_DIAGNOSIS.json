@@ -1,0 +1,424 @@
+{
+  "charts": [
+    {
+      "name": "Narendra Modi",
+      "slug": "narendra_modi",
+      "total_pred": 3079,
+      "median_window_days": 366,
+      "sev_dist": {
+        "2": 114,
+        "3": 1710,
+        "4": 849,
+        "5": 406
+      },
+      "top_cats": [
+        [
+          "mark_scar_discovery",
+          38
+        ],
+        [
+          "d27_strength_sub",
+          37
+        ],
+        [
+          "kp_ruling_planet",
+          37
+        ],
+        [
+          "mayan_wave_spell",
+          37
+        ],
+        [
+          "ziwei_palace",
+          37
+        ],
+        [
+          "father",
+          36
+        ]
+      ],
+      "sweep": [
+        {
+          "min_sev": 2,
+          "n_pred": 3079,
+          "density": 36.2,
+          "real": 100.0,
+          "null": 86.5,
+          "disc": 13.5,
+          "p": 0.53,
+          "hits": 5,
+          "cat": 5
+        },
+        {
+          "min_sev": 3,
+          "n_pred": 2965,
+          "density": 34.9,
+          "real": 100.0,
+          "null": 81.5,
+          "disc": 18.5,
+          "p": 0.51,
+          "hits": 5,
+          "cat": 5
+        },
+        {
+          "min_sev": 4,
+          "n_pred": 1255,
+          "density": 14.8,
+          "real": 100.0,
+          "null": 80.7,
+          "disc": 19.3,
+          "p": 0.49,
+          "hits": 5,
+          "cat": 5
+        },
+        {
+          "min_sev": 5,
+          "n_pred": 406,
+          "density": 4.8,
+          "real": 80.0,
+          "null": 75.7,
+          "disc": 4.3,
+          "p": 0.59,
+          "hits": 4,
+          "cat": 5
+        }
+      ]
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "slug": "sachin_tendulkar",
+      "total_pred": 3399,
+      "median_window_days": 160,
+      "sev_dist": {
+        "2": 131,
+        "3": 2239,
+        "4": 717,
+        "5": 312
+      },
+      "top_cats": [
+        [
+          "d27_strength_sub",
+          52
+        ],
+        [
+          "vitality_cycle",
+          50
+        ],
+        [
+          "self_confidence_peak",
+          50
+        ],
+        [
+          "palmistry_life_break",
+          50
+        ],
+        [
+          "kp_ruling_planet",
+          49
+        ],
+        [
+          "mayan_wave_spell",
+          49
+        ]
+      ],
+      "sweep": [
+        {
+          "min_sev": 2,
+          "n_pred": 3399,
+          "density": 40.0,
+          "real": 88.9,
+          "null": 84.9,
+          "disc": 3.9,
+          "p": 0.82,
+          "hits": 8,
+          "cat": 9
+        },
+        {
+          "min_sev": 3,
+          "n_pred": 3268,
+          "density": 38.4,
+          "real": 88.9,
+          "null": 82.5,
+          "disc": 6.4,
+          "p": 0.755,
+          "hits": 8,
+          "cat": 9
+        },
+        {
+          "min_sev": 4,
+          "n_pred": 1029,
+          "density": 12.1,
+          "real": 88.9,
+          "null": 82.1,
+          "disc": 6.8,
+          "p": 0.745,
+          "hits": 8,
+          "cat": 9
+        },
+        {
+          "min_sev": 5,
+          "n_pred": 312,
+          "density": 3.7,
+          "real": 88.9,
+          "null": 83.7,
+          "disc": 5.2,
+          "p": 0.805,
+          "hits": 8,
+          "cat": 9
+        }
+      ]
+    },
+    {
+      "name": "Rekha",
+      "slug": "rekha",
+      "total_pred": 2827,
+      "median_window_days": 346,
+      "sev_dist": {
+        "2": 140,
+        "3": 1668,
+        "4": 737,
+        "5": 282
+      },
+      "top_cats": [
+        [
+          "father",
+          45
+        ],
+        [
+          "d45_total_life_sub",
+          41
+        ],
+        [
+          "nadi_karaka_shift",
+          41
+        ],
+        [
+          "pinnacle_change",
+          41
+        ],
+        [
+          "kala_sarpa_peak",
+          38
+        ],
+        [
+          "kp_ruling_planet",
+          37
+        ]
+      ],
+      "sweep": [
+        {
+          "min_sev": 2,
+          "n_pred": 2827,
+          "density": 33.3,
+          "real": 71.4,
+          "null": 68.4,
+          "disc": 3.1,
+          "p": 0.805,
+          "hits": 5,
+          "cat": 7
+        },
+        {
+          "min_sev": 3,
+          "n_pred": 2687,
+          "density": 31.6,
+          "real": 71.4,
+          "null": 68.1,
+          "disc": 3.3,
+          "p": 0.805,
+          "hits": 5,
+          "cat": 7
+        },
+        {
+          "min_sev": 4,
+          "n_pred": 1019,
+          "density": 12.0,
+          "real": 71.4,
+          "null": 65.1,
+          "disc": 6.4,
+          "p": 0.69,
+          "hits": 5,
+          "cat": 7
+        },
+        {
+          "min_sev": 5,
+          "n_pred": 282,
+          "density": 3.3,
+          "real": 71.4,
+          "null": 67.4,
+          "disc": 4.1,
+          "p": 0.775,
+          "hits": 5,
+          "cat": 7
+        }
+      ]
+    },
+    {
+      "name": "Mukesh Ambani",
+      "slug": "mukesh_ambani",
+      "total_pred": 3164,
+      "median_window_days": 310,
+      "sev_dist": {
+        "2": 128,
+        "3": 1846,
+        "4": 866,
+        "5": 324
+      },
+      "top_cats": [
+        [
+          "d27_strength_sub",
+          48
+        ],
+        [
+          "vitality_cycle",
+          44
+        ],
+        [
+          "mark_scar_discovery",
+          42
+        ],
+        [
+          "self_confidence_peak",
+          41
+        ],
+        [
+          "kala_sarpa_peak",
+          39
+        ],
+        [
+          "short_trip",
+          39
+        ]
+      ],
+      "sweep": [
+        {
+          "min_sev": 2,
+          "n_pred": 3164,
+          "density": 37.2,
+          "real": 66.7,
+          "null": 62.8,
+          "disc": 3.9,
+          "p": 0.66,
+          "hits": 4,
+          "cat": 6
+        },
+        {
+          "min_sev": 3,
+          "n_pred": 3036,
+          "density": 35.7,
+          "real": 66.7,
+          "null": 59.2,
+          "disc": 7.4,
+          "p": 0.545,
+          "hits": 4,
+          "cat": 6
+        },
+        {
+          "min_sev": 4,
+          "n_pred": 1190,
+          "density": 14.0,
+          "real": 33.3,
+          "null": 48.2,
+          "disc": -14.8,
+          "p": 0.98,
+          "hits": 2,
+          "cat": 6
+        },
+        {
+          "min_sev": 5,
+          "n_pred": 324,
+          "density": 3.8,
+          "real": 33.3,
+          "null": 41.8,
+          "disc": -8.5,
+          "p": 0.99,
+          "hits": 2,
+          "cat": 6
+        }
+      ]
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "slug": "mahatma_gandhi",
+      "total_pred": 2983,
+      "median_window_days": 246,
+      "sev_dist": {
+        "2": 146,
+        "3": 1943,
+        "4": 664,
+        "5": 230
+      },
+      "top_cats": [
+        [
+          "mouth_lip_issue",
+          49
+        ],
+        [
+          "father",
+          44
+        ],
+        [
+          "chest_health_issue",
+          41
+        ],
+        [
+          "matri_dosha",
+          41
+        ],
+        [
+          "vish_yoga",
+          35
+        ],
+        [
+          "public_speaking_debut",
+          35
+        ]
+      ],
+      "sweep": [
+        {
+          "min_sev": 2,
+          "n_pred": 2983,
+          "density": 35.1,
+          "real": 50.0,
+          "null": 60.8,
+          "disc": -10.8,
+          "p": 0.9,
+          "hits": 4,
+          "cat": 8
+        },
+        {
+          "min_sev": 3,
+          "n_pred": 2837,
+          "density": 33.4,
+          "real": 50.0,
+          "null": 62.2,
+          "disc": -12.2,
+          "p": 0.895,
+          "hits": 4,
+          "cat": 8
+        },
+        {
+          "min_sev": 4,
+          "n_pred": 894,
+          "density": 10.5,
+          "real": 25.0,
+          "null": 51.1,
+          "disc": -26.1,
+          "p": 0.985,
+          "hits": 2,
+          "cat": 8
+        },
+        {
+          "min_sev": 5,
+          "n_pred": 230,
+          "density": 2.7,
+          "real": 12.5,
+          "null": 36.9,
+          "disc": -24.4,
+          "p": 0.985,
+          "hits": 1,
+          "cat": 8
+        }
+      ]
+    }
+  ]
+}

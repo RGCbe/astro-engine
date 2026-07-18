@@ -1,0 +1,50 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 23 – Testing, Validation & Quality
+Assurance Manual
+Purpose
+This manual defines the testing framework used to verify calculation accuracy, reasoning
+consistency, report quality and production readiness for AstroReport OS.
+Test Area
+Objective
+Success Criteria
+Chart Validation
+Verify chart inputs
+Matches expected calculation
+Planet Rules
+Verify interpretations
+Consistent reasoning
+House Rules
+Validate house logic
+Correct mapping
+Timeline Engine
+Check chronology
+No gaps or overlaps
+Dasha Engine
+Validate timing
+Correct sequencing
+Narrative Engine
+Quality of writing
+Readable & coherent
+Report Engine
+Complete output
+No missing sections
+Rendering
+PDF/Web/Mobile
+Visual consistency
+Performance
+Response time
+Within target
+Regression
+Protect existing features
+No unintended changes
+Validation Rules
+Test every report for completeness, evidence consistency, timeline continuity, duplicate content,
+contradiction detection and readability before release.
+Quality Metrics
+Track accuracy, coverage, confidence, readability, generation time, rendering success and user
+feedback to maintain quality over time.
+Developer Specification
+Maintain automated test suites, validation datasets, benchmark reports, regression tests and
+release checklists.
+Next Volume
+Volume 24 – Prompt Engineering, AI Orchestration & LLM Integration Manual.

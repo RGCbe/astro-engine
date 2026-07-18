@@ -1,0 +1,68 @@
+AstroReport OS Specification
+Volume 10D – Education, Learning & Skills
+Knowledge Base
+Purpose
+This volume defines structured question records related to education, learning ability, intelligence,
+skills and lifelong development. These records are used to generate timeline-aware education
+chapters.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0031
+How do I learn best?
+Education
+School
+Timeline
+Q0032
+What is my natural intelligence style?
+Learning
+School
+Foundation
+Q0033
+How strong is my memory?
+Learning
+School
+Timeline
+Q0034
+Will I enjoy higher education?
+Education
+Teen
+Timeline
+Q0035
+Which subjects suit me?
+Education
+School
+Timeline
+Q0036
+Am I better in technical or creative fields?
+Skills
+Teen
+Timeline
+Q0037
+How do I perform in competitive exams?
+Education
+Teen
+Timeline
+Q0038
+Who are my important teachers or mentors?
+Mentorship
+Teen
+Timeline
+Q0039
+What skills should I master for success?
+Skills
+Young Adult
+Career
+Q0040
+How does learning influence my career?
+Career
+Young Adult
+Transition
+Implementation Rules
+Education questions begin during childhood and continue into adulthood as learning, certifications
+and professional development evolve. The report should explain how early learning habits influence
+later career and personal growth.
+Next Volume
+Volume 10E – Career, Employment & Professional Growth Knowledge Base.

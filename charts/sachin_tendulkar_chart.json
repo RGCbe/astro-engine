@@ -1,0 +1,187 @@
+{
+  "name": "Sachin Tendulkar",
+  "birth": {
+    "year": 1973,
+    "month": 4,
+    "day": 24,
+    "hour": 13,
+    "min": 0,
+    "lat": 18.9667,
+    "lon": 72.8333,
+    "place": "Mumbai (Dadar), India",
+    "tz": 5.5,
+    "weekday": "Tuesday"
+  },
+  "lagna": "Cancer",
+  "lagna_idx": 3,
+  "lagna_deg": 17.7608,
+  "lagna_lord": "Moon",
+  "ayanamsa": 23.484298,
+  "positions": {
+    "Sun": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 10.4916,
+      "lon_abs": 10.4916,
+      "nak": "Ashwini",
+      "nak_idx": 0,
+      "nak_lord": "Ketu",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.9738,
+      "house": 10
+    },
+    "Moon": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 24.5959,
+      "lon_abs": 264.5959,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 11.9062,
+      "house": 6
+    },
+    "Mars": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 26.7023,
+      "lon_abs": 296.7023,
+      "nak": "Dhanishta",
+      "nak_idx": 22,
+      "nak_lord": "Mars",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.7096,
+      "house": 7
+    },
+    "Mercury": {
+      "rasi": "Pisces",
+      "rasi_idx": 11,
+      "deg": 16.7248,
+      "lon_abs": 346.7248,
+      "nak": "Revati",
+      "nak_idx": 26,
+      "nak_lord": "Mercury",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.4955,
+      "house": 9
+    },
+    "Jupiter": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 16.5941,
+      "lon_abs": 286.5941,
+      "nak": "Shravana",
+      "nak_idx": 21,
+      "nak_lord": "Moon",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.1078,
+      "house": 7
+    },
+    "Venus": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 14.2574,
+      "lon_abs": 14.2574,
+      "nak": "Bharani",
+      "nak_idx": 1,
+      "nak_lord": "Venus",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.2351,
+      "house": 10
+    },
+    "Saturn": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 24.2593,
+      "lon_abs": 54.2593,
+      "nak": "Mrigashira",
+      "nak_idx": 4,
+      "nak_lord": "Mars",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.1061,
+      "house": 11
+    },
+    "Rahu": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 17.7636,
+      "lon_abs": 257.7636,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 6
+    },
+    "Ketu": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 17.7636,
+      "lon_abs": 77.7636,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 12
+    }
+  },
+  "janma_nakshatra": "Purva Ashadha",
+  "janma_nakshatra_lord": "Venus",
+  "moon_rasi": "Sagittarius",
+  "moon_pada": 4,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 13:00 from Dr. Shraddhanand Thakur (delivering doctor), 2013 interview",
+  "known_events": [
+    {
+      "date": "1989-11-16",
+      "event": "Test debut vs Pakistan, Karachi — aged 16y 205d"
+    },
+    {
+      "date": "1990-08-14",
+      "event": "Maiden Test century (119*) vs England at Old Trafford — aged 17"
+    },
+    {
+      "date": "1994-09-09",
+      "event": "First ODI century vs Australia, Colombo"
+    },
+    {
+      "date": "1995-05-24",
+      "event": "Married Anjali Mehta in Mumbai"
+    },
+    {
+      "date": "2001-03-01",
+      "event": "First to 10,000 ODI runs (139 vs Australia, Indore)"
+    },
+    {
+      "date": "2010-02-24",
+      "event": "First-ever ODI double century (200*) vs South Africa, Gwalior"
+    },
+    {
+      "date": "2011-04-02",
+      "event": "India won ICC Cricket World Cup — Tendulkar's 6th World Cup"
+    },
+    {
+      "date": "2012-03-16",
+      "event": "100th international century vs Bangladesh, Asia Cup"
+    },
+    {
+      "date": "2013-11-16",
+      "event": "Played 200th and final Test match — retired from all cricket"
+    },
+    {
+      "date": "2014-02-04",
+      "event": "Awarded Bharat Ratna — first sportsperson and youngest ever"
+    }
+  ]
+}

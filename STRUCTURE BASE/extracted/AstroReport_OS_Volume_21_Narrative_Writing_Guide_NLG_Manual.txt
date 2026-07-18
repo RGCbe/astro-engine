@@ -1,0 +1,52 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 21 – Complete Narrative Writing Guide &
+Natural Language Generation Manual
+Purpose
+This manual establishes the writing standards for every AstroReport OS report. It ensures the same
+astrological evidence can be presented in a clear, engaging and age-appropriate style without
+changing the underlying meaning.
+Module
+Objective
+Implementation
+Tone
+Warm, balanced, clear
+Consistent voice
+Reading Level
+Child to expert
+Adaptive wording
+Chapter Openings
+Create context
+Timeline hook
+Explanations
+Simple before technical
+Layered learning
+Examples
+Daily-life analogies
+Easy understanding
+Transitions
+Connect chapters
+Continuous story
+Guidance
+Action-oriented
+Practical advice
+Summaries
+Key takeaways
+Retention
+Localization
+Multi-language support
+Natural translation
+Writing Principles
+Begin with what the reader experiences in everyday life. Explain the astrological reasoning only
+after the experience is understood. Prefer short paragraphs, familiar examples and smooth
+transitions.
+Narrative Templates
+Provide reusable templates for introductions, life-stage transitions, challenge explanations,
+opportunity descriptions, summaries and guidance sections.
+Developer Specification
+Store tone profiles, reading-level rules, analogy libraries, glossary entries, reusable paragraph
+templates, localization keys and validation checks.
+Quality Checklist
+Verify readability, consistency, absence of repetition, age suitability, timeline continuity and
+evidence accuracy before publishing.
+Next Volume
+Volume 22 – Master Report Templates & Layout System.

@@ -1,0 +1,149 @@
+:root {
+    /* Base Colors */
+    --bg-dark: #0a0a0c;
+    --text-main: #e2e8f0;
+    --text-muted: #94a3b8;
+    
+    /* Intelligence Color Language */
+    --color-knowledge: #3b82f6; /* Blue */
+    --color-growth: #10b981;    /* Green */
+    --color-opportunity: #eab308; /* Gold */
+    --color-critical: #ef4444;   /* Red */
+    --color-warning: #f97316;    /* Orange */
+    --color-transformation: #8b5cf6; /* Purple */
+    --color-past: #64748b;       /* Grey */
+    --color-absolute: #000000;   /* Black */
+    
+    /* UI Elements */
+    --glass-bg: rgba(30, 41, 59, 0.4);
+    --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.dossier-wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.dossier-header {
+    text-align: center;
+    border-bottom: 2px solid var(--color-opportunity);
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+
+.dossier-header h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 2.5rem;
+    letter-spacing: 4px;
+    margin: 0;
+    color: #fff;
+}
+
+.confidential-stamp {
+    color: var(--color-critical);
+    font-weight: bold;
+    letter-spacing: 6px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+/* Intelligence Tags */
+.intelligence-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
+
+.tag {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.tag-label {
+    color: var(--text-muted);
+    margin-bottom: 4px;
+}
+
+.tag-value {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--color-opportunity);
+}
+
+/* ASCII Timeline */
+.ascii-timeline {
+    font-family: 'Courier New', Courier, monospace;
+    color: var(--color-growth);
+    background: #111;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+    line-height: 1.5;
+}
+
+/* Bar Charts */
+.bar-chart-container {
+    font-family: 'Courier New', Courier, monospace;
+    background: #000;
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.bar-row {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.bar-label {
+    width: 150px;
+    color: var(--text-muted);
+}
+
+.bar-value {
+    color: var(--color-growth);
+    letter-spacing: 2px;
+}
+
+/* Typography */
+.quote-block {
+    font-style: italic;
+    font-size: 1.2rem;
+    color: var(--color-knowledge);
+    border-left: 4px solid var(--color-knowledge);
+    padding-left: 15px;
+    margin: 20px 0;
+}
+
+.cause-effect {
+    background: rgba(139, 92, 246, 0.1); /* Transformation Purple */
+    border: 1px solid var(--color-transformation);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.arrow {
+    color: var(--color-transformation);
+    font-size: 1.5rem;
+    margin: 10px 0;
+}

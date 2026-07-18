@@ -1,0 +1,22 @@
+{
+  "item": "D8_Colors to wear",
+  "books_covering": [
+    "Saravali"
+  ],
+  "per_book_passages": {
+    "Saravali": [
+      {
+        "position": 338036,
+        "match_text": "wear\nwhite",
+        "context": "ho give up company of others; those who take to Soma Siddhanta and those who carry bowls in their hands (for begging alms). उपासका बुद्धसमाश्नयं गताः शिखां विना पाण्डरभिक्षवश्च ये। सुवाससो रक्तपटा जितेन्द्रियाः प्रभु: सदेषां क्षितिज प्रकीतितः ॥३२॥ 32. The Buddhist monks, the tonsured, those who wear white apparels, those who beg wearing good robes, those who wear blood-red clothes and those that have conquered their Jive senses-all these mendicants are ruled by Mars. आजोीविनां कुहकिनां समयाधिकारे ये दीक्षितास्तनुभृतः खलु गारुडे च। wa वशूरपिशितशनयोऽच युक्ता- स्तेषां श्चा ङ्ुतनयोऽधिपतिनि रुदतः ॥३३॥ 33. Mercury denotes an alm-seeker, a conjurer, a snake poison curer, and one who eats the flesh of a peacock. Notes: The words “मयूरविशिताशन” are split thus: मयूर 6800०1६, पिशित flesh, श्राशन-- eat.",
+        "pattern_hit": "wear\\s+(?:red|yellow|white|blue|green|black)"
+      },
+      {
+        "position": 339132,
+        "match_text": "wear red",
+        "context": "ागताः फलपयोभक्षाश्च ये भिक्षवः 1 गाहुस्थ्येन तु संस्थिता नियमिनः agagread गता- स्तेषां दण्डपति: सुरेन््रसचिवस्ती्थेषु ये स्नातकाः ॥३४॥ 34, The ascetics ruled by Jupiter are : those who hold a ====== PAGE 210 ====== 206 Saravali single sceptre (or mace), those who hold three sceptres, those who wear red coloured apparels, those who are in the. third stage of their religious life (वानप्रस्थ ), those who pull on their lives with fruits and water (alone), those who still are attached to family ties, those who maintain celebacy and those who take to visiting shrines etc. पाञ्ुपतयज्ञदीक्षात्रतेषु ये नित्यमेव संयुक्ताः । वेष्णवचरकारणामपि तेषां नेता प्रकोतितः शुक्रः ॥३५॥ 35; Venus rules the mendicants of Saivite and Vaishna- vite sects. पाषण्डब्रतनिरता दिगम्बरा भिक्षवो ये च! तेषामधिपतिराक्रिः श्रा",
+        "pattern_hit": "wear\\s+(?:red|yellow|white|blue|green|black)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Sourav Ganguly",
+  "birth": {
+    "year": 1972,
+    "month": 7,
+    "day": 8,
+    "hour": 14,
+    "min": 15,
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "place": "Calcutta (Kolkata), India",
+    "tz": 5.5,
+    "weekday": "Saturday"
+  },
+  "lagna": "Libra",
+  "lagna_idx": 6,
+  "lagna_deg": 27.2431,
+  "lagna_lord": "Venus",
+  "ayanamsa": 23.47321,
+  "positions": {
+    "Sun": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 22.7954,
+      "lon_abs": 82.7954,
+      "nak": "Punarvasu",
+      "nak_idx": 6,
+      "nak_lord": "Jupiter",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.9537,
+      "house": 9
+    },
+    "Moon": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 19.7127,
+      "lon_abs": 49.7127,
+      "nak": "Rohini",
+      "nak_idx": 3,
+      "nak_lord": "Moon",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 14.5969,
+      "house": 8
+    },
+    "Mars": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 12.6587,
+      "lon_abs": 102.6587,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.633,
+      "house": 10
+    },
+    "Mercury": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 19.0218,
+      "lon_abs": 109.0218,
+      "nak": "Ashlesha",
+      "nak_idx": 8,
+      "nak_lord": "Mercury",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.081,
+      "house": 10
+    },
+    "Jupiter": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 8.2755,
+      "lon_abs": 248.2755,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.1204,
+      "house": 3
+    },
+    "Venus": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 24.7558,
+      "lon_abs": 54.7558,
+      "nak": "Mrigashira",
+      "nak_idx": 4,
+      "nak_lord": "Mars",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.0327,
+      "house": 8
+    },
+    "Saturn": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 21.2628,
+      "lon_abs": 51.2628,
+      "nak": "Rohini",
+      "nak_idx": 3,
+      "nak_lord": "Moon",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.1174,
+      "house": 8
+    },
+    "Rahu": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 3.1286,
+      "lon_abs": 273.1286,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 4
+    },
+    "Ketu": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 3.1286,
+      "lon_abs": 93.1286,
+      "nak": "Punarvasu",
+      "nak_idx": 6,
+      "nak_lord": "Jupiter",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 10
+    }
+  },
+  "janma_nakshatra": "Rohini",
+  "janma_nakshatra_lord": "Moon",
+  "moon_rasi": "Taurus",
+  "moon_pada": 3,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 2:15 PM from family confirmation via biographers",
+  "known_events": [
+    {
+      "date": "1992-01-11",
+      "event": "ODI debut vs West Indies \u2014 dropped after one match"
+    },
+    {
+      "date": "1996-06-20",
+      "event": "Test debut at Lord's vs England \u2014 scored 131, first Indian to score century on Lord's Test debut"
+    },
+    {
+      "date": "1997-02-21",
+      "event": "Married Dona Roy (childhood sweetheart)"
+    },
+    {
+      "date": "2000-02-26",
+      "event": "Appointed India Test + ODI captain after match-fixing scandal"
+    },
+    {
+      "date": "2001-03-15",
+      "event": "Captained India to historic Test series win vs Australia (after follow-on Kolkata Test)"
+    },
+    {
+      "date": "2002-07-13",
+      "event": "Shirt-waving celebration on Lord's balcony after NatWest Trophy final win"
+    },
+    {
+      "date": "2003-03-23",
+      "event": "Led India to Cricket World Cup final vs Australia"
+    },
+    {
+      "date": "2008-11-09",
+      "event": "Retired from international cricket \u2014 last Test vs Australia, Nagpur"
+    },
+    {
+      "date": "2019-10-23",
+      "event": "Elected 39th President of BCCI"
+    },
+    {
+      "date": "2021-01-02",
+      "event": "Cardiac event \u2014 angioplasty at Apollo Hospital, Kolkata"
+    }
+  ]
+}

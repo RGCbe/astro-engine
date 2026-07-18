@@ -1,0 +1,58 @@
+{
+  "item_code": "F3",
+  "item_name": "Ruling Planets",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2",
+    "Laghu_Parashari"
+  ],
+  "total_passages": 3,
+  "formulas_found": [
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 13,
+      "context": "dhi, 59. Bhramana, 60. Chandrarekha (lndurekha). The reverse is the order for even signs insomuch as these names are concerned. Planets in benefice Shashtiamsas produce auspicious results while the opposite is true in case of planets in malefic Shashtiamsas. Notes: The method of calculating the ruling planet for each Shashtiamsa (or 1/60th part of a sign or 30' of arc) is advised in shloka 33 above. Assume that Venus is placed in Capricorn 13° 25'. To find out the Shashtiamsa lord, ignore the sign position and multiply the degrees and minutes by 2. Hence 13° 25' x 2=26° 50'. The degrees i.e. 26 (ignoring minutes) be divided by 12. The remainder is 2 which should be increased by I. Thus, we get 3. Count 3 signs from Capricorn. The resulting Shashtiamsa position is Pisces whose lord is Jupit",
+      "position": 134083
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 11,
+      "context": "ayodhi, 59. Bhramana, 60. Chandrarekha (Indurekha). The reverse is the order for even signs insomuch as these names are concerned. Planets in benefic Shashtiamsas produce auspicious results while the opposite is true in case of planets in malefic Shashtiamsas. Notes : The method of calculating the ruling planet for each Shashtiamsa (or 1/60th pat of asign or 30'of arc) is advised in sloka 33 above. Assume that Venus is placed in Capricorn 13\" 25', To find out the Shashtiamsa lord, ignorc the sign position and multiply the degrees and minutes by 2. Hence 13\" 25' x2:26\" 50'. The degrees i.e. 26 (ignoring minutes) be divided by 12. The remainder is 2 which should be increase,:l by l. Thus we get 3. Count 3 signs from Capricorn. The resulting Shashtiamsa position is Pisces whose lord is Jupite",
+      "position": 126346
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 2,
+      "context": "ayodhi, 59. Bhramana, 60. Chandrarekha (Indurekha). The reverse is the order for even signs insomuch as these names are concerned. Planets in benefic Shashtiamsas produce auspicious results while the opposite is true in case of planets in malefic Shashtiamsas. Notes : The method of calculating the ruling planet for each Shashtiamsa (or 1/60th pat of asign or 30'of arc) is advised in sloka 33 above. Assume that Venus is placed in Capricorn 13\" 25', To find out the Shashtiamsa lord, ignorc the sign position and multiply the degrees and minutes by 2. Hence 13\" 25' x2:26\" 50'. The degrees i.e. 26 "
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "dhi, 59. Bhramana, 60. Chandrarekha (lndurekha). The reverse is the order for even signs insomuch as these names are concerned. Planets in benefice Shashtiamsas produce auspicious results while the opposite is true in case of planets in malefic Shashtiamsas. Notes: The method of calculating the ruling planet for each Shashtiamsa (or 1/60th part of a sign or 30' of arc) is advised in shloka 33 above. Assume that Venus is placed in Capricorn 13° 25'. To find out the Shashtiamsa lord, ignore the sign position and multiply the degrees and minutes by 2. Hence 13° 25' x 2=26° 50'. The degrees i.e. 2"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "degrees",
+      "value": 13.0,
+      "context": "ssume that Venus is placed in Capricorn 13° 25'. To find out the Shashtiamsa lord, "
+    },
+    {
+      "type": "degrees",
+      "value": 13.0,
+      "context": "ply the degrees and minutes by 2. Hence 13° 25' x 2=26° 50'. The degrees i.e. 26 (i"
+    },
+    {
+      "type": "degrees",
+      "value": 26.0,
+      "context": "ees and minutes by 2. Hence 13° 25' x 2=26° 50'. The degrees i.e. 26 (ignoring minu"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "panchanga/drik.py",
+    "function": "planet_positions"
+  }
+}

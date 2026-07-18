@@ -1,0 +1,278 @@
+{
+  "name": "Joseph Vijay (Thalapathy)",
+  "timestamp": "2026-06-05T10:24:42.775121",
+  "note": "new_pct in old files was calibrated-only; see metrics_honest",
+  "total_events": 28,
+  "metrics_honest": {
+    "old_loose": {
+      "hits": 25,
+      "pct": 89.3
+    },
+    "old_strict": {
+      "hits": 19,
+      "pct": 67.9
+    },
+    "new_calibrated": {
+      "hits": 25,
+      "pct": 89.3
+    },
+    "new_strict": {
+      "hits": 17,
+      "pct": 60.7
+    }
+  },
+  "per_event": [
+    {
+      "date": "1984-09-21",
+      "cat": "career",
+      "event": "Child actor debut: Vetri (father directed) at age 10",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "1992-12-04",
+      "cat": "career",
+      "event": "Lead actor debut: Naalaiya Theerpu (flop)",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": false,
+      "new_strict_hit": false
+    },
+    {
+      "date": "1993-12-24",
+      "cat": "career",
+      "event": "First hit: Sendhoorapandi",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "1996-02-15",
+      "cat": "career",
+      "event": "Breakthrough blockbuster: Poove Unakkaga \u2014 became Tamil superstar",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "1999-06-04",
+      "cat": "career",
+      "event": "Thullatha Manamum Thullum mega-hit \u2014 defined romantic-hero era",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2003-01-14",
+      "cat": "career",
+      "event": "Thirumalai blockbuster Pongal release",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2007-04-13",
+      "cat": "career",
+      "event": "Pokkiri huge hit \u2014 mass-hero brand consolidated",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2012-04-27",
+      "cat": "career",
+      "event": "Nanban blockbuster (3 Idiots remake)",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2017-04-14",
+      "cat": "career",
+      "event": "Mersal mega Diwali release \u2014 political controversy",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": false,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2021-01-13",
+      "cat": "career",
+      "event": "Master pandemic-era blockbuster \u2014 Pongal record",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": false,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2023-01-12",
+      "cat": "career",
+      "event": "Varisu Pongal blockbuster",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2023-10-19",
+      "cat": "career",
+      "event": "Leo released \u2014 career-biggest hit, \u20b9600+ cr global",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2024-09-05",
+      "cat": "career",
+      "event": "GOAT released \u2014 Greatest Of All Time",
+      "expected_valence": "neutral",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "1995-08-04",
+      "cat": "wealth_loss",
+      "event": "Triple-flop month \u2014 Rajavin Parvaiyile, Vishnu, Chandralekha all flopped",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2022-04-13",
+      "cat": "wealth_loss",
+      "event": "Beast released \u2014 major flop after Master",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2017-08-15",
+      "cat": "honor",
+      "event": "Won Tamil Nadu State Film Award for Theri",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2021-03-21",
+      "cat": "honor",
+      "event": "Master won several state-level honors",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "1999-08-25",
+      "cat": "marriage",
+      "event": "Married Sangeetha Sornalingam (London-based Sri Lankan Tamil)",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2000-08-01",
+      "cat": "children",
+      "event": "Son Sanjay born",
+      "expected_valence": "auspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2005-10-04",
+      "cat": "children",
+      "event": "Daughter Divya born",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2024-04-05",
+      "cat": "father",
+      "event": "Father S. A. Chandrasekhar died at age 87",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2014-09-15",
+      "cat": "health",
+      "event": "Hospitalized for back injury during Kaththi shoot",
+      "expected_valence": "inauspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "1999-08-25",
+      "cat": "travel",
+      "event": "Marriage in London \u2014 first major overseas trip",
+      "expected_valence": "neutral",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    },
+    {
+      "date": "2019-05-15",
+      "cat": "travel",
+      "event": "Cannes Film Festival visit",
+      "expected_valence": "neutral",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2024-02-02",
+      "cat": "spiritual",
+      "event": "Founded political party TVK (Tamizhaga Vetri Kazhagam) \u2014 religious-cultural shift",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2021-01-13",
+      "cat": "wealth",
+      "event": "Master fee record + Vijay TV brand peak",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2023-10-19",
+      "cat": "wealth",
+      "event": "Leo earnings \u2014 became highest-paid Tamil actor",
+      "expected_valence": "auspicious",
+      "old_strict_hit": true,
+      "new_calibrated_hit": true,
+      "new_strict_hit": true
+    },
+    {
+      "date": "2010-06-15",
+      "cat": "property",
+      "event": "Bought luxury bungalow in Neelankarai Chennai",
+      "expected_valence": "auspicious",
+      "old_strict_hit": false,
+      "new_calibrated_hit": true,
+      "new_strict_hit": false
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "name": "Stephen Hawking",
+  "birth": {
+    "year": 1942,
+    "month": 1,
+    "day": 8,
+    "hour": 1,
+    "min": 39,
+    "lat": 51.752,
+    "lon": -1.2577,
+    "place": "Oxford, England",
+    "tz": 0.0,
+    "weekday": "Thursday"
+  },
+  "lagna": "Libra",
+  "lagna_idx": 6,
+  "lagna_deg": 5.3105,
+  "lagna_lord": "Venus",
+  "ayanamsa": 23.047271,
+  "positions": {
+    "Sun": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 24.1025,
+      "lon_abs": 264.1025,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 1.019,
+      "house": 3
+    },
+    "Moon": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 26.9269,
+      "lon_abs": 146.9269,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 13.1538,
+      "house": 11
+    },
+    "Mars": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 5.0788,
+      "lon_abs": 5.0788,
+      "nak": "Ashwini",
+      "nak_idx": 0,
+      "nak_lord": "Ketu",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.4786,
+      "house": 7
+    },
+    "Mercury": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 4.3582,
+      "lon_abs": 274.3582,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 1.6505,
+      "house": 4
+    },
+    "Jupiter": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 19.6739,
+      "lon_abs": 49.6739,
+      "nak": "Rohini",
+      "nak_idx": 3,
+      "nak_lord": "Moon",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.0911,
+      "house": 8
+    },
+    "Venus": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 27.6535,
+      "lon_abs": 297.6535,
+      "nak": "Dhanishta",
+      "nak_idx": 22,
+      "nak_lord": "Mars",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.1933,
+      "house": 4
+    },
+    "Saturn": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 28.8043,
+      "lon_abs": 28.8043,
+      "nak": "Krittika",
+      "nak_idx": 2,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.0283,
+      "house": 7
+    },
+    "Rahu": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 23.4227,
+      "lon_abs": 143.4227,
+      "nak": "Purva Phalguni",
+      "nak_idx": 10,
+      "nak_lord": "Venus",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 11
+    },
+    "Ketu": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 23.4227,
+      "lon_abs": 323.4227,
+      "nak": "Purva Bhadrapada",
+      "nak_idx": 24,
+      "nak_lord": "Jupiter",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 5
+    }
+  },
+  "janma_nakshatra": "Uttara Phalguni",
+  "janma_nakshatra_lord": "Sun",
+  "moon_rasi": "Leo",
+  "moon_pada": 1,
+  "rodden_rating": "B",
+  "birth_time_note": "Birth time circa 1:39 AM GMT from mother's recall \u2014 300th anniversary of Galileo's death",
+  "known_events": [
+    {
+      "date": "1959-10-01",
+      "event": "Entered Oxford University at age 17 (physics)"
+    },
+    {
+      "date": "1963-12-01",
+      "event": "Diagnosed with ALS at age 21 \u2014 given 2 years to live"
+    },
+    {
+      "date": "1965-07-14",
+      "event": "Married Jane Wilde at Trinity Hall, Cambridge"
+    },
+    {
+      "date": "1974-04-23",
+      "event": "Elected Fellow of Royal Society at age 32 (one of youngest ever)"
+    },
+    {
+      "date": "1974-05-01",
+      "event": "Published paper on Hawking radiation \u2014 black holes emit thermal radiation"
+    },
+    {
+      "date": "1979-09-29",
+      "event": "Appointed Lucasian Professor of Mathematics at Cambridge (held by Newton)"
+    },
+    {
+      "date": "1985-08-01",
+      "event": "Tracheotomy after pneumonia in Switzerland \u2014 permanent loss of voice"
+    },
+    {
+      "date": "1988-04-01",
+      "event": "Published 'A Brief History of Time' \u2014 global bestseller, 10M+ copies"
+    },
+    {
+      "date": "1995-09-16",
+      "event": "Divorced Jane and married Elaine Mason (his nurse)"
+    },
+    {
+      "date": "2007-04-26",
+      "event": "Experienced weightlessness on Zero-G flight at age 65"
+    },
+    {
+      "date": "2018-03-14",
+      "event": "Died at home in Cambridge \u2014 age 76, on Pi Day + Einstein's birthday"
+    }
+  ]
+}

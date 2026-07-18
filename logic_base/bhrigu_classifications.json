@@ -1,0 +1,539 @@
+{
+  "house_classes": {
+    "kendra": [
+      1,
+      4,
+      7,
+      10
+    ],
+    "trikona": [
+      1,
+      5,
+      9
+    ],
+    "panaphara": [
+      2,
+      5,
+      8,
+      11
+    ],
+    "apoklima": [
+      3,
+      6,
+      9,
+      12
+    ],
+    "upachaya": [
+      3,
+      6,
+      10,
+      11
+    ],
+    "maraka": [
+      2,
+      7
+    ],
+    "dusthana": [
+      6,
+      8,
+      12
+    ],
+    "trishadaya": [
+      3,
+      6,
+      11
+    ]
+  },
+  "house_classes_hi": {
+    "kendra": "केन्द्र",
+    "trikona": "त्रिकोण",
+    "panaphara": "पणफर",
+    "apoklima": "अपोक्लिम",
+    "upachaya": "उपचय",
+    "maraka": "मारक",
+    "dusthana": "दुस्थान",
+    "trishadaya": "त्रिषडाय"
+  },
+  "house_to_classes": {
+    "1": [
+      "kendra",
+      "trikona"
+    ],
+    "4": [
+      "kendra"
+    ],
+    "7": [
+      "kendra",
+      "maraka"
+    ],
+    "10": [
+      "kendra",
+      "upachaya"
+    ],
+    "5": [
+      "trikona",
+      "panaphara"
+    ],
+    "9": [
+      "trikona",
+      "apoklima"
+    ],
+    "2": [
+      "panaphara",
+      "maraka"
+    ],
+    "8": [
+      "panaphara",
+      "dusthana"
+    ],
+    "11": [
+      "panaphara",
+      "upachaya",
+      "trishadaya"
+    ],
+    "3": [
+      "apoklima",
+      "upachaya",
+      "trishadaya"
+    ],
+    "6": [
+      "apoklima",
+      "upachaya",
+      "dusthana",
+      "trishadaya"
+    ],
+    "12": [
+      "apoklima",
+      "dusthana"
+    ]
+  },
+  "exaltation": {
+    "Sun": {
+      "sign": "Mesha",
+      "peak_deg": 10
+    },
+    "Moon": {
+      "sign": "Vrishabha",
+      "peak_deg": 3
+    },
+    "Mars": {
+      "sign": "Makara",
+      "peak_deg": 28
+    },
+    "Mercury": {
+      "sign": "Kanya",
+      "peak_deg": 15
+    },
+    "Jupiter": {
+      "sign": "Karka",
+      "peak_deg": 5
+    },
+    "Venus": {
+      "sign": "Meena",
+      "peak_deg": 27
+    },
+    "Saturn": {
+      "sign": "Tula",
+      "peak_deg": 20
+    },
+    "Rahu": {
+      "sign": "Mithuna",
+      "peak_deg": null
+    },
+    "Ketu": {
+      "sign": "Dhanu",
+      "peak_deg": null
+    }
+  },
+  "debilitation": {
+    "Sun": {
+      "sign": "Tula",
+      "peak_deg": 10
+    },
+    "Moon": {
+      "sign": "Vrishchika",
+      "peak_deg": 3
+    },
+    "Mars": {
+      "sign": "Karka",
+      "peak_deg": 28
+    },
+    "Mercury": {
+      "sign": "Meena",
+      "peak_deg": 15
+    },
+    "Jupiter": {
+      "sign": "Makara",
+      "peak_deg": 5
+    },
+    "Venus": {
+      "sign": "Kanya",
+      "peak_deg": 27
+    },
+    "Saturn": {
+      "sign": "Mesha",
+      "peak_deg": 20
+    },
+    "Rahu": {
+      "sign": "Dhanu",
+      "peak_deg": null
+    },
+    "Ketu": {
+      "sign": "Mithuna",
+      "peak_deg": null
+    }
+  },
+  "own_sign": {
+    "Sun": [
+      "Simha"
+    ],
+    "Moon": [
+      "Karka"
+    ],
+    "Mars": [
+      "Mesha",
+      "Vrishchika"
+    ],
+    "Mercury": [
+      "Mithuna",
+      "Kanya"
+    ],
+    "Jupiter": [
+      "Dhanu",
+      "Meena"
+    ],
+    "Venus": [
+      "Vrishabha",
+      "Tula"
+    ],
+    "Saturn": [
+      "Makara",
+      "Kumbha"
+    ],
+    "Rahu": [],
+    "Ketu": []
+  },
+  "mooltrikona": {
+    "Sun": {
+      "sign": "Simha",
+      "from_deg": 0,
+      "to_deg": 20
+    },
+    "Moon": {
+      "sign": "Vrishabha",
+      "from_deg": 3,
+      "to_deg": 30
+    },
+    "Mars": {
+      "sign": "Mesha",
+      "from_deg": 0,
+      "to_deg": 12
+    },
+    "Mercury": {
+      "sign": "Kanya",
+      "from_deg": 15,
+      "to_deg": 20
+    },
+    "Jupiter": {
+      "sign": "Dhanu",
+      "from_deg": 0,
+      "to_deg": 10
+    },
+    "Venus": {
+      "sign": "Tula",
+      "from_deg": 0,
+      "to_deg": 15
+    },
+    "Saturn": {
+      "sign": "Kumbha",
+      "from_deg": 0,
+      "to_deg": 20
+    }
+  },
+  "friendships": {
+    "Sun": {
+      "friends": [
+        "Moon",
+        "Mars",
+        "Jupiter"
+      ],
+      "neutrals": [
+        "Mercury"
+      ],
+      "enemies": [
+        "Venus",
+        "Saturn",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Moon": {
+      "friends": [
+        "Sun",
+        "Mercury"
+      ],
+      "neutrals": [
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
+      ],
+      "enemies": [
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Mars": {
+      "friends": [
+        "Sun",
+        "Moon",
+        "Jupiter"
+      ],
+      "neutrals": [
+        "Venus",
+        "Saturn"
+      ],
+      "enemies": [
+        "Mercury",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Mercury": {
+      "friends": [
+        "Sun",
+        "Venus"
+      ],
+      "neutrals": [
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "enemies": [
+        "Moon",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Jupiter": {
+      "friends": [
+        "Sun",
+        "Moon",
+        "Mars"
+      ],
+      "neutrals": [
+        "Saturn"
+      ],
+      "enemies": [
+        "Mercury",
+        "Venus",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Venus": {
+      "friends": [
+        "Mercury",
+        "Saturn"
+      ],
+      "neutrals": [
+        "Mars",
+        "Jupiter"
+      ],
+      "enemies": [
+        "Sun",
+        "Moon",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Saturn": {
+      "friends": [
+        "Mercury",
+        "Venus"
+      ],
+      "neutrals": [
+        "Jupiter"
+      ],
+      "enemies": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "Rahu": {
+      "friends": [
+        "Venus",
+        "Saturn"
+      ],
+      "neutrals": [
+        "Jupiter"
+      ],
+      "enemies": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Mercury"
+      ]
+    },
+    "Ketu": {
+      "friends": [
+        "Venus",
+        "Saturn"
+      ],
+      "neutrals": [
+        "Jupiter"
+      ],
+      "enemies": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Mercury"
+      ]
+    }
+  },
+  "rashi_lords": {
+    "Mesha": "Mars",
+    "Vrishabha": "Venus",
+    "Mithuna": "Mercury",
+    "Karka": "Moon",
+    "Simha": "Sun",
+    "Kanya": "Mercury",
+    "Tula": "Venus",
+    "Vrishchika": "Mars",
+    "Dhanu": "Jupiter",
+    "Makara": "Saturn",
+    "Kumbha": "Saturn",
+    "Meena": "Jupiter"
+  },
+  "bala_matrix": {
+    "Sun": {
+      "Mesha": "uchcha_bali",
+      "Vrishabha": "shatru",
+      "Mithuna": "sama",
+      "Karka": "mitra_bali",
+      "Simha": "swagrihi",
+      "Kanya": "sama",
+      "Tula": "neecha",
+      "Vrishchika": "mitra_bali",
+      "Dhanu": "mitra_bali",
+      "Makara": "shatru",
+      "Kumbha": "shatru",
+      "Meena": "mitra_bali"
+    },
+    "Moon": {
+      "Mesha": "sama",
+      "Vrishabha": "uchcha_bali",
+      "Mithuna": "mitra_bali",
+      "Karka": "swagrihi",
+      "Simha": "mitra_bali",
+      "Kanya": "mitra_bali",
+      "Tula": "sama",
+      "Vrishchika": "neecha",
+      "Dhanu": "sama",
+      "Makara": "sama",
+      "Kumbha": "sama",
+      "Meena": "sama"
+    },
+    "Mars": {
+      "Mesha": "swagrihi",
+      "Vrishabha": "sama",
+      "Mithuna": "shatru",
+      "Karka": "neecha",
+      "Simha": "mitra_bali",
+      "Kanya": "shatru",
+      "Tula": "sama",
+      "Vrishchika": "swagrihi",
+      "Dhanu": "mitra_bali",
+      "Makara": "uchcha_bali",
+      "Kumbha": "sama",
+      "Meena": "mitra_bali"
+    },
+    "Mercury": {
+      "Mesha": "sama",
+      "Vrishabha": "mitra_bali",
+      "Mithuna": "swagrihi",
+      "Karka": "shatru",
+      "Simha": "mitra_bali",
+      "Kanya": "uchcha_bali",
+      "Tula": "mitra_bali",
+      "Vrishchika": "sama",
+      "Dhanu": "sama",
+      "Makara": "sama",
+      "Kumbha": "sama",
+      "Meena": "neecha"
+    },
+    "Jupiter": {
+      "Mesha": "mitra_bali",
+      "Vrishabha": "shatru",
+      "Mithuna": "shatru",
+      "Karka": "uchcha_bali",
+      "Simha": "mitra_bali",
+      "Kanya": "shatru",
+      "Tula": "shatru",
+      "Vrishchika": "mitra_bali",
+      "Dhanu": "swagrihi",
+      "Makara": "neecha",
+      "Kumbha": "sama",
+      "Meena": "swagrihi"
+    },
+    "Venus": {
+      "Mesha": "sama",
+      "Vrishabha": "swagrihi",
+      "Mithuna": "mitra_bali",
+      "Karka": "shatru",
+      "Simha": "shatru",
+      "Kanya": "neecha",
+      "Tula": "swagrihi",
+      "Vrishchika": "sama",
+      "Dhanu": "sama",
+      "Makara": "mitra_bali",
+      "Kumbha": "mitra_bali",
+      "Meena": "uchcha_bali"
+    },
+    "Saturn": {
+      "Mesha": "neecha",
+      "Vrishabha": "mitra_bali",
+      "Mithuna": "mitra_bali",
+      "Karka": "shatru",
+      "Simha": "shatru",
+      "Kanya": "mitra_bali",
+      "Tula": "uchcha_bali",
+      "Vrishchika": "shatru",
+      "Dhanu": "sama",
+      "Makara": "swagrihi",
+      "Kumbha": "swagrihi",
+      "Meena": "sama"
+    },
+    "Rahu": {
+      "Mesha": "shatru",
+      "Vrishabha": "mitra_bali",
+      "Mithuna": "uchcha_bali",
+      "Karka": "shatru",
+      "Simha": "shatru",
+      "Kanya": "shatru",
+      "Tula": "mitra_bali",
+      "Vrishchika": "shatru",
+      "Dhanu": "neecha",
+      "Makara": "mitra_bali",
+      "Kumbha": "mitra_bali",
+      "Meena": "sama"
+    },
+    "Ketu": {
+      "Mesha": "shatru",
+      "Vrishabha": "mitra_bali",
+      "Mithuna": "neecha",
+      "Karka": "shatru",
+      "Simha": "shatru",
+      "Kanya": "shatru",
+      "Tula": "mitra_bali",
+      "Vrishchika": "shatru",
+      "Dhanu": "uchcha_bali",
+      "Makara": "mitra_bali",
+      "Kumbha": "mitra_bali",
+      "Meena": "sama"
+    }
+  }
+}

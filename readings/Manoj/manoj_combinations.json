@@ -1,0 +1,1395 @@
+{
+  "house_lords": {
+    "1": {
+      "rasi": "Sagittarius",
+      "lord": "Jupiter",
+      "lord_house": 1,
+      "lord_rasi": "Sagittarius"
+    },
+    "2": {
+      "rasi": "Capricorn",
+      "lord": "Saturn",
+      "lord_house": 4,
+      "lord_rasi": "Pisces"
+    },
+    "3": {
+      "rasi": "Aquarius",
+      "lord": "Saturn",
+      "lord_house": 4,
+      "lord_rasi": "Pisces"
+    },
+    "4": {
+      "rasi": "Pisces",
+      "lord": "Jupiter",
+      "lord_house": 1,
+      "lord_rasi": "Sagittarius"
+    },
+    "5": {
+      "rasi": "Aries",
+      "lord": "Mars",
+      "lord_house": 5,
+      "lord_rasi": "Aries"
+    },
+    "6": {
+      "rasi": "Taurus",
+      "lord": "Venus",
+      "lord_house": 7,
+      "lord_rasi": "Gemini"
+    },
+    "7": {
+      "rasi": "Gemini",
+      "lord": "Mercury",
+      "lord_house": 5,
+      "lord_rasi": "Aries"
+    },
+    "8": {
+      "rasi": "Cancer",
+      "lord": "Moon",
+      "lord_house": 9,
+      "lord_rasi": "Leo"
+    },
+    "9": {
+      "rasi": "Leo",
+      "lord": "Sun",
+      "lord_house": 6,
+      "lord_rasi": "Taurus"
+    },
+    "10": {
+      "rasi": "Virgo",
+      "lord": "Mercury",
+      "lord_house": 5,
+      "lord_rasi": "Aries"
+    },
+    "11": {
+      "rasi": "Libra",
+      "lord": "Venus",
+      "lord_house": 7,
+      "lord_rasi": "Gemini"
+    },
+    "12": {
+      "rasi": "Scorpio",
+      "lord": "Mars",
+      "lord_house": 5,
+      "lord_rasi": "Aries"
+    }
+  },
+  "chart_conjunctions": [
+    [
+      "Mars",
+      "Mercury",
+      "Aries"
+    ],
+    [
+      "Ketu",
+      "Saturn",
+      "Pisces"
+    ]
+  ],
+  "chart_aspects": [
+    [
+      "Jupiter",
+      "Mars",
+      5
+    ],
+    [
+      "Jupiter",
+      "Mercury",
+      5
+    ],
+    [
+      "Jupiter",
+      "Venus",
+      7
+    ],
+    [
+      "Jupiter",
+      "Moon",
+      9
+    ],
+    [
+      "Venus",
+      "Jupiter",
+      7
+    ],
+    [
+      "Saturn",
+      "Sun",
+      3
+    ],
+    [
+      "Saturn",
+      "Rahu",
+      7
+    ],
+    [
+      "Saturn",
+      "Jupiter",
+      10
+    ],
+    [
+      "Rahu",
+      "Saturn",
+      7
+    ],
+    [
+      "Rahu",
+      "Ketu",
+      7
+    ],
+    [
+      "Rahu",
+      "Sun",
+      9
+    ],
+    [
+      "Ketu",
+      "Rahu",
+      7
+    ]
+  ],
+  "parivartana_fires": [],
+  "matches": {
+    "lord_combo": [
+      {
+        "type": "lord_combo",
+        "book": "Uttara_Kalamrita",
+        "from_house": 9,
+        "to_house": 6,
+        "trigger": "ninth lord is in the\nsixth",
+        "effect": ". The fifth lord is with\nthe lord of the sixth as-\npected by the twelfth lord.\nHe lost all his wealth and is\nnow subsisting on a small\nsalary.\nChart 84 shows the\neleventh lord with the Sun\nin the eighth aspected by\nGuru and Shant. The fourth\nlord has the aspect of Kuja,\nlord of 5 and 12. The fourth\nlord\nis the\nKaraka\nfor\nwealth. The ninth lord is in\nthe eighth. The native lost\nseventy lakhs during",
+        "matched_lord": "Sun",
+        "matched_rasi": "Leo"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Prashna_Marga",
+        "from_house": 7,
+        "to_house": 5,
+        "trigger": "lord of the 7th is in the 5th",
+        "effect": "and the lord of the 8th is \nin the 7th, there will be issues.",
+        "matched_lord": "Mercury",
+        "matched_rasi": "Gemini"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Prashna_Marga",
+        "from_house": 7,
+        "to_house": 5,
+        "trigger": "lord of the 7th occupies the 5th",
+        "effect": ", both the wife and \nchildren will get ruined.",
+        "matched_lord": "Mercury",
+        "matched_rasi": "Gemini"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 12,
+        "to_house": 5,
+        "trigger": "lord of the 12th is in the 5th",
+        "effect": "and Jupiter \nis associated with a malefic, \n(3) Venus is in the 5th, the lord of the 7th is in, he 8th and the 5th is occupied \nby a malefic, \n(4) The 2nd and the 5th are occupied by a malefic and the lord of the 7th is in \nthe 8th, \n(5) Venus is in the 9th, the lord of the 7th is in the 8th and the Ascendant and \nthe 5th are occupied by malefics, \n(6) Venus is lord of the 9th, lord of the 5th is",
+        "matched_lord": "Mars",
+        "matched_rasi": "Scorpio"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 8,
+        "to_house": 9,
+        "trigger": "8th lord is in the 9th",
+        "effect": ", the 12th lord is in the ascendant, and the 6th lord is in the 5th \nhouse.",
+        "matched_lord": "Moon",
+        "matched_rasi": "Cancer"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 8,
+        "to_house": 9,
+        "trigger": "8th lord is in the 9th",
+        "effect": ", the native's father \n\nEffects of the Ninth House \nPage 135 \nwill pass away within a year of his birth.",
+        "matched_lord": "Moon",
+        "matched_rasi": "Cancer"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 2,
+        "to_house": 4,
+        "trigger": "2nd lord is in the 4th",
+        "effect": ", the native will acquire all kinds of wealth.",
+        "matched_lord": "Saturn",
+        "matched_rasi": "Capricorn"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 2,
+        "to_house": 4,
+        "trigger": "2nd lord in the 4th",
+        "effect": "will also produce a heterodox \nand one of questionable character.",
+        "matched_lord": "Saturn",
+        "matched_rasi": "Capricorn"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 2,
+        "to_house": 4,
+        "trigger": "2nd lord in the 4th",
+        "effect": "applies only to Libra ascendant. \nObviously, the sage suggests that the exaltation of Mars in the company of Jupiter (in \ndebilitation) in the 4th house will prove extremely favourable for a Libra native \nconferring near-regal-hood. It is also not un-meaningful to conclude that the 2nd lord \nexalted and joining Jupiter becoming a good omen for any ascendant. \nधनेशे सुतभािस्थे जातो धनसमन्वितः। \nधन",
+        "matched_lord": "Saturn",
+        "matched_rasi": "Capricorn"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 3,
+        "to_house": 4,
+        "trigger": "3rd lord is in the 4th",
+        "effect": ", the native will be happy, wealthy and intelligent \nbut will acquire a wicked spouse.",
+        "matched_lord": "Saturn",
+        "matched_rasi": "Aquarius"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 4,
+        "to_house": 1,
+        "trigger": "4th lord is in the ascendant",
+        "effect": ", the native will be endowed with learning, virtues, \nornaments, lands, conveyances and maternal happiness.",
+        "matched_lord": "Jupiter",
+        "matched_rasi": "Pisces"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 6,
+        "to_house": 7,
+        "trigger": "6th lord is in the 7th",
+        "effect": ", the native will be deprived of happiness through \nwedlock.",
+        "matched_lord": "Venus",
+        "matched_rasi": "Taurus"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 7,
+        "to_house": 5,
+        "trigger": "7th lord is in the 5th",
+        "effect": ", native will be honourable, endowed with all (i.e. \nseven principal) virtues, always delighted and endowed with all kinds of wealth.",
+        "matched_lord": "Mercury",
+        "matched_rasi": "Gemini"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 8,
+        "to_house": 9,
+        "trigger": "8th lord is in the 9th",
+        "effect": ", the native will betray his religion, be a heterodox, \nwill beget a wicked wife and will steal others wealth.",
+        "matched_lord": "Moon",
+        "matched_rasi": "Cancer"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 9,
+        "to_house": 6,
+        "trigger": "9th lord is in the 6th",
+        "effect": ", the native will enjoy meagre prosperity, be \ndevoid of happiness from maternal relatives and be always troubled by enemies.",
+        "matched_lord": "Sun",
+        "matched_rasi": "Leo"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 10,
+        "to_house": 5,
+        "trigger": "10th lord is in the 5th",
+        "effect": ", the native will be endowed with all kinds of \nlearning, be always delighted and be wealthy and endowed with sons.",
+        "matched_lord": "Mercury",
+        "matched_rasi": "Virgo"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 11,
+        "to_house": 7,
+        "trigger": "11th lord is in the 7th",
+        "effect": ", the Dative will always gain through his wife's \nrelatives, be liberal, virtuous, sensuous and will remain at the command of his spouse.",
+        "matched_lord": "Venus",
+        "matched_rasi": "Libra"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 12,
+        "to_house": 5,
+        "trigger": "12th lord is in the 5th",
+        "effect": ", the native will be bereft of sons and learning.",
+        "matched_lord": "Mars",
+        "matched_rasi": "Scorpio"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Brihat_Parashara_v2",
+        "from_house": 12,
+        "to_house": 5,
+        "trigger": "12th lord in the 5th",
+        "effect": ", the result mentioned is \nthat the native will be devoid of education.",
+        "matched_lord": "Mars",
+        "matched_rasi": "Scorpio"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 8,
+        "to_house": 9,
+        "trigger": "8th lord is in the\n9th",
+        "effect": ", the l2th lord is in the ascendant, \nand the 6th lord is in the\n5th house.",
+        "matched_lord": "Moon",
+        "matched_rasi": "Cancer"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 8,
+        "to_house": 9,
+        "trigger": "8th lord is in\nthe 9th",
+        "effect": ", the native's father will pass away within a year of his\nbirth.",
+        "matched_lord": "Moon",
+        "matched_rasi": "Cancer"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 2,
+        "to_house": 4,
+        "trigger": "2nd lord in the 4th",
+        "effect": "will aleo\nproduce a heterodox and one of questionable character'\nThe exaltation of the 2nd lord in the 4th applies only to\nLibra ascendant. obviously the sage suggests that the exaltation\nof Mars in the company af Jupiter (in debilitation) in the 4th\nhouse will prove extremely favourable for a Libra native confe-\nrring near-iegalhood.",
+        "matched_lord": "Saturn",
+        "matched_rasi": "Capricorn"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 2,
+        "to_house": 4,
+        "trigger": "2nd lord in the 4th",
+        "effect": "applies only to\nLibra ascendant. obviously the sage suggests that the exaltation\nof Mars in the company af Jupiter (in debilitation) in the 4th\nhouse will prove extremely favourable for a Libra native confe-\nrring near-iegalhood.",
+        "matched_lord": "Saturn",
+        "matched_rasi": "Capricorn"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 4,
+        "to_house": 1,
+        "trigger": "4th lord is in the ascendant",
+        "effect": ",\nthe nativc will be eodowed with learning' virtues, ornaments'\nbnds, conveyances \nand matcrnal happiness.",
+        "matched_lord": "Jupiter",
+        "matched_rasi": "Pisces"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 6,
+        "to_house": 7,
+        "trigger": "6th lord is in the 7th",
+        "effect": ", the native will be deprived\nof happiness through wedlock.",
+        "matched_lord": "Venus",
+        "matched_rasi": "Taurus"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 8,
+        "to_house": 9,
+        "trigger": "8th lord is in the 9th",
+        "effect": ", the native will betray his\nrelig on, be a heterodox, will beget a wicked wife and will steal\nothers' wealth.",
+        "matched_lord": "Moon",
+        "matched_rasi": "Cancer"
+      },
+      {
+        "type": "lord_combo",
+        "book": "BPHS_Vol1",
+        "from_house": 12,
+        "to_house": 5,
+        "trigger": "12th lord is in the 5th",
+        "effect": ", the native will be bereft\nof sons and learning.",
+        "matched_lord": "Mars",
+        "matched_rasi": "Scorpio"
+      },
+      {
+        "type": "lord_combo",
+        "book": "Hora_Sara",
+        "from_house": 7,
+        "to_house": 5,
+        "trigger": "lord of the 7th is in the 5th",
+        "effect": ", the native's wife is \ndestroyed and he will lose his children.",
+        "matched_lord": "Mercury",
+        "matched_rasi": "Gemini"
+      }
+    ],
+    "conjunction": [
+      {
+        "type": "conjunction",
+        "book": "Brihat_Parashara_v2",
+        "planet_a": "Mars",
+        "planet_b": "Mercury",
+        "trigger": "Mars and Mercury are together",
+        "effect": "in the Ind. \nसूययः िािेन संयुतो ह्यथिा िािमध्यगः। \nसूयात् सप्तमगः िािस्तिा पितृिधो भिेत्॥३६॥ \n36. Early loss of father will take place if the Sun is with a malefic or is hemmed \nbetween malefic as there is another malefic in the 7th from the Sun. \nसप्तमे भिने सूययः कमयस्थो भूमनन्दनः। \nराहुव्यये च युयैि पिता किेन जीिवत॥३७॥ \n37. Remote will be the possibility of one's father sustaining if the Sun i",
+        "matched_rasi": "Aries"
+      },
+      {
+        "type": "conjunction",
+        "book": "Yavanajataka_2",
+        "planet_a": "Mars",
+        "planet_b": "Mercury",
+        "trigger": "Mars and Mercury are in conjunction",
+        "effect": "(in Pisces, he is thinking of) \nfighting over se~ual intercourse; \n94. if Mars and Venus, of ... success with regard to ... cows and lands; if \nMars and Jupiter, of the acquisition of such things as ... ; and if Mars and \nSaturn, of the stealing of his wealth and jewels. \n95.",
+        "matched_rasi": "Aries"
+      },
+      {
+        "type": "conjunction",
+        "book": "Saravali",
+        "planet_a": "Mars",
+        "planet_b": "Mercury",
+        "trigger": "Mars and Mercury\nare together",
+        "effect": "at birth, the native will have unlucky wife, little\nwealth, will work with gold and iron, be an architect, will keep\na wicked widow and be expert in making medicines.",
+        "matched_rasi": "Aries"
+      }
+    ],
+    "aspect": [
+      {
+        "type": "aspect",
+        "book": "Phaladeepika",
+        "aspector": "Venus",
+        "aspected": "Jupiter",
+        "trigger": "Venus\nis\naspected\nby\nJupiter",
+        "effect": ".\nJupiter occupying a Rasi\nother than Makara\nidentical\nwith the Lagna\nwill\nusher a King endowed with ele-\nphants# in\nrut.\nThe lord\nof\nthe\nLagna* occupying a\n\n79\nSI. 21-23\nKendra in full strength will cause a ruler of men to be\nborn.\nMercury\nin\nthe above\nposition aspected by\nlupiter will usher into the world a person whose orders\nwill be obeyed by Kings.\n^5r|rTr8j?irm&'c5Tr'eft5T ^Frr^ariTTJT\ntr-t’"
+      },
+      {
+        "type": "aspect",
+        "book": "Prashna_Marga",
+        "aspector": "Jupiter",
+        "aspected": "Moon",
+        "trigger": "Moon \naspected by Jupiter",
+        "effect": "occupies the 2nd, 4th, 5th, 7th, 9th and 12th (anupachaya rasis) marriage will \ntake place without any mishap."
+      },
+      {
+        "type": "aspect",
+        "book": "Prashna_Marga",
+        "aspector": "Jupiter",
+        "aspected": "Moon",
+        "trigger": "Moon aspected by Jupiter",
+        "effect": "occupies other Bhavas,  sexual union between \nhusband and wife takes place."
+      },
+      {
+        "type": "aspect",
+        "book": "Prashna_Marga",
+        "aspector": "Jupiter",
+        "aspected": "Moon",
+        "trigger": "Moon aspected by Jupiter",
+        "effect": "occupies Upachaya \nRasis from the ascendant of the husband."
+      },
+      {
+        "type": "aspect",
+        "book": "Prashna_Marga",
+        "aspector": "Jupiter",
+        "aspected": "Moon",
+        "trigger": "Moon aspected by Jupiter",
+        "effect": "occupies the 3rd, \nthe 6th, the 10th or the 11th from the radical Moon of the husband, or in the constellation of \nMoola and asterisms declared to be good for the first feeding of the child will result in \nconception."
+      },
+      {
+        "type": "aspect",
+        "book": "Prashna_Marga",
+        "aspector": "Jupiter",
+        "aspected": "Moon",
+        "trigger": "Moon is aspected by Jupiter",
+        "effect": ", it is rice water mixed \nwith ghee. If there is the aspect of Venus, it is mixed with butter. Other planets indicate \nmixture with oil.\nStanza 27. The Sun and Mars indicate goat's milk. Venus denotes cow's milk or \nproducts.  Similarly  the  milk  of  other  animals  corresponding  to  signs  and  planets \nassociating or aspecting them can be guessed.\nStanzas 28 and 29. If Mars occupies the 7th,"
+      },
+      {
+        "type": "aspect",
+        "book": "Prashna_Marga",
+        "aspector": "Jupiter",
+        "aspected": "Mars",
+        "trigger": "Jupiter aspects Mars",
+        "effect": "then only the first born will die- If Pisces \nhappens to be the 5th and is occupied by Jupiter and aspected by Saturn then also children \nwill die."
+      },
+      {
+        "type": "aspect",
+        "book": "Brihat_Parashara_v2",
+        "aspector": "Saturn",
+        "aspected": "Sun",
+        "trigger": "Sun is aspected by Saturn",
+        "effect": "and be in Aries/Scorpio Navamsha, the \nfather would have given up the family before the birth of the child or would have passed \naway."
+      },
+      {
+        "type": "aspect",
+        "book": "Yavanajataka_2",
+        "aspector": "Venus",
+        "aspected": "Jupiter",
+        "trigger": "Jupiter aspected by Venus",
+        "effect": "is in a cardine, then it produces the birth of monarchs. \n31."
+      },
+      {
+        "type": "aspect",
+        "book": "Yavanajataka_2",
+        "aspector": "Venus",
+        "aspected": "Jupiter",
+        "trigger": "Jupiter is aspected by Venus",
+        "effect": "and Mercury, one should know (that he is \nthinking of) the abodes of multitudes of men; one should know that he is \nthinking of assemblies of men by the aspects of the lords of the signs on the \n(various) signs. \n71."
+      },
+      {
+        "type": "aspect",
+        "book": "Jataka_Parijata",
+        "aspector": "Jupiter",
+        "aspected": "Venus",
+        "trigger": "Venus aspected by Jupiter",
+        "effect": "occu-\nples the Sed. bhava, the person born will devoredly\nEherish his brothers and sisters. | Tf Mercury occupying\nthe Srd bhava be aspscted, by the."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mars",
+        "trigger": "Jupiter aspects Mars",
+        "effect": "as above, the subject will\nbe skilful in music and in play of musical ijustruments, be fortu-\nnate, be dear to his relatives, and will be pure. jf Venus\nhimself aspect Mars in the above condition, the person will\nbe a king’s minister, be liked by the king, be an army chief,\nwill have famous name (i.e. titles etc.) and will be happy."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mars",
+        "trigger": "Jupiter\naspects Mars",
+        "effect": "as above, the person will be wealthy, will have\nuntarnished image and will be generally skiful Venus aspecting\nMars in the former’s Rasi the native will enjoy high position\nin life, particularly in fields like army, and become widely\nfamous Saturn’s aspect on Mars so posited is favourable for\nwealth, position, relatives etc. particularly if the ascending sign\nbelongs to Saturn or Venus."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mars",
+        "trigger": "Jupiter aspect Mars",
+        "effect": "in Taurus/Libra, the native will\nbe a king’s representative, be bright, will go to foreign count-\nries as an ambassdor, be skilfull in all doings and be a leader."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mars",
+        "trigger": "Jupiter aspects Mars",
+        "effect": "in Leo, the person\nwill be close to the king, be highly learned, be of pure mentality\nand be an army chief."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mercury",
+        "trigger": "Jupiter\naspects Mercury",
+        "effect": "as above, one will be a great scholar, very\ndear (to all), be fortunate, dear to the king and will cross the\nboundaries of learning."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mercury",
+        "trigger": "Jupiter aspects Mercury",
+        "effect": "as above, one will be beautiful, very\nlearned, be a gifted speaker, be very famous, and be endowed\nwith attendants and conveyances."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mercury",
+        "trigger": "Jupiter aspect Mercury",
+        "effect": "as above, he\nwill be rich by memory, intelligence and descendency, be beau- *\ntiful, noble and knowledgeable, be a king minsiter, or his\ntrearurer and be a writer."
+      },
+      {
+        "type": "aspect",
+        "book": "Saravali",
+        "aspector": "Jupiter",
+        "aspected": "Mercury",
+        "trigger": "Jupiter aspects Mercury",
+        "effect": "as stated above, he will be\nendowed with abundant money and grains, be honoured in his\nvillage/town and by his men, be happy and be famous."
+      },
+      {
+        "type": "aspect",
+        "book": "Hora_Sara",
+        "aspector": "Jupiter",
+        "aspected": "Moon",
+        "trigger": "Moon aspected by Jupiter",
+        "effect": ", the Sun in the 10th, Lords of the \n2nd both from the Moon and Lagna receiving highy beneficial \naspects, lord of the 11th Mars aspecting the 2nd lord M o o n etc. \netc."
+      },
+      {
+        "type": "aspect",
+        "book": "Hora_Sara",
+        "aspector": "Saturn",
+        "aspected": "Jupiter",
+        "trigger": "Jupiter is aspected by Saturn",
+        "effect": "or conjoined with Rahu \nand malefic is in Lagna, while the 8th is occupied, the life span is \nonly 22. \nrFFIct \n• ^ M T ^ \n% ^ l \nf ^ m ^ \n4;-<'ird ^IWPTT^:/qr fiWl \nII 17 \nII \nShould the Lagna be occupied by its lord while the Sim and \nthe Moon are in the 4th together with malefics, and the 8th lord \nis in a Kendra, the end of life is at 30 . \nf ^ w r f W f ^ 3 l t % r f M ^ q ^ ^ \nII 18 \nII \n\n6"
+      },
+      {
+        "type": "aspect",
+        "book": "Hora_Sara",
+        "aspector": "Jupiter",
+        "aspected": "Mercury",
+        "trigger": "Jupiter aspect Mercury",
+        "effect": ", the native will become a king \nwhose orders will faithfully be obeyed by other kings."
+      }
+    ],
+    "from_reference": [
+      {
+        "type": "from_reference",
+        "book": "Saravali",
+        "subject": "Sun",
+        "house_count": 10,
+        "reference": "Moon",
+        "trigger": "Sun in the\n10th from the Moon",
+        "effect": "along with malefics indicate death of the\nmother.",
+        "matched_target_house": 6
+      },
+      {
+        "type": "from_reference",
+        "book": "Hora_Sara",
+        "subject": "Sun",
+        "house_count": 10,
+        "reference": "Moon",
+        "trigger": "Sun is in 10th from Moon",
+        "effect": ", the native achieves \nprofessional success, financial status, kingly status and prosper-\nity. {Saravali, ch. 33, my English translation).",
+        "matched_target_house": 6
+      },
+      {
+        "type": "from_reference",
+        "book": "Hora_Sara",
+        "subject": "Sun",
+        "house_count": 10,
+        "reference": "Moon",
+        "trigger": "Sun in 10th \nfrom Moon",
+        "effect": "or Lagna is an attractive position for politicians and \nis also good for liaison with or favours from Government. \n^ERU^ \" R M c t : ^rM>^d<=lf:(lRM^ \n^\n1 \n% t % T O ^ M l : T ^ t T f P f F # r a i 5 r 5 f q \nII 5 II \nThe Moon's amsa in such case indicates: pearls, carriers rim \nin water, husbandry, water, clothes etc., cows, buffaloes, sugar, \nfemale's company, chanting mantras, hymns and the li",
+        "matched_target_house": 6
+      }
+    ]
+  },
+  "consensus_groups": {
+    "lord_combo": [
+      {
+        "key": [
+          7,
+          5
+        ],
+        "book_count": 3,
+        "books": [
+          "Brihat_Parashara_v2",
+          "Hora_Sara",
+          "Prashna_Marga"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Prashna_Marga",
+            "from_house": 7,
+            "to_house": 5,
+            "trigger": "lord of the 7th is in the 5th",
+            "effect": "and the lord of the 8th is \nin the 7th, there will be issues.",
+            "matched_lord": "Mercury",
+            "matched_rasi": "Gemini"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Prashna_Marga",
+            "from_house": 7,
+            "to_house": 5,
+            "trigger": "lord of the 7th occupies the 5th",
+            "effect": ", both the wife and \nchildren will get ruined.",
+            "matched_lord": "Mercury",
+            "matched_rasi": "Gemini"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 7,
+            "to_house": 5,
+            "trigger": "7th lord is in the 5th",
+            "effect": ", native will be honourable, endowed with all (i.e. \nseven principal) virtues, always delighted and endowed with all kinds of wealth.",
+            "matched_lord": "Mercury",
+            "matched_rasi": "Gemini"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Hora_Sara",
+            "from_house": 7,
+            "to_house": 5,
+            "trigger": "lord of the 7th is in the 5th",
+            "effect": ", the native's wife is \ndestroyed and he will lose his children.",
+            "matched_lord": "Mercury",
+            "matched_rasi": "Gemini"
+          }
+        ]
+      },
+      {
+        "key": [
+          9,
+          6
+        ],
+        "book_count": 2,
+        "books": [
+          "Brihat_Parashara_v2",
+          "Uttara_Kalamrita"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Uttara_Kalamrita",
+            "from_house": 9,
+            "to_house": 6,
+            "trigger": "ninth lord is in the\nsixth",
+            "effect": ". The fifth lord is with\nthe lord of the sixth as-\npected by the twelfth lord.\nHe lost all his wealth and is\nnow subsisting on a small\nsalary.\nChart 84 shows the\neleventh lord with the Sun\nin the eighth aspected by\nGuru and Shant. The fourth\nlord has the aspect of Kuja,\nlord of 5 and 12. The fourth\nlord\nis the\nKaraka\nfor\nwealth. The ninth lord is in\nthe eighth. The native lost\nseventy lakhs during",
+            "matched_lord": "Sun",
+            "matched_rasi": "Leo"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 9,
+            "to_house": 6,
+            "trigger": "9th lord is in the 6th",
+            "effect": ", the native will enjoy meagre prosperity, be \ndevoid of happiness from maternal relatives and be always troubled by enemies.",
+            "matched_lord": "Sun",
+            "matched_rasi": "Leo"
+          }
+        ]
+      },
+      {
+        "key": [
+          12,
+          5
+        ],
+        "book_count": 2,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 12,
+            "to_house": 5,
+            "trigger": "lord of the 12th is in the 5th",
+            "effect": "and Jupiter \nis associated with a malefic, \n(3) Venus is in the 5th, the lord of the 7th is in, he 8th and the 5th is occupied \nby a malefic, \n(4) The 2nd and the 5th are occupied by a malefic and the lord of the 7th is in \nthe 8th, \n(5) Venus is in the 9th, the lord of the 7th is in the 8th and the Ascendant and \nthe 5th are occupied by malefics, \n(6) Venus is lord of the 9th, lord of the 5th is",
+            "matched_lord": "Mars",
+            "matched_rasi": "Scorpio"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 12,
+            "to_house": 5,
+            "trigger": "12th lord is in the 5th",
+            "effect": ", the native will be bereft of sons and learning.",
+            "matched_lord": "Mars",
+            "matched_rasi": "Scorpio"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 12,
+            "to_house": 5,
+            "trigger": "12th lord in the 5th",
+            "effect": ", the result mentioned is \nthat the native will be devoid of education.",
+            "matched_lord": "Mars",
+            "matched_rasi": "Scorpio"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 12,
+            "to_house": 5,
+            "trigger": "12th lord is in the 5th",
+            "effect": ", the native will be bereft\nof sons and learning.",
+            "matched_lord": "Mars",
+            "matched_rasi": "Scorpio"
+          }
+        ]
+      },
+      {
+        "key": [
+          8,
+          9
+        ],
+        "book_count": 2,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 8,
+            "to_house": 9,
+            "trigger": "8th lord is in the 9th",
+            "effect": ", the 12th lord is in the ascendant, and the 6th lord is in the 5th \nhouse.",
+            "matched_lord": "Moon",
+            "matched_rasi": "Cancer"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 8,
+            "to_house": 9,
+            "trigger": "8th lord is in the 9th",
+            "effect": ", the native's father \n\nEffects of the Ninth House \nPage 135 \nwill pass away within a year of his birth.",
+            "matched_lord": "Moon",
+            "matched_rasi": "Cancer"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 8,
+            "to_house": 9,
+            "trigger": "8th lord is in the 9th",
+            "effect": ", the native will betray his religion, be a heterodox, \nwill beget a wicked wife and will steal others wealth.",
+            "matched_lord": "Moon",
+            "matched_rasi": "Cancer"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 8,
+            "to_house": 9,
+            "trigger": "8th lord is in the\n9th",
+            "effect": ", the l2th lord is in the ascendant, \nand the 6th lord is in the\n5th house.",
+            "matched_lord": "Moon",
+            "matched_rasi": "Cancer"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 8,
+            "to_house": 9,
+            "trigger": "8th lord is in\nthe 9th",
+            "effect": ", the native's father will pass away within a year of his\nbirth.",
+            "matched_lord": "Moon",
+            "matched_rasi": "Cancer"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 8,
+            "to_house": 9,
+            "trigger": "8th lord is in the 9th",
+            "effect": ", the native will betray his\nrelig on, be a heterodox, will beget a wicked wife and will steal\nothers' wealth.",
+            "matched_lord": "Moon",
+            "matched_rasi": "Cancer"
+          }
+        ]
+      },
+      {
+        "key": [
+          2,
+          4
+        ],
+        "book_count": 2,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 2,
+            "to_house": 4,
+            "trigger": "2nd lord is in the 4th",
+            "effect": ", the native will acquire all kinds of wealth.",
+            "matched_lord": "Saturn",
+            "matched_rasi": "Capricorn"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 2,
+            "to_house": 4,
+            "trigger": "2nd lord in the 4th",
+            "effect": "will also produce a heterodox \nand one of questionable character.",
+            "matched_lord": "Saturn",
+            "matched_rasi": "Capricorn"
+          },
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 2,
+            "to_house": 4,
+            "trigger": "2nd lord in the 4th",
+            "effect": "applies only to Libra ascendant. \nObviously, the sage suggests that the exaltation of Mars in the company of Jupiter (in \ndebilitation) in the 4th house will prove extremely favourable for a Libra native \nconferring near-regal-hood. It is also not un-meaningful to conclude that the 2nd lord \nexalted and joining Jupiter becoming a good omen for any ascendant. \nधनेशे सुतभािस्थे जातो धनसमन्वितः। \nधन",
+            "matched_lord": "Saturn",
+            "matched_rasi": "Capricorn"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 2,
+            "to_house": 4,
+            "trigger": "2nd lord in the 4th",
+            "effect": "will aleo\nproduce a heterodox and one of questionable character'\nThe exaltation of the 2nd lord in the 4th applies only to\nLibra ascendant. obviously the sage suggests that the exaltation\nof Mars in the company af Jupiter (in debilitation) in the 4th\nhouse will prove extremely favourable for a Libra native confe-\nrring near-iegalhood.",
+            "matched_lord": "Saturn",
+            "matched_rasi": "Capricorn"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 2,
+            "to_house": 4,
+            "trigger": "2nd lord in the 4th",
+            "effect": "applies only to\nLibra ascendant. obviously the sage suggests that the exaltation\nof Mars in the company af Jupiter (in debilitation) in the 4th\nhouse will prove extremely favourable for a Libra native confe-\nrring near-iegalhood.",
+            "matched_lord": "Saturn",
+            "matched_rasi": "Capricorn"
+          }
+        ]
+      },
+      {
+        "key": [
+          4,
+          1
+        ],
+        "book_count": 2,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 4,
+            "to_house": 1,
+            "trigger": "4th lord is in the ascendant",
+            "effect": ", the native will be endowed with learning, virtues, \nornaments, lands, conveyances and maternal happiness.",
+            "matched_lord": "Jupiter",
+            "matched_rasi": "Pisces"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 4,
+            "to_house": 1,
+            "trigger": "4th lord is in the ascendant",
+            "effect": ",\nthe nativc will be eodowed with learning' virtues, ornaments'\nbnds, conveyances \nand matcrnal happiness.",
+            "matched_lord": "Jupiter",
+            "matched_rasi": "Pisces"
+          }
+        ]
+      },
+      {
+        "key": [
+          6,
+          7
+        ],
+        "book_count": 2,
+        "books": [
+          "BPHS_Vol1",
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 6,
+            "to_house": 7,
+            "trigger": "6th lord is in the 7th",
+            "effect": ", the native will be deprived of happiness through \nwedlock.",
+            "matched_lord": "Venus",
+            "matched_rasi": "Taurus"
+          },
+          {
+            "type": "lord_combo",
+            "book": "BPHS_Vol1",
+            "from_house": 6,
+            "to_house": 7,
+            "trigger": "6th lord is in the 7th",
+            "effect": ", the native will be deprived\nof happiness through wedlock.",
+            "matched_lord": "Venus",
+            "matched_rasi": "Taurus"
+          }
+        ]
+      },
+      {
+        "key": [
+          3,
+          4
+        ],
+        "book_count": 1,
+        "books": [
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 3,
+            "to_house": 4,
+            "trigger": "3rd lord is in the 4th",
+            "effect": ", the native will be happy, wealthy and intelligent \nbut will acquire a wicked spouse.",
+            "matched_lord": "Saturn",
+            "matched_rasi": "Aquarius"
+          }
+        ]
+      },
+      {
+        "key": [
+          10,
+          5
+        ],
+        "book_count": 1,
+        "books": [
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 10,
+            "to_house": 5,
+            "trigger": "10th lord is in the 5th",
+            "effect": ", the native will be endowed with all kinds of \nlearning, be always delighted and be wealthy and endowed with sons.",
+            "matched_lord": "Mercury",
+            "matched_rasi": "Virgo"
+          }
+        ]
+      },
+      {
+        "key": [
+          11,
+          7
+        ],
+        "book_count": 1,
+        "books": [
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "lord_combo",
+            "book": "Brihat_Parashara_v2",
+            "from_house": 11,
+            "to_house": 7,
+            "trigger": "11th lord is in the 7th",
+            "effect": ", the Dative will always gain through his wife's \nrelatives, be liberal, virtuous, sensuous and will remain at the command of his spouse.",
+            "matched_lord": "Venus",
+            "matched_rasi": "Libra"
+          }
+        ]
+      }
+    ],
+    "conjunction": [
+      {
+        "key": [
+          "Mars",
+          "Mercury"
+        ],
+        "book_count": 3,
+        "books": [
+          "Brihat_Parashara_v2",
+          "Saravali",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "type": "conjunction",
+            "book": "Brihat_Parashara_v2",
+            "planet_a": "Mars",
+            "planet_b": "Mercury",
+            "trigger": "Mars and Mercury are together",
+            "effect": "in the Ind. \nसूययः िािेन संयुतो ह्यथिा िािमध्यगः। \nसूयात् सप्तमगः िािस्तिा पितृिधो भिेत्॥३६॥ \n36. Early loss of father will take place if the Sun is with a malefic or is hemmed \nbetween malefic as there is another malefic in the 7th from the Sun. \nसप्तमे भिने सूययः कमयस्थो भूमनन्दनः। \nराहुव्यये च युयैि पिता किेन जीिवत॥३७॥ \n37. Remote will be the possibility of one's father sustaining if the Sun i",
+            "matched_rasi": "Aries"
+          },
+          {
+            "type": "conjunction",
+            "book": "Yavanajataka_2",
+            "planet_a": "Mars",
+            "planet_b": "Mercury",
+            "trigger": "Mars and Mercury are in conjunction",
+            "effect": "(in Pisces, he is thinking of) \nfighting over se~ual intercourse; \n94. if Mars and Venus, of ... success with regard to ... cows and lands; if \nMars and Jupiter, of the acquisition of such things as ... ; and if Mars and \nSaturn, of the stealing of his wealth and jewels. \n95.",
+            "matched_rasi": "Aries"
+          },
+          {
+            "type": "conjunction",
+            "book": "Saravali",
+            "planet_a": "Mars",
+            "planet_b": "Mercury",
+            "trigger": "Mars and Mercury\nare together",
+            "effect": "at birth, the native will have unlucky wife, little\nwealth, will work with gold and iron, be an architect, will keep\na wicked widow and be expert in making medicines.",
+            "matched_rasi": "Aries"
+          }
+        ]
+      }
+    ],
+    "aspect": [
+      {
+        "key": [
+          "Venus",
+          "Jupiter"
+        ],
+        "book_count": 2,
+        "books": [
+          "Phaladeepika",
+          "Yavanajataka_2"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Phaladeepika",
+            "aspector": "Venus",
+            "aspected": "Jupiter",
+            "trigger": "Venus\nis\naspected\nby\nJupiter",
+            "effect": ".\nJupiter occupying a Rasi\nother than Makara\nidentical\nwith the Lagna\nwill\nusher a King endowed with ele-\nphants# in\nrut.\nThe lord\nof\nthe\nLagna* occupying a\n\n79\nSI. 21-23\nKendra in full strength will cause a ruler of men to be\nborn.\nMercury\nin\nthe above\nposition aspected by\nlupiter will usher into the world a person whose orders\nwill be obeyed by Kings.\n^5r|rTr8j?irm&'c5Tr'eft5T ^Frr^ariTTJT\ntr-t’"
+          },
+          {
+            "type": "aspect",
+            "book": "Yavanajataka_2",
+            "aspector": "Venus",
+            "aspected": "Jupiter",
+            "trigger": "Jupiter aspected by Venus",
+            "effect": "is in a cardine, then it produces the birth of monarchs. \n31."
+          },
+          {
+            "type": "aspect",
+            "book": "Yavanajataka_2",
+            "aspector": "Venus",
+            "aspected": "Jupiter",
+            "trigger": "Jupiter is aspected by Venus",
+            "effect": "and Mercury, one should know (that he is \nthinking of) the abodes of multitudes of men; one should know that he is \nthinking of assemblies of men by the aspects of the lords of the signs on the \n(various) signs. \n71."
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          "Moon"
+        ],
+        "book_count": 2,
+        "books": [
+          "Hora_Sara",
+          "Prashna_Marga"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Prashna_Marga",
+            "aspector": "Jupiter",
+            "aspected": "Moon",
+            "trigger": "Moon \naspected by Jupiter",
+            "effect": "occupies the 2nd, 4th, 5th, 7th, 9th and 12th (anupachaya rasis) marriage will \ntake place without any mishap."
+          },
+          {
+            "type": "aspect",
+            "book": "Prashna_Marga",
+            "aspector": "Jupiter",
+            "aspected": "Moon",
+            "trigger": "Moon aspected by Jupiter",
+            "effect": "occupies other Bhavas,  sexual union between \nhusband and wife takes place."
+          },
+          {
+            "type": "aspect",
+            "book": "Prashna_Marga",
+            "aspector": "Jupiter",
+            "aspected": "Moon",
+            "trigger": "Moon aspected by Jupiter",
+            "effect": "occupies Upachaya \nRasis from the ascendant of the husband."
+          },
+          {
+            "type": "aspect",
+            "book": "Prashna_Marga",
+            "aspector": "Jupiter",
+            "aspected": "Moon",
+            "trigger": "Moon aspected by Jupiter",
+            "effect": "occupies the 3rd, \nthe 6th, the 10th or the 11th from the radical Moon of the husband, or in the constellation of \nMoola and asterisms declared to be good for the first feeding of the child will result in \nconception."
+          },
+          {
+            "type": "aspect",
+            "book": "Prashna_Marga",
+            "aspector": "Jupiter",
+            "aspected": "Moon",
+            "trigger": "Moon is aspected by Jupiter",
+            "effect": ", it is rice water mixed \nwith ghee. If there is the aspect of Venus, it is mixed with butter. Other planets indicate \nmixture with oil.\nStanza 27. The Sun and Mars indicate goat's milk. Venus denotes cow's milk or \nproducts.  Similarly  the  milk  of  other  animals  corresponding  to  signs  and  planets \nassociating or aspecting them can be guessed.\nStanzas 28 and 29. If Mars occupies the 7th,"
+          },
+          {
+            "type": "aspect",
+            "book": "Hora_Sara",
+            "aspector": "Jupiter",
+            "aspected": "Moon",
+            "trigger": "Moon aspected by Jupiter",
+            "effect": ", the Sun in the 10th, Lords of the \n2nd both from the Moon and Lagna receiving highy beneficial \naspects, lord of the 11th Mars aspecting the 2nd lord M o o n etc. \netc."
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          "Mars"
+        ],
+        "book_count": 2,
+        "books": [
+          "Prashna_Marga",
+          "Saravali"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Prashna_Marga",
+            "aspector": "Jupiter",
+            "aspected": "Mars",
+            "trigger": "Jupiter aspects Mars",
+            "effect": "then only the first born will die- If Pisces \nhappens to be the 5th and is occupied by Jupiter and aspected by Saturn then also children \nwill die."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mars",
+            "trigger": "Jupiter aspects Mars",
+            "effect": "as above, the subject will\nbe skilful in music and in play of musical ijustruments, be fortu-\nnate, be dear to his relatives, and will be pure. jf Venus\nhimself aspect Mars in the above condition, the person will\nbe a king’s minister, be liked by the king, be an army chief,\nwill have famous name (i.e. titles etc.) and will be happy."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mars",
+            "trigger": "Jupiter\naspects Mars",
+            "effect": "as above, the person will be wealthy, will have\nuntarnished image and will be generally skiful Venus aspecting\nMars in the former’s Rasi the native will enjoy high position\nin life, particularly in fields like army, and become widely\nfamous Saturn’s aspect on Mars so posited is favourable for\nwealth, position, relatives etc. particularly if the ascending sign\nbelongs to Saturn or Venus."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mars",
+            "trigger": "Jupiter aspect Mars",
+            "effect": "in Taurus/Libra, the native will\nbe a king’s representative, be bright, will go to foreign count-\nries as an ambassdor, be skilfull in all doings and be a leader."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mars",
+            "trigger": "Jupiter aspects Mars",
+            "effect": "in Leo, the person\nwill be close to the king, be highly learned, be of pure mentality\nand be an army chief."
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          "Mercury"
+        ],
+        "book_count": 2,
+        "books": [
+          "Hora_Sara",
+          "Saravali"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mercury",
+            "trigger": "Jupiter\naspects Mercury",
+            "effect": "as above, one will be a great scholar, very\ndear (to all), be fortunate, dear to the king and will cross the\nboundaries of learning."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mercury",
+            "trigger": "Jupiter aspects Mercury",
+            "effect": "as above, one will be beautiful, very\nlearned, be a gifted speaker, be very famous, and be endowed\nwith attendants and conveyances."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mercury",
+            "trigger": "Jupiter aspect Mercury",
+            "effect": "as above, he\nwill be rich by memory, intelligence and descendency, be beau- *\ntiful, noble and knowledgeable, be a king minsiter, or his\ntrearurer and be a writer."
+          },
+          {
+            "type": "aspect",
+            "book": "Saravali",
+            "aspector": "Jupiter",
+            "aspected": "Mercury",
+            "trigger": "Jupiter aspects Mercury",
+            "effect": "as stated above, he will be\nendowed with abundant money and grains, be honoured in his\nvillage/town and by his men, be happy and be famous."
+          },
+          {
+            "type": "aspect",
+            "book": "Hora_Sara",
+            "aspector": "Jupiter",
+            "aspected": "Mercury",
+            "trigger": "Jupiter aspect Mercury",
+            "effect": ", the native will become a king \nwhose orders will faithfully be obeyed by other kings."
+          }
+        ]
+      },
+      {
+        "key": [
+          "Saturn",
+          "Sun"
+        ],
+        "book_count": 1,
+        "books": [
+          "Brihat_Parashara_v2"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Brihat_Parashara_v2",
+            "aspector": "Saturn",
+            "aspected": "Sun",
+            "trigger": "Sun is aspected by Saturn",
+            "effect": "and be in Aries/Scorpio Navamsha, the \nfather would have given up the family before the birth of the child or would have passed \naway."
+          }
+        ]
+      },
+      {
+        "key": [
+          "Jupiter",
+          "Venus"
+        ],
+        "book_count": 1,
+        "books": [
+          "Jataka_Parijata"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Jataka_Parijata",
+            "aspector": "Jupiter",
+            "aspected": "Venus",
+            "trigger": "Venus aspected by Jupiter",
+            "effect": "occu-\nples the Sed. bhava, the person born will devoredly\nEherish his brothers and sisters. | Tf Mercury occupying\nthe Srd bhava be aspscted, by the."
+          }
+        ]
+      },
+      {
+        "key": [
+          "Saturn",
+          "Jupiter"
+        ],
+        "book_count": 1,
+        "books": [
+          "Hora_Sara"
+        ],
+        "items": [
+          {
+            "type": "aspect",
+            "book": "Hora_Sara",
+            "aspector": "Saturn",
+            "aspected": "Jupiter",
+            "trigger": "Jupiter is aspected by Saturn",
+            "effect": "or conjoined with Rahu \nand malefic is in Lagna, while the 8th is occupied, the life span is \nonly 22. \nrFFIct \n• ^ M T ^ \n% ^ l \nf ^ m ^ \n4;-<'ird ^IWPTT^:/qr fiWl \nII 17 \nII \nShould the Lagna be occupied by its lord while the Sim and \nthe Moon are in the 4th together with malefics, and the 8th lord \nis in a Kendra, the end of life is at 30 . \nf ^ w r f W f ^ 3 l t % r f M ^ q ^ ^ \nII 18 \nII \n\n6"
+          }
+        ]
+      }
+    ]
+  }
+}

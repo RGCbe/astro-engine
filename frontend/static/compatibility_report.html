@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Celestial Compatibility Report | Manoj & Kayalvizhi</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Three.js & GSAP -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    
+    <style>
+        :root {
+            --bg-color: #030212;
+            --card-bg: rgba(13, 11, 35, 0.4);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --boy-color: #00d2ff;
+            --boy-glow: rgba(0, 210, 255, 0.3);
+            --girl-color: #ff00a0;
+            --girl-glow: rgba(255, 0, 160, 0.3);
+            --gold-color: #ffb900;
+            --gold-glow: rgba(255, 185, 0, 0.4);
+            --text-primary: #ffffff;
+            --text-secondary: #a0aec0;
+            --success-color: #00e676;
+            --warning-color: #ff9100;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        h1, h2, h3, h4, .outfit {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 600;
+        }
+
+        /* Background Starfield Canvas */
+        #bg-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* Glassmorphism utility classes */
+        .glass-card {
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 30px;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .glass-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0) 100%);
+            pointer-events: none;
+        }
+
+        .glass-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(255, 255, 255, 0.15);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+
+        /* Header / Navbar */
+        header {
+            width: 100%;
+            padding: 20px 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: absolute;
+            top: 0;
+            z-index: 10;
+        }
+
+        .logo {
+            font-size: 24px;
+            background: linear-gradient(90deg, var(--boy-color), var(--gold-color), var(--girl-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: 1px;
+        }
+
+        .stamp-badge {
+            background: rgba(255, 185, 0, 0.1);
+            border: 1px solid var(--gold-color);
+            color: var(--gold-color);
+            padding: 6px 16px;
+            border-radius: 30px;
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            box-shadow: 0 0 10px rgba(255, 185, 0, 0.1);
+        }
+
+        /* Main Container */
+        main {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 100px 5% 50px 5%;
+        }
+
+        /* Hero Grid Section */
+        .hero-section {
+            display: grid;
+            grid-template-columns: 1.2fr 1fr;
+            gap: 40px;
+            min-height: 80vh;
+            align-items: center;
+            padding: 40px 0;
+        }
+
+        .hero-info {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .hero-info h1 {
+            font-size: 56px;
+            line-height: 1.1;
+            background: linear-gradient(135deg, #ffffff 60%, #a0aec0 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero-info p {
+            font-size: 18px;
+            color: var(--text-secondary);
+            max-width: 550px;
+        }
+
+        /* Matching Cards for Boy & Girl */
+        .couple-strip {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .couple-pill {
+            flex: 1;
+            padding: 20px;
+            border-radius: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            border: 1px solid var(--border-color);
+        }
+
+        .couple-pill.boy {
+            background: rgba(0, 210, 255, 0.04);
+            border-color: rgba(0, 210, 255, 0.15);
+        }
+
+        .couple-pill.girl {
+            background: rgba(255, 0, 160, 0.04);
+            border-color: rgba(255, 0, 160, 0.15);
+        }
+
+        .couple-pill h3 {
+            font-size: 20px;
+        }
+
+        .couple-pill.boy h3 { color: var(--boy-color); }
+        .couple-pill.girl h3 { color: var(--girl-color); }
+
+        .couple-pill span {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        .couple-pill .meta-val {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* 3D Matching Canvas Viewport */
+        .viewport-container {
+            width: 100%;
+            height: 500px;
+            position: relative;
+            border-radius: 24px;
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+            background: radial-gradient(circle at center, rgba(13, 11, 45, 0.6) 0%, rgba(3, 2, 18, 0.9) 100%);
+            box-shadow: inset 0 0 50px rgba(0,0,0,0.8);
+        }
+
+        #canvas3d {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Score Overlay inside 3D Viewport */
+        .score-overlay {
+            position: absolute;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            text-align: center;
+            background: rgba(3, 2, 18, 0.7);
+            padding: 15px 30px;
+            border-radius: 50px;
+            border: 1px solid rgba(255, 185, 0, 0.2);
+            backdrop-filter: blur(10px);
+            z-index: 5;
+        }
+
+        .score-val {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--gold-color);
+            text-shadow: 0 0 15px var(--gold-glow);
+        }
+
+        .score-verdict {
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 600;
+            color: var(--success-color);
+        }
+
+        /* Interactive Simulate Button */
+        .action-btn {
+            background: linear-gradient(90deg, var(--boy-color), var(--girl-color));
+            color: white;
+            border: none;
+            padding: 16px 36px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 50px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            transition: all 0.3s;
+            box-shadow: 0 5px 20px rgba(255, 0, 160, 0.2);
+            width: fit-content;
+            margin-top: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .action-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 30px rgba(0, 210, 255, 0.4);
+        }
+
+        /* Section Layout */
+        section {
+            padding: 80px 0;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .section-header {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .section-header h2 {
+            font-size: 40px;
+            background: linear-gradient(90deg, #ffffff, var(--text-secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .section-header p {
+            color: var(--text-secondary);
+            font-size: 16px;
+        }
+
+        /* Kuta matching grid */
+        .kuta-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        .kuta-card {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            position: relative;
+        }
+
+        .kuta-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .kuta-card-header h3 {
+            font-size: 18px;
+            color: var(--text-primary);
+        }
+
+        .kuta-badge {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: var(--text-secondary);
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        .kuta-badge.match {
+            background: rgba(0, 230, 118, 0.1);
+            border-color: var(--success-color);
+            color: var(--success-color);
+        }
+
+        .kuta-desc {
+            font-size: 14px;
+            color: var(--text-secondary);
+            min-height: 60px;
+        }
+
+        .kuta-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            padding-top: 12px;
+            color: var(--text-secondary);
+        }
+
+        /* Sevvai Dosham Layout */
+        .dosha-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+
+        .dosha-card {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            border-left: 4px solid var(--success-color);
+        }
+
+        .dosha-card.afflicted {
+            border-left-color: var(--warning-color);
+        }
+
+        .dosha-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .dosha-card-header h3 {
+            font-size: 22px;
+        }
+
+        .dosha-status {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+
+        .dosha-status.ok {
+            background: rgba(0, 230, 118, 0.1);
+            color: var(--success-color);
+        }
+
+        .dosha-status.warning {
+            background: rgba(255, 145, 0, 0.1);
+            color: var(--warning-color);
+        }
+
+        .dosha-details {
+            font-size: 15px;
+            color: var(--text-secondary);
+        }
+
+        /* Dasha Synchronization Timeline */
+        .timeline-container {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            position: relative;
+            padding-left: 20px;
+            border-left: 1px dashed rgba(255,255,255,0.1);
+        }
+
+        .timeline-node {
+            display: grid;
+            grid-template-columns: 200px 1fr;
+            gap: 30px;
+            position: relative;
+        }
+
+        .timeline-node::before {
+            content: '';
+            position: absolute;
+            left: -26px;
+            top: 6px;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--text-secondary);
+            border: 2px solid var(--bg-color);
+        }
+
+        .timeline-node.highlight::before {
+            background: var(--gold-color);
+            box-shadow: 0 0 10px var(--gold-glow);
+            width: 14px;
+            height: 14px;
+            left: -28px;
+        }
+
+        .timeline-date {
+            font-weight: 600;
+            color: var(--gold-color);
+        }
+
+        .timeline-content {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .timeline-content h4 {
+            font-size: 18px;
+        }
+
+        .timeline-content p {
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        /* Profile alignment fit check */
+        .alignment-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+
+        .fit-indicator {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 15px 20px;
+            background: rgba(0, 230, 118, 0.05);
+            border: 1px solid rgba(0, 230, 118, 0.15);
+            border-radius: 12px;
+            margin-top: 15px;
+        }
+
+        .fit-indicator i {
+            color: var(--success-color);
+            font-size: 20px;
+        }
+
+        /* Footer */
+        footer {
+            border-top: 1px solid var(--border-color);
+            padding: 40px 0;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        /* Responsive Breakpoints */
+        @media (max-width: 1024px) {
+            .hero-section {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+            .viewport-container {
+                height: 400px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-info h1 {
+                font-size: 40px;
+            }
+            .couple-strip {
+                flex-direction: column;
+            }
+            .dosha-section, .alignment-section {
+                grid-template-columns: 1fr;
+            }
+            .timeline-node {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            .timeline-node::before {
+                left: -25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Background Starfield -->
+    <canvas id="bg-canvas"></canvas>
+
+    <header>
+        <div class="logo font-weight-bold outfit">ASTROMYSTIC</div>
+        <div class="stamp-badge">Thirukanitham Verified</div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <div class="hero-section">
+            <div class="hero-info" id="hero-info-panel">
+                <h1>Celestial Matching Report</h1>
+                <p>An interactive, multi-dimensional alignment analysis between Manoj Kumar and N. Kayalvizhi based on sidereal planetary longitudes and classical Tamil scripture matching rules.</p>
+                
+                <div class="couple-strip">
+                    <div class="couple-pill boy">
+                        <span>Boy</span>
+                        <h3>Manoj Kumar</h3>
+                        <span class="meta-val">Simha Rasi (Leo)</span>
+                        <span class="meta-val">Magha Nakshatra 4</span>
+                    </div>
+                    <div class="couple-pill girl">
+                        <span>Girl</span>
+                        <h3>N. Kayalvizhi</h3>
+                        <span class="meta-val">Kumbam Rasi (Aquarius)</span>
+                        <span class="meta-val">Shatabhisha Nakshatra 4</span>
+                    </div>
+                </div>
+
+                <button class="action-btn" id="simulate-btn">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> Align Stars
+                </button>
+            </div>
+
+            <!-- 3D Interactive Viewport -->
+            <div class="viewport-container" id="hero-viewport">
+                <canvas id="canvas3d"></canvas>
+                <div class="score-overlay">
+                    <div class="score-val">24 / 36 Points</div>
+                    <div class="score-verdict">VERY GOOD COMPATIBILITY</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ashta-Kuta Milan -->
+        <section id="kuta-section">
+            <div class="section-header">
+                <h2>Ashta-Kuta Milan (8-Fold Matching)</h2>
+                <p>The core 36-point compatibility matrix evaluating emotional, spiritual, physiological, and temperamental alignment.</p>
+            </div>
+            
+            <div class="kuta-grid">
+                <!-- Nadi -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Nadi Kuta</h3>
+                        <span class="kuta-badge match">8 / 8 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Boy: Antya Nadi | Girl: Adi Nadi. Different Nadis indicate complete immunity to <b>Nadi Dosha</b>, suggesting physiological health compatibility and healthy offspring.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Progeny & Health</span>
+                        <span>Weight: High</span>
+                    </div>
+                </div>
+
+                <!-- Bhakoot -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Bhakoot Kuta</h3>
+                        <span class="kuta-badge match">7 / 7 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Their Moon signs are in the 1-7 axis relationship (Samasaptaka). This direct face-to-face opposition eliminates <b>Bhakoot Dosha</b>, indicating mutual emotional respect and shared prosperity.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Family & Joy</span>
+                        <span>Weight: High</span>
+                    </div>
+                </div>
+
+                <!-- Gana -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Gana Kuta</h3>
+                        <span class="kuta-badge match">6 / 6 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Both partners belong to <b>Rakshasa Gana</b>. Sharing the same temperament fosters natural understanding, equal responses, and prevents mental friction.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Temperament</span>
+                        <span>Weight: High</span>
+                    </div>
+                </div>
+
+                <!-- Yoni -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Yoni Kuta</h3>
+                        <span class="kuta-badge match">2 / 4 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Boy: Rat (Magha) | Girl: Horse (Shatabhisha). Neutral animal interaction. No active natural enmity exists, giving a neutral physical alignment.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Physical Affinity</span>
+                        <span>Weight: Medium</span>
+                    </div>
+                </div>
+
+                <!-- Varna -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Varna Kuta</h3>
+                        <span class="kuta-badge match">1 / 1 Pt</span>
+                    </div>
+                    <p class="kuta-desc">Boy: Kshatriya class | Girl: Shudra class. A harmonious class relationship where ego expectations align naturally.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Spiritual Class</span>
+                        <span>Weight: Low</span>
+                    </div>
+                </div>
+
+                <!-- Graha Maitri -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Graha Maitri</h3>
+                        <span class="kuta-badge">0 / 5 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Sun (Leo) and Saturn (Aquarius) are planetary adversaries. Points are lost here, signifying differing philosophies of life, though balanced by their Samasaptaka Moon alignment.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Planetary Friendship</span>
+                        <span>Weight: Medium</span>
+                    </div>
+                </div>
+
+                <!-- Tara -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Tara Kuta</h3>
+                        <span class="kuta-badge">0 / 3 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Magha to Shatabhisha is the 14th star (Pratyak Tara - challenges). The reverse direction is Kshema Tara (auspicious), providing partial shield against difficulties.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Destiny & Longevity</span>
+                        <span>Weight: Medium</span>
+                    </div>
+                </div>
+
+                <!-- Vasya -->
+                <div class="glass-card kuta-card">
+                    <div class="kuta-card-header">
+                        <h3>Vasya Kuta</h3>
+                        <span class="kuta-badge">0 / 2 Pts</span>
+                    </div>
+                    <p class="kuta-desc">Leo and Aquarius do not fall under each other's direct commanding influence. The alignment is neutral.</p>
+                    <div class="kuta-meta">
+                        <span>Significance: Control / Dominance</span>
+                        <span>Weight: Low</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sevvai Dosham / Mangal Dosha -->
+        <section id="dosha-section">
+            <div class="section-header">
+                <h2>Sevvai Dosham (Mars Affliction)</h2>
+                <p>A detailed breakdown of Mars placements from Lagna and Moon to ensure long-term harmony.</p>
+            </div>
+
+            <div class="dosha-section">
+                <div class="glass-card dosha-card">
+                    <div class="dosha-card-header">
+                        <h3>Manoj Kumar</h3>
+                        <span class="dosha-status ok">No Dosham</span>
+                    </div>
+                    <p class="dosha-details">Mars is placed in Aries (its own sign, extremely strong) in the 5th house from Lagna (Sagittarius). This placement represents high intelligence and vitality, completely free from Sevvai Dosham.</p>
+                </div>
+
+                <div class="glass-card dosha-card afflicted">
+                    <div class="dosha-card-header">
+                        <h3>N. Kayalvizhi</h3>
+                        <span class="dosha-status warning">Chandra Mangal Dosha</span>
+                    </div>
+                    <p class="dosha-details">Mars is placed in Virgo (Kanni) conjunct Rahu. This puts Mars in the 8th house from the Moon (Aquarius), creating a moderate Chandra Mangal Dosham.</p>
+                    <p class="dosha-details" style="font-style: italic; font-size: 13px;"><b>Mitigation:</b> In classical Tamil matchmaking rules, Mars in Virgo (Mercury-ruled sign) is considered mitigated, meaning its harsh effects are significantly softened. The match is highly acceptable.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Timeline / Dasha Synchronization -->
+        <section id="timeline-section">
+            <div class="section-header">
+                <h2>Dasha & Marriage Timing Synchronization</h2>
+                <p>Analyzing both Vimshottari timelines to verify if the cosmic cycles support marriage right now.</p>
+            </div>
+
+            <div class="glass-card">
+                <div class="timeline-container">
+                    <div class="timeline-node highlight">
+                        <div class="timeline-date">Active Period (2026 - 2027)</div>
+                        <div class="timeline-content">
+                            <h4>Perfect Overlapping Marriage Window</h4>
+                            <p>Both individuals are running highly supportive sub-periods for marriage during the exact same timeframe:</p>
+                            <ul style="margin-left: 20px; font-size: 14px; color: var(--text-secondary); display: flex; flex-direction: column; gap: 5px;">
+                                <li><b>Manoj Kumar:</b> Moon Maha Dasha + <b>Jupiter Antardasha</b> (May 2026 – Sep 2027). Jupiter is his Lagna Lord in Sagittarius, bringing career settlement and marriage.</li>
+                                <li><b>N. Kayalvizhi:</b> Saturn Maha Dasha + <b>Mars Antardasha</b> (May 2026 – June 2027). Mars is her <b>7th Lord of marriage</b>, which classically triggers wedding bells during its period.</li>
+                            </ul>
+                            <div class="fit-indicator">
+                                <i class="fa-solid fa-circle-check"></i>
+                                <span>Cosmic timing is 100% synchronized for a wedding before June/September 2027.</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-node">
+                        <div class="timeline-date">Late 2027 Onward</div>
+                        <div class="timeline-content">
+                            <h4>Stabilization Phase</h4>
+                            <p>Manoj enters Saturn Antardasha, and Kayalvizhi enters Rahu Antardasha. Settling into domestic life and family routines.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Partner Profile & Expectation Fit -->
+        <section id="alignment-section">
+            <div class="section-header">
+                <h2>Partner Profile & Expectation Alignment</h2>
+                <p>Verifying if the partners meet the mechanical configurations indicated in each other's birth charts.</p>
+            </div>
+
+            <div class="alignment-section">
+                <div class="glass-card">
+                    <h3>Manoj's Spouse Profile Indicators</h3>
+                    <p style="margin: 15px 0; color: var(--text-secondary); font-size: 14px;">Manoj's 7th house (Gemini) contains its lord Venus, indicating an educated, communicative spouse, likely working in an intellectual or educational field (Gemini rules teaching, reading, writing).</p>
+                    <div class="fit-indicator">
+                        <i class="fa-solid fa-certificate"></i>
+                        <span><b>Fit Details:</b> N. Kayalvizhi has an <b>MA, B.Ed</b> and works as a <b>Teacher</b> in a private school. Perfect alignment.</span>
+                    </div>
+                </div>
+
+                <div class="glass-card">
+                    <h3>Kayalvizhi's Expectation Matching</h3>
+                    <p style="margin: 15px 0; color: var(--text-secondary); font-size: 14px;">Kayalvizhi's expectations page lists her ideal husband description as: "Good job + Agriculture/Business".</p>
+                    <div class="fit-indicator">
+                        <i class="fa-solid fa-certificate"></i>
+                        <span><b>Fit Details:</b> Manoj works as a civil draftsman (stable construction field) and manages a family dairy/agricultural business. Perfect alignment.</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 AstroMystic. Crafted for Manoj Kumar & N. Kayalvizhi. All rights reserved.</p>
+    </footer>
+
+    <!-- Three.js Interactive Code -->
+    <script>
+        // Setup background particle canvas
+        const bgCanvas = document.getElementById('bg-canvas');
+        const bgScene = new THREE.Scene();
+        const bgCamera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const bgRenderer = new THREE.WebGLRenderer({ canvas: bgCanvas, alpha: true });
+        
+        bgRenderer.setSize(window.innerWidth, window.innerHeight);
+        bgRenderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+        // Create Starfield
+        const starsGeometry = new THREE.BufferGeometry();
+        const starsCount = 1500;
+        const starPositions = new Float32Array(starsCount * 3);
+
+        for (let i = 0; i < starsCount * 3; i++) {
+            starPositions[i] = (Math.random() - 0.5) * 50;
+        }
+
+        starsGeometry.setAttribute('position', new THREE.BufferAttribute(starPositions, 3));
+        
+        // Star Material
+        const starsMaterial = new THREE.PointsMaterial({
+            size: 0.05,
+            color: 0xffffff,
+            transparent: true,
+            opacity: 0.8
+        });
+
+        const starField = new THREE.Points(starsGeometry, starsMaterial);
+        bgScene.add(starField);
+
+        bgCamera.position.z = 10;
+
+        // Background Animation Loop
+        function animateBackground() {
+            requestAnimationFrame(animateBackground);
+            starField.rotation.y += 0.0003;
+            starField.rotation.x += 0.0001;
+            bgRenderer.render(bgScene, bgCamera);
+        }
+        animateBackground();
+
+        // Handle resize
+        window.addEventListener('resize', () => {
+            bgCamera.aspect = window.innerWidth / window.innerHeight;
+            bgCamera.updateProjectionMatrix();
+            bgRenderer.setSize(window.innerWidth, window.innerHeight);
+            
+            // Viewport update
+            if (camera3d && renderer3d) {
+                const width = viewport.clientWidth;
+                const height = viewport.clientHeight;
+                camera3d.aspect = width / height;
+                camera3d.updateProjectionMatrix();
+                renderer3d.setSize(width, height);
+            }
+        });
+
+        // ─── 3D Viewport in Hero ───
+        const viewport = document.getElementById('hero-viewport');
+        const canvas3d = document.getElementById('canvas3d');
+        const scene3d = new THREE.Scene();
+        
+        const camera3d = new THREE.PerspectiveCamera(45, viewport.clientWidth / viewport.clientHeight, 0.1, 100);
+        const renderer3d = new THREE.WebGLRenderer({ canvas: canvas3d, antialias: true, alpha: true });
+        renderer3d.setSize(viewport.clientWidth, viewport.clientHeight);
+        renderer3d.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+        camera3d.position.z = 12;
+
+        // Create Boy Rasi Ring (Outer Ring - Cyan)
+        const boyRingGeo = new THREE.RingGeometry(3.5, 3.6, 64);
+        const boyRingMat = new THREE.MeshBasicMaterial({ color: 0x00d2ff, side: THREE.DoubleSide, transparent: true, opacity: 0.6 });
+        const boyRing = new THREE.Mesh(boyRingGeo, boyRingMat);
+        scene3d.add(boyRing);
+
+        // Create Girl Rasi Ring (Inner Ring - Pink)
+        const girlRingGeo = new THREE.RingGeometry(2.8, 2.9, 64);
+        const girlRingMat = new THREE.MeshBasicMaterial({ color: 0xff00a0, side: THREE.DoubleSide, transparent: true, opacity: 0.6 });
+        const girlRing = new THREE.Mesh(girlRingGeo, girlRingMat);
+        scene3d.add(girlRing);
+
+        // Add Constellation Nodes (Particles representing Nakshatras)
+        const boyStarGeo = new THREE.BufferGeometry();
+        // Magha Node
+        const boyStarPos = new Float32Array([
+            Math.cos(Math.PI * 0.4) * 3.55, Math.sin(Math.PI * 0.4) * 3.55, 0
+        ]);
+        boyStarGeo.setAttribute('position', new THREE.BufferAttribute(boyStarPos, 3));
+        const boyStarMat = new THREE.PointsMaterial({ size: 0.4, color: 0x00d2ff });
+        const boyStar = new THREE.Points(boyStarGeo, boyStarMat);
+        boyRing.add(boyStar);
+
+        // Shatabhisha Node
+        const girlStarGeo = new THREE.BufferGeometry();
+        const girlStarPos = new Float32Array([
+            Math.cos(Math.PI * 1.4) * 2.85, Math.sin(Math.PI * 1.4) * 2.85, 0
+        ]);
+        girlStarGeo.setAttribute('position', new THREE.BufferAttribute(girlStarPos, 3));
+        const girlStarMat = new THREE.PointsMaterial({ size: 0.4, color: 0xff00a0 });
+        const girlStar = new THREE.Points(girlStarGeo, girlStarMat);
+        girlRing.add(girlStar);
+
+        // Add glowing bridge between stars (initially hidden/transparent)
+        const bridgePoints = [];
+        const bridgeGeo = new THREE.BufferGeometry();
+        const bridgeMat = new THREE.LineBasicMaterial({ color: 0xffb900, transparent: true, opacity: 0 });
+        const bridgeLine = new THREE.Line(bridgeGeo, bridgeMat);
+        scene3d.add(bridgeLine);
+
+        // Particles for the connection bridge
+        const beamGeo = new THREE.BufferGeometry();
+        const beamCount = 100;
+        const beamPositions = new Float32Array(beamCount * 3);
+        beamGeo.setAttribute('position', new THREE.BufferAttribute(beamPositions, 3));
+        const beamMat = new THREE.PointsMaterial({ size: 0.1, color: 0xffb900, transparent: true, opacity: 0 });
+        const beamParticles = new THREE.Points(beamGeo, beamMat);
+        scene3d.add(beamParticles);
+
+        // Add soft lighting to 3D scene
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.8);
+        scene3d.add(ambientLight);
+
+        // 3D Viewport Animation
+        let rotationActive = true;
+        let alignmentPhase = false;
+
+        function animate3d() {
+            requestAnimationFrame(animate3d);
+
+            if (rotationActive) {
+                boyRing.rotation.z += 0.005;
+                girlRing.rotation.z -= 0.007;
+            }
+
+            // If alignment phase, animate the bridge particles
+            if (alignmentPhase) {
+                // Get absolute world positions of the nodes
+                const boyNodePos = new THREE.Vector3();
+                boyStar.getWorldPosition(boyNodePos);
+
+                const girlNodePos = new THREE.Vector3();
+                girlStar.getWorldPosition(girlNodePos);
+
+                // Update bridge line positions
+                const linePositions = new Float32Array([
+                    boyNodePos.x, boyNodePos.y, boyNodePos.z,
+                    girlNodePos.x, girlNodePos.y, girlNodePos.z
+                ]);
+                bridgeLine.geometry.setAttribute('position', new THREE.BufferAttribute(linePositions, 3));
+                bridgeLine.geometry.computeBoundingSphere();
+
+                // Animate beam particles flowing from boy node to girl node
+                const beamPos = beamParticles.geometry.attributes.position.array;
+                for (let i = 0; i < beamCount; i++) {
+                    const ratio = ((Date.now() / 2000 + i / beamCount) % 1);
+                    const interpX = THREE.MathUtils.lerp(boyNodePos.x, girlNodePos.x, ratio);
+                    const interpY = THREE.MathUtils.lerp(boyNodePos.y, girlNodePos.y, ratio);
+                    const interpZ = THREE.MathUtils.lerp(boyNodePos.z, girlNodePos.z, ratio);
+
+                    beamPos[i * 3] = interpX + (Math.random() - 0.5) * 0.15;
+                    beamPos[i * 3 + 1] = interpY + (Math.random() - 0.5) * 0.15;
+                    beamPos[i * 3 + 2] = interpZ + (Math.random() - 0.5) * 0.15;
+                }
+                beamParticles.geometry.attributes.position.needsUpdate = true;
+            }
+
+            renderer3d.render(scene3d, camera3d);
+        }
+        animate3d();
+
+        // ─── Interaction Animations (GSAP & Simulate Alignment) ───
+        const simulateBtn = document.getElementById('simulate-btn');
+
+        simulateBtn.addEventListener('click', () => {
+            // Disable button during animation
+            simulateBtn.disabled = true;
+            simulateBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Aligning...';
+
+            // Spin rings rapidly, then slow down to aligned angles
+            rotationActive = false;
+
+            // Target angles to align Magha (boy) and Shatabhisha (girl) on same vertical plane
+            // Boy: Magha (initial Math.PI * 0.4). Girl: Shatabhisha (initial Math.PI * 1.4).
+            // Let's rotate boyRing to 0, girlRing to Math.PI.
+            const boyTarget = Math.PI * 0.1;
+            const girlTarget = Math.PI * 1.1;
+
+            gsap.timeline()
+                .to(boyRing.rotation, {
+                    z: boyRing.rotation.z + Math.PI * 6 + (boyTarget - (boyRing.rotation.z % (Math.PI * 2))),
+                    duration: 2.5,
+                    ease: "power2.inOut"
+                })
+                .to(girlRing.rotation, {
+                    z: girlRing.rotation.z - Math.PI * 6 + (girlTarget - (girlRing.rotation.z % (Math.PI * 2))),
+                    duration: 2.5,
+                    ease: "power2.inOut"
+                }, 0)
+                .add(() => {
+                    // Turn on connection bridge and particles
+                    alignmentPhase = true;
+                    gsap.to(bridgeMat, { opacity: 0.8, duration: 1 });
+                    gsap.to(beamMat, { opacity: 1, duration: 1 });
+                    
+                    // Score overlay pop animation
+                    gsap.fromTo('.score-overlay', 
+                        { scale: 0.8, opacity: 0.5 },
+                        { scale: 1, opacity: 1, duration: 0.8, ease: "elastic.out(1, 0.3)" }
+                    );
+
+                    simulateBtn.disabled = false;
+                    simulateBtn.innerHTML = '<i class="fa-solid fa-circle-check"></i> Stars Aligned';
+                });
+        });
+
+        // Entrance scroll triggers
+        gsap.registerPlugin(ScrollTrigger);
+
+        gsap.utils.toArray('.glass-card').forEach((card) => {
+            gsap.from(card, {
+                scrollTrigger: {
+                    trigger: card,
+                    start: "top 90%",
+                    toggleActions: "play none none none"
+                },
+                opacity: 0,
+                y: 30,
+                duration: 0.8,
+                ease: "power2.out"
+            });
+        });
+        
+        gsap.from('#hero-info-panel', { opacity: 0, x: -50, duration: 1.2, ease: "power3.out" });
+        gsap.from('#hero-viewport', { opacity: 0, x: 50, duration: 1.2, ease: "power3.out" });
+    </script>
+</body>
+</html>

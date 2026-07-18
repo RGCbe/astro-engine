@@ -1,0 +1,316 @@
+{
+  "item_code": "A1",
+  "item_name": "Ayanamsa calculation",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1",
+    "Aryabhatiya_v2",
+    "Vedanga_Jyotisa",
+    "Uttara_Kalamrita",
+    "Laghu_Parashari",
+    "Prashna_Marga",
+    "Yavanajataka_2"
+  ],
+  "total_passages": 85,
+  "formulas_found": [
+    {
+      "book": "Surya_Siddhanta",
+      "score": 7,
+      "context": "to 27 lunar mansions or aster- isms, of equal amount; hence the portion of the ecliptic occupied by each asterism is 13° 20, or BOCK. In order to find, accordingly, in which asterism at a given time, the moon or any other of the planets is, we have only to reduce its longitude, not corrected by the precession, to minutes, and divide by 800 : the quotient is the number of asterisms traversed, and the remainder the part traversed of the asterism in which the planet is. The last clause of the verse is very elliptical and obscure; according to the commentary, it is to be understood thus : divide by the planet's true daily motion the part past and the part to come of the current asterism, and the quotients are the days and fractions of a day which the planet has passed, and is to pass, in that ",
+      "position": 355663
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 5,
+      "context": "w: sqf: qou'6,i{r: wrqfr t wqir{qlnfirqeqqrs$drv fi [l {tl q1ilftr,Eilrfuatn fenrmugar Frqr: I FqToi qqM rfi.etq f\"ffiIullrtl ilqrss(Idaq{fiori qd, f,Tq fiil uil I n{flqnq fefuim iqqTqftf ad{nlstl Chapter 27 277 15-17 AYANA BALA : 45, 33 and 12 are the Khandas for calculating Ayana Bala. Add Ayanamsa to the planet (for which Ayana Bala is required) and find out the Bhuja (distance from the nearest equinox). Add the figure corresponding to the Rasi (of the Bhuja) to thc Bhuja. The degrees etc. of the Bhuja (devoid of Rasi) be multiplied by the figure corresponding to the higher of the left out Khandas and divided by 30. Add the resultant product to the sum obtained earlier. Convert this into Rasi etc. lf the Moon and Saturn are in Libra or ahead add to this 3 Rasis, and if in Aries to Virg",
+      "position": 433000
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 5,
+      "context": "loqltaqr t ' irerH rflF{ a€qfiilsq}gd rrnfqt ttvtt 3-4. CHESHTA RASMI .' Cheshta Rasmis arc to be cal- culated from Cheshta Kendra similar to Uchcha Rasmi computa- tions. The Cheshta Keqdras of planets from l\\{ars to Saturn have already been explained. . Add 3 Rasis to Sayana Sun (i.o. Sun with Ayanamsa), which will be the Chesbta Kendra fot thc Sun. The sidereal longitude of the Sun should be deductcd from the Moon to get the Moon's Cheshta Kendra. If thc Cheshta Kendra (for any planet) is in excess of 6 signs; deduct it from 12 signs. Add I sign and multiply the degrees etc. by 2 which will indicate the Cheshta Rasmi of the planet. 290 Brihat Parasora.Hora Sastra ndqtfrqftnd qr<fiu: ss'h{* r stwr{rt frqa}sennrnq{q wqe lt{tl 5. BENEFICIAL AND MALEEIC RAYS.. Add the Uchcha Rasmis and Chesh",
+      "position": 451438
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 5,
+      "context": "्च विधोस्तथा। चेिाकेिं रसाल्पं तच्चक्राच्छोध्यं रसात्तधके॥४॥ 3-4. CHESHTA RASMI: Cheshta Rasmis are to be calculated from Cheshta Kendra similar to Uchcha Rami computations. The Cheshta Kendra of planets from Mars to Saturn have already been explained. Add 3 Rāśhis to Sayana Sun (i.e. Sun with Ayanamsa), which will be the Cheshta Kendra for the Sun. The sidereal longitude of the Sun should be deducted from the Moon to get the Moon's Cheshta Kendra. If the Cheshta Kendra (for any planet) is in excess of 6 signs; deduct it from 12 signs. Add I sign and multiply the degrees etc. by 2 which will indicate the Cheshta Rasmi of the planet. चेिोच्चरस्तियोगाधं शुभरस्तिः प्रकीत्ययते। अिभ्यश्च विशुद्धोऽसाबशुभाख्यश्च कथ्यते॥५॥ 5. BENEFICIAL AND MALEFIC RAYS: Add the Uchcha Rasmis and Cheshta Rasm",
+      "position": 475545
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 5,
+      "context": "r of ghatis of birth and the number of signs the ascendant gained from A Ties. This figure be divided by 12 and the remainder will indicate the corresponding Avastha of the planet. The sub state in the said Avastha can be found out thus: Multiply the figure denoted by the Avastha concerned (i.e. Sayana 1, Upavesana 2 etc.) by the same figure and increase it by the figure denoted by the Anka value for the first syllabic of the native's personal name. Divide the product so obtained by 12. The remainder there of be further increased by constant planetary additaments, thus: Sun 5, Moon 2, Mars 2, Mercury 3, Jupiter 5, Venus 3, Saturn 3, Rahu 4 (and Ketu 4). (Here the planet means the one for whom the sub state is being known.) The product so arrived at be divided by 3. In t h process if the",
+      "position": 752480
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "ns, the divisions falling in the planet's exaltation eign, Moolatrikona sign, own sign, and the signs ownbd by the loid of an angle from the Arudha ascendant are all to be consictered (as good Vargas). The divisions of a combust planet, defeated pllryt, weak planet and a planet in bad Avasthas like Sayana be all ignored to be auspicious, for these destroy the good yogur. Notes : Four kinds of summary of the Vargas or diyisions are suggested thus : Chapter 6 Ro (a) Shadvarga (considering six Vargas) vi;. Rasi, Hora, Decanate, Navarnsa Dvadasamsa and Trimsamsa. (b) Snpta Varga (soven Vargas) addir;i: Saptamamsa to the Shad Varga. (c) Dasa Varga (ten Vargas) adding Shodasamsa, Dasama- msa and Shashtiamsa divisions to the Sapta Varga. (d) Shodasa Varga (all the 16 Vargas so far narrated by the",
+      "position": 135094
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "the divisions falling in the planet's exaltation sign, Moola-Trikona sign, own sign, and the signs owned by the lord of an angle from the Arudha ascendant are all to be considered (as good Vargas). The divisions of a combust planet, defeated planet, weak planet and a planet in bad Avasthas like Sayana be all ignored to be auspicious, for these destroy the good yogas. Notes: Four kinds of summary of the Vargas or divisions are suggested thus: (a) ShadVarga (considering sir Vargas) viz. Rashi, Horā, Decanate, Navamsha Dvadashamsa and Trimsamsa. (b) Sapia Varga (seven Vargas) adding Saptamamsa to the Shad Varga. (c) Dasha Varga (ten Vargas) adding Shodashamsa, Dashamamsa and Shashtiamsa divisions to the Sapia Varga. The Sixteen Divisions of a Sign Page 60 (d) Shodasha Varga (all the",
+      "position": 143626
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "score": 4,
+      "context": "All this can be obtained by the kindness and blessings of the teacher. The intelligent one has to determine all these with a delightful and clear mind. Notes The tropical (sayana) position of the Sun is needed to determine the lagna and the cusp of the tenth house. Having obtained these, deduct the ayanamsa from these. The distance from the tenth house to the lagna is to be divided by three. Add this to the tenth to get the eleventh house. Add the same to the eleventh and we get the twelfth. Sixty degrees from the twelfth is the second house. One 20 Uttara Kalamrita hundred twenty degrees from the eleventh gives the third. From each of these houses, the opposite ones are 180 degrees away. Before we illustrate this, a few observations are re- quired. In the absence of watches and clocks, th",
+      "position": 19374
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "). The effect will be great rise in prices. If the Sankramana Purusha happens to be in Naga, Gaja, Khara or Chathushpada, then he is said to be in 'Nishanna' or 'stationary'. The effect will be moderate prices. If the Purusha happens to be in Vyaghra, Vishti, Simha and Gara, he is injhe state of sayana or sleep. Prices will be low. Stanza 72. When a query regarding rains is made, the following, if seen or felt, indicates that there will be rains. The questioner touches any watery things as wet clothes, water, aquatic plants, fruits, etc.; he stands near a watery place, bathes in water, drinks "
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 5,
+      "context": "d Saturn are in conjunction in Capricorn, one should find (that he is thinking of) another man's wife or disease. Capricorn. 81. The Sun in Aquarius (in the ascendent) causes him to think of convey- ances for men, houses, horses, or quadrupeds; the Moon of drinks or medicines to prolong life (rasayana); Mars of business superintendents or of those excelling in the fine arts; Mercury of scholars and gentlemen; 82. Venus of sexual intercourse, women, beds, or food; Jupiter of houses, fields, or places of happiness; and Saturn of honor and respect. 83. If the Sun and the Moon (are in conjunction "
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 4,
+      "context": "reader will also do well to study chapter 44 concerning Marakas before he takes a decision on longevity. Rahu/Ketu have also been assigned Marakatwa roles. The concluding chapter of Vol I is the 45th dealing with a number of kinds of Avasthas of the planets' Out of these, tbe 12 Avasthas, known as Sayanadi Avasthas are of supreme impor- tance. If one tries to interpret these Avasthas in proper spirit, he will be able to detect the diseases the native will suffer. I have supported niy views with the help of information from Adbhuta Sug\"ru of Ballala Sena and Hora Ratna of Balabhadra. For exampl"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 4,
+      "context": "der will also do well to study chapter 44 concerning Marakas before he takes a decision on longevity. Rahu/Ketu have also been assigned Marakatwa roles. The concluding chapter of Vol I is the 45th dealing with a number of kinds of Avasthas of the planets. Out of these, the 12 Avasthas, known as Sayanadi Avastbas are of supreme importance. If one tries to interpret these Avasthas in proper spirit, he will be able to detect the diseases the native will suffer. I have supported my views with the help of information from Adbhuta Sagara of Ballala Sena and Horā Raina of Balabhadra. For example, if "
+    },
+    {
+      "book": "Aryabhatiya_v2",
+      "rule_words": 4,
+      "context": "iddhanta-dipika, His date and place have already been discussed In this commentary, he mentions Navaksetra and the village ASvattha to which he belonged.* He gives also the latitude and longitude of that place.‘ In the commentary on verse 16 of the second chapter, Parames- vara gives the amount of Precession of the equinoxes for the Saka year 1330. This Saka year corresponds to 1408 A.D, and indicates the time of writing the commentary, 1. For details see K.S. Shukla, ‘Acirya Jayadeva, the mathe- matician’, Ganita, vol. 5, no. 1, 1954. 2 In the comm. on A, ii. 17 (०-०१). 3. Comm. on 2.80, i. 3"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 4,
+      "context": "d to the longitude of the concerned bhava gives the point indicating where that Bhava ends. For calculating the longitudes of lagna and the tenth house. it is better to follow the tables of houses. The best one is Raphael's Tables oj Houses which give the sayana or tropical longitude. Deducting the ayanamsa from these we get the nirayana positions. A lady was born on December 5, 1932 at one Ghatika and 51 Vtghatikas after sun rise at 13°,41'N, and 80°.0'E. Sun Rise was at local time 6.13.6. The Ohattkas and Vlghattkas multiplied by two and divided by five give the local time of birth as 6.57.3"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 3,
+      "context": "loqltaqr t ' irerH rflF{ a€qfiilsq}gd rrnfqt ttvtt 3-4. CHESHTA RASMI .' Cheshta Rasmis arc to be cal- culated from Cheshta Kendra similar to Uchcha Rasmi computa- tions. The Cheshta Keqdras of planets from l\\{ars to Saturn have already been explained. . Add 3 Rasis to Sayana Sun (i.o. Sun with Ayanamsa), which will be the Chesbta Kendra fot thc Sun. The sidereal longitude of the Sun should be deductcd from the Moon to get the Moon's Cheshta Kendra. If thc Cheshta Kendra (for any planet) is in excess of 6 signs; deduct it from 12 signs. Add I sign and multiply the degrees etc. by 2 which will "
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 3,
+      "context": "्च विधोस्तथा। चेिाकेिं रसाल्पं तच्चक्राच्छोध्यं रसात्तधके॥४॥ 3-4. CHESHTA RASMI: Cheshta Rasmis are to be calculated from Cheshta Kendra similar to Uchcha Rami computations. The Cheshta Kendra of planets from Mars to Saturn have already been explained. Add 3 Rāśhis to Sayana Sun (i.e. Sun with Ayanamsa), which will be the Cheshta Kendra for the Sun. The sidereal longitude of the Sun should be deducted from the Moon to get the Moon's Cheshta Kendra. If the Cheshta Kendra (for any planet) is in excess of 6 signs; deduct it from 12 signs. Add I sign and multiply the degrees etc. by 2 which will i"
+    },
+    {
+      "book": "Hora_Sara",
+      "rule_words": 3,
+      "context": "ts, but should feel content with giving the planetary positions at birth which are as under: Bom on 2nd October, 1869 at 0745 hours L.M.T., 21N37, 69E49. Jupiter RAl,r CHART Rahu Moon Ketu RAl,r CHART Saturn Lagna, Mars Mercuiy Venus Sun Note the Moon at 29° of Cancer (as per Lahiri Ayanamsa), i.e. in the junction of Cancer-Leo and Aslesha-Makha. Thus we can see the greatness and efficacy of Gandanta Nakshatra and if one survives he leads a famous life. ^•i^lRrtfl ^^m4l *<«'<icft II 25 II Luminaries in the 3rd house owned by a malefic and in the company of malefics, make the child sick and liv"
+    },
+    {
+      "book": "Vedanga_Jyotisa",
+      "rule_words": 3,
+      "context": "ation was remarkably good. The vernal equinox was at the first point of the Indian zodiac, defined as being about 10’ east of the ‘Junction star’ of Revati, which, from its co-ordinates given by the siddhdntas, must be identified with Zeta Piscium. All siddhdntas, explicitly or implicitly, take the precession to be zeto at about this period and the vernal equinox was situated here at this period. So there was very little error of observation on the part of VM, which 15 a remarkable thing. If so, the precession at 1916 should be about 19° since (1916—550)--72=19. How, then, has this 22}° preces"
+    },
+    {
+      "book": "Vedanga_Jyotisa",
+      "rule_words": 3,
+      "context": "ntas, must be identified with Zeta Piscium. All siddhdntas, explicitly or implicitly, take the precession to be zeto at about this period and the vernal equinox was situated here at this period. So there was very little error of observation on the part of VM, which 15 a remarkable thing. If so, the precession at 1916 should be about 19° since (1916—550)--72=19. How, then, has this 22}° precession arisen in the Tamil Drk almanac, it may be asked. This is how it has happened. All Hindu siddhantas give a sidereal year in the neighbour- hood of 365-15-31-30 days, which is about 84 vinddis more tha"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 2,
+      "context": "stha, one will suffer fronr deep ear pains, . In the normal parlance, we consider only Jupiter in ine context of ear defects. Diseases of hand and foot are assigned to venus in Agamanavastha. If one conducts a scien' tific research in the matter of diseases with the help of planetary Avasthas, viz. Sayanadi Avasthas, one is bound to reach many brilliant clues. The present work offers a vact scope for suc@ss in predic' tive astrology. One can build up his own applied astrology instead of theoretical astrology if he works on the lines suggested by Maharshi Parasara. A word of caution is nccessar"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 2,
+      "context": "ber of ghatis of birth and the number o[ signs the ascendant gained from Aries. This figure be divided by 12 and the iemainder will indicate the corresponding Avastha of the planet' The sub state in the said Avastha can be found out thus : Multi2ly the figure denoted by the Avastha concerneo (i c' Sayana l, Upavesana 2 etc ) by the same figure and incrcase it by the figure denoted by the Anka valuc for the first syllablc of the native's personal name. Dividc the product so obtained by 12. - The remainder there of be furthcr increascd by constant planetary additamdtrts, thus : Sun 5, Moon 2, Ma"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "ill suffer from deep ear pains. In the normal parlance, we consider only Jupiter in the context of ear defects. Diseases of hand and foot are assigned to Venus in Agamanavastha. If one conducts Preface a scientific research in the matter of diseases with the help of planetary Avasthas, viz. Sayanadi Avasthas, one is bound to reach many brilliant clues. The present work offers a vast scope for success in predictive astrology. One can build up his own applied astrology instead of theoretical astrology if he works on the lines suggested by Maharishi Parāśara. A word of caution is necessary for th"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "r of ghatis of birth and the number of signs the ascendant gained from A Ties. This figure be divided by 12 and the remainder will indicate the corresponding Avastha of the planet. The sub state in the said Avastha can be found out thus: Multiply the figure denoted by the Avastha concerned (i.e. Sayana 1, Upavesana 2 etc.) by the same figure and increase it by the figure denoted by the Anka value for the first syllabic of the native's personal name. Divide the product so obtained by 12. The remainder there of be further increased by constant planetary additaments, thus: Sun 5, Moon 2, Mars 2, "
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 273,
+      "unit": "days",
+      "context": "t to Manusbyr Jrtrle rnd Joiate Srganm. 273 days ig the basis as tbe Moon takes 273.2 da"
+    },
+    {
+      "type": "period",
+      "value": 2,
+      "unit": "days",
+      "context": "days ig the basis as tbe Moon takes 273.2 days to complete ten zodiacat revolutions Th"
+    },
+    {
+      "type": "period",
+      "value": 273,
+      "unit": "days",
+      "context": "half, then the birth takes place before 273 days from Adhana. So to 6ay, the traosit Moo"
+    },
+    {
+      "type": "degrees",
+      "value": 24.0,
+      "context": "f Gulika would bave advanced by 24 degrees. That would put the Adhana still 24 day"
+    },
+    {
+      "type": "period",
+      "value": 24,
+      "unit": "days",
+      "context": "egrees. That would put the Adhana still 24 days behind the noted date. Please note that"
+    },
+    {
+      "type": "degrees",
+      "value": 182.0,
+      "context": "ps are as given below: Ascendant Cusp : 182° 23' 06\" 9th cusp : 64° 03' 13\" 10th cus"
+    },
+    {
+      "type": "degrees",
+      "value": 64.0,
+      "context": "scendant Cusp : 182° 23' 06\" 9th cusp : 64° 03' 13\" 10th cusp or M.C: 194° 36' 06\" "
+    },
+    {
+      "type": "degrees",
+      "value": 194.0,
+      "context": "th cusp : 64° 03' 13\" 10th cusp or M.C: 194° 36' 06\" Gulika : 208° 32,' 06\" Saturn :"
+    },
+    {
+      "type": "degrees",
+      "value": 208.0,
+      "context": "10th cusp or M.C: 194° 36' 06\" Gulika : 208° 32,' 06\" Saturn : 202° 45'.38\" Moon : 1"
+    },
+    {
+      "type": "degrees",
+      "value": 202.0,
+      "context": "36' 06\" Gulika : 208° 32,' 06\" Saturn : 202° 45'.38\" Moon : 134° 17' 00\" Sidereal Ti"
+    },
+    {
+      "type": "degrees",
+      "value": 134.0,
+      "context": "° 32,' 06\" Saturn : 202° 45'.38\" Moon : 134° 17' 00\" Sidereal Time at birth: 8h 1m 2"
+    },
+    {
+      "type": "degrees",
+      "value": 29.0,
+      "context": "ri Ayanamsa. Mercury Sun Mars Rahu Moon 29°15’36’’ Venus Lagna 10°20’37’’ Ketu Jup "
+    },
+    {
+      "type": "degrees",
+      "value": 10.0,
+      "context": "n Mars Rahu Moon 29°15’36’’ Venus Lagna 10°20’37’’ Ketu Jup (R) Sat (R) The Adhana "
+    },
+    {
+      "type": "period",
+      "value": 273,
+      "unit": "days",
+      "context": " to Manushya Jatakam and Jataka Sapram. 273 days is the basis as the Moon takes 273.2 da"
+    },
+    {
+      "type": "period",
+      "value": 2,
+      "unit": "days",
+      "context": "days is the basis as the Moon takes 273.2 days to complete ten zodiacal revolutions Th"
+    },
+    {
+      "type": "period",
+      "value": 273,
+      "unit": "days",
+      "context": "half, then the birth takes place before 273 days from Adhana. So, to say, the transit Mo"
+    },
+    {
+      "type": "degrees",
+      "value": 24.0,
+      "context": "lika would have advanced by 24 degrees. That would put the Adhana still 24 day"
+    },
+    {
+      "type": "period",
+      "value": 24,
+      "unit": "days",
+      "context": "egrees. That would put the Adhana still 24 days behind the noted date. Please note that"
+    },
+    {
+      "type": "degrees",
+      "value": 240.0,
+      "context": "s longitude as per Lahiri's Ayanamsa is 240° 25', i.e. just in the very beginning of"
+    },
+    {
+      "type": "degrees",
+      "value": 29.0,
+      "context": "Mars Mercuiy Venus Sun Note the Moon at 29° of Cancer (as per Lahiri Ayanamsa), i.e"
+    },
+    {
+      "type": "period",
+      "value": 3,
+      "unit": "years",
+      "context": "fics, make the child sick and live upto 3 years only. fm\\: chuich^ir^ t^il^i^mi^r-d^ II"
+    },
+    {
+      "type": "period",
+      "value": 600,
+      "unit": "years",
+      "context": "umber of oscillations done in 1,955,883,600 years = 1955883600 x 600 4320000 = 271,650|. "
+    },
+    {
+      "type": "degrees",
+      "value": 17.0,
+      "context": "oned by us, from the vernal equinox, is 17° 54'. Making due allowance for the prece"
+    },
+    {
+      "type": "degrees",
+      "value": 2.0,
+      "context": "Siddlmnta contain a con- stant error of 2° 20', owing to the incorrect rate of pre"
+    },
+    {
+      "type": "degrees",
+      "value": 8.0,
+      "context": ", as corrected by the precession, is 9 '8° 40'; he is accordingly in the tenth sig"
+    },
+    {
+      "type": "degrees",
+      "value": 13.0,
+      "context": "e ecliptic occupied by each asterism is 13° 20, or BOCK. In order to find, accordin"
+    },
+    {
+      "type": "degrees",
+      "value": 27.0,
+      "context": " limits of the libratory movement being 27° in either direction from that point, an"
+    },
+    {
+      "type": "period",
+      "value": 7200,
+      "unit": "years",
+      "context": "17), or 7200 years; so that the annual rate of motion of t"
+    },
+    {
+      "type": "period",
+      "value": 23,
+      "unit": "years",
+      "context": "ount of the precession of the equinoxes 23 years before the time of Aryabhata’s birth wa"
+    },
+    {
+      "type": "degrees",
+      "value": 0.0,
+      "context": "ryabhata- Ptolemy Moderns siddhanta Sun 0° 00\" 0° 0\" 0\" 357° 8 16\" 359° 42’ 57 Moo"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "panchanga/drik.py",
+    "function": "get_ayanamsa"
+  }
+}

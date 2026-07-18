@@ -1,0 +1,38 @@
+AstroReport OS Specification
+Volume 9 – Question Knowledge Base Architecture
+(QKBA)
+1. Purpose
+Define the architecture for a master question repository that allows the report engine to answer
+nearly every client question automatically.
+2. Design Philosophy
+Questions are not stored as plain text alone. Each question becomes structured knowledge
+connected to life domains, astrology, timeline and narrative.
+3. Question Object
+Each question record contains: ID, title, aliases, domain, subdomain, life stage, Mahadasha/Bhukti
+relevance, houses, planets, divisional charts, evidence rules, confidence rules, narrative template,
+follow-up links.
+4. Master Categories
+Identity, Childhood, Family, Education, Career, Business, Wealth, Property, Marriage,
+Relationships, Children, Health, Travel, Reputation, Spirituality, Purpose, Retirement, Legacy, Daily
+Life.
+5. Timeline Mapping
+Every question is assigned to one or more life stages and is automatically surfaced only when
+relevant in the person's timeline.
+6. Evidence Mapping
+Every question lists the astrological combinations required before it can be discussed, including
+planets, houses, yogas, divisional charts and timing engines.
+7. Narrative Mapping
+Each question references reusable narrative blocks so repeated topics are explained consistently
+throughout the report.
+8. Cross References
+Questions link to related questions. Example: Wealth links to Career, Business, Property,
+Investments and Financial Habits.
+9. Validation
+Ensure no important category is missing, duplicate questions are merged, unsupported conclusions
+are rejected and every report receives complete coverage.
+10. Expansion Strategy
+Support 1000+ questions by allowing unlimited categories, aliases and rule sets without changing
+the report engine.
+11. Mission Statement
+The Question Knowledge Base is the knowledge brain of AstroReport OS. It ensures
+completeness, consistency and scalability while keeping the final report natural and timeline-driven.

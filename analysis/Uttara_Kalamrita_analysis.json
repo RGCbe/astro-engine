@@ -1,0 +1,1601 @@
+{
+  "book_key": "Uttara_Kalamrita",
+  "filename": "Uttara_Kalamrita.pdf",
+  "total_pages": 256,
+  "total_words": 47640,
+  "total_chars": 275501,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "lord",
+      "count": 313
+    },
+    {
+      "word": "guru",
+      "count": 301
+    },
+    {
+      "word": "lagna",
+      "count": 295
+    },
+    {
+      "word": "kuja",
+      "count": 249
+    },
+    {
+      "word": "shukra",
+      "count": 238
+    },
+    {
+      "word": "budha",
+      "count": 195
+    },
+    {
+      "word": "moon",
+      "count": 182
+    },
+    {
+      "word": "house",
+      "count": 174
+    },
+    {
+      "word": "shani",
+      "count": 169
+    },
+    {
+      "word": "houses",
+      "count": 167
+    },
+    {
+      "word": "rahu",
+      "count": 148
+    },
+    {
+      "word": "planets",
+      "count": 148
+    },
+    {
+      "word": "chandra",
+      "count": 140
+    },
+    {
+      "word": "chart",
+      "count": 138
+    },
+    {
+      "word": "day",
+      "count": 119
+    },
+    {
+      "word": "sun",
+      "count": 119
+    },
+    {
+      "word": "planet",
+      "count": 117
+    },
+    {
+      "word": "ketu",
+      "count": 111
+    },
+    {
+      "word": "tenth",
+      "count": 102
+    },
+    {
+      "word": "aspect",
+      "count": 102
+    },
+    {
+      "word": "lords",
+      "count": 101
+    },
+    {
+      "word": "notes",
+      "count": 100
+    },
+    {
+      "word": "eighth",
+      "count": 99
+    },
+    {
+      "word": "benefic",
+      "count": 96
+    },
+    {
+      "word": "results",
+      "count": 96
+    },
+    {
+      "word": "sign",
+      "count": 96
+    },
+    {
+      "word": "ninth",
+      "count": 95
+    },
+    {
+      "word": "malefic",
+      "count": 94
+    },
+    {
+      "word": "period",
+      "count": 93
+    },
+    {
+      "word": "uttara",
+      "count": 91
+    },
+    {
+      "word": "time",
+      "count": 88
+    },
+    {
+      "word": "native",
+      "count": 83
+    },
+    {
+      "word": "ravi",
+      "count": 80
+    },
+    {
+      "word": "first",
+      "count": 79
+    },
+    {
+      "word": "aspected",
+      "count": 76
+    },
+    {
+      "word": "second",
+      "count": 75
+    },
+    {
+      "word": "major",
+      "count": 74
+    },
+    {
+      "word": "birth",
+      "count": 72
+    },
+    {
+      "word": "shant",
+      "count": 71
+    },
+    {
+      "word": "yoga",
+      "count": 68
+    },
+    {
+      "word": "only",
+      "count": 68
+    },
+    {
+      "word": "strength",
+      "count": 68
+    },
+    {
+      "word": "own",
+      "count": 68
+    },
+    {
+      "word": "fifth",
+      "count": 65
+    },
+    {
+      "word": "twelfth",
+      "count": 65
+    },
+    {
+      "word": "other",
+      "count": 63
+    },
+    {
+      "word": "bhava",
+      "count": 63
+    },
+    {
+      "word": "given",
+      "count": 62
+    },
+    {
+      "word": "author",
+      "count": 61
+    },
+    {
+      "word": "kalamrita",
+      "count": 58
+    },
+    {
+      "word": "next",
+      "count": 58
+    },
+    {
+      "word": "signs",
+      "count": 56
+    },
+    {
+      "word": "gives",
+      "count": 55
+    },
+    {
+      "word": "good",
+      "count": 54
+    },
+    {
+      "word": "aspects",
+      "count": 52
+    },
+    {
+      "word": "life",
+      "count": 52
+    },
+    {
+      "word": "give",
+      "count": 52
+    },
+    {
+      "word": "after",
+      "count": 50
+    },
+    {
+      "word": "like",
+      "count": 50
+    },
+    {
+      "word": "years",
+      "count": 50
+    },
+    {
+      "word": "father",
+      "count": 49
+    },
+    {
+      "word": "effects",
+      "count": 49
+    },
+    {
+      "word": "kendra",
+      "count": 48
+    },
+    {
+      "word": "sixth",
+      "count": 47
+    },
+    {
+      "word": "periods",
+      "count": 46
+    },
+    {
+      "word": "fourth",
+      "count": 46
+    },
+    {
+      "word": "position",
+      "count": 45
+    },
+    {
+      "word": "strong",
+      "count": 45
+    },
+    {
+      "word": "born",
+      "count": 44
+    },
+    {
+      "word": "malefics",
+      "count": 43
+    },
+    {
+      "word": "seventh",
+      "count": 43
+    },
+    {
+      "word": "great",
+      "count": 42
+    },
+    {
+      "word": "wealth",
+      "count": 42
+    },
+    {
+      "word": "mutual",
+      "count": 41
+    },
+    {
+      "word": "number",
+      "count": 41
+    },
+    {
+      "word": "get",
+      "count": 40
+    },
+    {
+      "word": "same",
+      "count": 39
+    },
+    {
+      "word": "auspicious",
+      "count": 39
+    },
+    {
+      "word": "benefics",
+      "count": 39
+    },
+    {
+      "word": "each",
+      "count": 39
+    },
+    {
+      "word": "star",
+      "count": 39
+    },
+    {
+      "word": "ofthe",
+      "count": 39
+    },
+    {
+      "word": "death",
+      "count": 38
+    },
+    {
+      "word": "ghatikas",
+      "count": 38
+    },
+    {
+      "word": "during",
+      "count": 37
+    },
+    {
+      "word": "third",
+      "count": 36
+    },
+    {
+      "word": "having",
+      "count": 36
+    },
+    {
+      "word": "marriage",
+      "count": 35
+    },
+    {
+      "word": "happiness",
+      "count": 35
+    },
+    {
+      "word": "count",
+      "count": 35
+    },
+    {
+      "word": "exalted",
+      "count": 35
+    },
+    {
+      "word": "called",
+      "count": 34
+    },
+    {
+      "word": "iii",
+      "count": 34
+    },
+    {
+      "word": "chakra",
+      "count": 34
+    },
+    {
+      "word": "days",
+      "count": 34
+    },
+    {
+      "word": "degrees",
+      "count": 33
+    },
+    {
+      "word": "respectively",
+      "count": 33
+    },
+    {
+      "word": "chapter",
+      "count": 32
+    },
+    {
+      "word": "kendras",
+      "count": 32
+    },
+    {
+      "word": "shraddha",
+      "count": 32
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "180\ndegrees",
+      "context": "the third. From each of these houses, the opposite ones are 180 degrees away. Before we illustrate this, a few observations are re-"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13°",
+      "context": "5, 1932 at one Ghatika and 51 Vtghatikas after sun rise at 13°,41'N, and 80°.0'E. Sun Rise was at local time 6.13.6. The O"
+    },
+    {
+      "type": "degree_measure",
+      "value": "80°",
+      "context": "e Ghatika and 51 Vtghatikas after sun rise at 13°,41'N, and 80°.0'E. Sun Rise was at local time 6.13.6. The Ohattkas and Vl"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11°",
+      "context": "ime 11.52.40 11.49.0 tenth. Here the sidereal time comes to 11°.52'.5\". The ayan- amsa as per Lahirl's value is 72°.55'.22\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "72°",
+      "context": "omes to 11°.52'.5\". The ayan- amsa as per Lahirl's value is 72°.55'.22\". Raphael's Tables of Houses gives the troptcal Iong"
+    },
+    {
+      "type": "degree_measure",
+      "value": "28°",
+      "context": "we have the following: Tenth House Lagna Virgo Sagittarius 28° 23°.5' 27° 22°.15' At 14° North we have - 11.52.40 28° 11.49"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°",
+      "context": "have the following: Tenth House Lagna Virgo Sagittarius 28° 23°.5' 27° 22°.15' At 14° North we have - 11.52.40 28° 11.49.0"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27°",
+      "context": "e following: Tenth House Lagna Virgo Sagittarius 28° 23°.5' 27° 22°.15' At 14° North we have - 11.52.40 28° 11.49.0 27° At 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°",
+      "context": "llowing: Tenth House Lagna Virgo Sagittarius 28° 23°.5' 27° 22°.15' At 14° North we have - 11.52.40 28° 11.49.0 27° At 13°."
+    },
+    {
+      "type": "degree_measure",
+      "value": "14°",
+      "context": "nth House Lagna Virgo Sagittarius 28° 23°.5' 27° 22°.15' At 14° North we have - 11.52.40 28° 11.49.0 27° At 13°.41', the bir"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21°",
+      "context": "birth place, we have - 11.52.40 28° 22°.47'.55\" 11.49.0 27° 21°.58'.36\" By applying the rule of three for the required Side"
+    },
+    {
+      "type": "degree_measure",
+      "value": "29°",
+      "context": "s 22°.40'.3\" and the Sidereal Lagna (Nirayana) is Vrischika 29°.44'.42\". Simi- larly the tenth house cusp's tropical Virgo"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4°",
+      "context": "house cusp's tropical Virgo 27°.50'.26\" or Nira1aJ¥l Kanya 4°.55'.5\". The! distance from the tenth house to the lagna is"
+    },
+    {
+      "type": "degree_measure",
+      "value": "84°",
+      "context": ".55'.5\". The! distance from the tenth house to the lagna is 84°.49'.37\". One third of this is 28°.16'.33\". Adding this to t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°",
+      "context": "'.33\". Adding this to the tenth we get the eleventh is Tula 3°.11'.37\". Adding the same to this we have the twelfth in Vri"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°",
+      "context": "\". Adding the same to this we have the twelfth in Vrischika 1°.28'.9\". Half of 28°. 16'.33\". is 14°.8'.17\". Adding this to"
+    },
+    {
+      "type": "degree_measure",
+      "value": "19°",
+      "context": "dding this to the tenth we get the junction of the bhava at 19°.3'.22\" of Virgo. Similarly the eleventh ends at 17°.19'.54\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "17°",
+      "context": "hava at 19°.3'.22\" of Virgo. Similarly the eleventh ends at 17°.19'.54\" of Tula. The twelfth ends at Vrischika t5°.36'.25\"."
+    },
+    {
+      "type": "degree_measure",
+      "value": "5°",
+      "context": "ends at 17°.19'.54\" of Tula. The twelfth ends at Vrischika t5°.36'.25\". Deducting this half from thirty degree we get 15°."
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°",
+      "context": "t5°.36'.25\". Deducting this half from thirty degree we get 15°.51'.43\". Add this to the longitudes of the first. second an"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°",
+      "context": "is from Cancer. Dvadasamsa is one-twelfth part, each having 2°.30'. The count is from the sign concerned. Trimsamsa is one"
+    },
+    {
+      "type": "degree_measure",
+      "value": "0°",
+      "context": "rouped into five. In odd signs the trimsamsas are in Aries (0° to 5°), Aquarius (5° to 10°), Sagittarius (l0° to 18°). Gemi"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10°",
+      "context": "gns the trimsamsas are in Aries (0° to 5°), Aquarius (5° to 10°), Sagittarius (l0° to 18°). Gemini (18° to 25°) and Libra ("
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°",
+      "context": "Aries (0° to 5°), Aquarius (5° to 10°), Sagittarius (l0° to 18°). Gemini (18° to 25°) and Libra (25° to 30°). In even signs"
+    },
+    {
+      "type": "degree_measure",
+      "value": "25°",
+      "context": "arius (5° to 10°), Sagittarius (l0° to 18°). Gemini (18° to 25°) and Libra (25° to 30°). In even signs these fall in Taurus"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30°",
+      "context": "ttarius (l0° to 18°). Gemini (18° to 25°) and Libra (25° to 30°). In even signs these fall in Taurus (0° to 5°), Virgo (5°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12°",
+      "context": "In even signs these fall in Taurus (0° to 5°), Virgo (5° to 12°), Pisces (12° to 20°), Capricorn (20° to 25°) and Scorpio ("
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°",
+      "context": "all in Taurus (0° to 5°), Virgo (5° to 12°), Pisces (12° to 20°), Capricorn (20° to 25°) and Scorpio (25° to 30°). These ar"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16°",
+      "context": "es are Sun 0° to 20°, Moon 4° to 20°, Kuja 0° to 12°, Budha 16° to 20°, Guru 0° to 10°, 3hukra 0° to ISO, and Shant 0 0 to 2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120°",
+      "context": ". Notes The aspect on the fifth and the ninth is the trine (120°, 240°) aspect; that on the fourth and the eighth is a squar"
+    },
+    {
+      "type": "degree_measure",
+      "value": "240°",
+      "context": "s The aspect on the fifth and the ninth is the trine (120°, 240°) aspect; that on the fourth and the eighth is a square (90°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90°",
+      "context": "40°) aspect; that on the fourth and the eighth is a square (90°, 270°) aspect; that on the third is a sextile (60°) aspect."
+    },
+    {
+      "type": "degree_measure",
+      "value": "270°",
+      "context": "aspect; that on the fourth and the eighth is a square (90°, 270°) aspect; that on the third is a sextile (60°) aspect. The l"
+    },
+    {
+      "type": "degree_measure",
+      "value": "60°",
+      "context": "square (90°, 270°) aspect; that on the third is a sextile (60°) aspect. The last should include the aspect on the eleventh"
+    },
+    {
+      "type": "degree_measure",
+      "value": "300°",
+      "context": "aspect. The last should include the aspect on the eleventh (300°), though the author denies it. The aspect on the eighth (21"
+    },
+    {
+      "type": "degree_measure",
+      "value": "210°",
+      "context": "0°), though the author denies it. The aspect on the eighth (210°) is quincunx; and 'this can include the aspect on the sixth"
+    },
+    {
+      "type": "degree_measure",
+      "value": "150°",
+      "context": "is quincunx; and 'this can include the aspect on the sixth (150°), 'inspite of the author's denial. The aspect on the sevent"
+    },
+    {
+      "type": "degree_measure",
+      "value": "180°",
+      "context": "r's denial. The aspect on the seventh is called opposition (180°) aspect. According to Parasara, Rahu aspects 5, 7, 9 and 12"
+    },
+    {
+      "type": "degree_measure",
+      "value": "45°",
+      "context": "6 by a quar- ter. Western astrologers speak of semi-square (45°, 315°), sesquiquadrate (135°), Quintile (72°), Biqutntlle ("
+    },
+    {
+      "type": "degree_measure",
+      "value": "315°",
+      "context": "a quar- ter. Western astrologers speak of semi-square (45°, 315°), sesquiquadrate (135°), Quintile (72°), Biqutntlle (144°),"
+    },
+    {
+      "type": "degree_measure",
+      "value": "135°",
+      "context": "trologers speak of semi-square (45°, 315°), sesquiquadrate (135°), Quintile (72°), Biqutntlle (144°), Tredecile (108°), Deci"
+    },
+    {
+      "type": "degree_measure",
+      "value": "144°",
+      "context": ", 315°), sesquiquadrate (135°), Quintile (72°), Biqutntlle (144°), Tredecile (108°), Decile (36°), and Vigintile (18°) aspec"
+    },
+    {
+      "type": "degree_measure",
+      "value": "108°",
+      "context": "drate (135°), Quintile (72°), Biqutntlle (144°), Tredecile (108°), Decile (36°), and Vigintile (18°) aspects also. .,-- ~ ,n"
+    },
+    {
+      "type": "degree_measure",
+      "value": "36°",
+      "context": "uintile (72°), Biqutntlle (144°), Tredecile (108°), Decile (36°), and Vigintile (18°) aspects also. .,-- ~ ,nft4('lCi'COl4l"
+    },
+    {
+      "type": "degree_measure",
+      "value": "103°",
+      "context": "its lord does not fall on it as there is only a distance of 103°.12'. It is not 120°. Adding 8.925 to the previous total , w"
+    },
+    {
+      "type": "degree_measure",
+      "value": "8°",
+      "context": "R 14.19 Sun at the time of birth. The Sun was in Makara on 8°.10'.3\". He returned to that position on January 22, 1989 at"
+    },
+    {
+      "type": "degree_measure",
+      "value": "40°",
+      "context": "be auspicious if it takes place when the Moon is in Rohini (40°.0' to 53°.20' from the beginning of Mesha). Mrtgastra (53°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "53°",
+      "context": "ous if it takes place when the Moon is in Rohini (40°.0' to 53°.20' from the beginning of Mesha). Mrtgastra (53° .20' to 66"
+    },
+    {
+      "type": "degree_measure",
+      "value": "66°",
+      "context": "3°.20' from the beginning of Mesha). Mrtgastra (53° .20' to 66° .40'), Purva Phalgurn (133°.20' to 146°.40'). Purvashadha (2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "133°",
+      "context": "f Mesha). Mrtgastra (53° .20' to 66° .40'), Purva Phalgurn (133°.20' to 146°.40'). Purvashadha (253°.20' to 266°.40'), Purva"
+    },
+    {
+      "type": "degree_measure",
+      "value": "146°",
+      "context": "tgastra (53° .20' to 66° .40'), Purva Phalgurn (133°.20' to 146°.40'). Purvashadha (253°.20' to 266°.40'), Purvabhadra (320°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "253°",
+      "context": ".40'), Purva Phalgurn (133°.20' to 146°.40'). Purvashadha (253°.20' to 266°.40'), Purvabhadra (320° to 333°.20'), Ardra (66"
+    },
+    {
+      "type": "degree_measure",
+      "value": "266°",
+      "context": "a Phalgurn (133°.20' to 146°.40'). Purvashadha (253°.20' to 266°.40'), Purvabhadra (320° to 333°.20'), Ardra (66°.40' to 80°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "320°",
+      "context": "146°.40'). Purvashadha (253°.20' to 266°.40'), Purvabhadra (320° to 333°.20'), Ardra (66°.40' to 80°.0'), Punarvasu (80°0' to"
+    },
+    {
+      "type": "degree_measure",
+      "value": "333°",
+      "context": "). Purvashadha (253°.20' to 266°.40'), Purvabhadra (320° to 333°.20'), Ardra (66°.40' to 80°.0'), Punarvasu (80°0' to 93°.20"
+    },
+    {
+      "type": "degree_measure",
+      "value": "80°0'",
+      "context": "a (320° to 333°.20'), Ardra (66°.40' to 80°.0'), Punarvasu (80°0' to 93°.20'), Pushyami (93°.20' to 106°.40'), Hasta, Chitra."
+    },
+    {
+      "type": "degree_measure",
+      "value": "93°",
+      "context": "o 333°.20'), Ardra (66°.40' to 80°.0'), Punarvasu (80°0' to 93°.20'), Pushyami (93°.20' to 106°.40'), Hasta, Chitra. Svati,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "106°",
+      "context": "80°.0'), Punarvasu (80°0' to 93°.20'), Pushyami (93°.20' to 106°.40'), Hasta, Chitra. Svati, Visakha and Anuradha (160° to 2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "160°",
+      "context": "' to 106°.40'), Hasta, Chitra. Svati, Visakha and Anuradha (160° to 226°.40'), Sravana, Dhanishtha and Satabhisha (280° to 32"
+    },
+    {
+      "type": "degree_measure",
+      "value": "226°",
+      "context": "°.40'), Hasta, Chitra. Svati, Visakha and Anuradha (160° to 226°.40'), Sravana, Dhanishtha and Satabhisha (280° to 320°) Utt"
+    },
+    {
+      "type": "degree_measure",
+      "value": "280°",
+      "context": "dha (160° to 226°.40'), Sravana, Dhanishtha and Satabhisha (280° to 320°) Uttara Phalgunt (146°.40' to 160°). Uttarashadha (2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "346°",
+      "context": "adha (253°.20' to 266°.40') and Ut- tarabhadra (333°.20' to 346°.40'). The lunar days should be 2. 5, 7. 10. 12 and 13. The"
+    },
+    {
+      "type": "degree_measure",
+      "value": "429°",
+      "context": "q t}r..J) sruJ-1 Vishd Amrltci Ghatika Ghatika 50Ir66 lfto' 429°20 24 5° 20 48 1(,0 lto 306#tro' 54 \\~o 1.t~o 5'?> 52 II~~ 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "388°",
+      "context": "5° 20 48 1(,0 lto 306#tro' 54 \\~o 1.t~o 5'?> 52 II~~ 14~\"Ob 388° 2.6 11 Z\"'l.6 1'(,a 35 1°1 fa 306'ito 541 Z\" 20 \"·26''(0'' 4"
+    },
+    {
+      "type": "degree_measure",
+      "value": "245°",
+      "context": "b 34 1'Y' Mula 204.'z6''<.d' 44 0' ct\" 32 1 0 6fo P Ashadha 245°2.0 48~ 42 ~\"2.-0 \"U Ashadha 204\"U;''cC>u 44 ~\"lt() 44 ~'~b"
+    },
+    {
+      "type": "time_period",
+      "value": "66 years",
+      "context": "ion of Longevity 49 The total comes to 66.18. This comes to 66 years, two months and 5 days. ~: ~\"§q;~lfl.,a«milj~ft:'tfi'qf- -;"
+    },
+    {
+      "type": "time_period",
+      "value": "5 days",
+      "context": "otal comes to 66.18. This comes to 66 years, two months and 5 days. ~: ~\"§q;~lfl.,a«milj~ft:'tfi'qf- -;T1t 'llI'?Ji ~ ~ ll'ftl"
+    },
+    {
+      "type": "time_period",
+      "value": "725 years",
+      "context": "17.14, Shukra 22.21, and Shani 23.0. The total comes to 107.725 years. Next comes the reduction known as Chakrapata as explained"
+    },
+    {
+      "type": "time_period",
+      "value": "283 years",
+      "context": ". Guru in the tenth bhava loses one-sixth. Thus he gives 14.283 years. Kuja loses one-fourth and he now gives 7.4475 years. Shukr"
+    },
+    {
+      "type": "time_period",
+      "value": "4475 years",
+      "context": "ives 14.283 years. Kuja loses one-fourth and he now gives 7.4475 years. Shukra in the eleventh loses one-fourth. His contribution"
+    },
+    {
+      "type": "time_period",
+      "value": "6575 years",
+      "context": "n the eleventh loses one-fourth. His contribution now is 16.6575 years. Let us tabulate thus far: Ravi Chandra Kuja Budha Guru Shu"
+    },
+    {
+      "type": "time_period",
+      "value": "9005 years",
+      "context": "hani Total 8.95 0.565 7.4475 12.9975 14.283 16.6575 23.0 83.9005 years The next deduction is one-third for occupying an enemy's ho"
+    },
+    {
+      "type": "time_period",
+      "value": "925 years",
+      "context": "elapsed, and in the sec- ond .925 was over. Thus it gives 8.925 years. The aspect of its lord does not fall on it as there is onl"
+    },
+    {
+      "type": "time_period",
+      "value": "51 years",
+      "context": "2.188. This multiplied by 120 and divided by seven given 37.51 years. For the present birth Guru's malefic portion is 2.5825. Th"
+    },
+    {
+      "type": "time_period",
+      "value": "27 years",
+      "context": "esent birth Guru's malefic portion is 2.5825. This gives 44.27 years. The native is alive even after fifty six years of age. q 4"
+    },
+    {
+      "type": "time_period",
+      "value": "20 years",
+      "context": "the planets are respectively 6, 10,7. 18. 16. 19. 17.7 and 20 years. The order or sequence is given above. The major period tha"
+    },
+    {
+      "type": "time_period",
+      "value": "29 days",
+      "context": "3- x 18 +3323 = 2 3323 This gives one year, ten months, and 29 days as the portion of Rahu's major period yet to be gone throug"
+    },
+    {
+      "type": "time_period",
+      "value": "18 years",
+      "context": "ys, ghatikas and Vighatikas. Notes Take Rahu dasa which has 18 years. The first period Will be that of Rahu, and the last that o"
+    },
+    {
+      "type": "time_period",
+      "value": "19 years",
+      "context": "ast that of Kuja, We require the sub-period ofShani who has 19 years. Multiply the two. The product is 342. The figure in units"
+    },
+    {
+      "type": "time_period",
+      "value": "34 months",
+      "context": "number of days. The sub-period of Shani in Rahu is thus for 34 months and six days. The first Vidasa in the antardasa of Shant is"
+    },
+    {
+      "type": "time_period",
+      "value": "1026 days",
+      "context": "asa. By converting the sub-period of Shani into days we get 1026 days. Multiply it by Shant's years (19) because we want the Vida"
+    },
+    {
+      "type": "time_period",
+      "value": "162 days",
+      "context": "of Shani. The product is 19494. Dividing this by 120 we get 162 days. The remainder is 54. This is to be converted into ghatikas"
+    },
+    {
+      "type": "time_period",
+      "value": "23 days",
+      "context": "Shant's Vidasha we get 162 days 27 ghatikas X 17,..) 120 = 23 days and 191/2 Vighatikas. •  144 Uttara Kalamrita \\ic:ift¥6i!Oc"
+    },
+    {
+      "type": "time_period",
+      "value": "48\ndays",
+      "context": "er five. In the serial order the fifth is Guru who is given 48 days. Out of 800 minutes for each star, the Moon has to traverse"
+    },
+    {
+      "type": "time_period",
+      "value": "69 years",
+      "context": "e 1982 editionofthe second book gives for the completion of 69 years the time of solar return as 3.38.9 A.M. on January 22, 1989"
+    },
+    {
+      "type": "time_period",
+      "value": "256363 days",
+      "context": "rs give the duration of the sidereal (nirayana) year as 365.256363 days, and of the tropical (sayana) year as 365.242193 days. The"
+    },
+    {
+      "type": "time_period",
+      "value": "242193 days",
+      "context": "s 365.256363 days, and of the tropical (sayana) year as 365.242193 days. The duration of the solar year as per the Surya Siddhanta"
+    },
+    {
+      "type": "time_period",
+      "value": "33 years",
+      "context": "a or transits are generally reckoned from lagna till one is 33 years old. For the next 33 years the count is r'rom the- Moon sig"
+    },
+    {
+      "type": "time_period",
+      "value": "24 years",
+      "context": "said that he commit- ted suicide. He did not complete even 24 years. Consider Chart 116. 18.43 17.10 Kelu Gurru R 116 Chandra 2"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/32",
+      "context": "ixteenth; and in a bitter enemy's (adhi-Shatru) house it is 1/32. In the house of a neutral it is one-eighth.  30 Uttara Kal"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/3",
+      "context": "contribute. The loss is full in the 12th, halfin the lIth, 1/3 in 10th, 1/4 in 9th, 1/5 in 8th, and 1/6 in 7th. Benefics i"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/4",
+      "context": "The loss is full in the 12th, halfin the lIth, 1/3 in 10th, 1/4 in 9th, 1/5 in 8th, and 1/6 in 7th. Benefics in these house"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/5",
+      "context": "full in the 12th, halfin the lIth, 1/3 in 10th, 1/4 in 9th, 1/5 in 8th, and 1/6 in 7th. Benefics in these houses lose halfo"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/6",
+      "context": ", halfin the lIth, 1/3 in 10th, 1/4 in 9th, 1/5 in 8th, and 1/6 in 7th. Benefics in these houses lose halfofwhat the malefi"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/2",
+      "context": "malefics lose. That is, from the twelfth onwards they lose 1/2, 1/4, 1/6, 1/8, 1/10 and 1/12. A malefic occupying lagna re"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/8",
+      "context": "That is, from the twelfth onwards they lose 1/2, 1/4, 1/6, 1/8, 1/10 and 1/12. A malefic occupying lagna removes the years"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/10",
+      "context": "is, from the twelfth onwards they lose 1/2, 1/4, 1/6, 1/8, 1/10 and 1/12. A malefic occupying lagna removes the years contr"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/12",
+      "context": "the twelfth onwards they lose 1/2, 1/4, 1/6, 1/8, 1/10 and 1/12. A malefic occupying lagna removes the years contrib- uted"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "3/4",
+      "context": "are auspicious respectively in the . proportion of 1/4. 1/2.3/4 and 1. When Guru and Shukra are in the house of a benefic w"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "21/2",
+      "context": "Sun rise was five hours and 33 minutes. Multiplying this by 21/2 we get 13 ghatikas and 521/2 Vighatikas. The total is 8321/"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "521/2",
+      "context": "33 minutes. Multiplying this by 21/2 we get 13 ghatikas and 521/2 Vighatikas. The total is 8321/2 Vighatikas. The Panchanga g"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "8321/2",
+      "context": "21/2 we get 13 ghatikas and 521/2 Vighatikas. The total is 8321/2 Vighatikas. The Panchanga gives the ghattkas and Vighatikas"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "531/2",
+      "context": "d 46 Vighatikas. The unexpired portion is five ghatikas and 531/2 Vighatikas or 3531/2 Vighatikas. On the eleventh of October"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "3531/2",
+      "context": "unexpired portion is five ghatikas and 531/2 Vighatikas or 3531/2 Vighatikas. On the eleventh of October 1989 Dhanishtha ende"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "191/2",
+      "context": "asha we get 162 days 27 ghatikas X 17,..) 120 = 23 days and 191/2 Vighatikas. •  144 Uttara Kalamrita \\ic:ift¥6i!Oc('1i ~ ~dd"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "4/8",
+      "context": "a,,\")(l4\\fftftJ: W WIWlgtdf ~ , lIT +4IMa/44a/d/ 1R¥'T ~ \"'4/8Q/ ~ 111 ,,~ II When this Janmashtami tithi extends beyond t"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "12/13",
+      "context": "agna 18 Rahu 3 26 Rahu Shani 29 Guru 17 113 Lagna 5 1907.10.12/13 Kuja 7 Ketu 26 Shukra 3 Ravi 26 Chandra 4 Budha 18 Notes Co"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": ". N. Rao LA.A.S. Retd. Director General RANJAN PUBLICATIONS 16, Ansari Road, Darya Ganj, NEW DELHI-l 10 002 (INDIA)  Intro"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "kuntalam and other works. The reference to Andhra Bhasha (5.36), Urdu or Persian (5.53), Turushka (5.49). Sukkani (8.31),"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "econd Kanda, 10-11). references to the usages in the South (12 in the Second) and the like prove that he belonged to the b"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "nd Shukra. Guru and Shukra and the like are of much value. (7) Muhurta and nimitta discussed in the eighth chapter is wor"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "other rites. This part we have separated into one chapter. (9) Guru and Shani are taken as co-workers. Owning the last fo"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "ontents Kanda I Chapter I Shlokaa 1. Obeissance to Ganapati 17 2. Obeissance to Para Shakti 18 3. Previous part of the tex"
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "a 1. Obeissance to Ganapati 17 2. Obeissance to Para Shakti 18 3. Previous part of the text and the purpose of the present"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "of the present part 18 4. Time of birth, planets and bhavaa 19 5·6. Rectification of the time of birth 22 7. Posltton of M"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "Right side and left side. Functions of the Sun and the Moon 27 2·3. Relations among the planets 27 3·4. Sapta Vargas 28 4·"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "on 27 2·3. Relations among the planets 27 3·4. Sapta Vargas 28 4·5. Exaltation signs and strength of the planets 29 6; Exa"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "litation and retrogression 29 7·8. Hera, Drekkana, Saptamsa 30. 8·9. Navamsa, Dvadasamsa, Trtmsamsa 33 9·10. Strength of t"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "f birth 39 17·18. Ayana and Cheshta strength. Planetary War 40 18·19. Aspects 42 . 19·20. Strength of aspects 43 ·20·21. N"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "d Cheshta strength. Planetary War 40 18·19. Aspects 42 . 19·20. Strength of aspects 43 ·20·21. Natural Strength. Shadbala"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "f wives 107 39. Wife 107 40. First and the subsequent wives 108  (x) 140 142-144 138 139 139 113 114 114 115 116 117 118 11"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": ". Notes The aspect on the fifth and the ninth is the trine (120°, 240°) aspect; that on the fourth and the eighth is a squa"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "square (90°, 270°) aspect; that on the third is a sextile (60°) aspect. The last should include the aspect on the elevent"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "krit Slokas, English Translation and Exhaustive notes, over 1000 Pages) (2 Vol. Set) Ask for your copy: RANJAN PUBLICATIONS"
+    }
+  ],
+  "connections": {
+    "planet_house": [
+      {
+        "planet": "Sun",
+        "house": 1,
+        "snippet": "Sun. (vii) Kuja and Rahu, and (viii) Shani and Ketu bring malefic results in the proportion of 1/4, 1/2. 3/4 and 1.  Effects oft» Planets and House"
+      },
+      {
+        "planet": "Rahu",
+        "house": 1,
+        "snippet": "Rahu, and (viii) Shani and Ketu bring malefic results in the proportion of 1/4, 1/2. 3/4 and 1.  Effects oft» Planets and House"
+      },
+      {
+        "planet": "Rahu",
+        "house": 6,
+        "snippet": "Rahu; (vi) Planets in a Bhava-Sandhi; (vti) Weak planets; and (viii Planets owning 6, 8, 12 house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu; (vi) Planets in a Bhava-Sandhi; (vti) Weak planets; and (viii Planets owning 6, 8, 12 house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 12,
+        "snippet": "Rahu; (vi) Planets in a Bhava-Sandhi; (vti) Weak planets; and (viii Planets owning 6, 8, 12 house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 1,
+        "snippet": "Ketu bring malefic results in the proportion of 1/4, 1/2. 3/4 and 1.  Effects oft» Planets and House"
+      },
+      {
+        "planet": "Ketu",
+        "house": 10,
+        "snippet": "Ketu 27.24 Kuja 3.37 their own houses; (it) These lords should be together in the 9th or 10th; (iii) They should exchange house"
+      },
+      {
+        "planet": "Chandra",
+        "house": 12,
+        "snippet": "Chandra 13.2 Chart 57 is that of Guruji Golwalkar. Guru as lord of 3 and 12 is posited in the fifth, the house"
+      },
+      {
+        "planet": "Kuja",
+        "house": 1,
+        "snippet": "Kuja and Rahu, and (viii) Shani and Ketu bring malefic results in the proportion of 1/4, 1/2. 3/4 and 1.  Effects oft» Planets and House"
+      },
+      {
+        "planet": "Kuja",
+        "house": 2,
+        "snippet": "Kuja is well behind the Sun. The lords of 2 and 7 have exchanged house"
+      },
+      {
+        "planet": "Kuja",
+        "house": 2,
+        "snippet": "Kuja (lord of 2 and 7, maraka house"
+      },
+      {
+        "planet": "Kuja",
+        "house": 7,
+        "snippet": "Kuja is well behind the Sun. The lords of 2 and 7 have exchanged house"
+      },
+      {
+        "planet": "Kuja",
+        "house": 7,
+        "snippet": "Kuja (lord of 2 and 7, maraka house"
+      },
+      {
+        "planet": "Kuja",
+        "house": 10,
+        "snippet": "Kuja 3.37 their own houses; (it) These lords should be together in the 9th or 10th; (iii) They should exchange house"
+      },
+      {
+        "planet": "Guru",
+        "house": 2,
+        "snippet": "Guru (lord of 3 and 6), Ravi (lord of 11) and Kuja (lord of 2 and 7, maraka house"
+      },
+      {
+        "planet": "Guru",
+        "house": 7,
+        "snippet": "Guru (lord of 3 and 6), Ravi (lord of 11) and Kuja (lord of 2 and 7, maraka house"
+      },
+      {
+        "planet": "Guru",
+        "house": 9,
+        "snippet": "Guru 2 Notes In Einstein's chart (39) the lords of 9 and 10 have exchanged house"
+      },
+      {
+        "planet": "Guru",
+        "house": 10,
+        "snippet": "Guru 2 Notes In Einstein's chart (39) the lords of 9 and 10 have exchanged house"
+      },
+      {
+        "planet": "Guru",
+        "house": 12,
+        "snippet": "Guru as lord of 3 and 12 is posited in the fifth, the house"
+      },
+      {
+        "planet": "Shani",
+        "house": 1,
+        "snippet": "Shani and Ketu bring malefic results in the proportion of 1/4, 1/2. 3/4 and 1.  Effects oft» Planets and House"
+      }
+    ],
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Mesha",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Vrishabha",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Mithuna",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Kanya",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Makara",
+        "count": 4
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Kumbha",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Mesha",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Vrishabha",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Kanya",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Tula",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Vrishchika",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Makara",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Kumbha",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Vrishabha",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Tula",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Makara",
+        "count": 1
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Simha",
+        "count": 1
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Kanya",
+        "count": 3
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Tula",
+        "count": 1
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Vrishabha",
+        "count": 1
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Simha",
+        "count": 3
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Kanya",
+        "count": 4
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Tula",
+        "count": 6
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Vrishchika",
+        "count": 1
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Makara",
+        "count": 2
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Kumbha",
+        "count": 3
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Simha",
+        "count": 2
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Kanya",
+        "count": 2
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Tula",
+        "count": 4
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Makara",
+        "count": 2
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Kumbha",
+        "count": 2
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Vrishabha",
+        "count": 1
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Simha",
+        "count": 1
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Tula",
+        "count": 2
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Makara",
+        "count": 2
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Kumbha",
+        "count": 4
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Mesha",
+        "count": 5
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Vrishabha",
+        "count": 2
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Simha",
+        "count": 1
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Tula",
+        "count": 7
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Makara",
+        "count": 1
+      },
+      {
+        "planet": "Shukra",
+        "rasi": "Kumbha",
+        "count": 3
+      },
+      {
+        "planet": "Shani",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Shani",
+        "rasi": "Vrishabha",
+        "count": 2
+      },
+      {
+        "planet": "Shani",
+        "rasi": "Mithuna",
+        "count": 1
+      },
+      {
+        "planet": "Shani",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Shani",
+        "rasi": "Tula",
+        "count": 2
+      },
+      {
+        "planet": "Shani",
+        "rasi": "Kumbha",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "Yoga. (3) The annual solar return chart is interpreted and examined in a manner that differs from the Tajika mcthod. This is very original. It is simple and interesting. (4) There is an elaborate account"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "Yoga 96 27. Owning wealth 97 28. Dhana Yogas 98 29. Planets In Kendras and Panapharas 100 30. Special Dhana Yogas 100 _ 31. Moveable. fixed. and dual signs. and their strength. Chhadaka and Vedhaka 101 32"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja Yoga. (3) The annual solar return chart is interpreted and examined in a manner that differs from the Tajika mcthod. This is very original. It is simple and interesting. (4) There is an elaborate account"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja yoga: (t) The lords of the ninth and the tenth should beIn  Effects of the Planets and Houses 69 124.49 Shukra 20.20 10..58 Budha 12.1 Shani L 1.19 RaYI 5.17 9.19 Guru 39 Ketu 9.19 1879.3.14 Rahu 4.4S Kui"
+      },
+      {
+        "yoga": "Dhana Yoga",
+        "snippet": "Dhana yoga. Adding the Kalas for  100 Uttara Kalamrlta the ninth houses we get 24. giving us the twelfth house from the Moon. Here are two powerful benefics. i(l'(i1'..IP«'llIgaea ~ ri* ~: ~: 'llI14'jl¥MI.'J~ '"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "kemadruma yoga which is undesirable. Hence Guru should be in the seventh for a proper Adhi yoga. In Shivaji's chart (Simha lagna already given), the Moon is in kanya with Ravi and Guru in Kumbha, Budha in Mina"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra 163\" ?>J 40 Z5\" 5'1.:> 52 \\\\\"'y, U Bhadra 245\"20 48 leo ~f) 52 \\\\0 .,,, Revati 306'w 54l'Z.° 54 12.0 3l16161\"lla>a:il9l:llq,1 ~ ~ i'13Gl\"4Q;jlr~~­ ~=ad\\('Qlgnr(f fCI:::t\"4ei1iil~:ilf~ i'1r~'60Ia>a:~"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra, or Revati. No malefic should be in Lagna and the fifth house. Moon's placement and the nakshatra on that day should be in harmony with the natal ones. Benefics should be in lagna or aspect it. Notes"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata and so on. But one should not jump to a hasty judgement. There are many other factors to be considered. Iltnliliili¥lfoeqlj'Ei1 ~:, ~ tit<IWUtiiijV; I a:tiftegcM ~SEil'Ciif, ~ Ciif3ir..Qldq'li.;W.11"
+      },
+      {
+        "yoga": "Viparita",
+        "snippet": "Viparita Raja Yoga. (3) The annual solar return chart is interpreted and examined in a manner that differs from the Tajika mcthod. This is very original. It is simple and interesting. (4) There is an elaborat"
+      },
+      {
+        "yoga": "Viparita",
+        "snippet": "Viparita Raja yogas-extra-ordinary Raja yogas. These lords must be related mutually by con- junction, mutual aspect, or mutual exchange of houses. They should not at the same time have any such relation with"
+      }
+    ],
+    "dasha_mentions": [
+      {
+        "term": "vimshottari",
+        "count": 1
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Bharani",
+        "count": 3
+      },
+      {
+        "nakshatra": "Krittika",
+        "count": 5
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 8
+      },
+      {
+        "nakshatra": "Ardra",
+        "count": 5
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 7
+      },
+      {
+        "nakshatra": "Magha",
+        "count": 16
+      },
+      {
+        "nakshatra": "Uttara Phalguni",
+        "count": 3
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 8
+      },
+      {
+        "nakshatra": "Chitra",
+        "count": 6
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 11
+      },
+      {
+        "nakshatra": "Jyeshtha",
+        "count": 11
+      },
+      {
+        "nakshatra": "Mula",
+        "count": 21
+      },
+      {
+        "nakshatra": "Uttara Ashadha",
+        "count": 1
+      },
+      {
+        "nakshatra": "Shravana",
+        "count": 1
+      },
+      {
+        "nakshatra": "Dhanishtha",
+        "count": 6
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 10
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 5,
+      "heading": "Chapter I\nShlokaa"
+    },
+    {
+      "page": 6,
+      "heading": "Chapter III\n~~,"
+    },
+    {
+      "page": 6,
+      "heading": "Chapter IV\nJ.~U!5i{(,L~ ~ tt~~'o"
+    },
+    {
+      "page": 8,
+      "heading": "Chapter V fi~~~ ~D~U) ()AAc( l~ ."
+    },
+    {
+      "page": 10,
+      "heading": "Chapter VII\n\\-\\<.JI.-lPU1 (tt.~"
+    },
+    {
+      "page": 10,
+      "heading": "Chapter VIII\n(G;rbhadhana---..."
+    },
+    {
+      "page": 60,
+      "heading": "Chapter IV\nEffects of the Planets and"
+    },
+    {
+      "page": 109,
+      "heading": "Chapter V\nSignificators"
+    },
+    {
+      "page": 134,
+      "heading": "Chapter VI\n~~:"
+    },
+    {
+      "page": 172,
+      "heading": "Chapter 4 and verse 33. The strength of the signttlcator"
+    },
+    {
+      "page": 174,
+      "heading": "Chapter VIII"
+    },
+    {
+      "page": 240,
+      "heading": "Chapter II\n~ ~ fl:4~81 ~ ~ ~ fit4Cfiti4"
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 124,
+    "planet_house_connections": 20,
+    "planet_rasi_connections": 57,
+    "yoga_mentions": 11,
+    "nakshatra_mentions": 16,
+    "dasha_mentions": 1,
+    "chapters_detected": 12
+  }
+}

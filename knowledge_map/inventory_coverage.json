@@ -1,0 +1,1405 @@
+{
+  "inventory": {
+    "A. CALCULATIONS (math/algorithms)": {
+      "A1": [
+        "Ayanamsa calculation",
+        [
+          "ayanamsa",
+          "precession",
+          "sayana",
+          "nirayana"
+        ]
+      ],
+      "A2": [
+        "Planet longitude (sphuta)",
+        [
+          "\\bsphuta\\b",
+          "planet longitude",
+          "sidereal longitude"
+        ]
+      ],
+      "A3": [
+        "House cusps / Bhava sphuta",
+        [
+          "bhava sphuta",
+          "house cusp",
+          "sripati",
+          "placidus"
+        ]
+      ],
+      "A4": [
+        "Divisional charts (D1-D60)",
+        [
+          "navamsa",
+          "dasamsa",
+          "trimsamsa",
+          "shashtiamsa"
+        ]
+      ],
+      "A5": [
+        "Dasha calculations (multiple systems)",
+        [
+          "vimshottari",
+          "ashtottari",
+          "yogini",
+          "kala chakra",
+          "narayana dasa"
+        ]
+      ],
+      "A6": [
+        "Shadbala — 6 strengths per planet",
+        [
+          "shad[- ]?bala",
+          "sthana bala",
+          "dig bala",
+          "kala bala",
+          "cheshta bala",
+          "naisargika bala",
+          "drik bala"
+        ]
+      ],
+      "A7": [
+        "Bhava Bala (house strength)",
+        [
+          "bhava bala",
+          "house strength"
+        ]
+      ],
+      "A8": [
+        "Ashtakavarga (BAV + SAV)",
+        [
+          "bhinnashtakavarga",
+          "sarvashtakavarga",
+          "ashtakavarga",
+          "bindu",
+          "virupa"
+        ]
+      ],
+      "A9": [
+        "Ishta/Kashta Phala",
+        [
+          "ishta phala",
+          "kashta phala"
+        ]
+      ],
+      "A10": [
+        "Longevity — 4+ methods",
+        [
+          "pindayu",
+          "amshayu",
+          "nishargayu",
+          "jaimini.*longevity",
+          "triangle method"
+        ]
+      ],
+      "A11": [
+        "Aspects — planet-to-planet + rasi drishti",
+        [
+          "drishti",
+          "aspect",
+          "parashari aspect",
+          "rasi drishti"
+        ]
+      ],
+      "A12": [
+        "Sphutas of Upagrahas",
+        [
+          "gulika",
+          "mandi",
+          "dhooma",
+          "vyatipata",
+          "parivesha",
+          "chapa",
+          "upaketu",
+          "yamakantaka"
+        ]
+      ],
+      "A13": [
+        "Panchanga (tithi/vara/nakshatra/yoga/karana)",
+        [
+          "panchanga",
+          "\\btithi\\b",
+          "\\bvara\\b",
+          "\\bkarana\\b"
+        ]
+      ],
+      "A14": [
+        "Transit (gochara)",
+        [
+          "gochara",
+          "transit",
+          "sade sati",
+          "ashtama shani"
+        ]
+      ],
+      "A15": [
+        "Sudarshan Chakra (triple-overlay)",
+        [
+          "sudarshan",
+          "tripataki"
+        ]
+      ]
+    },
+    "B. PREDICTIVE RULES": {
+      "B1": [
+        "Planet in Rasi (108 base rules)",
+        [
+          "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)"
+        ]
+      ],
+      "B2": [
+        "Planet in House (108 base rules)",
+        [
+          "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+        ]
+      ],
+      "B3": [
+        "Planet in Nakshatra (243 rules)",
+        [
+          "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+        ]
+      ],
+      "B4": [
+        "Planet in Pada (972 rules)",
+        [
+          "pada\\s+\\d",
+          "\\d\\s+pada"
+        ]
+      ],
+      "B5": [
+        "Dignity rules (exalt/debil/own/friend/enemy)",
+        [
+          "exaltation",
+          "debilit",
+          "own\\s+sign",
+          "uchcha",
+          "neecha",
+          "mooltrikona"
+        ]
+      ],
+      "B6": [
+        "Aspect-effect rules",
+        [
+          "aspected by",
+          "when aspected"
+        ]
+      ],
+      "B7": [
+        "Conjunction effects",
+        [
+          "conjunction",
+          "conjunct",
+          "joined with"
+        ]
+      ],
+      "B8": [
+        "Yoga definitions + effects",
+        [
+          "yoga"
+        ]
+      ],
+      "B9": [
+        "Dasha-specific predictions",
+        [
+          "dasa of",
+          "'s dasa",
+          "mahadasha"
+        ]
+      ],
+      "B10": [
+        "Antardasha combinations (81 pairs)",
+        [
+          "antardasa",
+          "sub-period",
+          "bhukti"
+        ]
+      ],
+      "B11": [
+        "Transit-to-house effects",
+        [
+          "transit.*house",
+          "gochara.*house"
+        ]
+      ],
+      "B12": [
+        "Marriage indicators",
+        [
+          "marriage",
+          "spouse",
+          "wife",
+          "husband"
+        ]
+      ],
+      "B13": [
+        "Children indicators",
+        [
+          "child",
+          "progeny",
+          "son",
+          "daughter",
+          "santana"
+        ]
+      ],
+      "B14": [
+        "Career indicators",
+        [
+          "profession",
+          "occupation",
+          "career",
+          "livelihood",
+          "vocation"
+        ]
+      ],
+      "B15": [
+        "Wealth indicators",
+        [
+          "wealth",
+          "dhana",
+          "riches"
+        ]
+      ],
+      "B16": [
+        "Health/disease indicators",
+        [
+          "disease",
+          "health",
+          "illness",
+          "roga"
+        ]
+      ],
+      "B17": [
+        "Longevity indicators",
+        [
+          "longevity",
+          "lifespan",
+          "ayush"
+        ]
+      ],
+      "B18": [
+        "Death timing",
+        [
+          "death",
+          "maraka",
+          "time of death"
+        ]
+      ]
+    },
+    "C. CLASSIFICATIONS": {
+      "C1": [
+        "Planet-planet relationships (natural + temporary)",
+        [
+          "natural (?:friend|enemy|neutral)",
+          "temporary (?:friend|enemy)",
+          "mitra",
+          "satru",
+          "sama"
+        ]
+      ],
+      "C2": [
+        "House types (kendra/trikona/dusthana/etc)",
+        [
+          "kendra",
+          "trikona",
+          "dusthana",
+          "panapara",
+          "apoklima",
+          "maraka",
+          "upachaya",
+          "trishadaya"
+        ]
+      ],
+      "C3": [
+        "Planet benefic/malefic (natural + functional)",
+        [
+          "benefic",
+          "malefic",
+          "shubha",
+          "papa",
+          "functional benefic",
+          "functional malefic"
+        ]
+      ],
+      "C4": [
+        "Rasi classifications",
+        [
+          "movable sign",
+          "fixed sign",
+          "dual sign",
+          "chara sign",
+          "sthira",
+          "dvisvabhava",
+          "male sign",
+          "female sign",
+          "human sign",
+          "quadruped",
+          "aquatic",
+          "watery"
+        ]
+      ],
+      "C5": [
+        "Nakshatra classifications",
+        [
+          "deva gana",
+          "manushya gana",
+          "rakshasa gana",
+          "adi nadi",
+          "madhya nadi",
+          "antya nadi",
+          "vashya",
+          "yoni"
+        ]
+      ],
+      "C6": [
+        "Tithi/Karana/Yoga classifications",
+        [
+          "nanda tithi",
+          "bhadra tithi",
+          "jaya tithi",
+          "rikta tithi",
+          "purna tithi"
+        ]
+      ]
+    },
+    "D. REMEDIES": {
+      "D1": [
+        "Gemstones per planet",
+        [
+          "gemstone",
+          "\\bruby\\b",
+          "\\bpearl\\b",
+          "coral",
+          "emerald",
+          "sapphire",
+          "topaz",
+          "diamond",
+          "hessonite",
+          "cat'?s\\s?eye"
+        ]
+      ],
+      "D2": [
+        "Mantras per planet",
+        [
+          "om\\s+\\w+aya\\s+namah",
+          "\\bmantra\\b",
+          "beej mantra"
+        ]
+      ],
+      "D3": [
+        "Yantras per planet",
+        [
+          "\\byantra\\b"
+        ]
+      ],
+      "D4": [
+        "Fasting/upavasa days",
+        [
+          "fast(?:ing)? on\\s+(?:sunday|monday|tuesday|wednesday|thursday|friday|saturday)",
+          "upavasa"
+        ]
+      ],
+      "D5": [
+        "Donations (daan)",
+        [
+          "\\bdaan\\b",
+          "charity",
+          "donat"
+        ]
+      ],
+      "D6": [
+        "Temple worship",
+        [
+          "temple",
+          "mandir",
+          "pooja"
+        ]
+      ],
+      "D7": [
+        "Rudraksha types",
+        [
+          "rudraksha",
+          "mukhi"
+        ]
+      ],
+      "D8": [
+        "Colors to wear",
+        [
+          "wear\\s+(?:red|yellow|white|blue|green|black)"
+        ]
+      ],
+      "D9": [
+        "Ishta/Kula Devata identification",
+        [
+          "ishta\\s?devata",
+          "kula\\s?devata"
+        ]
+      ]
+    },
+    "E. JAIMINI SYSTEM": {
+      "E1": [
+        "Chara Karakas (7 or 8)",
+        [
+          "chara[- ]?karaka",
+          "atmakaraka",
+          "amatyakaraka",
+          "bhratrukaraka",
+          "matrukaraka",
+          "putrakaraka",
+          "gnatikaraka",
+          "darakaraka"
+        ]
+      ],
+      "E2": [
+        "Arudha padas (12)",
+        [
+          "arudha",
+          "arudha lagna"
+        ]
+      ],
+      "E3": [
+        "Upapada",
+        [
+          "upapada"
+        ]
+      ],
+      "E4": [
+        "Rasi Drishti (sign aspects)",
+        [
+          "rasi drishti",
+          "sign aspect"
+        ]
+      ],
+      "E5": [
+        "Chara Dasha",
+        [
+          "chara dasha",
+          "chara dasa"
+        ]
+      ],
+      "E6": [
+        "Karaka Kendradi Dasha",
+        [
+          "karaka kendradi",
+          "kendradi dasha"
+        ]
+      ],
+      "E7": [
+        "Narayana Dasha",
+        [
+          "narayana dasha"
+        ]
+      ],
+      "E8": [
+        "Shoola Dasha",
+        [
+          "shoola dasha"
+        ]
+      ]
+    },
+    "F. KP (KRISHNAMURTI)": {
+      "F1": [
+        "Sub-lord theory",
+        [
+          "sub[- ]?lord"
+        ]
+      ],
+      "F2": [
+        "Cuspal sub-lords",
+        [
+          "cuspal sub",
+          "cusp sub[- ]?lord"
+        ]
+      ],
+      "F3": [
+        "Ruling Planets",
+        [
+          "ruling planet"
+        ]
+      ],
+      "F4": [
+        "Significators hierarchy",
+        [
+          "significator"
+        ]
+      ],
+      "F5": [
+        "Fruitful/Barren planets",
+        [
+          "fruitful planet",
+          "barren planet"
+        ]
+      ]
+    },
+    "G. TAJIKA / VARSHAPHALA": {
+      "G1": [
+        "Annual chart (Varshaphala)",
+        [
+          "varshaphala",
+          "annual chart",
+          "solar return"
+        ]
+      ],
+      "G2": [
+        "Muntha progression",
+        [
+          "muntha"
+        ]
+      ],
+      "G3": [
+        "Sahams (Arabic Parts)",
+        [
+          "\\bsaham\\b",
+          "punya saham",
+          "yasas saham"
+        ]
+      ],
+      "G4": [
+        "Tajika yogas (Ithasala/Isaraphah/Nakta/Yamaya)",
+        [
+          "ithasala",
+          "isaraphah",
+          "\\bnakta\\b",
+          "yamaya"
+        ]
+      ],
+      "G5": [
+        "Mudda dasha (annual)",
+        [
+          "mudda dasa",
+          "mudda dasha"
+        ]
+      ],
+      "G6": [
+        "Harsha Bala (Tajik strength)",
+        [
+          "harsha bala"
+        ]
+      ]
+    },
+    "H. MUHURTA / PANCHANGA": {
+      "H1": [
+        "Muhurta selection (auspicious moments)",
+        [
+          "muhurta",
+          "muhurat"
+        ]
+      ],
+      "H2": [
+        "Tithi selection",
+        [
+          "auspicious tithi",
+          "tithi"
+        ]
+      ],
+      "H3": [
+        "Nakshatra selection",
+        [
+          "auspicious nakshatra"
+        ]
+      ],
+      "H4": [
+        "Yoga selection",
+        [
+          "siddhi yoga",
+          "shubha yoga",
+          "vyatipata yoga"
+        ]
+      ],
+      "H5": [
+        "Karana selection",
+        [
+          "karana"
+        ]
+      ],
+      "H6": [
+        "Rahu-kaal, Gulika-kaal",
+        [
+          "rahu[- ]?kaal",
+          "gulika[- ]?kaal",
+          "yama[- ]?ghantam"
+        ]
+      ],
+      "H7": [
+        "Abhijit muhurta",
+        [
+          "abhijit"
+        ]
+      ],
+      "H8": [
+        "Chandra bala (Moon strength for day)",
+        [
+          "chandra bala"
+        ]
+      ],
+      "H9": [
+        "Tarabala",
+        [
+          "tara bala",
+          "tarabala"
+        ]
+      ],
+      "H10": [
+        "Electional rules by activity",
+        [
+          "marriage muhurta",
+          "travel muhurta",
+          "education muhurta"
+        ]
+      ]
+    }
+  },
+  "coverage": {
+    "A. CALCULATIONS (math/algorithms)|A1|Ayanamsa calculation": {
+      "BPHS_Vol1": 42,
+      "Brihat_Parashara_v2": 49,
+      "Phaladeepika": 1,
+      "Saravali": 3,
+      "Hora_Sara": 4,
+      "Surya_Siddhanta": 70,
+      "Aryabhatiya_v1": 13,
+      "Aryabhatiya_v2": 1,
+      "Vedanga_Jyotisa": 11,
+      "Uttara_Kalamrita": 12,
+      "Laghu_Parashari": 2,
+      "Prashna_Marga": 1,
+      "Yavanajataka_2": 3
+    },
+    "A. CALCULATIONS (math/algorithms)|A2|Planet longitude (sphuta)": {
+      "BPHS_Vol1": 3,
+      "Brihat_Parashara_v2": 3,
+      "Hora_Sara": 2,
+      "Surya_Siddhanta": 14,
+      "Aryabhatiya_v1": 13,
+      "Aryabhatiya_v2": 21,
+      "Prashna_Marga": 61,
+      "Yavanajataka_2": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A3|House cusps / Bhava sphuta": {
+      "BPHS_Vol1": 2,
+      "Brihat_Parashara_v2": 1,
+      "Phaladeepika": 5,
+      "Saravali": 1,
+      "Jataka_Parijata": 1,
+      "Aryabhatiya_v1": 18,
+      "Aryabhatiya_v2": 7,
+      "Uttara_Kalamrita": 3,
+      "Laghu_Parashari": 2,
+      "Yavanajataka_1": 1,
+      "Yavanajataka_2": 44,
+      "Unknown_6945": 2
+    },
+    "A. CALCULATIONS (math/algorithms)|A4|Divisional charts (D1-D60)": {
+      "BPHS_Vol1": 203,
+      "BPHS_Vol2": 105,
+      "Brihat_Parashara_v2": 104,
+      "Phaladeepika": 147,
+      "Saravali": 152,
+      "Hora_Sara": 262,
+      "Jataka_Parijata": 9,
+      "Uttara_Kalamrita": 39,
+      "Laghu_Parashari": 5,
+      "Prashna_Marga": 359,
+      "Jaimini_Sutras": 81,
+      "Yavanajataka_2": 3,
+      "Unknown_6945": 6
+    },
+    "A. CALCULATIONS (math/algorithms)|A6|Shadbala — 6 strengths per planet": {
+      "BPHS_Vol1": 38,
+      "Brihat_Parashara_v2": 43,
+      "Phaladeepika": 4,
+      "Saravali": 11,
+      "Hora_Sara": 3,
+      "Uttara_Kalamrita": 12,
+      "Unknown_6945": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A8|Ashtakavarga (BAV + SAV)": {
+      "BPHS_Vol1": 47,
+      "BPHS_Vol2": 101,
+      "Brihat_Parashara_v2": 74,
+      "Phaladeepika": 74,
+      "Saravali": 3,
+      "Hora_Sara": 11,
+      "Jataka_Parijata": 8,
+      "Aryabhatiya_v2": 1,
+      "Uttara_Kalamrita": 3,
+      "Prashna_Marga": 348,
+      "Yavanajataka_1": 1,
+      "Yavanajataka_2": 4,
+      "Unknown_6945": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A9|Ishta/Kashta Phala": {
+      "BPHS_Vol1": 4,
+      "Brihat_Parashara_v2": 4
+    },
+    "A. CALCULATIONS (math/algorithms)|A10|Longevity — 4+ methods": {
+      "BPHS_Vol1": 18,
+      "BPHS_Vol2": 1,
+      "Brihat_Parashara_v2": 20,
+      "Phaladeepika": 8,
+      "Hora_Sara": 3,
+      "Jaimini_Sutras": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A11|Aspects — planet-to-planet + rasi drishti": {
+      "BPHS_Vol1": 401,
+      "BPHS_Vol2": 96,
+      "Brihat_Parashara_v2": 557,
+      "Phaladeepika": 166,
+      "Saravali": 619,
+      "Hora_Sara": 195,
+      "Jataka_Parijata": 52,
+      "Surya_Siddhanta": 42,
+      "Aryabhatiya_v1": 1,
+      "Aryabhatiya_v2": 3,
+      "Vedanga_Jyotisa": 2,
+      "Uttara_Kalamrita": 259,
+      "Laghu_Parashari": 106,
+      "Prashna_Marga": 313,
+      "Jaimini_Sutras": 201,
+      "Yavanajataka_2": 346,
+      "Unknown_6945": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A12|Sphutas of Upagrahas": {
+      "BPHS_Vol1": 158,
+      "BPHS_Vol2": 7,
+      "Brihat_Parashara_v2": 190,
+      "Phaladeepika": 106,
+      "Saravali": 9,
+      "Hora_Sara": 12,
+      "Jataka_Parijata": 3,
+      "Surya_Siddhanta": 2,
+      "Aryabhatiya_v1": 23,
+      "Aryabhatiya_v2": 13,
+      "Vedanga_Jyotisa": 1,
+      "Pancha_Siddhantika": 4,
+      "Uttara_Kalamrita": 24,
+      "Prashna_Marga": 114,
+      "Jaimini_Sutras": 36,
+      "Yavanajataka_2": 1,
+      "Unknown_6945": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A14|Transit (gochara)": {
+      "BPHS_Vol1": 8,
+      "BPHS_Vol2": 45,
+      "Brihat_Parashara_v2": 65,
+      "Phaladeepika": 199,
+      "Saravali": 14,
+      "Hora_Sara": 41,
+      "Jataka_Parijata": 3,
+      "Surya_Siddhanta": 12,
+      "Aryabhatiya_v2": 1,
+      "Uttara_Kalamrita": 11,
+      "Laghu_Parashari": 9,
+      "Prashna_Marga": 203,
+      "Jaimini_Sutras": 1,
+      "Yavanajataka_2": 121,
+      "Unknown_6945": 3
+    },
+    "B. PREDICTIVE RULES|B1|Planet in Rasi (108 base rules)": {
+      "BPHS_Vol1": 13,
+      "BPHS_Vol2": 3,
+      "Brihat_Parashara_v2": 20,
+      "Saravali": 326,
+      "Hora_Sara": 56,
+      "Laghu_Parashari": 7,
+      "Prashna_Marga": 3,
+      "Yavanajataka_2": 82
+    },
+    "B. PREDICTIVE RULES|B2|Planet in House (108 base rules)": {
+      "BPHS_Vol1": 70,
+      "BPHS_Vol2": 47,
+      "Brihat_Parashara_v2": 216,
+      "Phaladeepika": 38,
+      "Saravali": 116,
+      "Hora_Sara": 107,
+      "Jataka_Parijata": 1,
+      "Laghu_Parashari": 17,
+      "Prashna_Marga": 68
+    },
+    "B. PREDICTIVE RULES|B3|Planet in Nakshatra (243 rules)": {
+      "BPHS_Vol1": 2,
+      "Brihat_Parashara_v2": 2,
+      "Hora_Sara": 2,
+      "Uttara_Kalamrita": 4,
+      "Prashna_Marga": 2
+    },
+    "B. PREDICTIVE RULES|B4|Planet in Pada (972 rules)": {
+      "BPHS_Vol1": 10,
+      "BPHS_Vol2": 6,
+      "Brihat_Parashara_v2": 8,
+      "Phaladeepika": 1,
+      "Surya_Siddhanta": 3,
+      "Aryabhatiya_v1": 6,
+      "Vedanga_Jyotisa": 2,
+      "Uttara_Kalamrita": 2,
+      "Laghu_Parashari": 2,
+      "Jaimini_Sutras": 5
+    },
+    "B. PREDICTIVE RULES|B5|Dignity rules (exalt/debil/own/friend/enemy)": {
+      "BPHS_Vol1": 254,
+      "BPHS_Vol2": 214,
+      "Brihat_Parashara_v2": 568,
+      "Phaladeepika": 91,
+      "Saravali": 71,
+      "Hora_Sara": 115,
+      "Jataka_Parijata": 27,
+      "Uttara_Kalamrita": 50,
+      "Laghu_Parashari": 52,
+      "Prashna_Marga": 90,
+      "Jaimini_Sutras": 43,
+      "Yavanajataka_2": 149,
+      "Unknown_6945": 8
+    },
+    "B. PREDICTIVE RULES|B6|Aspect-effect rules": {
+      "BPHS_Vol1": 70,
+      "BPHS_Vol2": 59,
+      "Brihat_Parashara_v2": 172,
+      "Phaladeepika": 81,
+      "Saravali": 134,
+      "Hora_Sara": 77,
+      "Jataka_Parijata": 31,
+      "Uttara_Kalamrita": 60,
+      "Laghu_Parashari": 25,
+      "Prashna_Marga": 135,
+      "Jaimini_Sutras": 15,
+      "Yavanajataka_2": 198
+    },
+    "B. PREDICTIVE RULES|B7|Conjunction effects": {
+      "BPHS_Vol1": 150,
+      "BPHS_Vol2": 28,
+      "Brihat_Parashara_v2": 204,
+      "Phaladeepika": 107,
+      "Saravali": 132,
+      "Hora_Sara": 88,
+      "Jataka_Parijata": 120,
+      "Surya_Siddhanta": 666,
+      "Aryabhatiya_v1": 44,
+      "Aryabhatiya_v2": 34,
+      "Uttara_Kalamrita": 65,
+      "Laghu_Parashari": 100,
+      "Prashna_Marga": 45,
+      "Jaimini_Sutras": 124,
+      "Yavanajataka_2": 341
+    },
+    "B. PREDICTIVE RULES|B8|Yoga definitions + effects": {
+      "BPHS_Vol1": 465,
+      "BPHS_Vol2": 93,
+      "Brihat_Parashara_v2": 665,
+      "Phaladeepika": 350,
+      "Saravali": 605,
+      "Hora_Sara": 288,
+      "Jataka_Parijata": 20,
+      "Surya_Siddhanta": 97,
+      "Aryabhatiya_v1": 4,
+      "Aryabhatiya_v2": 10,
+      "Vedanga_Jyotisa": 3,
+      "Pancha_Siddhantika": 3,
+      "Uttara_Kalamrita": 109,
+      "Laghu_Parashari": 495,
+      "Prashna_Marga": 79,
+      "Jaimini_Sutras": 53,
+      "Yavanajataka_1": 55,
+      "Yavanajataka_2": 381,
+      "Unknown_6945": 50
+    },
+    "B. PREDICTIVE RULES|B9|Dasha-specific predictions": {
+      "BPHS_Vol1": 13,
+      "BPHS_Vol2": 654,
+      "Brihat_Parashara_v2": 358,
+      "Phaladeepika": 70,
+      "Saravali": 6,
+      "Hora_Sara": 160,
+      "Jataka_Parijata": 5,
+      "Aryabhatiya_v1": 1,
+      "Uttara_Kalamrita": 7,
+      "Laghu_Parashari": 126,
+      "Prashna_Marga": 3,
+      "Jaimini_Sutras": 13,
+      "Yavanajataka_1": 2,
+      "Yavanajataka_2": 16
+    },
+    "B. PREDICTIVE RULES|B10|Antardasha combinations (81 pairs)": {
+      "BPHS_Vol1": 1,
+      "BPHS_Vol2": 392,
+      "Brihat_Parashara_v2": 616,
+      "Phaladeepika": 148,
+      "Saravali": 1,
+      "Hora_Sara": 92,
+      "Jataka_Parijata": 3,
+      "Surya_Siddhanta": 3,
+      "Aryabhatiya_v1": 1,
+      "Vedanga_Jyotisa": 2,
+      "Uttara_Kalamrita": 25,
+      "Laghu_Parashari": 394,
+      "Prashna_Marga": 15,
+      "Jaimini_Sutras": 14,
+      "Yavanajataka_1": 8,
+      "Yavanajataka_2": 32,
+      "Unknown_6945": 1
+    },
+    "B. PREDICTIVE RULES|B12|Marriage indicators": {
+      "BPHS_Vol1": 212,
+      "BPHS_Vol2": 213,
+      "Brihat_Parashara_v2": 497,
+      "Phaladeepika": 203,
+      "Saravali": 251,
+      "Hora_Sara": 205,
+      "Jataka_Parijata": 19,
+      "Surya_Siddhanta": 3,
+      "Aryabhatiya_v1": 2,
+      "Aryabhatiya_v2": 1,
+      "Uttara_Kalamrita": 88,
+      "Laghu_Parashari": 9,
+      "Prashna_Marga": 341,
+      "Jaimini_Sutras": 47,
+      "Yavanajataka_1": 4,
+      "Yavanajataka_2": 211,
+      "Unknown_6945": 11,
+      "Bhrigu_Samhita": 2
+    },
+    "B. PREDICTIVE RULES|B13|Children indicators": {
+      "BPHS_Vol1": 349,
+      "BPHS_Vol2": 456,
+      "Brihat_Parashara_v2": 874,
+      "Phaladeepika": 862,
+      "Saravali": 527,
+      "Hora_Sara": 460,
+      "Jataka_Parijata": 284,
+      "Surya_Siddhanta": 226,
+      "Aryabhatiya_v1": 53,
+      "Aryabhatiya_v2": 45,
+      "Vedanga_Jyotisa": 31,
+      "Pancha_Siddhantika": 21,
+      "Uttara_Kalamrita": 131,
+      "Laghu_Parashari": 56,
+      "Prashna_Marga": 753,
+      "Jaimini_Sutras": 339,
+      "Yavanajataka_1": 79,
+      "Yavanajataka_2": 605,
+      "Sarvartha_Chintamani": 4,
+      "Unknown_6945": 21,
+      "Bhrigu_Samhita": 1
+    },
+    "B. PREDICTIVE RULES|B14|Career indicators": {
+      "BPHS_Vol1": 43,
+      "BPHS_Vol2": 12,
+      "Brihat_Parashara_v2": 66,
+      "Phaladeepika": 26,
+      "Saravali": 77,
+      "Hora_Sara": 48,
+      "Jataka_Parijata": 1,
+      "Surya_Siddhanta": 2,
+      "Aryabhatiya_v1": 6,
+      "Aryabhatiya_v2": 4,
+      "Uttara_Kalamrita": 7,
+      "Laghu_Parashari": 20,
+      "Prashna_Marga": 13,
+      "Jaimini_Sutras": 11,
+      "Yavanajataka_1": 1,
+      "Yavanajataka_2": 21,
+      "Unknown_6945": 1,
+      "Bhrigu_Samhita": 1
+    },
+    "B. PREDICTIVE RULES|B15|Wealth indicators": {
+      "BPHS_Vol1": 292,
+      "BPHS_Vol2": 369,
+      "Brihat_Parashara_v2": 809,
+      "Phaladeepika": 262,
+      "Saravali": 316,
+      "Hora_Sara": 226,
+      "Jataka_Parijata": 59,
+      "Surya_Siddhanta": 18,
+      "Aryabhatiya_v1": 16,
+      "Aryabhatiya_v2": 15,
+      "Vedanga_Jyotisa": 4,
+      "Pancha_Siddhantika": 5,
+      "Uttara_Kalamrita": 60,
+      "Laghu_Parashari": 11,
+      "Prashna_Marga": 97,
+      "Jaimini_Sutras": 38,
+      "Yavanajataka_1": 14,
+      "Yavanajataka_2": 406,
+      "Unknown_6945": 1
+    },
+    "B. PREDICTIVE RULES|B16|Health/disease indicators": {
+      "BPHS_Vol1": 144,
+      "BPHS_Vol2": 130,
+      "Brihat_Parashara_v2": 309,
+      "Phaladeepika": 213,
+      "Saravali": 150,
+      "Hora_Sara": 94,
+      "Jataka_Parijata": 11,
+      "Surya_Siddhanta": 3,
+      "Aryabhatiya_v1": 1,
+      "Uttara_Kalamrita": 28,
+      "Laghu_Parashari": 7,
+      "Prashna_Marga": 150,
+      "Jaimini_Sutras": 49,
+      "Yavanajataka_2": 382,
+      "Unknown_6945": 1
+    },
+    "B. PREDICTIVE RULES|B17|Longevity indicators": {
+      "BPHS_Vol1": 81,
+      "BPHS_Vol2": 18,
+      "Brihat_Parashara_v2": 142,
+      "Phaladeepika": 7,
+      "Saravali": 78,
+      "Hora_Sara": 64,
+      "Surya_Siddhanta": 2,
+      "Aryabhatiya_v1": 2,
+      "Uttara_Kalamrita": 24,
+      "Laghu_Parashari": 45,
+      "Prashna_Marga": 8,
+      "Jaimini_Sutras": 28
+    },
+    "B. PREDICTIVE RULES|B18|Death timing": {
+      "BPHS_Vol1": 166,
+      "BPHS_Vol2": 135,
+      "Brihat_Parashara_v2": 350,
+      "Phaladeepika": 145,
+      "Saravali": 115,
+      "Hora_Sara": 159,
+      "Jataka_Parijata": 26,
+      "Surya_Siddhanta": 2,
+      "Aryabhatiya_v2": 1,
+      "Vedanga_Jyotisa": 2,
+      "Pancha_Siddhantika": 3,
+      "Uttara_Kalamrita": 72,
+      "Laghu_Parashari": 388,
+      "Prashna_Marga": 109,
+      "Jaimini_Sutras": 143,
+      "Yavanajataka_1": 1,
+      "Yavanajataka_2": 102,
+      "Muhurtha_Chintamani": 1,
+      "Unknown_6945": 1
+    },
+    "C. CLASSIFICATIONS|C1|Planet-planet relationships (natural + temporary)": {
+      "BPHS_Vol1": 20,
+      "BPHS_Vol2": 14,
+      "Brihat_Parashara_v2": 31,
+      "Phaladeepika": 22,
+      "Saravali": 17,
+      "Hora_Sara": 5,
+      "Jataka_Parijata": 1,
+      "Surya_Siddhanta": 22,
+      "Aryabhatiya_v1": 55,
+      "Aryabhatiya_v2": 30,
+      "Vedanga_Jyotisa": 8,
+      "Pancha_Siddhantika": 1,
+      "Uttara_Kalamrita": 24,
+      "Laghu_Parashari": 1,
+      "Prashna_Marga": 6,
+      "Jaimini_Sutras": 16,
+      "Yavanajataka_1": 19,
+      "Yavanajataka_2": 45,
+      "Sarvartha_Chintamani": 5,
+      "Unknown_6945": 7,
+      "Bhrigu_Samhita": 1
+    },
+    "C. CLASSIFICATIONS|C2|House types (kendra/trikona/dusthana/etc)": {
+      "BPHS_Vol1": 107,
+      "BPHS_Vol2": 327,
+      "Brihat_Parashara_v2": 503,
+      "Phaladeepika": 163,
+      "Saravali": 71,
+      "Hora_Sara": 73,
+      "Jataka_Parijata": 49,
+      "Surya_Siddhanta": 17,
+      "Aryabhatiya_v1": 16,
+      "Aryabhatiya_v2": 3,
+      "Uttara_Kalamrita": 149,
+      "Laghu_Parashari": 918,
+      "Prashna_Marga": 91,
+      "Jaimini_Sutras": 55,
+      "Yavanajataka_2": 10,
+      "Unknown_6945": 6
+    },
+    "C. CLASSIFICATIONS|C3|Planet benefic/malefic (natural + functional)": {
+      "BPHS_Vol1": 601,
+      "BPHS_Vol2": 369,
+      "Brihat_Parashara_v2": 1200,
+      "Phaladeepika": 347,
+      "Saravali": 357,
+      "Hora_Sara": 408,
+      "Jataka_Parijata": 125,
+      "Uttara_Kalamrita": 310,
+      "Laghu_Parashari": 190,
+      "Prashna_Marga": 396,
+      "Jaimini_Sutras": 201,
+      "Yavanajataka_2": 453,
+      "Unknown_6945": 5
+    },
+    "C. CLASSIFICATIONS|C4|Rasi classifications": {
+      "BPHS_Vol1": 94,
+      "BPHS_Vol2": 29,
+      "Brihat_Parashara_v2": 158,
+      "Phaladeepika": 20,
+      "Saravali": 49,
+      "Hora_Sara": 28,
+      "Jataka_Parijata": 5,
+      "Surya_Siddhanta": 5,
+      "Aryabhatiya_v1": 7,
+      "Uttara_Kalamrita": 27,
+      "Laghu_Parashari": 3,
+      "Prashna_Marga": 170,
+      "Jaimini_Sutras": 50,
+      "Yavanajataka_2": 90,
+      "Unknown_6945": 1
+    },
+    "D. REMEDIES|D1|Gemstones per planet": {
+      "BPHS_Vol1": 6,
+      "BPHS_Vol2": 1,
+      "Brihat_Parashara_v2": 9,
+      "Phaladeepika": 13,
+      "Saravali": 11,
+      "Hora_Sara": 3,
+      "Jataka_Parijata": 1,
+      "Surya_Siddhanta": 4,
+      "Uttara_Kalamrita": 7,
+      "Prashna_Marga": 1,
+      "Yavanajataka_2": 39,
+      "Bhrigu_Samhita": 1
+    },
+    "D. REMEDIES|D2|Mantras per planet": {
+      "BPHS_Vol1": 2,
+      "BPHS_Vol2": 13,
+      "Brihat_Parashara_v2": 18,
+      "Saravali": 1,
+      "Uttara_Kalamrita": 8,
+      "Laghu_Parashari": 2,
+      "Prashna_Marga": 10,
+      "Yavanajataka_2": 5
+    },
+    "D. REMEDIES|D5|Donations (daan)": {
+      "BPHS_Vol1": 7,
+      "BPHS_Vol2": 78,
+      "Brihat_Parashara_v2": 100,
+      "Saravali": 4,
+      "Hora_Sara": 17,
+      "Jataka_Parijata": 1,
+      "Aryabhatiya_v2": 1,
+      "Uttara_Kalamrita": 2,
+      "Prashna_Marga": 11,
+      "Jaimini_Sutras": 1,
+      "Yavanajataka_1": 4,
+      "Yavanajataka_2": 3
+    },
+    "D. REMEDIES|D6|Temple worship": {
+      "BPHS_Vol1": 3,
+      "BPHS_Vol2": 5,
+      "Brihat_Parashara_v2": 8,
+      "Phaladeepika": 9,
+      "Saravali": 7,
+      "Hora_Sara": 7,
+      "Jataka_Parijata": 1,
+      "Surya_Siddhanta": 1,
+      "Aryabhatiya_v1": 10,
+      "Aryabhatiya_v2": 1,
+      "Uttara_Kalamrita": 2,
+      "Laghu_Parashari": 1,
+      "Prashna_Marga": 39,
+      "Jaimini_Sutras": 4,
+      "Yavanajataka_1": 1,
+      "Yavanajataka_2": 12
+    },
+    "D. REMEDIES|D7|Rudraksha types": {
+      "BPHS_Vol1": 4,
+      "Brihat_Parashara_v2": 4,
+      "Phaladeepika": 1,
+      "Surya_Siddhanta": 3
+    },
+    "E. JAIMINI SYSTEM|E1|Chara Karakas (7 or 8)": {
+      "BPHS_Vol1": 37,
+      "BPHS_Vol2": 10,
+      "Brihat_Parashara_v2": 79,
+      "Hora_Sara": 1,
+      "Uttara_Kalamrita": 2,
+      "Jaimini_Sutras": 115
+    },
+    "E. JAIMINI SYSTEM|E2|Arudha padas (12)": {
+      "BPHS_Vol1": 79,
+      "Brihat_Parashara_v2": 94,
+      "Hora_Sara": 9,
+      "Uttara_Kalamrita": 34,
+      "Prashna_Marga": 164,
+      "Jaimini_Sutras": 45
+    },
+    "E. JAIMINI SYSTEM|E3|Upapada": {
+      "BPHS_Vol1": 19,
+      "Brihat_Parashara_v2": 20,
+      "Hora_Sara": 5,
+      "Uttara_Kalamrita": 4,
+      "Jaimini_Sutras": 46
+    },
+    "E. JAIMINI SYSTEM|E4|Rasi Drishti (sign aspects)": {
+      "BPHS_Vol1": 6,
+      "BPHS_Vol2": 1,
+      "Brihat_Parashara_v2": 11,
+      "Saravali": 1,
+      "Prashna_Marga": 2,
+      "Jaimini_Sutras": 4,
+      "Yavanajataka_2": 1
+    },
+    "F. KP (KRISHNAMURTI)|F3|Ruling Planets": {
+      "BPHS_Vol1": 1,
+      "Brihat_Parashara_v2": 1,
+      "Laghu_Parashari": 1
+    },
+    "F. KP (KRISHNAMURTI)|F4|Significators hierarchy": {
+      "BPHS_Vol1": 24,
+      "BPHS_Vol2": 14,
+      "Brihat_Parashara_v2": 53,
+      "Saravali": 1,
+      "Uttara_Kalamrita": 10,
+      "Laghu_Parashari": 2
+    },
+    "H. MUHURTA / PANCHANGA|H1|Muhurta selection (auspicious moments)": {
+      "BPHS_Vol1": 11,
+      "BPHS_Vol2": 1,
+      "Brihat_Parashara_v2": 13,
+      "Phaladeepika": 4,
+      "Saravali": 6,
+      "Hora_Sara": 4,
+      "Surya_Siddhanta": 4,
+      "Aryabhatiya_v1": 1,
+      "Aryabhatiya_v2": 4,
+      "Uttara_Kalamrita": 8,
+      "Prashna_Marga": 6,
+      "Yavanajataka_2": 62
+    },
+    "H. MUHURTA / PANCHANGA|H5|Karana selection": {
+      "BPHS_Vol1": 2,
+      "BPHS_Vol2": 15,
+      "Brihat_Parashara_v2": 25,
+      "Phaladeepika": 7,
+      "Saravali": 3,
+      "Surya_Siddhanta": 18,
+      "Aryabhatiya_v1": 42,
+      "Aryabhatiya_v2": 58,
+      "Vedanga_Jyotisa": 2,
+      "Uttara_Kalamrita": 1,
+      "Prashna_Marga": 11,
+      "Jaimini_Sutras": 4,
+      "Yavanajataka_2": 2
+    },
+    "A. CALCULATIONS (math/algorithms)|A5|Dasha calculations (multiple systems)": {
+      "BPHS_Vol2": 11,
+      "Brihat_Parashara_v2": 44,
+      "Saravali": 2,
+      "Hora_Sara": 13,
+      "Uttara_Kalamrita": 2,
+      "Laghu_Parashari": 3
+    },
+    "A. CALCULATIONS (math/algorithms)|A13|Panchanga (tithi/vara/nakshatra/yoga/karana)": {
+      "BPHS_Vol2": 34,
+      "Brihat_Parashara_v2": 49,
+      "Phaladeepika": 17,
+      "Saravali": 3,
+      "Hora_Sara": 2,
+      "Surya_Siddhanta": 22,
+      "Aryabhatiya_v1": 40,
+      "Aryabhatiya_v2": 47,
+      "Vedanga_Jyotisa": 82,
+      "Uttara_Kalamrita": 22,
+      "Laghu_Parashari": 3,
+      "Prashna_Marga": 54,
+      "Yavanajataka_1": 2,
+      "Yavanajataka_2": 42,
+      "Sarvartha_Chintamani": 1,
+      "Bhrigu_Samhita": 1
+    },
+    "A. CALCULATIONS (math/algorithms)|A15|Sudarshan Chakra (triple-overlay)": {
+      "BPHS_Vol2": 12,
+      "Brihat_Parashara_v2": 15
+    },
+    "B. PREDICTIVE RULES|B11|Transit-to-house effects": {
+      "BPHS_Vol2": 5,
+      "Brihat_Parashara_v2": 8,
+      "Phaladeepika": 11,
+      "Hora_Sara": 4,
+      "Laghu_Parashari": 1,
+      "Prashna_Marga": 2
+    },
+    "D. REMEDIES|D3|Yantras per planet": {
+      "BPHS_Vol2": 1,
+      "Brihat_Parashara_v2": 1,
+      "Surya_Siddhanta": 1,
+      "Aryabhatiya_v1": 12
+    },
+    "E. JAIMINI SYSTEM|E5|Chara Dasha": {
+      "BPHS_Vol2": 10,
+      "Brihat_Parashara_v2": 11,
+      "Jaimini_Sutras": 1
+    },
+    "E. JAIMINI SYSTEM|E6|Karaka Kendradi Dasha": {
+      "BPHS_Vol2": 1,
+      "Brihat_Parashara_v2": 3
+    },
+    "H. MUHURTA / PANCHANGA|H2|Tithi selection": {
+      "BPHS_Vol2": 18,
+      "Brihat_Parashara_v2": 18,
+      "Phaladeepika": 22,
+      "Saravali": 1,
+      "Hora_Sara": 2,
+      "Surya_Siddhanta": 13,
+      "Aryabhatiya_v1": 7,
+      "Aryabhatiya_v2": 20,
+      "Vedanga_Jyotisa": 137,
+      "Uttara_Kalamrita": 24,
+      "Laghu_Parashari": 1,
+      "Prashna_Marga": 58,
+      "Yavanajataka_1": 5,
+      "Yavanajataka_2": 90
+    },
+    "H. MUHURTA / PANCHANGA|H7|Abhijit muhurta": {
+      "BPHS_Vol2": 3,
+      "Brihat_Parashara_v2": 5,
+      "Phaladeepika": 3,
+      "Surya_Siddhanta": 35,
+      "Vedanga_Jyotisa": 1,
+      "Uttara_Kalamrita": 4,
+      "Laghu_Parashari": 2,
+      "Prashna_Marga": 5,
+      "Jaimini_Sutras": 1,
+      "Yavanajataka_2": 3
+    },
+    "A. CALCULATIONS (math/algorithms)|A7|Bhava Bala (house strength)": {
+      "Brihat_Parashara_v2": 1,
+      "Hora_Sara": 1,
+      "Uttara_Kalamrita": 3,
+      "Prashna_Marga": 1
+    },
+    "C. CLASSIFICATIONS|C6|Tithi/Karana/Yoga classifications": {
+      "Brihat_Parashara_v2": 1,
+      "Prashna_Marga": 6,
+      "Yavanajataka_2": 2
+    },
+    "E. JAIMINI SYSTEM|E8|Shoola Dasha": {
+      "Brihat_Parashara_v2": 2
+    },
+    "H. MUHURTA / PANCHANGA|H4|Yoga selection": {
+      "Brihat_Parashara_v2": 12,
+      "Hora_Sara": 2
+    },
+    "C. CLASSIFICATIONS|C5|Nakshatra classifications": {
+      "Saravali": 1,
+      "Surya_Siddhanta": 1,
+      "Prashna_Marga": 15,
+      "Yavanajataka_1": 2,
+      "Yavanajataka_2": 15
+    },
+    "D. REMEDIES|D8|Colors to wear": {
+      "Saravali": 2
+    },
+    "G. TAJIKA / VARSHAPHALA|G4|Tajika yogas (Ithasala/Isaraphah/Nakta/Yamaya)": {
+      "Surya_Siddhanta": 1
+    },
+    "D. REMEDIES|D4|Fasting/upavasa days": {
+      "Vedanga_Jyotisa": 7
+    },
+    "G. TAJIKA / VARSHAPHALA|G1|Annual chart (Varshaphala)": {
+      "Uttara_Kalamrita": 11
+    },
+    "F. KP (KRISHNAMURTI)|F1|Sub-lord theory": {
+      "Prashna_Marga": 1
+    }
+  }
+}

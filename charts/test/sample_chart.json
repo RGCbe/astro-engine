@@ -1,0 +1,15 @@
+{
+  "name": "Test Native",
+  "lagna": "Aries",
+  "planets": {
+    "Sun": 1,
+    "Moon": 2,
+    "Mars": 6,
+    "Mercury": 2,
+    "Jupiter": 9,
+    "Venus": 1,
+    "Saturn": 10,
+    "Rahu": 3,
+    "Ketu": 9
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "item_code": "A4",
+  "item_name": "Divisional charts (D1-D60)",
+  "books_covering": [
+    "BPHS_Vol1",
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Jataka_Parijata",
+    "Uttara_Kalamrita",
+    "Laghu_Parashari",
+    "Prashna_Marga",
+    "Jaimini_Sutras",
+    "Yavanajataka_2",
+    "Unknown_6945"
+  ],
+  "total_passages": 154,
+  "formulas_found": [
+    {
+      "book": "Saravali",
+      "score": 8,
+      "context": "havedamsa Good and bad (16) Shashtiamsa Good and bad षष्टिहोरा sam: सोड़ुपदा सा द्विसप्ततिसमेता । लिप्तानामट्टादशशतानि परिवतंन:ः स्वगृहात्‌ ॥१७॥ 17. The total of the number of Horas and that of deca- nates is sixty (24-+36), inthe entire Zodiac. The figure is increased by 72 if the total of Horas+Navamsas is required, ie. 60-+-72=24+108=132. Each Rasi has 1800 Kalas (30 degrees each of 60’ of arc), ====== PAGE 38 ====== 34 Saravali लग्नादीनां लिप्ता ज्ञेयाः स्वगृहादिवर्गसंगुखिताः । श्रष्ठादशङातभक्ता लब्धः स्यादीप्सितो वर्ग: ॥१८॥ - 18. DIFFERENT VARGAS : To know any kind of Varga (ie. Hora, Navamsa, Drekkana etc.) adopt the following method : convert the longitude into minutes of arc and multi- ply by the Varga figure concerned. Divide the product by 1800. The resultant figure will reveal t",
+      "position": 49489
+    },
+    {
+      "book": "BPHS_Vol2",
+      "score": 5,
+      "context": "de according to the proportion of the padas of a nakshatra. The number of Aswini etc. whichever may be the past nakshatras should be divided by 3. Thereafter the remainder should be multiplied by 4. To the figure so made available the pada of the present nakshatra be ad,Jed. The product will be the Navamsa from Aries onwards. Example : T:c birth is in the 4th pada of Mrigasira. The number of pilt r:akshatras from Aswini to Rohini will bc 4. Divide it by 3. The remainder will be l. Muitiply I by 4. The product will be 4. To this add 4 (4th pada of Mrigasira)- The Sun will indicate the Navamsa of tbe rasi. In this case 4*4:8 will indicate the Navamsa. which falls in Scorpio the 8th sign from Aries. \\ 5)xplnnation : In 3 nakshatras there are navamsas oI l2 sigas. 'There are four navamsas in o",
+      "position": 65009
+    },
+    {
+      "book": "BPHS_Vol2",
+      "score": 5,
+      "context": "the longitude of the Moon (Chandra Spast-*a rctz) is ll4l5D. This converted into kalas will be 2090. Divide by 800 the kalas of one nakshatra the result will be the 2nd nakshatra namely Bharini and the remainder will be 490. These will be the past Lalas of Krittika. There are 2@ kalas in one pada (Navamsa). Divide 490 the past kalas of Krittika by 200. We will then get 2 as past padas and the remainder 90 will represent the past kalas of the present nakshatra. By multipl,v-ing this by 83 the Dasa years, we will get 7470 which divided by 200 will indicate the expired portion of the Dasa as 37 years, 4 months and 6 days. By deducting the years of Dehamsa commencing from Taurus in the order Taurus, Aries Pisces, Aquarius (16-+7+10*4:37), we will get 0yeare,4 months and 6 days. This will be th",
+      "position": 72740
+    },
+    {
+      "book": "Jaimini_Sutras",
+      "score": 5,
+      "context": "a stands for 1 in Pavirga. Cha stands for 6 inthe Tuvarga. Thus we get 16, reading in the reverse order we get 61. Divide this by 12 we get the remainder 1 and this stands for the first sign in the Zodiac or Mesha Navamaa. हे, तत्र चतुष्पादः ॥ Su. 3.—Tathrachatushpadahs. If Atmakaraka is in Taurus Navamsa, there will be fear from quadrupeds. NOTES Ta means 6 and R+ means 2 or 62 reversed we get 26, divided by 12 we get 2 remainder which means the 2nd ====== PAGE 58 ====== JAIMINISUTRAS 4h house from Mesha or Vrishabha Navamsa. If Atmakaraka occupies Vrishabha Navamsa the person will have gains and happiness from quadrupeds like cattle, horses, elephants, ete. Some commentators say he will have troubles and worries through them. I think, when Atmakaraka is weak or has evil 2306619 or associ",
+      "position": 87941
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "classification of signs, 12 signs described, and Nisheka Lagna. 5. SPECIAL ASCENDANTS Bhava Lagna, Ghatika Lagna, Hora Lagna, Use of special ascendants, Varnada Dasa and effects of Varnada. 6. THE SIXTEEN DIYISIONS OF A SIGN Names of the 16 vargas, Ragi and Hora, Decanate, Chaturthamsa, Sapthamsa, Navamsa, Dasamsa, Dvadasamsa, Shodasamsa, Vimsamsa, Siddhamsa, Bhamsa, Trimsamsa, Chltvarimsamsa, Akshave' damsa, Shashtiamsa, Varga classification, eto. Page l0 t7' n 24 48 67 4 7- DIYISrcNAL CONSI DERATION Use of tbe t6 divisions, Hora, Decanate anti Trimsa- msa efrects, Vimsopaka strength, Vimsopka propor- tional evaluation, other sources of strength, Dasa effccts with Vimsopaka strength, names of bhav.as, indkations from houses, etc. 8, ASPECTS OF THE.S/Gil.S Sign aspects, phnctary aspects, a",
+      "position": 1257
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "iqt{il ilqirtrq qqk, q}s{rirtt: nQu frtrtdl tcrr6'n} itnfsftrirrt€f,n: I qtctntsnilu: ctGatr'mFr irr: q({ nvtl 2-4. NAMES OE THE 16 VARGAS .' Lord Brahma has described 16 kinds of Vargas (Divisions) for each sign. Listen to those. The same are : Rasi, Hora, Drekkana, Chathurthamsa, Sapthamamsa, Navamsa, Dssanoamsa, Dvadasamsa, Shodas- amsa, Vinsamsa, Chaturvimsamsa, Sapthavimsamsa, Trimsamsa, Khavcdamsa, Akshavedamsa and Shashtiamsa. m*i rrs Qatq uifr qtrT iFFn: I qiqlfrqt ilft f,n affitrn{ ttrtt - fqc<rwlFiin' tn: q{€-q - +lFcct: t qrrkd i+at\" \"rt ,if*A: t!il it - '-- ilurft ilei ttwri q@d qt(trqtt 5.6. RASI AND HORA : The Rasi ownetl by a planet ic ' called its Kshetra (one sign). The first half of an old sign ris the Hora ruled by tbe Sun while the second half is the Hora bf the M",
+      "position": 105743
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "tl qrul *\" tie l-8. u.sE o{ THE 16 iise of these sixtecn divisions. wealth ltom Hora, happiness DIVISIONS .. I now explain the The physique from the ascendant, through coborn frorn decanate, 92 Brihat Parasarq Hora Sastid fortunes from Chaturthamsa, sons and grandsons from saptha' msa, spouse from Navamsa, power (and position) from Dasamsa, parents from Dvadasamsa, benefits and adversities through conu.yances from Shodasamsa' worship from Vimsamsa, learn' ing from Chathur Vimsamsa. strength and weakness from Bhamsa,evil, effects from Trimsamsa, auspicious and inauspicious effects from Khavedamsa, and all indications from both Aksha- vedamsa and Shashtiamsa : these are the considerations to be made through the respective Vargas or divisions' The bhava whose lord is in a malefic Shashtiamsa ",
+      "position": 140532
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "ty of a planet, can be used to delineate various Bhava gffects. Thc proper instruments are : l. Ascendant for thc wellbeing ' physiquc. or otherwise of the 2. Hora for wealth. -e. Docanate for happiness through coborn' 4. Chaturthamsa for fortunes. 5. Saptamamsa for dfnasty (i.e. progeny etc') 6. Navamsa for sPouse. 7, Dasamamsa for power and position (i.e. livelihood etc') . [. Dvadasamas for Parents. 9. Shodasarrsa for conveyances and rclatcd happiness' tO. Virnsamsa for worship, spiritual progress' religious activities ctc. I l, Chaturvimsamsa for academic achievements. 12. Bhamsa f<rr strengtb and'weaknqss.. 13. Trimsamsa for evils. lr[. Khavedamsa for auspicious and inauspicious effects' . | 5. Akchavedamsa for all general indications- 16, Shashtiamsa for all general indications' Clap",
+      "position": 141562
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "qei q iururi Et'aq qqtqgET€a1t TrI tqnlq'd fqqil qta' eqnfufqa* lllvll n* ,iqErr clcd qt asl rdtfrel t cre\"l q'drfu{ral q {dqr}qEi qiE ttlttt 2l-25. When the 16 divisions (Shodasa Varga Scheme) are considered together, the Vimsopaka score goes thus : Hora 1 Trimsamsa l, decanate l, Shodasamsa 2, Navamsa 3, Rasi 3l' ' Shashtiamsa 4, and the rest of the nine divisions each a half' The Vimsopaka strength remains as 20 (in the above computat' ions) only when the plun\"t is in own house Vargas' Otherwis.e iU.-iotuf'r,rength from 20 declines to l8 in €xtreme friend's V;;\"t, to l5 [ frien<lly Vargas, to l0 in equal's divisions' to 7 in eiemy's Vargas and to 5 in sworn enemy's Vargas' (These figures are called Varga Viswa.) qifqqr: (qfq{sg{I: liftqrfrqlfqat: t fqqqffiifiqqlrd tiqsqJ{ IrqE} t Q ttr",
+      "position": 148228
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "ava Lagna, Ghatika Lagna, Horā Lagna, Use of special ascendants, Yamada Dasha and effects or Varnada. 6. THE SIXTEEN DIVISIONS OF A SIGN 43 Names of the 16 Vargas, Rai and Horā, Decanato, Chaturthamsa, Sapthamsa, Navamsha, Dashamsa, Dvadashamsa, Shodashamsa, Vimsamsa, Siddhamsa, Bhamsa, Trimsamsa, Chatvarimsamsa, Akshavedamsa, Shashtiamsa, Varga classification, etc. 7. DIVISIONAL CONSIDERATION 62 Use of the 16 divisions, Horā, Decanate and Trimsamsa effects, Vimsopaka strength, Vimsopka proportional evaluation, other sources of strength, Dasha effects with Vimsopaka strength, names of Bhavas, indications from houses, etc. 8. ASPECTS OF THE SIGNS 74 Sign aspects, planetary aspects, aspectual diagram etc. 9. EVILS AT BIRTH 77 Short life combinat",
+      "position": 1461
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 8,
+      "context": "e 5th, the 8th and the 9th are associated with or aspected by their respective lords and are devoid of malefic aspects or associations then only good will happen to the couple after marriage. If otherwise, no wise man should have the marriage celebrated. If the Lagna and the Moon are in benefic Navamsas, good will result. If they are in the Navamsas of malefics, death may occur. NOTES If at the time of query the ascendant, the 5th, the 7th, the 8th and the 9th houses are free from the affliction of evil planets but are associated with or aspected by their respective lords or benefics, then the"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 7,
+      "context": "ouse if the rising sign at birth is Aries, Cancer, Libra, Scorpio or Aquarius. It will be in the southern part if the lagna is Simha or Makara. It is in the western part, if the Iagna be Vrishabha. It will be in the northern part if the lagna is Mithuna, Kanya, Dhanus or Mina. Note whether lagna or navamsa lagna is stronger. The place of birth will correspond to this. ~~~~~~.~ ~ ~(Ij'1«Q 'Qft{ ~ -qrif~: ~ fterftr: ri \\fllqllftS~llll~~ ~ ~ ~ ftnft 11'11: .: .lJlm{ II to II The child's birth takes place when the father is away, in another village, or in his own village, ifthe Moon does not aspec"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "very wealthy and live for a long period. If the Lagna should happen to occupy Krura Amsas in the several Shadvargas, the native will be poor, short- lived and of a wicked disposition. But if the lords of those Amsas be strong, the person concerned will be- come a king. If the lord (1) of the rising Navamsa# ^2) of the rising decanate or (3) of the (rising) Lagna Rasi be strong, the native will respectively be a person (1) endowed with happiness and comfort, (2) equal to a king, or (3) a ruler of the Earth possessing good fortune. ^ ^ lll=ill Sloka 12.—The person at whose birth malefics occu- p"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "Arudha. If such a girl is selected, the married couple will live long and happily. They will have prosperous children. Stanza 40. The time, when marriage takes place, is to be known thus: When the Moon transits the Moon's Dwadasamsa Rasi, or its 5th or the 9th or the Chandrabhilasha Rasi, or the Navamsa Rasi of the lord of the 7th. NOTES When the Prasna chart indicates marriage, we can predict that the marriage will take place when the Moon transits (a) the sign signified by his own Dwadasamsa position; (b) the 5th or 9th from it; or (c) Chandrabhilasha sign — this is explained in the next sta"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "y children will be born if Venus, Jupiter and Mercury and the lord of the 5th conjoin or aspect the 5th house. The number of children depends on the strength of the lord of the 5th. Stanza 25. The learned say that many issues will be born, if the lord of the 5th is in exaltation, occupies an odd Navamsa, is aspected by benefic planets, and the 5th house is free from affliction. Stanza 26. If the lord of the 5th, the Sun, Mars and Jupiter occupy odd signs and Navamsas, a large number of sons will be born. If the lord of the 5th is strong, the sons will be good-natured. NOTES The Sun, Jupiter an"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "of the 6th, the 8th and the 12th is not desirable. When the lord of the 5th is strong one begets a suputra or a son endowed with the best qualities of affection, obedience and sense of duty towards his parents. Stanza 27. If the lord of the 5th, the Moon and Venus join an even sign and an even Navamsa, a large number of daughters will be born. Stanza 28. If Lagna happens to be the Moon's Hora and the breath of the astrologer flows through the left nostril; if Lagna is in the Sun's Hora and the breath flows through the right side, then there will be issues. NOTES If the Lagna is in the Moon's H"
+    },
+    {
+      "book": "Hora_Sara",
+      "rule_words": 5,
+      "context": "ted by a male benefic or ascend with it. Notes: A s per sloka 1, the transit M o o n should be i n Anupachaya from natal Lagna and be in aspect to Mars, while as per this sloka the M o o n during intercourse should be i n upachaya and aspected by male benefic, Jupiter. The Sun and Venus in own Navamsas and in upachaya from Lagna/Moon in a male's chart and Moon and Mars in own Navamsa and in upachaya from Lagna for a female can lead to conception. Should sexual xmion take place when the Sun, the Moon, Venus and Jupiter are in own Rasi or Navamsas, it leads to the birth of a son. Similar result "
+    },
+    {
+      "book": "Hora_Sara",
+      "rule_words": 5,
+      "context": "he Lagna and the Moon at time of a query, and the related Dwadasamsa. When the Moon (the month being appropriate for delivery) transists such a sign as indicated by the number of dwadasamsas counted from that particular Dwadasamsa position, delivery will take place. (2) Alternatively, note the Navamsa occupied by the Moon at the time of query. Should the Moon in transit reach the 7th house thereof, delivery may take place. (3) Delivery may also take place when she transits the house of such Navamsa lord. (4) Ascertain the fraction of the Prasna Lagna with reference to its total dura- tion and "
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 5,
+      "context": "ction of evil planets but are associated with or aspected by their respective lords or benefics, then the married couple will be happy after the marriage. If none of these are so situated, marriage will bring only evil. Hence it should not be recommended. If the ascendant and the Moon occupy the Navamsas of benefics, good will be the result. If they, however, occupy evil Navamsas, evil alone will happen. The ascendant in Chart 1 has Mars and Saturn who also aspect the 7th. Mars and Jupiter aspect the 8th. The 5th is not aspected by any planet while the 9th is associated with Mercury and Venus."
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 5,
+      "context": "d of the 7th. NOTES When the Prasna chart indicates marriage, we can predict that the marriage will take place when the Moon transits (a) the sign signified by his own Dwadasamsa position; (b) the 5th or 9th from it; or (c) Chandrabhilasha sign — this is explained in the next stanza — or the (d) Navamsa Rasi of the lord of the 7th. For example let us assume that the Lagna is Sagittarius, and the Moon is 21° Taurus and Mercury is 15° Gemini which means the Moon occupies Capricorn Dwadasamsa. Lord of the 7th Mercury is in Aquarius Navamsa. If the Prasna chart shows marriage, then it can take pla"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 5,
+      "context": "tanza 33. Many methods are employed to determine the question of the birth of children. T shall give below a method I got from my preceptor. Stanza 34. The longitudes of the ascendant and Yamakantaka, correctly worked out, should be added together. The relative strengths of the resulting Rasi and Navamsa should be noted and the stronger of the two should be considered for answering the query regarding children. NOTES Example 1: Weekday — Saturday. Sunrise — 6.15 a.m. (Yamakantaka rises at 18 ghatis after sunrise on Saturdays). 18 ghatis = 18 x 24 mins. - 432 minutes = 7h 12m after sunrise Sunr"
+    },
+    {
+      "book": "Jaimini_Sutras",
+      "rule_words": 5,
+      "context": "त्र चतुष्पादः ॥ Su. 3.—Tathrachatushpadahs. If Atmakaraka is in Taurus Navamsa, there will be fear from quadrupeds. NOTES Ta means 6 and R+ means 2 or 62 reversed we get 26, divided by 12 we get 2 remainder which means the 2nd ====== PAGE 58 ====== JAIMINISUTRAS 4h house from Mesha or Vrishabha Navamsa. If Atmakaraka occupies Vrishabha Navamsa the person will have gains and happiness from quadrupeds like cattle, horses, elephants, ete. Some commentators say he will have troubles and worries through them. I think, when Atmakaraka is weak or has evil 2306619 or associations troubles should be pr"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 4,
+      "context": "de according to the proportion of the padas of a nakshatra. The number of Aswini etc. whichever may be the past nakshatras should be divided by 3. Thereafter the remainder should be multiplied by 4. To the figure so made available the pada of the present nakshatra be ad,Jed. The product will be the Navamsa from Aries onwards. Example : T:c birth is in the 4th pada of Mrigasira. The number of pilt r:akshatras from Aswini to Rohini will bc 4. Divide it by 3. The remainder will be l. Muitiply I by 4. The product will be 4. To this add 4 (4th pada of Mrigasira)- The Sun will indicate the Navamsa o"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 4,
+      "context": "mamsa for power and position (i.e. livelihood etc.) 8. Dvadashamsa for parents. 9. Shodashamsa for conveyances and related happiness. 10. Vimsamsa for worship, spiritual progress, religious activities etc. 11. Chaturvimsamsa for academic achievements. 12, Bhamsa for strength and weakness. 13. Trimsamsa for evils. 14. Khavedamsa for auspicious and inauspicious effects. 15. Akshavedamsa for all general indications. 16. Shashtiamsa for all general indications. When for example, considering the academic achievements of a native take the 2nd and 4th lords. If these occupy favourable Chaturvimsamsa,"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 4,
+      "context": "possess children, will be widely re- nowned and enjoy all comforts in a royal style. Sloka 76. —Note the Rasi occupied by Mandi at a birth and note also where the lord of that Rasi is posit- ed. The Lagna at birth will be a position triangular to that of the aforesaid lord or one triangular to the Navamsa occupied by the owner of the sign represent- ing the Navamsa occupied by Mandi. It may be triangular to the Navamsa Rasi occupied by Gulil^a. When the Moon is strong, the Lagna should be de- 32 Adh. Ill duced similarly through the Moon alone instead of through Mandi. ^iT^nfsrirsn^riT^vrTSinnr"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 100,
+      "unit": "years",
+      "context": "u) are as under : For the Amsa in Aries 100 Years For the Asma in Taurus 85 years For the"
+    },
+    {
+      "type": "period",
+      "value": 85,
+      "unit": "years",
+      "context": " Aries 100 Years For the Asma in Taurus 85 years For the Amsa in Gernini 83 years For th"
+    },
+    {
+      "type": "period",
+      "value": 83,
+      "unit": "years",
+      "context": "Taurus 85 years For the Amsa in Gernini 83 years For the Amsa in Cancer 86 years. The nu"
+    },
+    {
+      "type": "period",
+      "value": 86,
+      "unit": "years",
+      "context": "Gernini 83 years For the Amsa in Cancer 86 years. The number of years will be the same f"
+    },
+    {
+      "type": "period",
+      "value": 37,
+      "unit": "years",
+      "context": "cate the expired portion of the Dasa as 37 years, 4 months and 6 days. By deducting the "
+    },
+    {
+      "type": "period",
+      "value": 4,
+      "unit": "months",
+      "context": "xpired portion of the Dasa as 37 years, 4 months and 6 days. By deducting the years of D"
+    },
+    {
+      "type": "period",
+      "value": 6,
+      "unit": "days",
+      "context": "n of the Dasa as 37 years, 4 months and 6 days. By deducting the years of Dehamsa comm"
+    },
+    {
+      "type": "period",
+      "value": 0,
+      "unit": "0year",
+      "context": ", Aquarius (16-+7+10*4:37), we will get 0yeare,4 months and 6 days. This will be the "
+    },
+    {
+      "type": "period",
+      "value": 4,
+      "unit": "months",
+      "context": "ius (16-+7+10*4:37), we will get 0yeare,4 months and 6 days. This will be the exp"
+    },
+    {
+      "type": "period",
+      "value": 6,
+      "unit": "days",
+      "context": "*4:37), we will get 0yeare,4 months and 6 days. This will be the exp"
+    },
+    {
+      "type": "period",
+      "value": 2,
+      "unit": "years",
+      "context": " Dasa in Chapter 46, )re was balance of 2 years and 3 months of the Dasa of Taurus t"
+    },
+    {
+      "type": "period",
+      "value": 3,
+      "unit": "months",
+      "context": "pter 46, )re was balance of 2 years and 3 months of the Dasa of Taurus t"
+    },
+    {
+      "type": "period",
+      "value": 2,
+      "unit": "years",
+      "context": " Dasa in Chapter 46, )re was balance of 2 years and 3 months of the Dasa of Taurus the "
+    },
+    {
+      "type": "period",
+      "value": 3,
+      "unit": "months",
+      "context": "pter 46, )re was balance of 2 years and 3 months of the Dasa of Taurus the birth. The lo"
+    },
+    {
+      "type": "period",
+      "value": 2,
+      "unit": "years",
+      "context": " Dasa in Chapter 46, )re was balance of 2 years and 3 months of the Dasa of Taurus the "
+    },
+    {
+      "type": "period",
+      "value": 3,
+      "unit": "months",
+      "context": "pter 46, )re was balance of 2 years and 3 months of the Dasa of Taurus the birth. The lo"
+    },
+    {
+      "type": "degrees",
+      "value": 3.0,
+      "context": " an even sign, the 10 Dashamsas each of 3° are reckoned. These are presided over b"
+    },
+    {
+      "type": "degrees",
+      "value": 3.0,
+      "context": "e case of an odd sign, the Dashamamsas (3° each) are successively counte"
+    },
+    {
+      "type": "degrees",
+      "value": 2.0,
+      "context": "Dvadashamsa, Notes: Each Dvadashamsa is 2° 30' and the 12 divisions fall successiv"
+    },
+    {
+      "type": "degrees",
+      "value": 1.0,
+      "context": "odashamsas (16th part of a sign i.e. of 1°52' 30\") are regularly distributed. The "
+    },
+    {
+      "type": "degrees",
+      "value": 1.0,
+      "context": " into 16 equal parts of Shodashamsas of 1° 52' 30\". The 16 divisions for a"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": "Each of them in order rules 5,5,8,7 and 5 degrees. The deities ruling over the Trimsamsas"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": ",9 and 11 Signs 2,4,6,8,10 and 12 First 5° Aries First 5"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": "Each of them in order rules 5,5,8,7 and 5 degrees. The deities ruling over the Trimsamsas"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": ",9 and 11 Signs 2,4,6,8,10 and 12 First 5° Aries First 5° Taurus Next 5° Aquarius "
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": " 2,4,6,8,10 and 12 First 5° Aries First 5° Taurus Next 5° Aquarius Next 7° Virgo N"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": " 12 First 5° Aries First 5° Taurus Next 5° Aquarius Next 7° Virgo Next 8° Sagittar"
+    },
+    {
+      "type": "degrees",
+      "value": 7.0,
+      "context": "s First 5° Taurus Next 5° Aquarius Next 7° Virgo Next 8° Sagittariu s Next 8° Pisc"
+    },
+    {
+      "type": "degrees",
+      "value": 8.0,
+      "context": "rus Next 5° Aquarius Next 7° Virgo Next 8° Sagittariu s Next 8° Pisces Next 7° Gem"
+    },
+    {
+      "type": "degrees",
+      "value": 8.0,
+      "context": "Next 7° Virgo Next 8° Sagittariu s Next 8° Pisces Next 7° Gemini Next 5° Capricorn"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/charts.py",
+    "function": "divisional_chart"
+  }
+}

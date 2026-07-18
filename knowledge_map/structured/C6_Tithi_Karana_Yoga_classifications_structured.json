@@ -1,0 +1,24 @@
+{
+  "item_code": "C6",
+  "item_name": "Tithi/Karana/Yoga classifications",
+  "books_covering": [
+    "Brihat_Parashara_v2",
+    "Prashna_Marga",
+    "Yavanajataka_2"
+  ],
+  "total_passages": 7,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [],
+  "constants_extracted": [
+    {
+      "type": "degrees",
+      "value": 12.0,
+      "context": "incts Maudhya Chandra: Moon within 12° of the Sun Moveable signs: Aries, Cance"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/yoga.py",
+    "function": "all_yoga_details"
+  }
+}

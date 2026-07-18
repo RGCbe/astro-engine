@@ -1,0 +1,738 @@
+{
+  "book_key": "Pancha_Siddhantika",
+  "filename": "Pancha-siddhantika.pdf",
+  "total_pages": 419,
+  "total_words": 5616,
+  "total_chars": 38287,
+  "is_scanned": true,
+  "top_100_words": [
+    {
+      "word": "aka",
+      "count": 69
+    },
+    {
+      "word": "samvat",
+      "count": 35
+    },
+    {
+      "word": "year",
+      "count": 31
+    },
+    {
+      "word": "king",
+      "count": 27
+    },
+    {
+      "word": "vam",
+      "count": 27
+    },
+    {
+      "word": "started",
+      "count": 24
+    },
+    {
+      "word": "start",
+      "count": 24
+    },
+    {
+      "word": "after",
+      "count": 23
+    },
+    {
+      "word": "time",
+      "count": 20
+    },
+    {
+      "word": "years",
+      "count": 20
+    },
+    {
+      "word": "called",
+      "count": 20
+    },
+    {
+      "word": "ukla",
+      "count": 19
+    },
+    {
+      "word": "sun",
+      "count": 18
+    },
+    {
+      "word": "vikrama",
+      "count": 18
+    },
+    {
+      "word": "earth",
+      "count": 17
+    },
+    {
+      "word": "only",
+      "count": 16
+    },
+    {
+      "word": "vikram",
+      "count": 16
+    },
+    {
+      "word": "ditya",
+      "count": 16
+    },
+    {
+      "word": "moon",
+      "count": 15
+    },
+    {
+      "word": "var",
+      "count": 13
+    },
+    {
+      "word": "hamihira",
+      "count": 13
+    },
+    {
+      "word": "har",
+      "count": 13
+    },
+    {
+      "word": "history",
+      "count": 13
+    },
+    {
+      "word": "date",
+      "count": 12
+    },
+    {
+      "word": "caesar",
+      "count": 12
+    },
+    {
+      "word": "new",
+      "count": 12
+    },
+    {
+      "word": "yudhi",
+      "count": 11
+    },
+    {
+      "word": "hira",
+      "count": 11
+    },
+    {
+      "word": "kings",
+      "count": 11
+    },
+    {
+      "word": "samvatsara",
+      "count": 10
+    },
+    {
+      "word": "calendar",
+      "count": 10
+    },
+    {
+      "word": "hana",
+      "count": 10
+    },
+    {
+      "word": "starting",
+      "count": 10
+    },
+    {
+      "word": "thus",
+      "count": 10
+    },
+    {
+      "word": "per",
+      "count": 9
+    },
+    {
+      "word": "whose",
+      "count": 9
+    },
+    {
+      "word": "nepal",
+      "count": 9
+    },
+    {
+      "word": "system",
+      "count": 9
+    },
+    {
+      "word": "rule",
+      "count": 9
+    },
+    {
+      "word": "indian",
+      "count": 9
+    },
+    {
+      "word": "motion",
+      "count": 9
+    },
+    {
+      "word": "day",
+      "count": 9
+    },
+    {
+      "word": "liv",
+      "count": 8
+    },
+    {
+      "word": "kali",
+      "count": 8
+    },
+    {
+      "word": "ujjain",
+      "count": 8
+    },
+    {
+      "word": "ini",
+      "count": 8
+    },
+    {
+      "word": "chaitra",
+      "count": 8
+    },
+    {
+      "word": "india",
+      "count": 8
+    },
+    {
+      "word": "famous",
+      "count": 8
+    },
+    {
+      "word": "inscriptions",
+      "count": 8
+    },
+    {
+      "word": "period",
+      "count": 7
+    },
+    {
+      "word": "era",
+      "count": 7
+    },
+    {
+      "word": "siddh",
+      "count": 7
+    },
+    {
+      "word": "rya",
+      "count": 7
+    },
+    {
+      "word": "days",
+      "count": 7
+    },
+    {
+      "word": "sunrise",
+      "count": 7
+    },
+    {
+      "word": "month",
+      "count": 7
+    },
+    {
+      "word": "pur",
+      "count": 6
+    },
+    {
+      "word": "though",
+      "count": 6
+    },
+    {
+      "word": "creation",
+      "count": 6
+    },
+    {
+      "word": "now",
+      "count": 6
+    },
+    {
+      "word": "same",
+      "count": 6
+    },
+    {
+      "word": "other",
+      "count": 6
+    },
+    {
+      "word": "seasons",
+      "count": 6
+    },
+    {
+      "word": "solar",
+      "count": 6
+    },
+    {
+      "word": "times",
+      "count": 6
+    },
+    {
+      "word": "given",
+      "count": 6
+    },
+    {
+      "word": "indicated",
+      "count": 6
+    },
+    {
+      "word": "under",
+      "count": 6
+    },
+    {
+      "word": "half",
+      "count": 6
+    },
+    {
+      "word": "soma",
+      "count": 6
+    },
+    {
+      "word": "him",
+      "count": 6
+    },
+    {
+      "word": "brahmagupta",
+      "count": 6
+    },
+    {
+      "word": "most",
+      "count": 6
+    },
+    {
+      "word": "uvarman",
+      "count": 6
+    },
+    {
+      "word": "kir",
+      "count": 6
+    },
+    {
+      "word": "war",
+      "count": 6
+    },
+    {
+      "word": "http",
+      "count": 6
+    },
+    {
+      "word": "superiority",
+      "count": 6
+    },
+    {
+      "word": "roman",
+      "count": 6
+    },
+    {
+      "word": "country",
+      "count": 6
+    },
+    {
+      "word": "reasons",
+      "count": 5
+    },
+    {
+      "word": "falsification",
+      "count": 5
+    },
+    {
+      "word": "considered",
+      "count": 5
+    },
+    {
+      "word": "tribe",
+      "count": 5
+    },
+    {
+      "word": "ruled",
+      "count": 5
+    },
+    {
+      "word": "following",
+      "count": 5
+    },
+    {
+      "word": "reference",
+      "count": 5
+    },
+    {
+      "word": "used",
+      "count": 5
+    },
+    {
+      "word": "aharga",
+      "count": 5
+    },
+    {
+      "word": "calculation",
+      "count": 5
+    },
+    {
+      "word": "lid",
+      "count": 5
+    },
+    {
+      "word": "assumed",
+      "count": 5
+    },
+    {
+      "word": "march",
+      "count": 5
+    },
+    {
+      "word": "missing",
+      "count": 5
+    },
+    {
+      "word": "racial",
+      "count": 5
+    },
+    {
+      "word": "declared",
+      "count": 5
+    },
+    {
+      "word": "www",
+      "count": 5
+    },
+    {
+      "word": "rome",
+      "count": 5
+    },
+    {
+      "word": "etc",
+      "count": 4
+    }
+  ],
+  "calculations": [
+    {
+      "type": "time_period",
+      "value": "1200 years",
+      "context": "AD long after period of Kaniṣka whose period is shifted by 1200 years to make it  tally  with this era. (c) Śālivāhana is not the"
+    },
+    {
+      "type": "time_period",
+      "value": "5 days",
+      "context": "Śaka started on day of his coronation 17-12-3139 BC. After 5 days, Bhīṣma expired at start of north  motion of sun on 22 Dece"
+    },
+    {
+      "type": "time_period",
+      "value": "36 years",
+      "context": "ma expired at start of north  motion of sun on 22 December. 36 years after that, Kali started on 17-2-3102 BC when Kṛṣṇa left wo"
+    },
+    {
+      "type": "time_period",
+      "value": "100 year",
+      "context": "years, Yudhiṣṭhira expired when Saptarṣis left Maghā after 100 year stay in that. Kota Venkatachalam  takes that as start of Yu"
+    },
+    {
+      "type": "time_period",
+      "value": "427 year",
+      "context": "hat as the different is not  understood. Chaitra śukla 1 of 427 year on 4-3-371 AD at 2-13-54. Sunrise on 3 March Thursday  at 6"
+    },
+    {
+      "type": "time_period",
+      "value": "100 years",
+      "context": "s called Jaina-Yudhiṣṭhira-śaka of 2634 BC. That was era of 100 years without  rain (in Sarasvatī river region) when Chapahāni ki"
+    },
+    {
+      "type": "time_period",
+      "value": "200 years",
+      "context": "hīra-vamśa vamśa vamśa vamśa-Three kings of India ruled for 200 years   Kirāta Kirāta Kirāta Kirāta-vamśa vamśa vamśa vamśa-(12)"
+    },
+    {
+      "type": "time_period",
+      "value": "300 years",
+      "context": "and famous epic Kirātārjunīyam of Daņɖī.  7 kings ruled for 300 years (3437-3138 BC),  Soma Soma Soma Soma-vamśa vamśa vamśa vamś"
+    },
+    {
+      "type": "time_period",
+      "value": "464 years",
+      "context": "of Buddha and Mahāvīra in Bihar). These 9 kings ruled for  464 years (2319-1875 BC) , (52) Bhāskaravarman-He conquered India (so"
+    },
+    {
+      "type": "time_period",
+      "value": "12 years",
+      "context": "tified Jesus to be  a great man, Jesus studied in India for 12 years  termed as missing period, defeat and capture of Julius Cae"
+    },
+    {
+      "type": "time_period",
+      "value": "7 days",
+      "context": "nfluenced start of  Julian calendar in 46 BC after delay of 7 days. He intended to start year from winter solstice, but people"
+    },
+    {
+      "type": "time_period",
+      "value": "7 \ndays",
+      "context": "nded to start year from winter solstice, but people started 7  days later with new moon. It is assumed that 7 days after winter"
+    },
+    {
+      "type": "time_period",
+      "value": "45 days",
+      "context": "ldwide rule, it needs a powerful logic (shift of seasons by 45 days after start of kali) and a powerful king Vik- ramāditya who"
+    },
+    {
+      "type": "time_period",
+      "value": "36 \nyears",
+      "context": "d Bhīṣma Pitāmaha departed on that very day in year 3139 BC-36  years before death of Śrī Kṛṣṇa. Now that day is called Christmas"
+    },
+    {
+      "type": "time_period",
+      "value": "10 years",
+      "context": "ing with new moon. Strong following of Vikrama samvat, just 10 years after its inception in Rome against  wishes of Caesar shows"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "17/18",
+      "context": "Kerala, starting in 6,177 BC.  (c) Kali Samvat starting on 17/18-2-3102 BC (without counting 0 AD), Ujjain mid-night.  (d) V"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/7",
+      "context": "rther divided into 6  ahargaņa spacing ( Śatapatha Brāhmaņa.1/7/2/21,11/2/2/5) Here, ahargaņa is count of  zones of sun fie"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "2/21",
+      "context": "r divided into 6  ahargaņa spacing ( Śatapatha Brāhmaņa.1/7/2/21,11/2/2/5) Here, ahargaņa is count of  zones of sun field. O"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "11/2",
+      "context": "ided into 6  ahargaņa spacing ( Śatapatha Brāhmaņa.1/7/2/21,11/2/2/5) Here, ahargaņa is count of  zones of sun field. On  ea"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "2/5",
+      "context": "into 6  ahargaņa spacing ( Śatapatha Brāhmaņa.1/7/2/21,11/2/2/5) Here, ahargaņa is count of  zones of sun field. On  earth"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "10/189",
+      "context": "Outside earth,  zone of sun extends up to 30 dhāmas (Ŗk ved 10/189/3, Sāmveda 632, 1398, Atharva 6/31/3 Yajurveda 3/8). Par- a"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6/31",
+      "context": "p to 30 dhāmas (Ŗk ved 10/189/3, Sāmveda 632, 1398, Atharva 6/31/3 Yajurveda 3/8). Par- allel to 6 vaşaţkāra in space, there"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "3/8",
+      "context": "k ved 10/189/3, Sāmveda 632, 1398, Atharva 6/31/3 Yajurveda 3/8). Par- allel to 6 vaşaţkāra in space, there are 6 seasons o"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/373",
+      "context": "rb ‘tsara’= to move hidingly or in curve-Pāņini dhātupāţha (1/373).It has three  meanings-earth motion in its orbit is consta"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "9/50",
+      "context": "ed of ‘kuśa’(straw) whose derivations are- (i) kuśa (Pāņini 9/50)= to extract, test or  conclude  (ii) Kuś or Kus (Pāņini 4/"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "4/108",
+      "context": "50)= to extract, test or  conclude  (ii) Kuś or Kus (Pāņini 4/108) = to join, bind.  (iii) Ku (earth) + śubh (Pāņini 6/33)= s"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6/33",
+      "context": "ni 4/108) = to join, bind.  (iii) Ku (earth) + śubh (Pāņini 6/33)= spread on earth or its beauty.  (iv) Kŗśa (Pāņini 4/117)"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "4/117",
+      "context": "ni 6/33)= spread on earth or its beauty.  (iv) Kŗśa (Pāņini 4/117) = to be thin or fine  Śaka  has 3 root verbs-  (i)Śaka (Pā"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "4/76",
+      "context": "o be thin or fine  Śaka  has 3 root verbs-  (i)Śaka (Pāņini 4/76) = to withstand, tolerate.  (ii) Śaklŗ (Pāņini 5/16) = to h"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "5/16",
+      "context": "(Pāņini 4/76) = to withstand, tolerate.  (ii) Śaklŗ (Pāņini 5/16) = to have power, able  (iii) Śach (Pāņini 1/723) = to comb"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/723",
+      "context": "klŗ (Pāņini 5/16) = to have power, able  (iii) Śach (Pāņini 1/723) = to combine.  Thus a kuśa (straw) is a thin line shaped o"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "13/3",
+      "context": "andson of Vikramāditya.  He has indicated in Bṛhat-samhitā (13/3) that he was using a śaka of 612  BC (Yudhiṣṭhira śaka 2526"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "१३/३",
+      "context": "िनपुणे वराहिमिहरो िवᮧो रवेराशीिभः॥  वराहिमिहर-बृहत् संिहता (१३/३)-  आसन् मघासु मुनयः शासित पृ᭝वᱭ युिधि᳧रे नृपतौ। षड्-ि᳇क-पᲱ-"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "३/१",
+      "context": "calculation in  Pañcha-siddhāntikā  वराहिमिहर-बृहत् संिहता (३/१-२)-आ᳣ेषा᳍ाᭅ᳎िᭃणमुᱫरमयनं रवेधᭅिन᳧ा᳒म्।   नूनं कदािचदािस᳒ेनोᲦ"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "१/२",
+      "context": "only his father-for criticism.   ᮩाᳬ᭭फुटिस᳍ा᭠त, म᭟यमािधकार (१/२)-  ᮩᳬोᲦं ᮕहगिणतम् महताकालेन यत् िखलीभूतम्। अिभधीयते ᭭फुटं त"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "२४/७",
+      "context": "His time is indicated at end of his book-  ᮩाᳬ᭭फुटिस᳍ा᭠त (२४/७-८)-᮰ीचापवंशितलके ᮰ी᳞ाᮖमुखे नृपे शकनृपाणाम्। पᲱाशत् संयुᲦैवᭅ"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "१/६",
+      "context": "ous as  belonging to Śākambharī.   भिव᭬य पुराण, ᮧितसगᭅ पवᭅ (१/६)-  एति᭭म᳖ेवकाले तु का᭠यकु᭣जो ि᳇जोᱫमः। अबुᭅदं िशखरं ᮧा᭡य ᮩᳬह"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "१/७",
+      "context": "स पिरहारकः॥४७॥ अव᭠ते ᮧमरो भूप᳟तुयᲃजन िव᭭तृता।।४९॥  ᮧितसगᭅ (१/७)-िचᮢकूटिगिरदᱷशे पिरहारो महीपितः। कािलजर पुरं र᭥यमᮓोशायतनं ᭭"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "४/२१",
+      "context": "ᭅम᭛डले। ᳇ारकां नाम नगरीम᭟या᭭य सुिखनोऽभवत्॥४॥   िव᭬णु पुराण (४/२१)-अतः परं भिव᭬यानहं भूपाला᭠कीतᭅिय᭬यािम॥१॥ योऽयं सा᭥ᮧतमवनीपित"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "११/४६",
+      "context": "ो ग᭑गयापᱡते हि᭭तनापुरे कौशा᭥᭣यां िनव᭜᭭यित॥८॥   दुगाᭅ-स᳙शती (११/४६-४९)-भूय᳟ शतवािष᭍यामनावृ᭬Ჷामन᭥भिस। मुिनिभः सं᭭तुता भूमौ स᭥भि"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "५/२",
+      "context": "यािम दुगᭅमा᭎यं महासुरम्॥४९॥   िजनिवजय महाका᳞ (सं᭭कृत चि᭠ᮤका ५/२)-ऋिषवारः तथा पूणᲈ म᭜याᭅᭃौ वाममेलनात् (२०७७),  एकीकृ᭜य लभेता"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "Appendix 7 added at end by A.K Upadhyay   Appendix 7 added at end by A"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "ly Śaka- there are śakas in name of Yudhiṣṭhira starting on 17-12- 3139 BC, Śūdraka in 756 BC, Śrī Harşa śaka in 456 BC, K"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "Śaka- there are śakas in name of Yudhiṣṭhira starting on 17-12- 3139 BC, Śūdraka in 756 BC, Śrī Harşa śaka in 456 BC, Kalc"
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "rala, starting in 6,177 BC.  (c) Kali Samvat starting on 17/18-2-3102 BC (without counting 0 AD), Ujjain mid-night.  (d) V"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "(Vikramāditya of Paramāra-Agni  dynasty of Ujjain, 82 BC to 19 AD)- Samvat starting in 57 BC.       It is surprising that"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "olar system, galaxy)  1              26 times earth         9 (sphere enclosing moon orbit)   2              212 times ea"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "212 times earth       15 (sphere extending up to 60% of venus orbit)   3              218 times earth      21sp"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "218 times earth      21sphere around sun, radius of 1000 sun diameter)    4              224 times earth      27 (ma"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "f 1000 sun diameter)    4              224 times earth      27 (maitreya or sāvitrī maṇḍala, 1 lakh sun diameter)   5"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "Energy (prāṇa) of these 33 ahargaṇa zones- 3 in earth and 30 outside- are 33 devatā. In Indian scripts their signs  are"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": ")= to extract, test or  conclude  (ii) Kuś or Kus (Pāņini 4/108) = to join, bind.  (iii) Ku (earth) + śubh (Pāņini 6/33)= s"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": "āņini 4/76) = to withstand, tolerate.  (ii) Śaklŗ (Pāņini 5/16) = to have power, able  (iii) Śach (Pāņini 1/723) = to comb"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "vantikā, then under Vikramāditya-  वराहिमिहर-बृहᲯातक, अ᭟याय २८-उपसंहार-  आिद᭜यदास तनय᭭तदवा᳙ बोधः कािप᭜थके सिवतृल᭣धवरᮧसादः।"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "दशᭃᭅ सिहते (तु) । यिद च(ᮓं) ᳞ितपातो वेला मृ᭏या (युतैः भोगैः॥२०॥  आ᳣ेषाधाᭅदासी᳒दा िनवृिᱫः िकलो᭬णिकरण᭭य। युᲦमयनं तदाऽऽसीत् स"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "ma expired at start of north  motion of sun on 22 December. 36 years after that, Kali started on 17-2-3102 BC when Kṛṣṇa l"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "थानं नो तथा ᭃेᮢम्। नािप रिवᮕहᱡदयं िज᭬णुसुतो गिणतगोलबा᳭ोऽयम्॥४०॥  उदया᭭तमयभानोिर᳥े काले ᮕह᭭य दृᲥमᭅ। कृतवान् िज᭬णुसुतो य᭭᭜वौ"
+    },
+    {
+      "type": "significant_number",
+      "value": 360,
+      "context": "ail.     (8) William Jones changed date of Āryabhaṭīya from 360 Kali to 3600 Kali which was obeyed by Sudhakara   Dwivedi t"
+    }
+  ],
+  "connections": {
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Makara",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga calculation in  Pañcha-siddhāntikā  वराहिमिहर-बृहत् संिहता (३/१-२)-आ᳣ेषा᳍ाᭅ᳎िᭃणमुᱫरमयनं रवेधᭅिन᳧ा᳒म्।   नूनं कदािचदािस᳒ेनोᲦं पूवᭅशाᳫेषु॥१॥  सा᭥ᮧतमयनं सिवतुः ककᭅटका᳒ं मृगािदत᳟ा᭠यत्। उᲦाभावो िवकृितः ᮧ᭜"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga-when declination of sun and moon are  same but in opposite directions (north-south). Adding 10 nakṣatras (133020’), it is Vyatīpāta yoga, when sun-moon  have same declination, but on opposite ends of"
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Punarvasu",
+        "count": 1
+      }
+    ]
+  },
+  "chapters_found": [],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 58,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 1,
+    "yoga_mentions": 2,
+    "nakshatra_mentions": 1,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  }
+}

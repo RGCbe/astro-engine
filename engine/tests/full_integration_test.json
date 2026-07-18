@@ -1,0 +1,140 @@
+{
+  "lagnam": "Makaram",
+  "current_dasha": "Moon",
+  "current_antardasha": "Mercury",
+  "current_antardasha_end": "2026-10-21",
+  "current_yogini_dasha": "Bhadrika",
+  "shadbala_summary": {
+    "strongest": [
+      "Saturn",
+      "Mercury",
+      "Jupiter"
+    ],
+    "weakest": [
+      "Moon",
+      "Mars",
+      "Venus"
+    ],
+    "below_threshold": [
+      "Moon",
+      "Mars",
+      "Mercury",
+      "Jupiter",
+      "Venus"
+    ],
+    "above_threshold": [
+      "Sun",
+      "Saturn"
+    ],
+    "scores_rupas": {
+      "Sun": 5.28,
+      "Moon": 5.21,
+      "Mars": 4.76,
+      "Mercury": 6.14,
+      "Jupiter": 5.59,
+      "Venus": 4.51,
+      "Saturn": 6.18
+    }
+  },
+  "shadbala_planets": {
+    "Sun": {
+      "total_rupas": 5.28,
+      "is_strong": true,
+      "sthana_state": "enemy's sign",
+      "dig_bala_house": 10
+    },
+    "Moon": {
+      "total_rupas": 5.21,
+      "is_strong": false,
+      "sthana_state": "neutral",
+      "dig_bala_house": 4
+    },
+    "Mars": {
+      "total_rupas": 4.76,
+      "is_strong": false,
+      "sthana_state": "own sign",
+      "dig_bala_house": 10
+    },
+    "Mercury": {
+      "total_rupas": 6.14,
+      "is_strong": false,
+      "sthana_state": "neutral",
+      "dig_bala_house": 1
+    },
+    "Jupiter": {
+      "total_rupas": 5.59,
+      "is_strong": false,
+      "sthana_state": "enemy's sign",
+      "dig_bala_house": 1
+    },
+    "Venus": {
+      "total_rupas": 4.51,
+      "is_strong": false,
+      "sthana_state": "neutral",
+      "dig_bala_house": 4
+    },
+    "Saturn": {
+      "total_rupas": 6.18,
+      "is_strong": true,
+      "sthana_state": "exaltation",
+      "dig_bala_house": 7
+    }
+  },
+  "gochar": {
+    "computed_at": "2026-04-27",
+    "transit_planets": [
+      {
+        "planet": "Saturn",
+        "transit_sign": "Meenam",
+        "transit_longitude": 344.5,
+        "house_from_moon": 1,
+        "house_from_lagna": 3,
+        "gochar_title": "Sade Sati Peak",
+        "gochar_valence": "BAD",
+        "gochar_meaning": "Health stress, mental burden, financial obstacles. Most intense phase of Sade Sati.",
+        "tight_natal_aspects": []
+      },
+      {
+        "planet": "Jupiter",
+        "transit_sign": "Mithunam",
+        "transit_longitude": 84.18,
+        "house_from_moon": 4,
+        "house_from_lagna": 6,
+        "gochar_title": "4th house",
+        "gochar_valence": "GOOD",
+        "gochar_meaning": "Home happiness, property gains, mother's wellbeing.",
+        "tight_natal_aspects": []
+      },
+      {
+        "planet": "Mars",
+        "transit_sign": "Meenam",
+        "transit_longitude": 349.29,
+        "house_from_moon": 1,
+        "house_from_lagna": 3,
+        "gochar_title": "Lagna Mars",
+        "gochar_valence": "BAD",
+        "gochar_meaning": "Aggression, accidents, fever risk. Be cautious with fire/sharp objects.",
+        "tight_natal_aspects": []
+      },
+      {
+        "planet": "Rahu",
+        "transit_sign": "Kumbam",
+        "transit_longitude": 311.79,
+        "house_from_moon": 12,
+        "house_from_lagna": 2,
+        "gochar_title": "12th house Rahu",
+        "gochar_valence": "BAD",
+        "gochar_meaning": "Hidden losses, foreign travels, spiritual confusion.",
+        "tight_natal_aspects": [
+          {
+            "planet": "Sun",
+            "orb": 0.16,
+            "type": "conjunction"
+          }
+        ]
+      }
+    ]
+  },
+  "yoga_count": 7,
+  "total_dasha_periods": 7
+}

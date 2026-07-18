@@ -1,0 +1,51 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 20 – Complete Timeline Storytelling & Life
+Journey Manual
+Purpose
+This manual defines how AstroReport OS transforms astrological evidence into a continuous life
+story that reads like a biography. Every chapter should connect naturally from birth through later
+life.
+Stage
+Story Function
+Output
+Birth
+Introduce identity
+Foundation chapter
+Childhood
+Build character
+Early life narrative
+Education
+Develop abilities
+Learning journey
+Career
+Purpose in action
+Professional story
+Relationships
+Human connections
+Emotional growth
+Midlife
+Responsibility
+Leadership & maturity
+Later Life
+Reflection
+Wisdom chapter
+Legacy
+Life review
+Closing narrative
+Final Summary
+Whole-life synthesis
+Complete biography
+Storytelling Rules
+Write each chapter as a continuation of the previous one. Explain what changes, why it changes,
+how the person experiences it, what they learn, and how it prepares them for the next phase of life.
+Reader Experience
+The report should feel like someone is telling the reader the story of their own life. Use simple
+language first, then explain the astrological reasoning in a separate section if required.
+Developer Specification
+Each chapter stores timeline range, dominant themes, active evidence, emotional tone, narrative
+template, transition text, key lessons, guidance and validation checks.
+Quality Checklist
+Verify chronological continuity, consistent character development, age-appropriate explanations, no
+repeated paragraphs, complete timeline coverage and smooth transitions.
+Next Volume
+Volume 21 – Complete Narrative Writing Guide & Natural Language Generation Manual.

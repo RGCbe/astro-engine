@@ -1,0 +1,48 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 49 – Complete Rashi Knowledge Base
+Purpose
+This manual defines how the Rashi database is populated with complete interpretation records.
+Each of the twelve Rashis becomes a reusable knowledge source for reasoning, timeline
+generation and report composition.
+Knowledge Set
+Coverage
+Target Records
+Rashi Profiles
+12 master records
+12+
+Planet in Rashi
+9 × 12 combinations
+108+
+Element Psychology
+Fire/Earth/Air/Water
+500+
+Modality Patterns
+Cardinal/Fixed/Mutable
+300+
+Career Themes
+Professional trends
+1000+
+Relationships
+Family & marriage
+1000+
+Timeline Behaviour
+Life-stage patterns
+1000+
+Narrative Blocks
+Reusable paragraphs
+5000+
+Evidence Objects
+Validation rules
+Unlimited
+Knowledge Record Template
+Each record contains: Knowledge ID, Rashi, element, modality, ruler, personality, emotions,
+communication, career, finance, relationships, timeline effects, Dasha interaction, child explanation,
+expert explanation, narrative blocks, confidence score and cross references.
+Population Strategy
+Store modular interpretation units instead of long articles so the report engine can assemble
+personalized narratives from many compatible records.
+Developer Specification
+Support multilingual content, semantic indexing, embeddings, graph links, immutable identifiers,
+API-ready retrieval and version history.
+Next Volume
+Volume 50 – Complete Dasha & Bhukti Knowledge Base.

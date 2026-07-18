@@ -1,0 +1,17 @@
+{
+  "item_code": "A9",
+  "item_name": "Ishta/Kashta Phala",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2"
+  ],
+  "total_passages": 4,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [],
+  "constants_extracted": [],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/strength.py",
+    "function": "ishta_phala"
+  }
+}

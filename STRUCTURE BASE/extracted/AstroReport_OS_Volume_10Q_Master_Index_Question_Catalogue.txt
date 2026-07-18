@@ -1,0 +1,49 @@
+AstroReport OS Specification
+Volume 10Q – Master Index, Question Catalogue &
+Retrieval Specification
+Purpose
+This volume defines the master indexing system for every knowledge object in AstroReport OS. It
+provides a consistent way for AI components to locate questions, timeline chapters, astrological
+evidence and narrative templates.
+Index
+Contents
+Primary Key
+Question Index
+Q0001–Q1000+
+Question ID
+Domain Index
+Identity, Career, Wealth, etc.
+Domain ID
+Timeline Index
+Birth to Legacy
+Timeline ID
+Dasha Index
+Mahadasha/Bhukti
+Dasha ID
+House Index
+1st–12th Houses
+House ID
+Planet Index
+9 Planets
+Planet ID
+Divisional Chart Index
+D1, D9, D10, etc.
+Chart ID
+Narrative Index
+Story Blocks
+Narrative ID
+Validation Index
+QA Rules
+Rule ID
+Template Index
+Report Sections
+Template ID
+Retrieval Workflow
+User Query → Question Index → Domain Mapping → Astrological Evidence → Timeline Placement
+→ Narrative Template → Validation Rules → Final Report Chapter.
+Implementation Checklist
+Every report section should reference indexed objects instead of hard-coded text. All retrieval must
+be traceable, versioned and validated before report generation.
+Completion
+Volume 10Q completes the first edition of the AstroReport OS Knowledge Base architecture. Future
+editions can extend the indexes without changing the report engine.

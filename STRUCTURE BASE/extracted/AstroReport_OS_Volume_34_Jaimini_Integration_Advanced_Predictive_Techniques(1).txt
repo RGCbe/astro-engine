@@ -1,0 +1,50 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 34 – Complete Jaimini Integration &
+Advanced Predictive Techniques Manual
+Purpose
+This manual specifies how Jaimini astrology techniques are incorporated alongside the primary
+interpretation framework. It standardizes advanced indicators, timing systems and reconciliation
+rules so they can contribute consistently to report generation.
+Module
+Coverage
+Role
+Jaimini Karakas
+Atmakaraka, Amatyakaraka, etc.
+Soul & life roles
+Chara Dasha
+Sign-based timing
+Alternative timeline
+Arudha (Pada) Lagna
+Perception & status
+Public image
+Upapada Lagna
+Marriage indicators
+Relationship analysis
+Rashi Drishti
+Sign aspects
+Additional evidence
+Argala
+Intervention rules
+Influence analysis
+Special Yogas
+Jaimini combinations
+Advanced interpretation
+Integration Layer
+Parashara + Jaimini
+Unified reasoning
+Validation
+Conflict resolution
+Confidence output
+Integration Workflow
+Interpret the birth chart first, then evaluate relevant Jaimini techniques. Treat Jaimini indicators as
+additional evidence that strengthens, refines or questions an interpretation before producing the
+final narrative.
+Conflict Resolution
+When Parashara and Jaimini indications differ, compare the amount and quality of evidence, timing
+support and chart context. Explain nuanced outcomes instead of forcing absolute conclusions.
+Developer Specification
+Maintain structured objects for Karakas, Chara Dasha, Arudhas, Rashi Drishti, Argala, Jaimini
+yogas, weighting rules, timeline links, narrative templates and validation metadata.
+Next Volume
+Volume 35 – Master Astrological Rulebook & Unified Reasoning Framework.

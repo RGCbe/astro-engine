@@ -1,0 +1,2506 @@
+{
+  "book_key": "BPHS_Vol2",
+  "filename": "BPHS - 2 RSanthanam.pdf",
+  "total_pages": 552,
+  "total_words": 134559,
+  "total_chars": 759000,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "dasa",
+      "count": 1078
+    },
+    {
+      "word": "effects",
+      "count": 593
+    },
+    {
+      "word": "lord",
+      "count": 481
+    },
+    {
+      "word": "sun",
+      "count": 434
+    },
+    {
+      "word": "thc",
+      "count": 429
+    },
+    {
+      "word": "moon",
+      "count": 394
+    },
+    {
+      "word": "saturn",
+      "count": 391
+    },
+    {
+      "word": "sign",
+      "count": 387
+    },
+    {
+      "word": "rasi",
+      "count": 372
+    },
+    {
+      "word": "jupiter",
+      "count": 364
+    },
+    {
+      "word": "mars",
+      "count": 361
+    },
+    {
+      "word": "venus",
+      "count": 348
+    },
+    {
+      "word": "ascendant",
+      "count": 344
+    },
+    {
+      "word": "etc",
+      "count": 319
+    },
+    {
+      "word": "mercury",
+      "count": 318
+    },
+    {
+      "word": "wealth",
+      "count": 298
+    },
+    {
+      "word": "birth",
+      "count": 264
+    },
+    {
+      "word": "rahu",
+      "count": 263
+    },
+    {
+      "word": "mcy",
+      "count": 261
+    },
+    {
+      "word": "sat",
+      "count": 259
+    },
+    {
+      "word": "ven",
+      "count": 257
+    },
+    {
+      "word": "mrs",
+      "count": 254
+    },
+    {
+      "word": "antardasa",
+      "count": 253
+    },
+    {
+      "word": "jup",
+      "count": 242
+    },
+    {
+      "word": "years",
+      "count": 237
+    },
+    {
+      "word": "dasas",
+      "count": 223
+    },
+    {
+      "word": "danger",
+      "count": 218
+    },
+    {
+      "word": "house",
+      "count": 209
+    },
+    {
+      "word": "planets",
+      "count": 206
+    },
+    {
+      "word": "loss",
+      "count": 202
+    },
+    {
+      "word": "ketu",
+      "count": 196
+    },
+    {
+      "word": "king",
+      "count": 194
+    },
+    {
+      "word": "brihat",
+      "count": 186
+    },
+    {
+      "word": "parasara",
+      "count": 185
+    },
+    {
+      "word": "distress",
+      "count": 184
+    },
+    {
+      "word": "chapter",
+      "count": 183
+    },
+    {
+      "word": "gain",
+      "count": 182
+    },
+    {
+      "word": "number",
+      "count": 181
+    },
+    {
+      "word": "amsa",
+      "count": 176
+    },
+    {
+      "word": "planet",
+      "count": 175
+    },
+    {
+      "word": "hora",
+      "count": 173
+    },
+    {
+      "word": "like",
+      "count": 170
+    },
+    {
+      "word": "good",
+      "count": 165
+    },
+    {
+      "word": "government",
+      "count": 163
+    },
+    {
+      "word": "days",
+      "count": 159
+    },
+    {
+      "word": "trikona",
+      "count": 157
+    },
+    {
+      "word": "evil",
+      "count": 155
+    },
+    {
+      "word": "leo",
+      "count": 155
+    },
+    {
+      "word": "happiness",
+      "count": 146
+    },
+    {
+      "word": "associated",
+      "count": 137
+    },
+    {
+      "word": "rasis",
+      "count": 136
+    },
+    {
+      "word": "months",
+      "count": 132
+    },
+    {
+      "word": "antardasas",
+      "count": 131
+    },
+    {
+      "word": "aries",
+      "count": 129
+    },
+    {
+      "word": "wife",
+      "count": 129
+    },
+    {
+      "word": "children",
+      "count": 128
+    },
+    {
+      "word": "remedial",
+      "count": 125
+    },
+    {
+      "word": "kendra",
+      "count": 121
+    },
+    {
+      "word": "aquarius",
+      "count": 121
+    },
+    {
+      "word": "death",
+      "count": 121
+    },
+    {
+      "word": "scorpio",
+      "count": 120
+    },
+    {
+      "word": "signs",
+      "count": 120
+    },
+    {
+      "word": "own",
+      "count": 120
+    },
+    {
+      "word": "pisces",
+      "count": 116
+    },
+    {
+      "word": "acquisition",
+      "count": 116
+    },
+    {
+      "word": "other",
+      "count": 115
+    },
+    {
+      "word": "order",
+      "count": 114
+    },
+    {
+      "word": "houses",
+      "count": 111
+    },
+    {
+      "word": "taurus",
+      "count": 108
+    },
+    {
+      "word": "virgo",
+      "count": 107
+    },
+    {
+      "word": "sastra",
+      "count": 107
+    },
+    {
+      "word": "results",
+      "count": 107
+    },
+    {
+      "word": "above",
+      "count": 106
+    },
+    {
+      "word": "palas",
+      "count": 106
+    },
+    {
+      "word": "total",
+      "count": 104
+    },
+    {
+      "word": "increase",
+      "count": 102
+    },
+    {
+      "word": "rekhas",
+      "count": 100
+    },
+    {
+      "word": "gains",
+      "count": 100
+    },
+    {
+      "word": "lords",
+      "count": 97
+    },
+    {
+      "word": "tbe",
+      "count": 97
+    },
+    {
+      "word": "libra",
+      "count": 97
+    },
+    {
+      "word": "sagittarius",
+      "count": 96
+    },
+    {
+      "word": "cancer",
+      "count": 95
+    },
+    {
+      "word": "capricorn",
+      "count": 94
+    },
+    {
+      "word": "ghatikas",
+      "count": 94
+    },
+    {
+      "word": "auspicious",
+      "count": 93
+    },
+    {
+      "word": "relief",
+      "count": 93
+    },
+    {
+      "word": "ffi",
+      "count": 92
+    },
+    {
+      "word": "llth",
+      "count": 92
+    },
+    {
+      "word": "position",
+      "count": 90
+    },
+    {
+      "word": "obtain",
+      "count": 88
+    },
+    {
+      "word": "after",
+      "count": 87
+    },
+    {
+      "word": "gemini",
+      "count": 85
+    },
+    {
+      "word": "nakshatra",
+      "count": 84
+    },
+    {
+      "word": "measures",
+      "count": 83
+    },
+    {
+      "word": "ars",
+      "count": 82
+    },
+    {
+      "word": "scp",
+      "count": 81
+    },
+    {
+      "word": "woman",
+      "count": 80
+    },
+    {
+      "word": "benefic",
+      "count": 79
+    },
+    {
+      "word": "malefics",
+      "count": 78
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "22 degrees",
+      "context": "y dividing 41940 by 3571 we get 11,22,20, l7 that is Pisces 22 degrees, 20 minutes and l7 seconds. Adding this to thc longitude of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13 Deg",
+      "context": "20 1010107 13 t3  20  t3 941424 25  18  2  )-? 2  8 SigB 13 13 Degres. 55 55 minutce. U  24 seonds  Erilwt Parasara Hora Sa$rs"
+    },
+    {
+      "type": "time_period",
+      "value": "120 years",
+      "context": "he natural life span of a human being is generally taken as 120 years. Therefore, Vimsottari Dasa is considered to be the most ap"
+    },
+    {
+      "type": "time_period",
+      "value": "6 years",
+      "context": "357i will give the expired period of Dasa as 61rc16,22,5  (6 years, 10 rnonths, 6 day,22 ghatikas and 5 palas). By dcducting t"
+    },
+    {
+      "type": "time_period",
+      "value": "6 day",
+      "context": "xpired period of Dasa as 61rc16,22,5  (6 years, 10 rnonths, 6 day,22 ghatikas and 5 palas). By dcducting this from 7 years, w"
+    },
+    {
+      "type": "time_period",
+      "value": "7 years",
+      "context": "ths, 6 day,22 ghatikas and 5 palas). By dcducting this from 7 years, we will get the balancc of Dasa at birth as 0 1!23i37155"
+    },
+    {
+      "type": "time_period",
+      "value": "1 month",
+      "context": "we will get the balancc of Dasa at birth as 0 1!23i37155  (1 month,23 days,3Tghatis and 55 palas). Notes : The above method is"
+    },
+    {
+      "type": "time_period",
+      "value": "23 days",
+      "context": "get the balancc of Dasa at birth as 0 1!23i37155  (1 month,23 days,3Tghatis and 55 palas). Notes : The above method is based o"
+    },
+    {
+      "type": "time_period",
+      "value": "2 months",
+      "context": "above table 13\" of Sagittarius the balance .of Ketu Dasa is 2 months and 3 days at the time of birth of the uative. Ali lengthy"
+    },
+    {
+      "type": "time_period",
+      "value": "3 days",
+      "context": "3\" of Sagittarius the balance .of Ketu Dasa is 2 months and 3 days at the time of birth of the uative. Ali lengthy arithmetica"
+    },
+    {
+      "type": "time_period",
+      "value": "30 months",
+      "context": "rashada is the seconJ nakshatra of Saturn. Its Dasa span is'30 months as l0 years or I20 months are the total Dasa span of Sturn."
+    },
+    {
+      "type": "time_period",
+      "value": "0 years",
+      "context": "seconJ nakshatra of Saturn. Its Dasa span is'30 months as l0 years or I20 months are the total Dasa span of Sturn. By multiply"
+    },
+    {
+      "type": "time_period",
+      "value": "20\nmonths",
+      "context": "hatra of Saturn. Its Dasa span is'30 months as l0 years or I20 months are the total Dasa span of Sturn. By multiplying these 30 m"
+    },
+    {
+      "type": "time_period",
+      "value": "15 months",
+      "context": "ng it into palas), we get thg expired period of the Dasa as 15 months, 2l days and 24 ghatikas. The balance of Dasa at birth will"
+    },
+    {
+      "type": "time_period",
+      "value": "14 months",
+      "context": "by deducting the above period from 30 months. This will be 14 months, 25 days, 38 ghatikas and 36 palas. To this be added the pe"
+    },
+    {
+      "type": "time_period",
+      "value": "25\ndays",
+      "context": "ng the above period from 30 months. This will be 14 months, 25 days, 38 ghatikas and 36 palas. To this be added the periods of"
+    },
+    {
+      "type": "time_period",
+      "value": "60 months",
+      "context": "this be added the periods of Abhijit and Sravan viz. 30*30:60 months. The total will then be 74 months, 25 days,38 ghatikas and"
+    },
+    {
+      "type": "time_period",
+      "value": "74 months",
+      "context": "jit and Sravan viz. 30*30:60 months. The total will then be 74 months, 25 days,38 ghatikas and 36 palas, that is, 6 years, 2 mont"
+    },
+    {
+      "type": "time_period",
+      "value": "25 days",
+      "context": "van viz. 30*30:60 months. The total will then be 74 months, 25 days,38 ghatikas and 36 palas, that is, 6 years, 2 months, 25 da"
+    },
+    {
+      "type": "time_period",
+      "value": "14 years",
+      "context": "ed earlier we should add the expired period of Mrigasira to 14 years-the expired perio<i of Krittika and Rohini. This will give"
+    },
+    {
+      "type": "time_period",
+      "value": "1yr",
+      "context": "years, we will get the balarr;e of Venus Dasa at birtb. ar* 1yri qi?ffid fqfu.rqr qle{frerl uqyrl tqqtwilT{  qr{l qI iwr qq"
+    },
+    {
+      "type": "time_period",
+      "value": "8 years",
+      "context": "of the above planets arc of 11, l:, t3, 14, 15,16,17 arici l8 years in the aforesaid order. Example : lt'he birth is in Shukla"
+    },
+    {
+      "type": "time_period",
+      "value": "2 years",
+      "context": ". 3920. This calculation will give us the expired period as 2 years, 9 months, 26 days,19 ghatikas anC 29 palas. l)educting thi"
+    },
+    {
+      "type": "time_period",
+      "value": "9 months",
+      "context": "his calculation will give us the expired period as 2 years, 9 months, 26 days,19 ghatikas anC 29 palas. l)educting this from 18"
+    },
+    {
+      "type": "time_period",
+      "value": "26 days",
+      "context": "ation will give us the expired period as 2 years, 9 months, 26 days,19 ghatikas anC 29 palas. l)educting this from 18 years, th"
+    },
+    {
+      "type": "time_period",
+      "value": "18 years",
+      "context": "ths, 26 days,19 ghatikas anC 29 palas. l)educting this from 18 years, the balance sf 1,;';r1s;r l)asa al birth will com. :o 15 y"
+    },
+    {
+      "type": "time_period",
+      "value": "3 day",
+      "context": "1,;';r1s;r l)asa al birth will com. :o 15 ycars, 2 months, 3 day',' 2O ghatikas ar,d 31 palas.  \\ t  Brihat Parasara Horo ,l"
+    },
+    {
+      "type": "time_period",
+      "value": "21 years",
+      "context": "sa system). The l)asas wiil be of 7,9,11, 13, 15,17, 19 and 21 years of the planets in the order mentioned above. Note : The sam"
+    },
+    {
+      "type": "time_period",
+      "value": "30 years",
+      "context": "eir Dasas in the same order will be of 5,5,10,1il,20,20 and 30 years. (Rahu and Ketu do not have a place in this Dasa sYstenr)."
+    },
+    {
+      "type": "time_period",
+      "value": "12 years",
+      "context": "et a piacl in this system), The Di:ia ol'eilrh planet is of 12 years. fl:r*:nple-The Janma Nakshatra is Mrigasira. Ihe lord .of"
+    },
+    {
+      "type": "time_period",
+      "value": "9 years",
+      "context": "sa). In this Dasa system all the eight planetr have Dasa of 9 years each,  6, q) o\\ a ,v o\\ 6 Cgo o\\ aL c) o\\ 6k o\\ q (.) o\\ oL"
+    },
+    {
+      "type": "time_period",
+      "value": "13 years",
+      "context": "Dasa lords'  The Dasas of Jupiter' the Sun and Mars are of 13 years. The remaining planets have Dasas of 6 years each. Example-"
+    },
+    {
+      "type": "time_period",
+      "value": "3 years",
+      "context": "er is thus the first Dasa lord. The Dasa span of Jupiter is 3 years, from this the balance of Dasa at birth may be calculated a"
+    },
+    {
+      "type": "time_period",
+      "value": "28 days",
+      "context": "s product divided by 4 will amount to 2 years, 2 months and 28 days. Multiplying this figure by l, 2 etc. (the Serial number of"
+    },
+    {
+      "type": "time_period",
+      "value": "10 years",
+      "context": "from the rasi of the second house. The Dasa of each rasi is 10 years. As it is the Dasa system of the 12 signs (rasi) in the Zod"
+    },
+    {
+      "type": "time_period",
+      "value": "100 Years",
+      "context": "r ofyears (Poorna Ayu) are as under : For the Amsa in Aries 100 Years For the Asma in Taurus 85 years For the Amsa in Gernini 83"
+    },
+    {
+      "type": "time_period",
+      "value": "85 years",
+      "context": "er : For the Amsa in Aries 100 Years For the Asma in Taurus 85 years For the Amsa in Gernini 83 years For the Amsa in Cancer 86"
+    },
+    {
+      "type": "time_period",
+      "value": "83 years",
+      "context": "ars For the Asma in Taurus 85 years For the Amsa in Gernini 83 years For the Amsa in Cancer 86 years. The number of years will b"
+    },
+    {
+      "type": "time_period",
+      "value": "86 years",
+      "context": "ars For the Amsa in Gernini 83 years For the Amsa in Cancer 86 years. The number of years will be the same for rasis situated in"
+    },
+    {
+      "type": "time_period",
+      "value": "90 years",
+      "context": "divided by 15 will give the )expired period at birth namely 90 years and 9 months.  V S h  V a.l U F v t ( ( ior J { z d : ;od3g"
+    },
+    {
+      "type": "time_period",
+      "value": "9\nmonths",
+      "context": "will give the )expired period at birth namely 90 years and 9 months.  V S h  V a.l U F v t ( ( ior J { z d : ;od3g r'( R53 .b t"
+    },
+    {
+      "type": "time_period",
+      "value": "16 years",
+      "context": "mely 13 years, 9 months' By deducting this from the present 16 years of Venus, we will get 2 years 3 months as the balance of Da"
+    },
+    {
+      "type": "time_period",
+      "value": "3 months",
+      "context": "his from the present 16 years of Venus, we will get 2 years 3 months as the balance of Dasa at birth' Accordingly like Vimsottar"
+    },
+    {
+      "type": "time_period",
+      "value": "2\nMonths",
+      "context": "corpio Libra Virgo Leo Cancer Ge- Dasa  tarius  mlnt Years  2 Months 3 5 2 1 16 a? 10 qerq q{aFarna: 9 \\ TErE?'+fi{ qd aa: r qql"
+    },
+    {
+      "type": "time_period",
+      "value": "37 years",
+      "context": "ded by 200 will indicate the expired portion of the Dasa as 37 years, 4 months and 6 days. By deducting the years of Dehamsa com"
+    },
+    {
+      "type": "time_period",
+      "value": "4 months",
+      "context": "will indicate the expired portion of the Dasa as 37 years, 4 months and 6 days. By deducting the years of Dehamsa commencing fr"
+    },
+    {
+      "type": "time_period",
+      "value": "6 days",
+      "context": "e the expired portion of the Dasa as 37 years, 4 months and 6 days. By deducting the years of Dehamsa commencing from Taurus i"
+    },
+    {
+      "type": "time_period",
+      "value": "0year",
+      "context": "Taurus, Aries Pisces, Aquarius (16-+7+10*4:37), we will get 0yeare,4 months and 6 days. This will be the expired portion of C"
+    },
+    {
+      "type": "time_period",
+      "value": "4\nmonths",
+      "context": "Aries Pisces, Aquarius (16-+7+10*4:37), we will get 0yeare,4 months and 6 days. This will be the expired portion of Capri- corn"
+    },
+    {
+      "type": "time_period",
+      "value": "7 months",
+      "context": "n, we get the balance of Dasa of Capricorn, namely 3 years, 7 months and 24 days. See in this connection the Savya Kalachakra. I"
+    },
+    {
+      "type": "time_period",
+      "value": "24 days",
+      "context": "balance of Dasa of Capricorn, namely 3 years, 7 months and 24 days. See in this connection the Savya Kalachakra. Illustretive"
+    },
+    {
+      "type": "time_period",
+      "value": "11yr",
+      "context": "mdi rrTi $wrt qq.flrq I sat ?nrTrfbr?q  {$n rrraT qfsGqfr n11yrl a . - o tkArq |t1f  nR 1{uni f<<ei\\ r qrqftfrsfq q it?qt e"
+    },
+    {
+      "type": "time_period",
+      "value": "5 years",
+      "context": "Dasa is of 9 years. Thus the Dasa of Fisces here will b? of 5 years (* of l-r9). The Dasas of thc rcnaining signs may be worled"
+    },
+    {
+      "type": "time_period",
+      "value": "5\nYears",
+      "context": "me manner. IlMrtivc  Trble Sign  Aquarius  Pisces Dasa\"  8  5 Years Taurus Gemini Canccr 8+811 Aries 4 Sagitt-  Capr- arius  ic"
+    },
+    {
+      "type": "time_period",
+      "value": "12 year",
+      "context": "the principle ''griilqw 6E\" etc. the Dasa of Venuswiltbe of 12 yeari. The Dasas of other Karakas have to be worked out in the s"
+    },
+    {
+      "type": "time_period",
+      "value": "12\nyears",
+      "context": "us _Rahu Jupiter Saturn Mer- Moon Mars cury r,lc, l l years 12 years 4 'i.irs t2 years 91243 years years years years Mandooka De"
+    },
+    {
+      "type": "time_period",
+      "value": "2\nyears",
+      "context": "turn Mer- Moon Mars cury r,lc, l l years 12 years 4 'i.irs t2 years 91243 years years years years Mandooka Desa qlqfiq1qqfq|  f"
+    },
+    {
+      "type": "time_period",
+      "value": "91243\nyears",
+      "context": "- Moon Mars cury r,lc, l l years 12 years 4 'i.irs t2 years 91243 years years years years Mandooka Desa qlqfiq1qqfq|  fafig|cqqnr"
+    },
+    {
+      "type": "time_period",
+      "value": "9\nYears",
+      "context": "n Pisces Aquarius Capricorn Sagittarius Scorpio L ibra Dasa 9 Years S:gn Virgr, I-e r-l Ca\"ier Gemini  Tau;.u* Aries Llasa 9 Ye"
+    },
+    {
+      "type": "time_period",
+      "value": "7\nYears",
+      "context": "for the Sthira Dasa. Illustrative Table Sign Libra !\"-;asa 7 Years Taurus 8 Leo 8 Aquarius Scorpio Capricorn 8 6 ' t Sign Dasa"
+    },
+    {
+      "type": "time_period",
+      "value": "0 months",
+      "context": "y 30 we 569  570  Brihat Parasara l{ora Sastra get 5 'years 0 months 23 days, 23 hours and 12 ghatikas Deducting it from 8 years"
+    },
+    {
+      "type": "time_period",
+      "value": "24\ndays",
+      "context": "s Deducting it from 8 years we wiil get 2 years I I months, 24 days, 0 hours and 48 ghatikas as balance of Dasa at birth. Illus"
+    },
+    {
+      "type": "time_period",
+      "value": "1 year",
+      "context": "multiplying it by 6 we get 60. By dividing 60 by 3l we get 1 year 11 months 6 days (round). This may be written in the first"
+    },
+    {
+      "type": "time_period",
+      "value": "11 months",
+      "context": "lying it by 6 we get 60. By dividing 60 by 3l we get 1 year 11 months 6 days (round). This may be written in the first apartment."
+    },
+    {
+      "type": "time_period",
+      "value": "8 days",
+      "context": "apartment. Half of this period viz.,O years ll months and l8 days (round figure) may be written in the next three apart- ment"
+    },
+    {
+      "type": "time_period",
+      "value": "1\nMonths",
+      "context": "ch is given below : Illustrative Teble Sign Aquarius Years  1 Months 11 Days  6 Pisces Aries Taurus Gemini Cancer 00 77 22  22 0"
+    },
+    {
+      "type": "time_period",
+      "value": "11\nDays",
+      "context": "en below : Illustrative Teble Sign Aquarius Years  1 Months 11 Days  6 Pisces Aries Taurus Gemini Cancer 00 77 22  22 000 1l  l"
+    },
+    {
+      "type": "time_period",
+      "value": "20 years",
+      "context": "us under the vimsottari system. The Dasa period of Venus is 20 years' Total Dasa years are 120 years. The Antardasa of Venus wil"
+    },
+    {
+      "type": "time_period",
+      "value": "120\nyears",
+      "context": "The Dasa period of Venus is 20 years' Total Dasa years are 120 years. The Antardasa of Venus will be 2o X29:400+  120 :3 yearE 4"
+    },
+    {
+      "type": "time_period",
+      "value": "3 year",
+      "context": "120 years. The Antardasa of Venus will be 2o X29:400+  120 :3 yearE 4 months. There is another method of finding out the term"
+    },
+    {
+      "type": "time_period",
+      "value": "32 months",
+      "context": "methods the Antardasa  'Chapter Si  6ry of Merc,r- ,,rji be 32 months and 9 days, or 2 years, g months and 9 da,r's. Prafyentrr D"
+    },
+    {
+      "type": "time_period",
+      "value": "9 days",
+      "context": "tardasa  'Chapter Si  6ry of Merc,r- ,,rji be 32 months and 9 days, or 2 years, g months and 9 da,r's. Prafyentrr Dasa We have"
+    },
+    {
+      "type": "time_period",
+      "value": "9600 months",
+      "context": "rl nonths. p*tyuniui Olsa of Venus will be_ ,  40 X 24t}, \" 9600 months; 1.440 months: 6 months and 20 davs. ETIETE?dIilIT qqtrcxf,"
+    },
+    {
+      "type": "time_period",
+      "value": "440 months",
+      "context": "uniui Olsa of Venus will be_ ,  40 X 24t}, \" 9600 months; 1.440 months: 6 months and 20 davs. ETIETE?dIilIT qqtrcxf,imel q qmq*rar"
+    },
+    {
+      "type": "time_period",
+      "value": "6 months",
+      "context": "f Venus will be_ ,  40 X 24t}, \" 9600 months; 1.440 months: 6 months and 20 davs. ETIETE?dIilIT qqtrcxf,imel q qmq*rarfialsqqr:"
+    },
+    {
+      "type": "time_period",
+      "value": "19 years",
+      "context": "n  0.10.24 Moon  1.06.m Mars  l.00.lE 18.00.00 Srtum's Drse 19 years Antardasas Y.M.D. Saturn  3.03.03 Mercury  2.08.09 Kctu  1."
+    },
+    {
+      "type": "time_period",
+      "value": "8 months",
+      "context": "are 8, therefore the Antardasas of the 12 rasis will be of 8 months each. Ilh:stretirc Table Rasi Aquarius Cancer Y0 0 Sagittar"
+    },
+    {
+      "type": "time_period",
+      "value": "5 months",
+      "context": "ars. The years, months etc., so arrived at, namely 0 years, 5 months,'26 days and 24 ghatikas will be the period of the Antardas"
+    },
+    {
+      "type": "time_period",
+      "value": "2 days",
+      "context": "agittarius in the Dasa of Aries as 0 1'ears,  8 months and l2 days. All the Antar- dasas of various rasis have to be worked'ou"
+    },
+    {
+      "type": "time_period",
+      "value": "3 month",
+      "context": "Antardasa and Dasa of the Sun. The span of Antardasa namely 3 month 18 days converted into days comes to 108 days. The Pratyan_"
+    },
+    {
+      "type": "time_period",
+      "value": "18 days",
+      "context": "a and Dasa of the Sun. The span of Antardasa namely 3 month 18 days converted into days comes to 108 days. The Pratyan_tar  L\\r"
+    },
+    {
+      "type": "time_period",
+      "value": "108 days",
+      "context": "tardasa namely 3 month 18 days converted into days comes to 108 days. The Pratyan_tar  L\\rsa will be 108 X 6:648+  120 : 5 days"
+    },
+    {
+      "type": "time_period",
+      "value": "5 days",
+      "context": "08 days. The Pratyan_tar  L\\rsa will be 108 X 6:648+  120 : 5 days 24 ghatikas The Pratyantar Dasa of the Moon in the Antardas"
+    },
+    {
+      "type": "time_period",
+      "value": "9 \ndays",
+      "context": "ntardasa and, Dasa of the Sun will be 108 days\\ l0:1080=120:9  days Tablcs ar- given below shorving the Pratyantar Dasas of all"
+    },
+    {
+      "type": "time_period",
+      "value": "0\nDays",
+      "context": ". .I[JP SAT lvlcr  KT VEN SN MN M o n t h s 0 0 0 0 0 0 0 0 0 Days  '7  18  16  19  17  7  2l  tG  ttt Gh;  2t 54  48  57  21"
+    },
+    {
+      "type": "time_period",
+      "value": "3\nDays",
+      "context": "a of Saturn SN MN 00 l0  ri 30  30 1SAT MCY KT VEN Months32l3 Days02035 Ghatikas 15  45  15  0 MN MRS RH JUP 1122 1032516 30"
+    },
+    {
+      "type": "time_period",
+      "value": "3054303\nMonths",
+      "context": "0 0 3 0 3 0 0 3 0 111 20  29  23 24  51  33 02010 22318122 3054303 Months  1 Days  20 Ghatikas 34 Palas  30 10201011 26236196232923 3"
+    },
+    {
+      "type": "time_period",
+      "value": "1\nDays",
+      "context": "0 111 20  29  23 24  51  33 02010 22318122 3054303 Months  1 Days  20 Ghatikas 34 Palas  30 10201011 26236196232923 31  16  3"
+    },
+    {
+      "type": "time_period",
+      "value": "4\nDays",
+      "context": "T MCY KT VEN SN MN MRS RH JUP I l o n t h s 5 4 1 5 1 3 1 5 4 Days  t2  25  29  21  21  25  29  3  16 Chatikas 27  21  51  0"
+    },
+    {
+      "type": "time_period",
+      "value": "00\nDays",
+      "context": "ntardasa of Ketu KT VEN SN. MN MRS RH JUP SAT TVIC: Months0l00 Days  19  26  16 28 Ghatikas 36  48  0 01 19 27 36  24 1.: 23 17"
+    },
+    {
+      "type": "time_period",
+      "value": "5526\nDays",
+      "context": "ntar Dasas in the Anterilasa of Seturn SAT MCY KT VEN Months5526 Days21  330 Gnatikas 28  25  l0  30 Palas  30  30  30  0 Pratyan"
+    },
+    {
+      "type": "time_period",
+      "value": "2\nDays",
+      "context": "of Jupiter JUP SAT MCY KT VEN SN MT.I MR^g RH. Months444t5l2 Daysl24g232tSt6 Ghatikas 36 24  12  12  0  3d  0 232130 15020352"
+    },
+    {
+      "type": "time_period",
+      "value": "101\nDays",
+      "context": "ddsa of the Sun SN MN MRS RH JUP SAT MCY KT VEN Months00011l101 Days  15 ' 25  17 15 l0  18  t3  17  2l Ghatikas 2E 30  51  54"
+    },
+    {
+      "type": "time_period",
+      "value": "102222020\nDays",
+      "context": "Antuilasa of the Moon MN MRS RH JUP SAT MCY KT VEN SN Mcnths102222020 Days  12 29  16  8  20  12  29 25  25 Ghatikas 30  45  30  0  45"
+    },
+    {
+      "type": "time_period",
+      "value": "030003030\nMonths",
+      "context": "N  SN  MN MRS RH JUP SAT MCY 000000 12822192320 15383361649 030003030 Months  0  0  0 Days  8  24  7 Ghatikas 34  30  2I Palas  30  0  0"
+    },
+    {
+      "type": "time_period",
+      "value": "0\nMonths",
+      "context": "s  0  0  0 Days  8  24  7 Ghatikas 34  30  2I Palas  30  0  0 Months Days Ghatikas Pratyanter Dasrs ir llc Antardasa of Vcms VEN"
+    },
+    {
+      "type": "time_period",
+      "value": "000000\nDays",
+      "context": "Antrrdesa of Mars MRS RH JUP SAT MCY KT VEN SN MN Months00O000000 Days  821  t9  23  20  g  24  7  tz Gh.  24  3  36  16  49  34"
+    },
+    {
+      "type": "time_period",
+      "value": "5\nDays",
+      "context": "nus VN  SN MN MRS RH -JUP SAT MCY M o n t h s 6 2 3 2 6 5 6 5 Days  2A  0  l0  10  0  l0  l0  20 Ghatikas-  0  0  0  0  0  0"
+    },
+    {
+      "type": "time_period",
+      "value": "11102\nDays",
+      "context": "se of the Sun SN MN' MRS RH JUP SAT MCY TT VEN Months0l0,l  11102 Days  l8  0  21  24  18  27 21 21  0' Gh.000000e00 t€6q: t $Ft{"
+    },
+    {
+      "type": "time_period",
+      "value": "32\nDays",
+      "context": "trdrsa of Rrlu RH JUP SAT MCY KT VEN SN MN MRS Months545526l32 Days  12 124  21  3  3  l0  24  0  ? Ghatikas0000O0000 Prrtyantr"
+    },
+    {
+      "type": "time_period",
+      "value": "652613255\nDays",
+      "context": "ntrrdrsr of Srturn ,  SAT MCY KT VEN SN MN MRS RH JUP Months652613255 Days0ll  610275621  2 CUatikas 30  30  30  0  0  0  30  0  O Pnt"
+    },
+    {
+      "type": "time_period",
+      "value": "13 days",
+      "context": "2. Divide this figure by 100. S-e will get I ycar, I month, 13 days and 12 Ghatikas asthe Antar- dasa of Taurus or Venus in the"
+    },
+    {
+      "type": "time_period",
+      "value": "16 Yr",
+      "context": "48  12  24  0  0 Aotardrsrs of Rrsis ln thc Drsr of Teurus t16 Yrrs) ln Arlec Amsa Rasi  TRS GMN CR LEO VRG LBR SCP SAG ARS T"
+    },
+    {
+      "type": "time_period",
+      "value": "0000000004\nMonths",
+      "context": "EO cMN Lord  SAT SAT JUP MRS VEN MCy MN SN MCy Total i Years0000000004 MonthsZ  2  S  3  g  5 il  2  5  O Days 7  719  28  l  22524  Z  e"
+    },
+    {
+      "type": "time_period",
+      "value": "6\nMonths",
+      "context": "ord V'EN MCY MN SN MCY SAT SAT JUP MRS Total Years3f30t00t1t6 Months0  I21  11  I  9  910  3  t) Days  4  913  8  9  I  lt7  24"
+    },
+    {
+      "type": "time_period",
+      "value": "5\nMonths",
+      "context": "SAT JUP MRS VEN MCY MN Total Years O  0  0  00  0  0  0  I  5 Months3  6  2  27  411  6  2  r) Days  t5  10  24  24 |  28  8  10"
+    },
+    {
+      "type": "time_period",
+      "value": "9\nMonths",
+      "context": "S JUP SAT SAT JUp MRS VEN Totat Y e a r s 0 l 0 l 0 0 l 0 l 9 Months 11  8.  9  I  5  5  I  9  8  0 D a y s   2 1  2 4   3 .   0"
+    },
+    {
+      "type": "time_period",
+      "value": "0000\nMonths",
+      "context": "QS pSC CR Iord  SN MCY VEN MRS JUPSAT SAT JUp MN Total Years0000 Months  3  6'  ll  4 Daysl48426 Gb.  39  22  53  30 Palas420  l42"
+    },
+    {
+      "type": "time_period",
+      "value": "880550260\nDays",
+      "context": "N SN Total -Years  0  I  0  I  0  0  I  2  0  9 Months''ll  880550260 Days  9  2  23  16  0  016  1l  8  O Gh.  o  47  43 44 4t414  92"
+    },
+    {
+      "type": "time_period",
+      "value": "3019\nMonths",
+      "context": "RG Lord  VEN MRS JUP SAT SAT JUP MN SN MCY Total Years2ll00l3019 Monthsll  3108810  10 11  80 Days  2t  l8  92727  9  4  4  2  o Gh"
+    },
+    {
+      "type": "time_period",
+      "value": "80\nDays",
+      "context": "P MN SN MCY Total Years2ll00l3019 Monthsll  3108810  10 11  80 Days  2t  l8  92727  9  4  4  2  o Gh.  37  50  46 54 54  46  30"
+    },
+    {
+      "type": "time_period",
+      "value": "0000010017\nMonths",
+      "context": "RG LBR Lord  MRS JUP SAT SAT JUP MN SN MCY Vt,li Total Years0000010017 Months'6  9  3  3  9  8  4  8  2  0 Days  2  23 27  27  23  15 26"
+    },
+    {
+      "type": "time_period",
+      "value": "11012\nMonths",
+      "context": "CP Lord  JUP SAT S{r JUP MN SN MCY VEN MRS Total Yearsl0012$11012 Monthsl  5  5  15  6  010  9  0 Days 28 17 17 28  929  16  9  23"
+    },
+    {
+      "type": "time_period",
+      "value": "258350\nDays",
+      "context": "lUP MN SN MCY VEN MRS JUPTotal Years0000000004 Months225ll  258350 Days  6  6,17  21 23  0  27 27  17  0 ch.  s8  58 26  37  43  4t"
+    },
+    {
+      "type": "time_period",
+      "value": "3583520\nDays",
+      "context": "MN SN MCY VEN MRS JUP SAT Total Years0000000004 Months25ll  3583520 Days61721  23027nn7O Gh.  58  26  37  43  4l  v  12  26 s8  0 Pa"
+    },
+    {
+      "type": "time_period",
+      "value": "09\nMonths",
+      "context": "Lord MCY VEN MRS JUP MRS VEN MCY VMN SN Total Years0O000l0l09 Monthsg  5  7  \"'o  7  5  910  5  0 Days 21  816  24 16  I21  2012"
+    },
+    {
+      "type": "time_period",
+      "value": "16\nMonths",
+      "context": "MRS VEN MCY MN SN MCY Total Years 2  |  I  1  2  |  30  I  16 Months6  I  7  |  6  5  49  5  0 Days 21 13  6  13 21  8  918  8"
+    },
+    {
+      "type": "time_period",
+      "value": "0000001017\nMonths",
+      "context": "LBR Lord  MRS JUP SA,T SAT JUP MRS VEN N,ICY VEN Total Years0000001017 MonthsT  l0.  4  410  7  4  9  4  0 Days  2  3,1  I  3  2  S  3  5"
+    },
+    {
+      "type": "time_period",
+      "value": "4\nMonths",
+      "context": "rd  SAT JUP MRS VEN MCY VEN MCY JUP SAT Totat Years0000p000O4 Months 2  5  4  9  '5  8  4  s  2.  0 Days923  176712390 ch.  23 2"
+    },
+    {
+      "type": "time_period",
+      "value": "7\nMonths",
+      "context": "RS JUP SAT sAT JUP Total Years'  0  I  0  I  0  0  O  0  0  7 Months 7  '4  g  '4  7  t0  4  .4 10  0 D a y s 2 S. 3 5 Z 3 t 1 3"
+    },
+    {
+      "type": "time_period",
+      "value": "0000000015\nMonths",
+      "context": "BR VRc CR Lord  SN MCY SAT sATIUP MRs vEN McY MN Total Years0000000015 Months 3  6  2  2  7  4  Il  .6  2  0 Ddys 15 '10  24 24  |  Zg  8"
+    },
+    {
+      "type": "time_period",
+      "value": "0000004\nMonths",
+      "context": "AeS mia  sAT JUP MRs vEN McY VEN MRs JUP SAT Total Years000,0000004 Months 2  5 .,4  9  S  g  !  S  2  0 Days923t376g7  12390 Gh.  23"
+    },
+    {
+      "type": "time_period",
+      "value": "8\nDays",
+      "context": "SAT JUp MRS Total Y e a r s 3 l 3 l i 0 0 t l 1 6 Months I  8 Days  b  24 Gh.  2l .34 Palas 41  42 L4tl  9 0  5  3'7 2t  47  5"
+    },
+    {
+      "type": "time_period",
+      "value": "50\nDays",
+      "context": "P SAT SAT JUP Total Years5123l20022L Months12,2l0.85ll  11  50 Days  16 19  l.l  26  15  9  2t  2t  9  0 Gh.  2  32  9  30 20 '"
+    },
+    {
+      "type": "time_period",
+      "value": "66 years",
+      "context": "evity as deterr4ir.red  by all the Ashta. kavargas comes to 66 years 2 months N days and 30 ghatikas. YMCG 741215 4070 120445 12"
+    },
+    {
+      "type": "time_period",
+      "value": "12 month",
+      "context": "r- dasa will be of the first house and then will follow for 12 monthe. the Antardasas of the other houses, every house assuming"
+    },
+    {
+      "type": "time_period",
+      "value": "000\nYears",
+      "context": "I I  I  I  I t.r 0  0  0  00  o  0  000 0  0  c  00  0  0  000 Years  I Months 0 Days  0 Antardrsa in the flrst year, Rasi 1 l t"
+    },
+    {
+      "type": "time_period",
+      "value": "30\nDays",
+      "context": "0 2 2  2  22  2  2  222  2 30. 30 30 30 30 30 30 30 30 20  30 Days  2 Gh.  30 Years  0 Months 0 W  Sfif-{rrqlre qfqrqrfa{sil{"
+    },
+    {
+      "type": "time_period",
+      "value": "30\nYears",
+      "context": "2  222  2 30. 30 30 30 30 30 30 30 30 20  30 Days  2 Gh.  30 Years  0 Months 0 W  Sfif-{rrqlre qfqrqrfa{sil{  | nriTr ilnlErdd"
+    },
+    {
+      "type": "time_period",
+      "value": "100 years",
+      "context": "twecn the Ganga and Yamuna.dies after attaining the age ot- 100 years. uqlq:  lneuarq rrffiFddq:  gfla I geulaft$rdrqi  \" EFfr il"
+    },
+    {
+      "type": "time_period",
+      "value": "4 years",
+      "context": "con. Jupiter stays in one sign for one year. This indicates 4 years earlier than the samvat ol th\" query, Jupiter wa* in Virgo."
+    },
+    {
+      "type": "time_period",
+      "value": "28 years",
+      "context": "t thc time of the.birth of thc querist was in the Samvatsar 28 years before the tine and date of thc guery. So by deducting 28 f"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "58/15",
+      "context": "- fore, be Mars. The expiretl period (uatA) of Mrigasira is 58/15 (58 ghatis and l5 pala-\") or 3415 Palas. The total period ("
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "64/16",
+      "context": "wq {{-dqd aqrfqfvr I Example: The Bhabhog of uttarashada is 64/16 (64 ghatikas 16 palas) and the.Bhayat is24l20(24ghatikasand"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "0/15",
+      "context": "be useful. If the Janma Nakshatra be Rohini with Bhayat as J0/15 and Bhabhogas65120,  the lord of the Dasa :rr birth will be"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "3/25",
+      "context": "a l)asa of all the nine planets' Example : Ista Ghatikas is 3/25' This is within the sandhya at Sunrise. Therefore its past"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "3600/4500",
+      "context": "asa yehrs are 100. Multiplying this by 13136145 we get 1300i3600/4500:l36lll5. This divided by 15 will give the )expired period a"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "5/33",
+      "context": "utral to the Sun. Therefore, the nct number of rays will be 5/33. r -  The longitude of the Moon (Chaodra spast) is 216122."
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6/40",
+      "context": "divided by 6 sives thg net nunler of thi *yr or'tn\" Moon as 6/40. No further correction is necessary as the Moon is in the h"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "3/38",
+      "context": "f Mars'is  1110156120  (Kuja or: Mars rpast)' ry  deducting 3/38 the rongitude in his o.rp a.uititation point from  it, the"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "0/51",
+      "context": "divide the product slgjl3by 6. The rays so obtained will be 0/51' Mercury is in the house of friend. Therefore, by murti- pl"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "9/5",
+      "context": "Jupiter is l0ll3l4|l 18 (Guru spast). By deducting lt from 9/5 the longitude' of Jupiter in nis aeep debiliation point, we"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "6/3",
+      "context": "Venus rve get 3814132116  which when divided by 6 wifl give 6/3 as the number of rays of venus. As vcnus is in the house of"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "0/50",
+      "context": "The longitude of Saturn is7ll3!2172a. By deducting fronr it 0/50 the longitude of saturn in his deep debilitation pJint we e"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "5/15",
+      "context": "2005, Phalguna, Shukla 3rd, Weduesday  leta Ghati and Fais 5/15. At that time spast Suryt (longitude of thc Sun) was l0l8l7"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "17/9",
+      "context": "9 Vikala). To kno* the amsas of thc Sun at birth convcrt l/17/9 iuto Kalas etc. Tbis will e,ome to 7719. Thc Kalas of thc 5"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "58/2",
+      "context": "ding this. product by the Vikalas of the motion of the Sun (58/2) that is. by 3842, the result will be 2ll5 (2L ghatikas and"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": ",Ch. Detatk GONTENTS PNEFACE Paget 16. DaSAS (FEr.I]ODSI OF PLANETS  505 '  Vimsottari, Attottsrl"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "the Antar. dasas. 59. EFFECTS OF THE ANTARDASAS IN THE DAS.7 OF KETA Effects of the Antardasas of Ketu, Venus, the Sun t"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "rding to the number of r.ekhas  i;.;;i  ;l.\"b,n,r,on of thc 12 houses  of a birthchur, in* i;;;;;,  ro deterninc the parr"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "eligious rites to be performed to obtain relief from them,' 17. REMEDIES FROM THE ET1IL EFFECTS OF BIRTH ON KRISHNA CHATUR"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": "he natural life span of a human being is generally taken as 120 years. Therefore, Vimsottari Dasa is considered to be the m"
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "alru, Jupiter, Saturn, Meicury. Ketu and Venus are 6,lO, 7, 18, 16, 19,l'1,7 and20 in thai order. This will be clear from"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "piter, Saturn, Meicury. Ketu and Venus are 6,lO, 7, 18, 16, 19,l'1,7 and20 in thai order. This will be clear from the tabl"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "hu Jupiter Saturn Mercury Ketu Yenus 6 t0'! I E l 6 l9 17 7 20 EqTtrti{ qrfrirE{  qq}t{  ail 5q{ | Efirrn wa-qqtei *at qI;"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "s already been mentioned in Vol.I ot this book, .tltere are 27 Nakshatras. One nakshatra measures t3\"-20' of aro and consi"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "f aro and consists of four padas (quarters) -of 3\"-20'each. 9 Padas (2.l Constellations) comprise a rasi (Sign). The rasi"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "Chittra (1,2) 00 13\"-20', 26'-4A', 00 10\"-00' 23\"-20', 0\" 6\"40' 20'-00' 00 . 3\"-20' 16'-40' 00 13\"-20', 26-40' 0\" 10\"-00'"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "0' 00 13\"-20', 26-40' 0\" 10\"-00' 23'-20',c 13\"-20', 26'-40' 30\"-00' 10'-00' 23\"-20' 30'-00' 6'40' 200-00' 30'-00' 3\"-2A' 1"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "l z 5 0 9 5 1 0 { 8 3 zti 40 2 7 0 2? 20 27 40 2 8 0 zrJ 20 28 40 2 9 0 zu20 s9 40 3 0 0 S u o E O 0 6 r 0  6 c  8 1 2 6"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "30 months. This will be 14 months, 25 days, 38 ghatikas and 36 palas. To this be added the periods of Abhijit and Sravan v"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "this be added the periods of Abhijit and Sravan viz. 30*30:60 months. The total will then be 74 months, 25 days,38 ghatik"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "g1 F' I ailrti  .qfilqtsfq a,f,t{  fifi-'aiE  ll i ocll 106-108'IntheDasaofthesignswiththeMandookiga in the Apsavya chakra,"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "(high dignitary) and maiir- tainer and protector of 100 to 1000 Pefsons. King (possesses  a very high adminis- trative or p"
+    }
+  ],
+  "connections": {
+    "planet_house": [
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun with planets in them. Thus therc will be 3 rasis in cach Bhawa (house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun, Mars, Rahu and saturn endowed with strength be in the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun in his sign of debilitation and in the Navamsa .of Saturn, is hemmed in between malefics ia the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun be in his sign of debili- lftion (Libra), be weak in the 6th, rhe gth or the l2th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun  Venus  Rahu Jupiter Satutn lvtercury Moon Mars There is no planct in the 8th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun be in the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon be in the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 3,
+        "snippet": "Moon be in her sign of debilitation or waning, there will be loss of wealth in her Dasa, If the Moon be in 3rd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon is in thc 5th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon be in the 6th, rhe gth or the l2th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon Mars There is no planct in the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon with the planets in them. In the third circle place the 12 house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars is in the 5th and the lor&of the 5th as.. rred with a malefic is in the ttb, (5) the Ascendan' and the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars, Rahu and saturn endowed with strength be in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars is in the 5th and the lor&of the 5th as.. rred with a malefic is in the ttb, (5) the Ascendan' and the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars in the 5th, (7) the sth house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars, the Ascendant is occupied by Rahu and the lord of the 5th house is in 6th, the 8th or tbe l2th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars in the 5th, (7) the sth house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars There is no planct in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars in the 8th house or Mars be with Saturn in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars, the Ascendant is occupied by Rahu and the lord of the 5th house is in 6th, the 8th or tbe l2th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter. If the rekiras in the 5th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter Satutn lvtercury Moon Mars There is no planct in the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter arr<J  Venus be associated  with Mars in the 8th house or Mars be with Saturn in the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter I Venus I  556  Briho Parasara lJs76 $ ttr'tr In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus belord of the 2nd or the 7th(two maraka house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus belord of the 2nd or the 7th(two maraka house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus  Rahu Jupiter Satutn lvtercury Moon Mars There is no planct in the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus be associated  with Mars in the 8th house or Mars be with Saturn in the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus I  556  Briho Parasara lJs76 $ ttr'tr In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "saturn endowed with strength be in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn, is hemmed in between malefics ia the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is in Scorpio. he number of rekhas in the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn in the 8th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu and saturn endowed with strength be in the 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu is in the 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu and the Moon is in thc 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 6,
+        "snippet": "Rahu and the lord of the 5th house is in 6th, the 8th or tbe l2th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu Jupiter Satutn lvtercury Moon Mars There is no planct in the 8th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu and the lord of the 5th house is in 6th, the 8th or tbe l2th house"
+      }
+    ],
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Cancer",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Leo",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Capricorn",
+        "count": 6
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Taurus",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Cancer",
+        "count": 10
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Libra",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Mithuna",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Kumbha",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aries",
+        "count": 9
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Taurus",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Scorpio",
+        "count": 9
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Taurus",
+        "count": 6
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Gemini",
+        "count": 8
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Cancer",
+        "count": 3
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Virgo",
+        "count": 9
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Libra",
+        "count": 4
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aquarius",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Taurus",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Virgo",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "count": 10
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Pisces",
+        "count": 9
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aries",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Taurus",
+        "count": 7
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Cancer",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Libra",
+        "count": 8
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aquarius",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aries",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Libra",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Scorpio",
+        "count": 4
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Capricorn",
+        "count": 9
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aquarius",
+        "count": 10
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aries",
+        "count": 4
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Taurus",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Cancer",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Scorpio",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Sagittarius",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aquarius",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Pisces",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Scorpio",
+        "count": 3
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aquarius",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga. The 6th, Sth and l2th are Dusthanas  (inauspicious  houses). All authorities on Hindu Astrology agree in this respect. But eveu for these houses, some recognised authorities have made exceptions in"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga effects in the follorving circumstances  : (l) If the 6th house is occupied or aspected by malefics and the lord of the 6th is in Dusthana (6th, 8th or l2th), such a disposition produces Harsha yoga."
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja yoga' well being in thc amily, profits an-d and gain of wealth in business' comlbrts or ,onuayon\"rr, marriage and other auspicious functions' increase n the number of cattle, gain of perfumes' comfo-rts o"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa, Malavya and Sasa causecl by Mars, Mercury, Jupiter, Venus and Saturn respectively. Dcscription of the characteristics  of these five types of great personalities 76. EFFECTS OF THE FIVE ELEMENTS_EAR"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa, Malarrya and Sasa yo.gas respectively. These yogas are called Panchamahapurusha  yogas and thc persotrs born in these yogas are known Panchamahapurushas (five types of great- personalities). tqqlE.q"
+      },
+      {
+        "yoga": "Malavya",
+        "snippet": "Malavya and Sasa causecl by Mars, Mercury, Jupiter, Venus and Saturn respectively. Dcscription of the characteristics  of these five types of great personalities 76. EFFECTS OF THE FIVE ELEMENTS_EARTH, AIR,"
+      },
+      {
+        "yoga": "Malavya",
+        "snippet": "Malavya native has beautiful lips and a slender waist. He is lustrous like the Moon and has fragrance in his body. He is of ordinary red complexion, has a medium stature and clean and beautiful teeth. His vo"
+      },
+      {
+        "yoga": "Ruchaka",
+        "snippet": "Ruchaka, Bhadra, Hamsa, Malavya and Sasa causecl by Mars, Mercury, Jupiter, Venus and Saturn respectively. Dcscription of the characteristics  of these five types of great personalities 76. EFFECTS OF THE FI"
+      },
+      {
+        "yoga": "Ruchaka",
+        "snippet": "Ruchaka, Bhadra, Hamsa, Malarrya and Sasa yo.gas respectively. These yogas are called Panchamahapurusha  yogas and thc persotrs born in these yogas are known Panchamahapurushas (five types of great- personal"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra, Hamsa, Malavya and Sasa causecl by Mars, Mercury, Jupiter, Venus and Saturn respectively. Dcscription of the characteristics  of these five types of great personalities 76. EFFECTS OF THE FIVE ELEME"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "BHADRA AND INAUSPrcrcUS YOGAS  IOI' Remedial measures  to be adopted and religious rites to be performed to obtain relief from the evil effects of birth in Bhadra, Tithi Kshaya, Vyatipata,Paridhi' Vajra etc"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa causecl by Mars, Mercury, Jupiter, Venus and Saturn respectively. Dcscription of the characteristics  of these five types of great personalities 76. EFFECTS OF THE FIVE ELEMENTS_EARTH, AIR, WATER, FI"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa of Aquarius Amsa-increase in wealth, in the Dasa of Capricorn Amsa-success in all kinds of ventures, in the Dasa of Sagirtarius Amsa-more enemies, in the Dasa of Aries Amsa -loss  of happiness and en"
+      },
+      {
+        "yoga": "Vimala",
+        "snippet": "Vimala Yoga. The person born in this Yoga will spend little and save much money. He will be good to every body. He will be happy and independent and will have respecta,ble professiorr or conduct .and will b"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "PARIJATA-Vaidyenarhe (3 Vots set) * SANKETA Nl DH|-Ramadeyatu r. GARGA HORA-Sage Garga f BHRIGU SUTRAM-Mahershi Bhrigu .(Ask  For Detailed List) (Largest Book store of Astrologicel Books) Please Contact Ranja"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata'also. Jataka Parijata says that whatever effects may accruc from tlre horoscopes  of femals that are applicable only to men' shnuld be ascribed to the husband. The good and evil affecting thcii pr\"rt"
+      }
+    ],
+    "dasha_mentions": [
+      {
+        "term": "vimshottari",
+        "count": 1
+      },
+      {
+        "term": "kalachakra",
+        "count": 24
+      },
+      {
+        "term": "yogini",
+        "count": 6
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Ashwini",
+        "count": 4
+      },
+      {
+        "nakshatra": "Bharani",
+        "count": 10
+      },
+      {
+        "nakshatra": "Krittika",
+        "count": 12
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 15
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 4
+      },
+      {
+        "nakshatra": "Ashlesha",
+        "count": 3
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 4
+      },
+      {
+        "nakshatra": "Swati",
+        "count": 4
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 6
+      },
+      {
+        "nakshatra": "Jyeshtha",
+        "count": 2
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 3
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 15,
+      "heading": "Chapter 46\nDasas (Periods) of planets"
+    },
+    {
+      "page": 17,
+      "heading": "Chapter 46 \nS0Z"
+    },
+    {
+      "page": 19,
+      "heading": "Chapter 46 \n509"
+    },
+    {
+      "page": 27,
+      "heading": "Chapter 46 \n517'"
+    },
+    {
+      "page": 29,
+      "heading": "Chapter 46\nEst{r* sstTa€rtfqfffiqr arc{itf,* |"
+    },
+    {
+      "page": 31,
+      "heading": "Chapter 46\nDasa is of 13 r'uers. Thc balance of Dasa at birth is to be"
+    },
+    {
+      "page": 35,
+      "heading": "Chapter 46\n----:---"
+    },
+    {
+      "page": 37,
+      "heading": "Chapter 46\nif tlc birth is at night and the Ascendant be in the- Hora of the"
+    },
+    {
+      "page": 39,
+      "heading": "Chapter 46\n629"
+    },
+    {
+      "page": 41,
+      "heading": "Chapter 4i\n61. fn the.second"
+    },
+    {
+      "page": 43,
+      "heading": "Chapter 46\ns{d"
+    },
+    {
+      "page": 47,
+      "heading": "Chapter 46\n537"
+    },
+    {
+      "page": 51,
+      "heading": "Chapter 46 \n541"
+    },
+    {
+      "page": 53,
+      "heading": "Chapter 46\nrqqinl q: r tt gfr quqt r"
+    },
+    {
+      "page": 55,
+      "heading": "Chapter 46\nqqcml"
+    },
+    {
+      "page": 57,
+      "heading": "Chapter 46\nIf the movement be from Pisces to Scorpio, there will be"
+    },
+    {
+      "page": 61,
+      "heading": "Chapter 46\ngq?r: I"
+    },
+    {
+      "page": 65,
+      "heading": "Chapter 46 \nS55"
+    },
+    {
+      "page": 67,
+      "heading": "Chapter 46\nare the Dasa spans of the movable"
+    },
+    {
+      "page": 69,
+      "heading": "Chapter 46 \nSjg"
+    },
+    {
+      "page": 73,
+      "heading": "Chapter 46 \n563"
+    },
+    {
+      "page": 83,
+      "heading": "Chapter 46\n573"
+    },
+    {
+      "page": 86,
+      "heading": "Chapter 47\nEffects of Dasas"
+    },
+    {
+      "page": 89,
+      "heading": "Chapter 47\nn{qnnfut,fst"
+    },
+    {
+      "page": 93,
+      "heading": "Chapter 47 \n5g3"
+    },
+    {
+      "page": 95,
+      "heading": "Chapter 47\n585"
+    },
+    {
+      "page": 103,
+      "heading": "Chapter 48 \n59:t"
+    },
+    {
+      "page": 107,
+      "heading": "Chapter 49\n{rfl{t* qqsrdrerr teQ a iqfEttq5q I"
+    },
+    {
+      "page": 111,
+      "heading": "Chapter 49 \n601"
+    },
+    {
+      "page": 115,
+      "heading": "Chapter 50\n605"
+    },
+    {
+      "page": 117,
+      "heading": "Chapter S0 \n607"
+    },
+    {
+      "page": 119,
+      "heading": "Chapter 50 \n609"
+    },
+    {
+      "page": 123,
+      "heading": "Chapter 50 \n6lI"
+    },
+    {
+      "page": 128,
+      "heading": "Chapter 5l\nWorking out of Antardasas (sub"
+    },
+    {
+      "page": 133,
+      "heading": "Chapter 5l\n623"
+    },
+    {
+      "page": 137,
+      "heading": "Chapter 52\nEffects of the Antardasas in the"
+    },
+    {
+      "page": 141,
+      "heading": "Chapter 52\nqtqrRf,ulq'lfil{q"
+    },
+    {
+      "page": 144,
+      "heading": "Chapter 52 \n633"
+    },
+    {
+      "page": 145,
+      "heading": "Chapter 52\n635"
+    },
+    {
+      "page": 149,
+      "heading": "Chapter 53\nEffects of the Antarda$as in the"
+    },
+    {
+      "page": 151,
+      "heading": "Chapter 53 \n641"
+    },
+    {
+      "page": 155,
+      "heading": "Chapter 53\n645"
+    },
+    {
+      "page": 157,
+      "heading": "Chapter 53\nal the commencernent of"
+    },
+    {
+      "page": 163,
+      "heading": "Chapter 54\n653"
+    },
+    {
+      "page": 167,
+      "heading": "Chapter 54\n657"
+    },
+    {
+      "page": 169,
+      "heading": "Chapter 54\nrrqqr({nfanq"
+    },
+    {
+      "page": 171,
+      "heading": "Chapter 54\nthere rvill be functions of songs and dances and bathing in holy"
+    },
+    {
+      "page": 173,
+      "heading": "Chapter 54\n70-73. Acquisition of more kingdom(promotion to a higl"
+    },
+    {
+      "page": 174,
+      "heading": "Chapter 55\nEffects in the Antardasas of Rahu"
+    },
+    {
+      "page": 175,
+      "heading": "Chapter 55\nGftw;'awQ"
+    },
+    {
+      "page": 181,
+      "heading": "Chapter 55 \n6Tl"
+    },
+    {
+      "page": 183,
+      "heading": "Chapter 55 \n673"
+    },
+    {
+      "page": 185,
+      "heading": "Chapter 55 \n6?5"
+    },
+    {
+      "page": 187,
+      "heading": "Chapter 55\n80-82. Distress to wife, children and co-borns, to"
+    },
+    {
+      "page": 188,
+      "heading": "Chapter 56\nEffects of the Antardasas of Jupiter"
+    },
+    {
+      "page": 189,
+      "heading": "Chapter 56\nin hi: Jsfililated Navamsa, or in"
+    },
+    {
+      "page": 191,
+      "heading": "Chapter 56 \n68t"
+    },
+    {
+      "page": 195,
+      "heading": "Chapter 56 \n6g5"
+    },
+    {
+      "page": 199,
+      "heading": "Chapter 56\nThere will be physical distress and mental agony if Mars be the"
+    },
+    {
+      "page": 201,
+      "heading": "Chapter 57\nEffects of the Antardas.as in the"
+    },
+    {
+      "page": 205,
+      "heading": "Chapter 57\nfej"
+    },
+    {
+      "page": 213,
+      "heading": "Chapter 57\nqr6Facsqi"
+    },
+    {
+      "page": 215,
+      "heading": "Chapter 5E\nfarrw6td"
+    },
+    {
+      "page": 217,
+      "heading": "Chapter 58\nryith malefics in the 8th or the"
+    },
+    {
+      "page": 219,
+      "heading": "Chapter 58\n23-24. Fear or danger from thieve!' fire and weepons,"
+    },
+    {
+      "page": 221,
+      "heading": "Chapter 58\nEffccts of the Antardasa of lVlars in the Dasa of Mercury"
+    },
+    {
+      "page": 223,
+      "heading": "Chapter 58 \n713"
+    },
+    {
+      "page": 227,
+      "heading": "Chapter 59\nEffects of the Antardasas in the"
+    },
+    {
+      "page": 229,
+      "heading": "Chapter 59\nbe in kentjra, trikona, the 3rd or ths llth from tbe lorr: ol the"
+    },
+    {
+      "page": 231,
+      "heading": "Chapter 59 \n721"
+    },
+    {
+      "page": 233,
+      "heading": "Chapter 59\nEffects of the Antardasa of Mars in the Dasa of Ketu"
+    },
+    {
+      "page": 235,
+      "heading": "Chapter 59\nbe associated"
+    },
+    {
+      "page": 237,
+      "heading": "Chapter 59 \n72.t"
+    },
+    {
+      "page": 240,
+      "heading": "Chapter 60\nEffects of the Antardasas in the"
+    },
+    {
+      "page": 241,
+      "heading": "Chapter 6O \n731"
+    },
+    {
+      "page": 243,
+      "heading": "Chapter 60\n733"
+    },
+    {
+      "page": 247,
+      "heading": "Chapter 60\nqrtvrrffgrlrrqr*"
+    },
+    {
+      "page": 249,
+      "heading": "Chapter 60\n73y"
+    },
+    {
+      "page": 251,
+      "heading": "Chapter 60\nsign cf exaltation, in his own sign or be related to a yogakarak:r"
+    },
+    {
+      "page": 252,
+      "heading": "Chapter 61\nEffects of Pratyantar Dasas in the"
+    },
+    {
+      "page": 253,
+      "heading": "Chapter 6i \n743"
+    },
+    {
+      "page": 257,
+      "heading": "Chapter 61 \n747"
+    },
+    {
+      "page": 265,
+      "heading": "Chapter 61 \n7-':"
+    },
+    {
+      "page": 267,
+      "heading": "Chapter 6l\n757"
+    },
+    {
+      "page": 269,
+      "heading": "Chapter 6l\nl'lffects of Pratyantar flasas in the Antardasir of Saturn"
+    },
+    {
+      "page": 273,
+      "heading": "Chapter 61 \n763"
+    },
+    {
+      "page": 279,
+      "heading": "Chapter 6t \n769"
+    },
+    {
+      "page": 280,
+      "heading": "Chapter 62\nEffects of the Sookshmantar"
+    },
+    {
+      "page": 283,
+      "heading": "Chapter 62 \n7;3"
+    },
+    {
+      "page": 291,
+      "heading": "Chapter 62'"
+    },
+    {
+      "page": 295,
+      "heading": "Chapter 53\nEffects of Prana Dasas in"
+    },
+    {
+      "page": 307,
+      "heading": "Chapter 63 -"
+    },
+    {
+      "page": 313,
+      "heading": "Chapter 64 \n803"
+    },
+    {
+      "page": 317,
+      "heading": "Chapter 64 \ngo7"
+    },
+    {
+      "page": 319,
+      "heading": "Chapter 64 \n809"
+    },
+    {
+      "page": 321,
+      "heading": "Chapter 64 \n811"
+    },
+    {
+      "page": 327,
+      "heading": "Chapter g4 \n,S17"
+    },
+    {
+      "page": 335,
+      "heading": "Chapter 64 \n825"
+    },
+    {
+      "page": 341,
+      "heading": "Chapter 64\n831 ."
+    },
+    {
+      "page": 347,
+      "heading": "Chapter 65\nl';o\"*'Dangcr frorn the king."
+    },
+    {
+      "page": 353,
+      "heading": "Chapter 66 \n843"
+    },
+    {
+      "page": 357,
+      "heading": "Chapter 66\n20.22.IntlreMoon'sAshtakavarga,6.planetsinthe9tlt"
+    },
+    {
+      "page": 359,
+      "heading": "Chapter G6\nlOth : none in the I l th : the Sun, Saturn, Mercur-v, the Moon,"
+    },
+    {
+      "page": 367,
+      "heading": "Chapter 66 \n857"
+    },
+    {
+      "page": 377,
+      "heading": "Chapter 67\nTrikona Shbdhana (rectification)"
+    },
+    {
+      "page": 379,
+      "heading": "Chapter 67\n. \nRekhrtbakra of Sun's Ashtskrvarga"
+    },
+    {
+      "page": 385,
+      "heading": "Chapter 68\nEkadhipatl a Shodhana in the"
+    },
+    {
+      "page": 387,
+      "heading": "Chapter GB \nE?T"
+    },
+    {
+      "page": 388,
+      "heading": "Chapter 69\nliql; Tsdewn"
+    },
+    {
+      "page": 389,
+      "heading": "Chapter 69\n879"
+    },
+    {
+      "page": 393,
+      "heading": "Chapter 70\n19. Moola"
+    },
+    {
+      "page": 405,
+      "heading": "Chapter 7l\nDetermination of Longevity Through"
+    },
+    {
+      "page": 409,
+      "heading": "Chapter T2 \n899"
+    },
+    {
+      "page": 415,
+      "heading": "Chapter 73\nEffects of the Rays of the Planents"
+    },
+    {
+      "page": 423,
+      "heading": "Chapter 74\nrEald qrha sqq qnr rqrfain: r"
+    },
+    {
+      "page": 433,
+      "heading": "Chapter 74\nvqqa ].qd A rTt$ q s?i qtq r"
+    },
+    {
+      "page": 435,
+      "heading": "Chapter 75\n925"
+    },
+    {
+      "page": 437,
+      "heading": "Chapter 7S\n927"
+    },
+    {
+      "page": 441,
+      "heading": "Chapter 76\nTrfu"
+    },
+    {
+      "page": 443,
+      "heading": "Chapter 77 \n. \n935"
+    },
+    {
+      "page": 445,
+      "heading": "Chapter 77 \n93J"
+    },
+    {
+      "page": 453,
+      "heading": "Chapter 78\n947"
+    },
+    {
+      "page": 458,
+      "heading": "Chapter 79\nYogas Leading to Ascetism"
+    },
+    {
+      "page": 463,
+      "heading": "Chapter 80\nFemale Hmoscopy"
+    },
+    {
+      "page": 465,
+      "heading": "Chapter 8o \n955"
+    },
+    {
+      "page": 469,
+      "heading": "Chapter 8o \n-95Y\""
+    },
+    {
+      "page": 471,
+      "heading": "Chapter 8A \n961"
+    },
+    {
+      "page": 475,
+      "heading": "Chapter 8O \n955"
+    },
+    {
+      "page": 481,
+      "heading": "Chapter 81 \n971"
+    },
+    {
+      "page": 483,
+      "heading": "Chapter 8l . \ng73"
+    },
+    {
+      "page": 485,
+      "heading": "Chapter 81 \n975"
+    },
+    {
+      "page": 491,
+      "heading": "Chapter 8l\nHeed"
+    },
+    {
+      "page": 492,
+      "heading": "Chapter 82\nEffects of Moleso Marks, Signs etc.o"
+    },
+    {
+      "page": 493,
+      "heading": "Chapter 82 \n983"
+    },
+    {
+      "page": 509,
+      "heading": "Chapter 83\ni{clq5qrrflil??qr"
+    },
+    {
+      "page": 513,
+      "heading": "Chapter 84\nRemedial measures to obtain relief"
+    },
+    {
+      "page": 519,
+      "heading": "Chapter 85\nInauspicious Births"
+    },
+    {
+      "page": 525,
+      "heading": "Chapter 8E\nRemedies from evil Effects of birth"
+    },
+    {
+      "page": 527,
+      "heading": "Chapter 89\nRemedies from Nakshatra Birth"
+    },
+    {
+      "page": 529,
+      "heading": "Chapter 90\nl-2. The sage said-O"
+    },
+    {
+      "page": 533,
+      "heading": "Chapter 91 .\nRemedies"
+    },
+    {
+      "page": 537,
+      "heading": "Chapter 92\nLagns Gandanta"
+    },
+    {
+      "page": 539,
+      "heading": "Chapter 93\nRemedies from Birth in"
+    },
+    {
+      "page": 541,
+      "heading": "Chapter 93\n{qtqtd q irqFq"
+    },
+    {
+      "page": 551,
+      "heading": "Chapter 97\nt01t"
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 164,
+    "planet_house_connections": 40,
+    "planet_rasi_connections": 70,
+    "yoga_mentions": 16,
+    "nakshatra_mentions": 11,
+    "dasha_mentions": 3,
+    "chapters_detected": 145
+  }
+}

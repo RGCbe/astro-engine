@@ -1,0 +1,615 @@
+{
+  "retrograde": {
+    "Sun": {
+      "retrograde": false,
+      "speed": 0.9602
+    },
+    "Moon": {
+      "retrograde": false,
+      "speed": 12.0867
+    },
+    "Mars": {
+      "retrograde": false,
+      "speed": 0.7323
+    },
+    "Mercury": {
+      "retrograde": true,
+      "speed": -0.1582
+    },
+    "Jupiter": {
+      "retrograde": true,
+      "speed": -0.064
+    },
+    "Venus": {
+      "retrograde": true,
+      "speed": -0.2161
+    },
+    "Saturn": {
+      "retrograde": false,
+      "speed": 0.082
+    },
+    "Rahu": {
+      "retrograde": true,
+      "speed": -0.053,
+      "note": "Mean node — always retrograde"
+    },
+    "Ketu": {
+      "retrograde": true,
+      "speed": -0.053,
+      "note": "Always retrograde (opposite of Rahu)"
+    }
+  },
+  "full_shadbala": {
+    "Sun": {
+      "sthana_bala": {
+        "uchcha": 49.71,
+        "saptavargaja": 15,
+        "ojayugma": 0,
+        "kendra": 15,
+        "drekkana": 0,
+        "total": 79.71
+      },
+      "dig_bala": 20.0,
+      "kala_bala": 30,
+      "cheshta_bala": 30,
+      "naisargika_bala": 60.0,
+      "drik_bala": 0,
+      "total_virupas": 219.71,
+      "total_rupas": 3.662,
+      "required_min": 390,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    },
+    "Moon": {
+      "sthana_bala": {
+        "uchcha": 27.27,
+        "saptavargaja": 22.5,
+        "ojayugma": 0,
+        "kendra": 15,
+        "drekkana": 0,
+        "total": 64.77
+      },
+      "dig_bala": 10.0,
+      "kala_bala": 60,
+      "cheshta_bala": 30,
+      "naisargika_bala": 51.43,
+      "drik_bala": 0,
+      "total_virupas": 216.2,
+      "total_rupas": 3.603,
+      "required_min": 360,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    },
+    "Mars": {
+      "sthana_bala": {
+        "uchcha": 31.61,
+        "saptavargaja": 30,
+        "ojayugma": 15,
+        "kendra": 30,
+        "drekkana": 0,
+        "total": 106.61
+      },
+      "dig_bala": 10.0,
+      "kala_bala": 60,
+      "cheshta_bala": 30,
+      "naisargika_bala": 17.14,
+      "drik_bala": 0,
+      "total_virupas": 223.75,
+      "total_rupas": 3.729,
+      "required_min": 300,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    },
+    "Mercury": {
+      "sthana_bala": {
+        "uchcha": 13.67,
+        "saptavargaja": 15,
+        "ojayugma": 7.5,
+        "kendra": 30,
+        "drekkana": 0,
+        "total": 66.17
+      },
+      "dig_bala": 20.0,
+      "kala_bala": 30,
+      "cheshta_bala": 30,
+      "naisargika_bala": 25.71,
+      "drik_bala": 0,
+      "total_virupas": 171.88,
+      "total_rupas": 2.865,
+      "required_min": 420,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    },
+    "Jupiter": {
+      "sthana_bala": {
+        "uchcha": 3.95,
+        "saptavargaja": 30,
+        "ojayugma": 15,
+        "kendra": 60,
+        "drekkana": 0,
+        "total": 108.95
+      },
+      "dig_bala": 60.0,
+      "kala_bala": 30,
+      "cheshta_bala": 30,
+      "naisargika_bala": 34.29,
+      "drik_bala": 0,
+      "total_virupas": 263.24,
+      "total_rupas": 4.387,
+      "required_min": 390,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    },
+    "Venus": {
+      "sthana_bala": {
+        "uchcha": 37.7,
+        "saptavargaja": 22.5,
+        "ojayugma": 0,
+        "kendra": 60,
+        "drekkana": 0,
+        "total": 120.2
+      },
+      "dig_bala": 30.0,
+      "kala_bala": 30,
+      "cheshta_bala": 30,
+      "naisargika_bala": 42.86,
+      "drik_bala": 0,
+      "total_virupas": 253.06,
+      "total_rupas": 4.218,
+      "required_min": 330,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    },
+    "Saturn": {
+      "sthana_bala": {
+        "uchcha": 12.92,
+        "saptavargaja": 15,
+        "ojayugma": 0,
+        "kendra": 60,
+        "drekkana": 15,
+        "total": 102.92
+      },
+      "dig_bala": 30.0,
+      "kala_bala": 60,
+      "cheshta_bala": 30,
+      "naisargika_bala": 8.57,
+      "drik_bala": 0,
+      "total_virupas": 231.49,
+      "total_rupas": 3.858,
+      "required_min": 300,
+      "status": "weak",
+      "source": "BPHS Ch 27 + our DNA extraction from 7 books"
+    }
+  },
+  "bhava_bala": {
+    "1": {
+      "lord": "Jupiter",
+      "lord_strength": 108.95,
+      "dig_bonus": 60,
+      "occupant_bonus": 20,
+      "total": 188.95,
+      "status": "weak"
+    },
+    "2": {
+      "lord": "Saturn",
+      "lord_strength": 102.92,
+      "dig_bonus": 30,
+      "occupant_bonus": 0,
+      "total": 132.92,
+      "status": "weak"
+    },
+    "3": {
+      "lord": "Saturn",
+      "lord_strength": 102.92,
+      "dig_bonus": 30,
+      "occupant_bonus": 0,
+      "total": 132.92,
+      "status": "weak"
+    },
+    "4": {
+      "lord": "Jupiter",
+      "lord_strength": 108.95,
+      "dig_bonus": 60,
+      "occupant_bonus": -20,
+      "total": 148.95,
+      "status": "weak"
+    },
+    "5": {
+      "lord": "Mars",
+      "lord_strength": 106.61,
+      "dig_bonus": 30,
+      "occupant_bonus": 10,
+      "total": 146.61,
+      "status": "weak"
+    },
+    "6": {
+      "lord": "Venus",
+      "lord_strength": 120.2,
+      "dig_bonus": 30,
+      "occupant_bonus": -10,
+      "total": 140.2,
+      "status": "weak"
+    },
+    "7": {
+      "lord": "Mercury",
+      "lord_strength": 66.17,
+      "dig_bonus": 60,
+      "occupant_bonus": 20,
+      "total": 146.17,
+      "status": "weak"
+    },
+    "8": {
+      "lord": "Moon",
+      "lord_strength": 64.77,
+      "dig_bonus": 30,
+      "occupant_bonus": 0,
+      "total": 94.77,
+      "status": "weak"
+    },
+    "9": {
+      "lord": "Sun",
+      "lord_strength": 79.71,
+      "dig_bonus": 30,
+      "occupant_bonus": 20,
+      "total": 129.71,
+      "status": "weak"
+    },
+    "10": {
+      "lord": "Mercury",
+      "lord_strength": 66.17,
+      "dig_bonus": 60,
+      "occupant_bonus": -10,
+      "total": 116.17,
+      "status": "weak"
+    },
+    "11": {
+      "lord": "Venus",
+      "lord_strength": 120.2,
+      "dig_bonus": 30,
+      "occupant_bonus": 0,
+      "total": 150.2,
+      "status": "weak"
+    },
+    "12": {
+      "lord": "Mars",
+      "lord_strength": 106.61,
+      "dig_bonus": 30,
+      "occupant_bonus": 0,
+      "total": 136.61,
+      "status": "weak"
+    }
+  },
+  "ishta_kashta": {
+    "Sun": {
+      "ishta": 38.62,
+      "kashta": 17.57,
+      "balance": 21.05,
+      "tendency": "auspicious"
+    },
+    "Moon": {
+      "ishta": 28.6,
+      "kashta": 31.34,
+      "balance": -2.73,
+      "tendency": "challenging"
+    },
+    "Mars": {
+      "ishta": 30.79,
+      "kashta": 29.18,
+      "balance": 1.61,
+      "tendency": "auspicious"
+    },
+    "Mercury": {
+      "ishta": 20.25,
+      "kashta": 37.28,
+      "balance": -17.03,
+      "tendency": "challenging"
+    },
+    "Jupiter": {
+      "ishta": 10.89,
+      "kashta": 41.01,
+      "balance": -30.12,
+      "tendency": "challenging"
+    },
+    "Venus": {
+      "ishta": 33.63,
+      "kashta": 25.87,
+      "balance": 7.77,
+      "tendency": "auspicious"
+    },
+    "Saturn": {
+      "ishta": 19.69,
+      "kashta": 37.58,
+      "balance": -17.89,
+      "tendency": "challenging"
+    }
+  },
+  "narayana_dasha": [
+    {
+      "rasi": "Sagittarius",
+      "lord": "Jupiter",
+      "years": 11,
+      "start": "1996-05-25",
+      "end": "2007-05-26",
+      "age_from": 0.0,
+      "age_to": 11.0
+    },
+    {
+      "rasi": "Capricorn",
+      "lord": "Saturn",
+      "years": 2,
+      "start": "2007-05-26",
+      "end": "2009-05-26",
+      "age_from": 11.0,
+      "age_to": 13.0
+    },
+    {
+      "rasi": "Aquarius",
+      "lord": "Saturn",
+      "years": 1,
+      "start": "2009-05-26",
+      "end": "2010-05-26",
+      "age_from": 13.0,
+      "age_to": 14.0
+    },
+    {
+      "rasi": "Pisces",
+      "lord": "Jupiter",
+      "years": 9,
+      "start": "2010-05-26",
+      "end": "2019-05-26",
+      "age_from": 14.0,
+      "age_to": 23.0
+    },
+    {
+      "rasi": "Aries",
+      "lord": "Mars",
+      "years": 11,
+      "start": "2019-05-26",
+      "end": "2030-05-26",
+      "age_from": 23.0,
+      "age_to": 34.0
+    },
+    {
+      "rasi": "Taurus",
+      "lord": "Venus",
+      "years": 1,
+      "start": "2030-05-26",
+      "end": "2031-05-26",
+      "age_from": 34.0,
+      "age_to": 35.0
+    },
+    {
+      "rasi": "Gemini",
+      "lord": "Mercury",
+      "years": 10,
+      "start": "2031-05-26",
+      "end": "2041-05-26",
+      "age_from": 35.0,
+      "age_to": 45.0
+    },
+    {
+      "rasi": "Cancer",
+      "lord": "Moon",
+      "years": 1,
+      "start": "2041-05-26",
+      "end": "2042-05-26",
+      "age_from": 45.0,
+      "age_to": 46.0
+    },
+    {
+      "rasi": "Leo",
+      "lord": "Sun",
+      "years": 9,
+      "start": "2042-05-26",
+      "end": "2051-05-26",
+      "age_from": 46.0,
+      "age_to": 55.0
+    },
+    {
+      "rasi": "Virgo",
+      "lord": "Mercury",
+      "years": 7,
+      "start": "2051-05-26",
+      "end": "2058-05-26",
+      "age_from": 55.0,
+      "age_to": 62.0
+    },
+    {
+      "rasi": "Libra",
+      "lord": "Venus",
+      "years": 8,
+      "start": "2058-05-26",
+      "end": "2066-05-26",
+      "age_from": 62.0,
+      "age_to": 70.0
+    },
+    {
+      "rasi": "Scorpio",
+      "lord": "Mars",
+      "years": 5,
+      "start": "2066-05-26",
+      "end": "2071-05-26",
+      "age_from": 70.0,
+      "age_to": 75.0
+    }
+  ],
+  "yogini_dasha": [
+    {
+      "yogini": "Pingala",
+      "lord": "Sun",
+      "years": 2,
+      "start": "1996-05-25",
+      "end": "1998-05-26",
+      "age_from": 0.0,
+      "age_to": 2.0
+    },
+    {
+      "yogini": "Dhanya",
+      "lord": "Jupiter",
+      "years": 3,
+      "start": "1998-05-26",
+      "end": "2001-05-26",
+      "age_from": 2.0,
+      "age_to": 5.0
+    },
+    {
+      "yogini": "Bhramari",
+      "lord": "Mars",
+      "years": 4,
+      "start": "2001-05-26",
+      "end": "2005-05-26",
+      "age_from": 5.0,
+      "age_to": 9.0
+    },
+    {
+      "yogini": "Bhadrika",
+      "lord": "Mercury",
+      "years": 5,
+      "start": "2005-05-26",
+      "end": "2010-05-26",
+      "age_from": 9.0,
+      "age_to": 14.0
+    },
+    {
+      "yogini": "Ulka",
+      "lord": "Saturn",
+      "years": 6,
+      "start": "2010-05-26",
+      "end": "2016-05-25",
+      "age_from": 14.0,
+      "age_to": 20.0
+    },
+    {
+      "yogini": "Siddha",
+      "lord": "Venus",
+      "years": 7,
+      "start": "2016-05-25",
+      "end": "2023-05-26",
+      "age_from": 20.0,
+      "age_to": 27.0
+    },
+    {
+      "yogini": "Sankata",
+      "lord": "Rahu",
+      "years": 8,
+      "start": "2023-05-26",
+      "end": "2031-05-26",
+      "age_from": 27.0,
+      "age_to": 35.0
+    },
+    {
+      "yogini": "Mangala",
+      "lord": "Moon",
+      "years": 1,
+      "start": "2031-05-26",
+      "end": "2032-05-25",
+      "age_from": 35.0,
+      "age_to": 36.0
+    },
+    {
+      "yogini": "Pingala",
+      "lord": "Sun",
+      "years": 2,
+      "start": "2032-05-25",
+      "end": "2034-05-26",
+      "age_from": 36.0,
+      "age_to": 38.0
+    },
+    {
+      "yogini": "Dhanya",
+      "lord": "Jupiter",
+      "years": 3,
+      "start": "2034-05-26",
+      "end": "2037-05-26",
+      "age_from": 38.0,
+      "age_to": 41.0
+    }
+  ],
+  "sahams": {
+    "Punya_Saham": {
+      "longitude": 335.55,
+      "rasi": "Pisces",
+      "house": 4
+    },
+    "Vidya_Saham": {
+      "longitude": 350.4,
+      "rasi": "Pisces",
+      "house": 4
+    },
+    "Yasas_Saham": {
+      "longitude": 172.84,
+      "rasi": "Virgo",
+      "house": 10
+    },
+    "Mitra_Saham": {
+      "longitude": 203.54,
+      "rasi": "Libra",
+      "house": 11
+    },
+    "Mahatmya_Saham": {
+      "longitude": 71.56,
+      "rasi": "Gemini",
+      "house": 7
+    },
+    "Asha_Saham": {
+      "longitude": 95.28,
+      "rasi": "Cancer",
+      "house": 8
+    },
+    "Samartha_Saham": {
+      "longitude": 119.17,
+      "rasi": "Cancer",
+      "house": 8
+    },
+    "Bhratru_Saham": {
+      "longitude": 167.16,
+      "rasi": "Virgo",
+      "house": 10
+    },
+    "Pitri_Saham": {
+      "longitude": 185.6,
+      "rasi": "Libra",
+      "house": 11
+    },
+    "Matri_Saham": {
+      "longitude": 312.5,
+      "rasi": "Aquarius",
+      "house": 3
+    },
+    "Putra_Saham": {
+      "longitude": 17.21,
+      "rasi": "Aries",
+      "house": 5
+    },
+    "Jaya_Saham": {
+      "longitude": 125.23,
+      "rasi": "Leo",
+      "house": 9
+    },
+    "Karma_Saham": {
+      "longitude": 227.54,
+      "rasi": "Scorpio",
+      "house": 12
+    },
+    "Vanija_Saham": {
+      "longitude": 207.33,
+      "rasi": "Libra",
+      "house": 11
+    },
+    "Vivaha_Saham": {
+      "longitude": 327.91,
+      "rasi": "Aquarius",
+      "house": 3
+    },
+    "Roga_Saham": {
+      "longitude": 114.05,
+      "rasi": "Cancer",
+      "house": 8
+    },
+    "Mrityu_Saham": {
+      "longitude": 125.95,
+      "rasi": "Leo",
+      "house": 9
+    }
+  }
+}

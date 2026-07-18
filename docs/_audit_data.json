@@ -1,0 +1,722 @@
+{
+  "claimed_total": 312,
+  "unique_firing": 120,
+  "literal_stubs": [
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Birth in Bhadra Karana"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Bal-Arishta (newborn period)"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Madhya-Arishta (mid-life)"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Yoga-Arishta (specific yoga)"
+    ]
+  ],
+  "never_fire_on_4_charts": [
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars in 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn in 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn in 8"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Rahu in 8"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn in 1"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Sun debil 1H"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Moon debil 4H"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Rahu+Saturn"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Sun+Mars 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Sun+Saturn 1"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars+Rahu"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Moon+Mars 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mercury+Saturn 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Venus+Saturn"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Jupiter debil"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mercury debil"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Moon-Saturn 4"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn 11"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars 12"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Sun-Rahu 1"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Moon-Rahu"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars-Saturn 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "8L in Lagna"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars in 7"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn 7 weak"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Moon in 8"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mercury 8"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Venus 8"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Lagna lord debil"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Lagna with Rahu"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Lagna with Ketu"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn-Moon 1"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Sun-Saturn-Mars all in 6"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "8L+12L conjunct"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Moon between malefics (papa-kartari)"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Lagna between malefics"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars in 4"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Saturn-Moon 12"
+    ],
+    [
+      "DISEASE_YOGAS_DATA",
+      "Mars-Ketu"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Ketu in 1"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Ketu in 9"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Ketu in 12"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Jupiter in 9"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "9L in 12"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Jup+Ketu"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Moon-Ketu"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Sun-Ketu"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "4 in fixed signs"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Moon 12"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "Sun in 12"
+    ],
+    [
+      "SADHU_YOGAS_DATA",
+      "12 lord in own 12"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Sun 10 strong"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Saturn 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Mars 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Mercury 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Jupiter 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Venus 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Ketu 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "10L in 11"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Saturn-Mars 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Sun-Mercury 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Jup-Venus 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Mars-Saturn"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Sun-Saturn 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "10L exalted"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Career Vipareeta 6L 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Career Vipareeta 8L 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Career Vipareeta 12L 10"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Saturn 6"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Mars 3"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Mercury 3"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Jupiter 5"
+    ],
+    [
+      "CAREER_YOGAS_DATA",
+      "Sun-Jupiter 9"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Venus exalted"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "7L in 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "7L exalted"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Jupiter 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Mars 7 weak"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Sat 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Rahu 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Ketu 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Sun 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Venus debil"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Venus-Mars 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Venus-Saturn"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "7H with 2 malefics"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Two marriage 7L+9L"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Rahu-Moon"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Jup-Venus"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Mars+Saturn 7"
+    ],
+    [
+      "MARRIAGE_YOGAS_DATA",
+      "Multiple benefics 7H"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "Rahu in 12"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "9L in 12"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "Moon-Rahu 12"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "Mars in 3"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "Mars in 9"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "All 7 in movable"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "4L in 9/12"
+    ],
+    [
+      "TRAVEL_YOGAS_DATA",
+      "Rahu-Mercury 9"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Sarpa"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Gada"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Veena"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Damini"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Kuta"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Yupa"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Shara"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Shakti"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Danda"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Kedar"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Pasha"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Vajra"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Ayudha"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Yava"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Gola"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Naukata"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Kalanidhi"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Vaapi"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Hala"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Chamara"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Dhwaja"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Bheri"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Khadga"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Kusum"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Sanyasi"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Galla"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Dharanidhara"
+    ],
+    [
+      "NABHASA_YOGAS_DATA",
+      "Vipreeta-Sarpa"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "2L in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "2L in 2"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "11L in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "9L in 2"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "9L in 5"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "9L in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "5L in 2"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Jup in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Venus in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Mercury in 2"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Sat in 2 strong"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Sat in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Mars in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Sun in 11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "9L+11L conjunct"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "All 4 wealth-lords in own"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Jup+Venus+Merc 2/11"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Vipareeta 6L 6"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Vipareeta 8L 8"
+    ],
+    [
+      "DHANA_YOGAS_DATA",
+      "Vipareeta 12L 12"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Rahu in 1 with malefic"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Lagna lord weak"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Birth on Amavasya/Purnima eclipse-axis"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Lagna-Saturn-Mars all in dusthana"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Moon weak (debil + malefic close)"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "12L+lagna lord in dusthana"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Sun-Rahu (grahan)"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Moon-Rahu (chandra-grahan)"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Saturn lagna debil"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Mercury in 6 weak"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Jupiter in 6 weak"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Venus in 6"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "All malefics in trikona"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Saturn-Mars 6"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Saturn-Rahu lagna"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Mars-Rahu lagna"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Mars-Saturn 1"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Mars-Saturn 12"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Mars-Ketu 8"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Sun-Rahu 6"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Sat-Rahu 8"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Sat in 1 with Mars in 7"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "8L in 1"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "8L in 7"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Multiple debilitations"
+    ],
+    [
+      "ARISHTA_YOGAS_DATA",
+      "Lord-of-1 in 8"
+    ]
+  ],
+  "chart_totals": {
+    "Manoj": 30,
+    "Sree Ranganathan L": 40,
+    "G. Krishnan": 57,
+    "S. Jayaprakesh": 30
+  }
+}

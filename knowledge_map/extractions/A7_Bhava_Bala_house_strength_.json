@@ -1,0 +1,49 @@
+{
+  "item": "A7_Bhava Bala (house strength)",
+  "books_covering": [
+    "Brihat_Parashara_v2",
+    "Hora_Sara",
+    "Uttara_Kalamrita",
+    "Prashna_Marga"
+  ],
+  "per_book_passages": {
+    "Brihat_Parashara_v2": [
+      {
+        "position": 469273,
+        "match_text": "BHAVA BALA",
+        "context": "चािान्त्याधात् सुखं त्यजेत्। ककयिृलश्चकतो लग्नं मृगात्याधािषाश्च खम्॥२७॥ शोध्यमङ्गात्तधकं चक्राच्च्च्युतं भागीकृतं पिहृत्। Evaluation of Strengths Page 227 सि्दृपििाियुक्िाििािदृपििािवििलजयतम्॥२८॥ ज्ञेज्यदृपियुतं तच्च स्वस्वस्वावमबलान्वितम्। इवत भािबलं स्पिं सामान्यं च िुरोदितम्॥२९॥ 26-29. BHAVA BALA: Thus, I explained about the planetary strengths. Deduct the 7th house (longitude of descendant) from the Bhava if the Bhava happens to be in Virgo, Gemini, Libra, Aquarius or the first half of Sagittarius. If Aries, Taurus, Leo or first half of Capricorn or the second half of Sagittarius happen to be the Bhava, deduct the 4th house (Nadir) from it. Should the Bhava be in Cancer or in Scorpio deduct from it the ascendant. And deduct the 10th house (meridian) from the Bhava happening to fa",
+        "pattern_hit": "bhava bala"
+      }
+    ],
+    "Hora_Sara": [
+      {
+        "position": 50851,
+        "match_text": "Bhava Bala",
+        "context": "10th). Notes: Directional strength makes a planet confer gocxl results during its Dasa Bhukhs. In the opposite house with reference to such Rasis, the planet has no digbala. For ex- ample, the Sun has digbala is nil. For full details on such cal- culations, please see Dr. B.V. Raman's Graha and Bhava Balas or Sripathi Paddhati, English translation by Shri V.S. Sastry. ^3ft4tw^: yl^qiv^lcii-^bdiffeR?! ^'44crioiii^ II 32 II ^sFTfe ^ t S W f ? ^ ^l:iWdir«:?^ %3^: I t53^: T I f 4 ? T ^ ^wm^ 11 33 II The strength of Mars is double of Saturn's. Mercury is four times strongr than Mars. Jupiter is eight times stronger than Mercury. Venus has eight times more strength than that of Jupiter. The Moon is sixteen times stronger than Venus, the Sun twice of the Moon and Rahu's strength is twice o",
+        "pattern_hit": "bhava bala"
+      }
+    ],
+    "Uttara_Kalamrita": [
+      {
+        "position": 40471,
+        "match_text": "Bhava Bala",
+        "context": "Shukra (their apogee) has to be Calculated. Add the mean longitude to the true longitude of a planet and divide it by two to arrive at its cheshtakendra. This divided by 180 gives the Cheshta Bala ofthe planet. These calculations are explained in Srlpati Paddhati and in Dr. B. V. Raman's Graha and Bhava Balas. The Cheshta Bala of the planets in our example Chart are as follows: Ravt Chandra Kuja Budha Guru Shulcra Shant IVCheshta .6974 .938 .5429 .3786 .229 First three 3.83825 5.564 4.6825 6.72 4.5955 4.09825 4.74375 BaJas Total 3.83825 5.564 5.3799 7.658 5.1384 4.47685 4.97275 The Sun and Moon have no Cheshta Bala as they do not have retrograde movements. ~ wqftr \"'lj'!lfl;;j«~lq ilNI«i~tlt« ~ cft.,Cllq3oCc:U ~ t1Iq'illlimtieQ II~' II ri qlC{ftlgt.,qlf&twhi'U ~ ri~ ~,\"lqC!8df1:uil ..,. ~: Glflentf",
+        "pattern_hit": "bhava bala"
+      },
+      {
+        "position": 47835,
+        "match_text": "Bhava Bala",
+        "context": "the two luminaries. five planets. and lagna have to be added. Notes Longevity can be calculated in eight possible ways. It is the strongest among the eight that determines the Ion- gevtty which is applicable to a given chart. The strongest is found after calculating the Shadbala of the planets and Bhava Bala. The author has not touched upon Bhava Bala. This is arrived at by adding three factors. These ar~ the 48 Uttara Kalamrlta strength of the lord of the concerned Bhava, the direction (dik) of that bhava, and the aspect strength on the same. The various types of longevity that depend on the strongest factor-this is mentioned within brackets--are the following: Amsa (Lagna), Pinda (Sun). Naisargika (Moon). Bhinna Ashtakavarga (Kuja), Rasmi (Budha), Kakshatra (Guru). Kala Chakra (Shukra), and Sarm",
+        "pattern_hit": "bhava bala"
+      }
+    ],
+    "Prashna_Marga": [
+      {
+        "position": 170293,
+        "match_text": "Bhava Bala",
+        "context": "t been able to get any satisfactory results in the application of this stanza to practical horoscopes. The dristhi shashtyamsas are the collective aspect cast on a house by all the planets. The method of working out this has been explained in detail with examples in my book Graha and Bhava Balas. Convert the longitude of the 5th house (rejecting the sign) into minutes. Call this x. Take the drishti shashtyamsa or quantum of aspect on the 5th house. Call this y. Multiply x by y and call the product z. Divide z by 200. The quotient indicates the number of issues to be born. The quantum of benefic aspect denotes the number of surviving issues while the quantum of malefic aspects denotes the number of issues that die. Some pandits are of the opinion that z should first be divided by",
+        "pattern_hit": "bhava bala"
+      }
+    ]
+  }
+}

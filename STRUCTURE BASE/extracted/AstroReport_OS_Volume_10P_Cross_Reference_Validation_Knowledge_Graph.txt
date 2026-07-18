@@ -1,0 +1,50 @@
+AstroReport OS Specification
+Volume 10P – Cross-Reference, Validation &
+Knowledge Graph Rules
+Purpose
+Define the intelligence layer that connects every question, life domain, timeline event and
+interpretation into one consistent knowledge graph. This layer ensures complete, non-contradictory
+and traceable report generation.
+Rule ID
+Rule
+Purpose
+VR001
+Cross-reference related questions
+Avoid isolated answers
+VR002
+Map every question to one or more life domains
+Complete coverage
+VR003
+Map every question to life stage(s)
+Timeline accuracy
+VR004
+Require supporting astrological evidence
+Evidence-based output
+VR005
+Detect contradictory conclusions
+Consistency
+VR006
+Merge duplicate knowledge
+Reduce repetition
+VR007
+Assign narrative priority
+Control chapter length
+VR008
+Assign confidence score
+Communicate certainty
+VR009
+Validate report completeness
+No major topic omitted
+VR010
+Build knowledge graph links
+Fast AI retrieval
+Knowledge Graph Principles
+Every question is linked to life domains, timeline chapters, Mahadasha/Bhukti periods, astrological
+evidence, narrative templates and related questions. The graph allows the report engine to discover
+connections automatically rather than treating each topic independently.
+Validation Checklist
+Verify domain coverage, timeline continuity, evidence support, narrative flow, confidence
+assignment, duplicate detection, conflict resolution and final report completeness before
+publication.
+Next Volume
+Volume 10Q – Master Index, Question Catalogue & Retrieval Specification.

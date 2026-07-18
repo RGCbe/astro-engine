@@ -1,0 +1,66 @@
+AstroReport OS Specification
+Volume 10I – Health, Wellness & Lifestyle
+Knowledge Base
+Purpose
+Structured question records for health, wellness and lifestyle. Focus on wellbeing, habits and
+resilience rather than diagnosis.
+ID
+Question
+Domain
+Life Stage
+Placement
+Q0081
+How can I maintain good physical health?
+Health
+Whole Life
+Timeline
+Q0082
+What supports my mental wellbeing?
+Mental
+Whole Life
+Timeline
+Q0083
+How do I manage stress?
+Lifestyle
+Adult
+Timeline
+Q0084
+What daily habits strengthen my health?
+Lifestyle
+Whole Life
+Summary
+Q0085
+How important is sleep?
+Health
+Whole Life
+Timeline
+Q0086
+How should I approach exercise?
+Fitness
+Whole Life
+Timeline
+Q0087
+How can I improve energy?
+Vitality
+Adult
+Timeline
+Q0088
+What supports long-term wellness?
+Wellness
+Whole Life
+Summary
+Q0089
+How do I balance work and life?
+Lifestyle
+Adult
+Timeline
+Q0090
+How can I age well?
+Healthy Ageing
+Later Adult
+Legacy
+Implementation Rules
+Discuss wellbeing across the life timeline. Encourage healthy habits and preventive care. Do not
+make deterministic medical predictions.
+Next Volume
+Volume 10J – Property, Home, Vehicles & Material Assets Knowledge Base.

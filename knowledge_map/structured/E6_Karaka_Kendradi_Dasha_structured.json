@@ -1,0 +1,23 @@
+{
+  "item_code": "E6",
+  "item_name": "Karaka Kendradi Dasha",
+  "books_covering": [
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2"
+  ],
+  "total_passages": 4,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "of 1 +9). The Dasha of the remaining signs may be worked out in the same manner. Page 443 Illustrative Table Sign Aquarius Pisces Aries Taurus Gemini Cancer Dasha Years 8 5 4 8½ 8½ 4 Sign Leo Virgo Libra Scorpio Sagittarius Capricorn Dasha Years 8 8 5½ 7 5½ 4½ Kendradi Dasha (केन्द्रादि िशा) लग्नसप्तमयोमवध्ये यो िासशबवलर्ान् भर्ेि् । ििाः केन्द्राद्वदसंिानां िाशीनाञ्च बलक्रमाि् ॥ १७५॥ कािकादष्टप िाशीनां खेटानां चैर्मेर् द्वह । दशाब्दाििर्ज्ज्ञेयााः खेटानां च स्वभार्थध ॥ १७६॥ 175-176. In this system, there are Dasha of fixed signs in the Kendra etc. from the Ascendant or the 7th house, whicheve"
+    }
+  ],
+  "constants_extracted": [],
+  "pyjhora_reference": {
+    "module": "horoscope/dhasa/graha/vimsottari.py",
+    "function": "vimsottari_dhasa"
+  }
+}

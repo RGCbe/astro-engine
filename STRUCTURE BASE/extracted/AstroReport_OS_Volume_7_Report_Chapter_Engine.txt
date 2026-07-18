@@ -1,0 +1,41 @@
+AstroReport OS Specification
+Volume 7 – Report Chapter Engine (RCE)
+1. Purpose
+The Report Chapter Engine defines the exact blueprint for every chapter in the final life report. It
+ensures consistency regardless of the reader's chart.
+2. Core Principle
+Every chapter represents one meaningful period of life defined by the Timeline Intelligence Engine.
+Chapters are modular but connected.
+3. Standard Chapter Layout
+Title, Age Range, Mahadasha/Bhukti, Life Theme, Story Analogy, Life Experience, Personal
+Growth, Life Domains, Opportunities, Lessons, Mistakes to Avoid, Hidden Gifts, Astrological
+Reason, Practical Guidance, Transition.
+4. Dynamic Length
+Expand chapters when many important life domains are active. Keep less significant periods
+concise.
+5. Life Domain Blocks
+Each chapter automatically includes only relevant domains such as Family, Education, Career,
+Marriage, Wealth, Health, Property, Children, Spirituality and Reputation.
+6. Experience Priority
+Describe what the person experiences before explaining astrological causes.
+7. Continuity Rules
+Each chapter references earlier lessons and prepares the next stage of life.
+8. Repetition Control
+Avoid repeating identical explanations. Summarize recurring themes and highlight what has
+changed.
+9. Visual Elements
+Reserve placeholders for timelines, milestone cards, key lessons, life maps and chapter
+summaries.
+10. Summary Box
+End every chapter with: Main Lesson, Main Opportunity, Main Focus, Suggested Actions.
+11. Chapter Types
+Support Birth, Childhood, School, Teenage, Higher Education, Career Building, Marriage,
+Parenthood, Leadership, Retirement, Wisdom and Legacy chapters.
+12. Output Format
+Generate structured Markdown/JSON blocks suitable for PDF, web and mobile rendering.
+13. Validation
+Verify chapter completeness, logical flow, timeline accuracy, domain coverage and narrative
+consistency.
+14. Mission Statement
+The Report Chapter Engine ensures every chapter feels like part of one professionally written
+biography while remaining faithful to the astrological interpretation.

@@ -1,0 +1,2626 @@
+{
+  "book_key": "BPHS_Vol1",
+  "filename": "BPHS - 1 RSanthanam.pdf",
+  "total_pages": 482,
+  "total_words": 134485,
+  "total_chars": 771005,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "lord",
+      "count": 938
+    },
+    {
+      "word": "native",
+      "count": 757
+    },
+    {
+      "word": "ascendant",
+      "count": 624
+    },
+    {
+      "word": "house",
+      "count": 562
+    },
+    {
+      "word": "moon",
+      "count": 468
+    },
+    {
+      "word": "sun",
+      "count": 420
+    },
+    {
+      "word": "sign",
+      "count": 395
+    },
+    {
+      "word": "notes",
+      "count": 368
+    },
+    {
+      "word": "mars",
+      "count": 362
+    },
+    {
+      "word": "jupiter",
+      "count": 362
+    },
+    {
+      "word": "saturn",
+      "count": 354
+    },
+    {
+      "word": "while",
+      "count": 322
+    },
+    {
+      "word": "venus",
+      "count": 314
+    },
+    {
+      "word": "planet",
+      "count": 313
+    },
+    {
+      "word": "yoga",
+      "count": 308
+    },
+    {
+      "word": "effects",
+      "count": 301
+    },
+    {
+      "word": "planets",
+      "count": 288
+    },
+    {
+      "word": "hora",
+      "count": 287
+    },
+    {
+      "word": "thc",
+      "count": 271
+    },
+    {
+      "word": "mercury",
+      "count": 261
+    },
+    {
+      "word": "chapter",
+      "count": 254
+    },
+    {
+      "word": "parasara",
+      "count": 245
+    },
+    {
+      "word": "other",
+      "count": 223
+    },
+    {
+      "word": "etc",
+      "count": 222
+    },
+    {
+      "word": "signs",
+      "count": 211
+    },
+    {
+      "word": "own",
+      "count": 207
+    },
+    {
+      "word": "wealth",
+      "count": 184
+    },
+    {
+      "word": "malefic",
+      "count": 184
+    },
+    {
+      "word": "benefic",
+      "count": 181
+    },
+    {
+      "word": "brihat",
+      "count": 165
+    },
+    {
+      "word": "strength",
+      "count": 165
+    },
+    {
+      "word": "birth",
+      "count": 163
+    },
+    {
+      "word": "said",
+      "count": 163
+    },
+    {
+      "word": "life",
+      "count": 161
+    },
+    {
+      "word": "given",
+      "count": 160
+    },
+    {
+      "word": "llth",
+      "count": 155
+    },
+    {
+      "word": "rahu",
+      "count": 154
+    },
+    {
+      "word": "sastra",
+      "count": 145
+    },
+    {
+      "word": "aspect",
+      "count": 145
+    },
+    {
+      "word": "endowed",
+      "count": 139
+    },
+    {
+      "word": "bhava",
+      "count": 131
+    },
+    {
+      "word": "houses",
+      "count": 127
+    },
+    {
+      "word": "good",
+      "count": 126
+    },
+    {
+      "word": "pada",
+      "count": 126
+    },
+    {
+      "word": "lagna",
+      "count": 123
+    },
+    {
+      "word": "exaltation",
+      "count": 122
+    },
+    {
+      "word": "happiness",
+      "count": 119
+    },
+    {
+      "word": "case",
+      "count": 119
+    },
+    {
+      "word": "cause",
+      "count": 119
+    },
+    {
+      "word": "above",
+      "count": 119
+    },
+    {
+      "word": "wife",
+      "count": 117
+    },
+    {
+      "word": "only",
+      "count": 116
+    },
+    {
+      "word": "many",
+      "count": 115
+    },
+    {
+      "word": "death",
+      "count": 114
+    },
+    {
+      "word": "through",
+      "count": 113
+    },
+    {
+      "word": "diseases",
+      "count": 112
+    },
+    {
+      "word": "born",
+      "count": 112
+    },
+    {
+      "word": "bala",
+      "count": 110
+    },
+    {
+      "word": "sage",
+      "count": 108
+    },
+    {
+      "word": "same",
+      "count": 108
+    },
+    {
+      "word": "aries",
+      "count": 106
+    },
+    {
+      "word": "navamsa",
+      "count": 104
+    },
+    {
+      "word": "karakamsa",
+      "count": 104
+    },
+    {
+      "word": "yogas",
+      "count": 104
+    },
+    {
+      "word": "years",
+      "count": 104
+    },
+    {
+      "word": "thus",
+      "count": 103
+    },
+    {
+      "word": "due",
+      "count": 102
+    },
+    {
+      "word": "related",
+      "count": 102
+    },
+    {
+      "word": "occupied",
+      "count": 102
+    },
+    {
+      "word": "angle",
+      "count": 101
+    },
+    {
+      "word": "degrees",
+      "count": 99
+    },
+    {
+      "word": "malefics",
+      "count": 97
+    },
+    {
+      "word": "ketu",
+      "count": 97
+    },
+    {
+      "word": "give",
+      "count": 95
+    },
+    {
+      "word": "time",
+      "count": 94
+    },
+    {
+      "word": "king",
+      "count": 92
+    },
+    {
+      "word": "aspected",
+      "count": 92
+    },
+    {
+      "word": "father",
+      "count": 91
+    },
+    {
+      "word": "lords",
+      "count": 91
+    },
+    {
+      "word": "example",
+      "count": 88
+    },
+    {
+      "word": "first",
+      "count": 87
+    },
+    {
+      "word": "devoid",
+      "count": 86
+    },
+    {
+      "word": "aspects",
+      "count": 85
+    },
+    {
+      "word": "karaka",
+      "count": 85
+    },
+    {
+      "word": "lth",
+      "count": 84
+    },
+    {
+      "word": "rasi",
+      "count": 84
+    },
+    {
+      "word": "position",
+      "count": 82
+    },
+    {
+      "word": "natal",
+      "count": 80
+    },
+    {
+      "word": "longevity",
+      "count": 80
+    },
+    {
+      "word": "each",
+      "count": 80
+    },
+    {
+      "word": "sloka",
+      "count": 80
+    },
+    {
+      "word": "get",
+      "count": 79
+    },
+    {
+      "word": "hence",
+      "count": 79
+    },
+    {
+      "word": "auspicious",
+      "count": 78
+    },
+    {
+      "word": "long",
+      "count": 77
+    },
+    {
+      "word": "happy",
+      "count": 76
+    },
+    {
+      "word": "various",
+      "count": 74
+    },
+    {
+      "word": "taurus",
+      "count": 74
+    },
+    {
+      "word": "leo",
+      "count": 74
+    },
+    {
+      "word": "sons",
+      "count": 73
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "0degrees",
+      "context": "f tho Moons cfqd tqt  Chapter 3  25 and are exactly apart lS0degrees mutually. Their positions are forrned when the Moon crosses"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20 degrees",
+      "context": "€qq{ u{vtl 5l-54. ADDITIONAL  DIGNITIES .. In Leo the first 20 degrees are the Sun's Moolatrikona while the rest is his own lllli;,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15 deg",
+      "context": "oming simply his own house. For Mercury, in Virgo the first 15 degrces are exaltation zone, the next 5 degrees Moolatri- kona"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5 degrees",
+      "context": "in Virgo the first 15 degrces are exaltation zone, the next 5 degrees Moolatri- kona and the last 10 degrees are own house. Ihe fi"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10 degrees",
+      "context": "tation zone, the next 5 degrees Moolatri- kona and the last 10 degrees are own house. Ihe first one third of Sagittarius is the Moo"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13 degrees",
+      "context": "64.  NON-LUMINOUS  UPAGRAI{AS  (SUB- PLANETS) ; Add 4 signs 13 degrees and 20 minutes of arc to the Sun's longitude at a given mome"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16 degrees 40 minutes",
+      "context": "ition of Ctapa (Indra Dhanus) who is also inauspicious. Add 16 degrees 40 minutes to Chapa which will give Ketu (Upaketu) who is a malefic' B"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30 degrees",
+      "context": "hapa  +  16040' :  UPaketu (Sikhi) Upaketu, if increased by 30 degrees,  will reach the Sun's exactBosition at a given moment. Let"
+    },
+    {
+      "type": "degree_measure",
+      "value": "0 degrees",
+      "context": "at a given moment. Let us assume that the Sun is in Taurus l0 degrees and Calculate the 5 UPagrahas,  as under : 43 rRiuwga{q{If+r"
+    },
+    {
+      "type": "degree_measure",
+      "value": "240 degrees",
+      "context": "h will yield Paranapada. If the Sun is in a fixed sign, add 240 degrees additionally and if in dual sign add 120 degrees in furthera"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120 degrees",
+      "context": "sign, add 240 degrees additionally and if in dual sign add 120 degrees in furtherance to get Pranapada. The birth will be auspici-o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15 degrees",
+      "context": "ude if he is in a movable sign. Suppose the Sun is in Aries 15 degrees, we get 170*15:185 or Libra 5 degrees  as Pranapada ascenda"
+    },
+    {
+      "type": "degree_measure",
+      "value": "95 degrees",
+      "context": "another 240 degrees,  So to say,45 (the Sun)+240*170:455 or 95 degrees  (Cancer 5 degrees)  as Pranapada asceadant. Again, alternati"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30 deg",
+      "context": "k. It is ruled by Jupiter. This is how the 12 Rasis each of 30 degrce erteot are dcscribed to cvalu,ate $o$ rnd specific effec"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30 deg.",
+      "context": "r New Dclhi. Nqw see the process as under : 108000 seconds (30 deg.) :  46248 seconds of time (or l2h 50m 48s) - 37237\"  (or r0"
+    },
+    {
+      "type": "degree_measure",
+      "value": "24 degrees",
+      "context": "n's muhurta, the longitude of Gulika would bave advanced by 24 degrees. That would put the Adhana still 24 days behind the noted d"
+    },
+    {
+      "type": "degree_measure",
+      "value": "150 degrees",
+      "context": "mc is to be divided by 2.5. When done so, we get 5 signs or 150 degrees. Add this to the Sun's longitude as at runrise (i.e. 132 pl"
+    },
+    {
+      "type": "degree_measure",
+      "value": "180 degrees",
+      "context": "s : visibre harf is theharf of the zodiac within a range of 180 degrees from the ascendant's cusp seen backwards. The other half is"
+    },
+    {
+      "type": "degree_measure",
+      "value": "80 deg",
+      "context": "t of the aspecting planet. Ifthe sum exceeds six signs (or I80 deg) deduct the sumagain from l0 signs (br 300 deg). Con,,,ert"
+    },
+    {
+      "type": "degree_measure",
+      "value": "300 deg",
+      "context": "ix signs (or I80 deg) deduct the sumagain from l0 signs (br 300 deg). Con,,,ert the latest sum into degrees and divide by two."
+    },
+    {
+      "type": "degree_measure",
+      "value": "150 deg",
+      "context": "fference is in excess of 4 signs deduct it from 5 signs (or 150 deg) and the resultant degree etc. beeome Drishti value. If the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120 deg",
+      "context": "fference is in excess of 3 signs deduct it from 4 sigps (or 120 degress) and halve the product to be increased by 30 to get Dri"
+    },
+    {
+      "type": "degree_measure",
+      "value": "60\ndegrees",
+      "context": "rinciples : Rule l.  When aspectual angle is between 30 and 60 degrees, reduce 30 degrees from the resultant aspectual angle and t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90\ndegrees",
+      "context": "value. Rule 2. If the aspectudl angle is above 60 but below 90 degrees, reduce 60 from the aspectual angle and add 15 to get aspec"
+    },
+    {
+      "type": "degree_measure",
+      "value": "150\ndegrees",
+      "context": "al value. Rule 4. If the aspectual angle is between 120 and 150 degrees, reduce tle angle of aspect ttom 150 to get aspectual value"
+    },
+    {
+      "type": "degree_measure",
+      "value": "180\ndegrees",
+      "context": "al value, Rule 5. If the aspectual angle is between 150 and 180 degrees reduce I50 from aspectual angle and double the resultant sum"
+    },
+    {
+      "type": "degree_measure",
+      "value": "300 degrees",
+      "context": "e. Rule 6. When the aspectual  angle is above 180 but below 300 degrees deduct the aspectual angle from 300 and halve the resultant"
+    },
+    {
+      "type": "degree_measure",
+      "value": "249 degrees",
+      "context": "A) Mars : When the aspect angle is 9G120 degrees or 210- . 249 degrees,  add 15 Virupas to the value obtained from the speculum."
+    },
+    {
+      "type": "degree_measure",
+      "value": "50 degrees",
+      "context": "asara Eora Sastra B) Jupiter : When theaspect anglc is 120-t50 degrees or ' .240-270 degrees incrcase the speculum valuc by 30 '  V"
+    },
+    {
+      "type": "degree_measure",
+      "value": "270 degrees",
+      "context": "Jupiter : When theaspect anglc is 120-t50 degrees or ' .240-270 degrees incrcase the speculum valuc by 30 '  Virupas. C) Saturn : Wh"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90 degrees",
+      "context": "uc by 30 '  Virupas. C) Saturn : When the aspect angle is 6G90 degrees or 270-300 degrebs and 45 Virupas to the value obtained from"
+    },
+    {
+      "type": "degree_measure",
+      "value": "263\nDeg",
+      "context": "30 13.75 273: O 13.50 273:30 13.25 274: 0 13.00  alupter 27 263 Deg:Mn Virupa Deg:Mn Virupa Dcg:ltdn Virupr 274:30 12.75 275: 0"
+    },
+    {
+      "type": "degree_measure",
+      "value": "360 degrees",
+      "context": "eshta Kendra. if tni. exceeds 180 degrees deduct again from 360 degrees. Divide the Cheshta Kendra by 3 which will be the motional"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21.347 degrees",
+      "context": "also considered. For example, 211 32'49\" is converted into 21.347 degrees for easy calculation.) The formula to find out the basic pla"
+    },
+    {
+      "type": "degree_measure",
+      "value": "223.1613 degrees",
+      "context": "ri- bute 20 years. In the horoscope under evaluation, he is 223.1613 degrees away . froin his deep exaltation (Libra 20'). Hence to find"
+    },
+    {
+      "type": "degree_measure",
+      "value": "29.9925 degrees",
+      "context": "in Gemini. Tbus the length of the 8th hhava is 29-59-33 or 29.9925 degrees, which is' 'BL' for our purpose. Tbe basic contribution of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "72degree",
+      "context": "of tct  Chapter 43  423 Saturn is 12.3979 years. He is l7,3i72degreeraheadof thc 8th bhava beginning. Thcrefore, his reduction i"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2.5 degrees",
+      "context": "y convertcd into years treating 30 degrces as one year, or ,2.5 degrees as a 'month. The contributiqn of asccndant will bc so calcul"
+    },
+    {
+      "type": "time_period",
+      "value": "8 months",
+      "context": "Sun's transit of two Rasis. The period indicated by Rahu is 8 months and Ketu 3 months (vide sloka 46 of this ch.). Also see slo"
+    },
+    {
+      "type": "time_period",
+      "value": "3 months",
+      "context": "wo Rasis. The period indicated by Rahu is 8 months and Ketu 3 months (vide sloka 46 of this ch.). Also see sloka 18, ch. 4 of Sa"
+    },
+    {
+      "type": "time_period",
+      "value": "360 days",
+      "context": "y io thc rboVo computation. Thst is, these are Savanamana  (360 days per year). To apply this to Grcgorbn Calendar (NS), we must"
+    },
+    {
+      "type": "time_period",
+      "value": "200day",
+      "context": "oction facton .for 26ld.43gh 35vigh as undcr : A B c id  sh 200dayr:2  55 60 days ': 0  52 I day; 0  00 43.58gb:0  (X) Lip  Vi"
+    },
+    {
+      "type": "time_period",
+      "value": "60 days",
+      "context": ".for 26ld.43gh 35vigh as undcr : A B c id  sh 200dayr:2  55 60 days ': 0  52 I day; 0  00 43.58gb:0  (X) Lip  Villpta 56  40 05"
+    },
+    {
+      "type": "time_period",
+      "value": "273 days",
+      "context": "Firstly we find out whether thc. dclivery should be bcfore 273 days or afrer 271 daysfrom Adhcno. The relevant principlc is fro"
+    },
+    {
+      "type": "time_period",
+      "value": "271 days",
+      "context": "ut whether thc. dclivery should be bcfore 273 days or afrer 271 daysfrom Adhcno. The relevant principlc is from my translation o"
+    },
+    {
+      "type": "time_period",
+      "value": "2\ndays",
+      "context": "Joiate Srganm. 273 days ig the basis as tbe Moon takes 273.2 days to complete ten zodiacat revolutions The Adhana chart is as"
+    },
+    {
+      "type": "time_period",
+      "value": "270 daY",
+      "context": "east suggestirg delivery in the 9th month (i.e. betwesn 24U270 daYt). Stgc 3 : .Aftcr the above step, our job is to dig out th"
+    },
+    {
+      "type": "time_period",
+      "value": "24 days",
+      "context": "ave advanced by 24 degrees. That would put the Adhana still 24 days behind the noted date. Please note that we have exactly rea"
+    },
+    {
+      "type": "time_period",
+      "value": "2 months",
+      "context": "qtaq6\\ ltqitl 23. The life span of the child will be either 2 months or 6 mooths only, if all planets devoid of strength are rel"
+    },
+    {
+      "type": "time_period",
+      "value": "3 years",
+      "context": "een the lords of the 2nd and the I lth will bring marriage l3 years after birth. (;Errscrrfqai {ft  il{H  qlqigt I Erfq{i qcilt"
+    },
+    {
+      "type": "time_period",
+      "value": "32 years",
+      "context": "-13. ,SHORT LIFE.' One's span of life will bebetween 20 and 32 years if the ascendant  lord is weak while the 8th lord ig in an"
+    },
+    {
+      "type": "time_period",
+      "value": "1\nyr",
+      "context": "cquisition of a child. qcei{i FTt$tri q6t:  {q*  tl?crFlqrX 1 yrqq Hr6dt wrdt fn;gg\"g<ifs{il: nsltl qsdd aqqqrqqQ Err€ E{Tgi"
+    },
+    {
+      "type": "time_period",
+      "value": "60 years",
+      "context": ": By 'medium life' it is meant to denote a span of life of 60 years. So to say the l2th lord in the 8th will not be in a positi"
+    },
+    {
+      "type": "time_period",
+      "value": "0\nYr",
+      "context": "as Vide infra. Speculum of Abbreviated Ahargana for Januaiy 0 Yr.  Ahargana Yr.  Ahargana Yr. 1 800  4s8 I 801  823 t802  ll"
+    },
+    {
+      "type": "time_period",
+      "value": "273\nYr",
+      "context": "1 I 836.r I 1086 1S37 r1452 1 8 3 8  l l 8 l 7  Clapter 27 273 Yr. Ahargano Yr. Ahargena Yr. Ahrrgur I  8 3 9 I 840* t  8 4 1"
+    },
+    {
+      "type": "time_period",
+      "value": "100 years",
+      "context": "and Vedic learning. One will be endowed wrth a longevity of 100 years, be sensuous and will look after state affairs if Venus is"
+    },
+    {
+      "type": "time_period",
+      "value": "20 years",
+      "context": "o Saturn respec- tively contribute 19, 25,lS, 12, lS,2l and 20 years when on jeep exaltation degree. ' The contributions are jus"
+    },
+    {
+      "type": "time_period",
+      "value": "5642 yr",
+      "context": "follow- ing baSic donations of years by the 7 planets : 17.5642 yrarc 24.6247 yeus 8.4036 years 6.9968 years 14.1200 Years '"
+    },
+    {
+      "type": "time_period",
+      "value": "4036 years",
+      "context": "ns of years by the 7 planets : 17.5642 yrarc 24.6247 yeus 8.4036 years 6.9968 years 14.1200 Years '  19.2327 Years 12.3979 Years T"
+    },
+    {
+      "type": "time_period",
+      "value": "9968 years",
+      "context": "y the 7 planets : 17.5642 yrarc 24.6247 yeus 8.4036 years 6.9968 years 14.1200 Years '  19.2327 Years 12.3979 Years These basic'co"
+    },
+    {
+      "type": "time_period",
+      "value": "1200 Years",
+      "context": "s : 17.5642 yrarc 24.6247 yeus 8.4036 years 6.9968 years 14.1200 Years '  19.2327 Years 12.3979 Years These basic'contributions wi"
+    },
+    {
+      "type": "time_period",
+      "value": "2327 Years",
+      "context": "24.6247 yeus 8.4036 years 6.9968 years 14.1200 Years '  19.2327 Years 12.3979 Years These basic'contributions will ondergo the fo"
+    },
+    {
+      "type": "time_period",
+      "value": "3979 Years",
+      "context": "8.4036 years 6.9968 years 14.1200 Years '  19.2327 Years 12.3979 Years These basic'contributions will ondergo the following reduct"
+    },
+    {
+      "type": "time_period",
+      "value": "3979 years",
+      "context": "Tbe basic contribution of tct  Chapter 43  423 Saturn is 12.3979 years. He is l7,3i72degreeraheadof thc 8th bhava beginning. Thcre"
+    },
+    {
+      "type": "time_period",
+      "value": "2869 years",
+      "context": "h bhava beginning. Thcrefore, his reduction is : 12 3979 :2.2869 years Thus, on accdunt of Vyayadi Harana, Saturn entails a check"
+    },
+    {
+      "type": "time_period",
+      "value": "4533 years",
+      "context": "reduction is only to be done ignoring the orhers. For :  1.4533 years z  2.7939 yearc :  1.8636 years :  2.2869 years z  1.9472 y"
+    },
+    {
+      "type": "time_period",
+      "value": "7939 year",
+      "context": "ly to be done ignoring the orhers. For :  1.4533 years z  2.7939 yearc :  1.8636 years :  2.2869 years z  1.9472 years :  1.9314"
+    },
+    {
+      "type": "time_period",
+      "value": "8636 years",
+      "context": "noring the orhers. For :  1.4533 years z  2.7939 yearc :  1.8636 years :  2.2869 years z  1.9472 years :  1.9314 years  424  Briha"
+    },
+    {
+      "type": "time_period",
+      "value": "9472 years",
+      "context": "years z  2.7939 yearc :  1.8636 years :  2.2869 years z  1.9472 years :  1.9314 years  424  Brihat parasara Hora Sastra exampfe,"
+    },
+    {
+      "type": "time_period",
+      "value": "9314 years",
+      "context": "yearc :  1.8636 years :  2.2869 years z  1.9472 years :  1.9314 years  424  Brihat parasara Hora Sastra exampfe, assume Mercury a"
+    },
+    {
+      "type": "time_period",
+      "value": "5 years",
+      "context": "ra Sastra exampfe, assume Mercury attracts a reduction of 7.5 years due to rule, l, folloived by 2.3 years due to rute 2 anO i."
+    },
+    {
+      "type": "time_period",
+      "value": "3 year",
+      "context": "ries to Cancer we have threc cornpleted Navamsas which give 3 year. The ascending degree is 0-4g-34 whereas onb Navamsa is 3\""
+    },
+    {
+      "type": "time_period",
+      "value": "2428 years",
+      "context": "nb Navamsa is 3\" 20'. Proportionately thus we get another 0.2428 years and have the total contribution of 3.242g years 8s Ascendan"
+    },
+    {
+      "type": "time_period",
+      "value": "7095 years",
+      "context": "yayadi Harana). Hence his final contribution turns to be 11.7095 years (ie. basic years minus Satru kshetra Harana). In the matter"
+    },
+    {
+      "type": "time_period",
+      "value": "3124 years",
+      "context": "on (24627, is halved, she is left with a net donation of l2 3124 years. Except the Sun, no other planet is in enemy's sign. So, Sa"
+    },
+    {
+      "type": "time_period",
+      "value": "06 years",
+      "context": "r. example, we arrive at a net longevity in Sauramana as 81.06 years. The dasa period so obtained are Pinda Dasa of the 7 planet"
+    },
+    {
+      "type": "time_period",
+      "value": "300 years",
+      "context": "nook\"y, bear, and frog_tne iurfi;; oflife in these cases is 300 years. Drrnoo,, lifispan i\" l;il; 150 ycars while it is 120 years"
+    },
+    {
+      "type": "time_period",
+      "value": "120 years",
+      "context": "300 years. Drrnoo,, lifispan i\" l;il; 150 ycars while it is 120 years for human beings.  -  :Z y\"o.. io,  Chapter 43  429 horses,"
+    },
+    {
+      "type": "time_period",
+      "value": "25 years",
+      "context": "for human beings.  -  :Z y\"o.. io,  Chapter 43  429 horses, 25 years for donkeys and camels, '24 years for oxen and buffaloes, 2"
+    },
+    {
+      "type": "time_period",
+      "value": "24 years",
+      "context": "Chapter 43  429 horses, 25 years for donkeys and camels, '24 years for oxen and buffaloes, 20 years for peacocks, 16 years for"
+    },
+    {
+      "type": "time_period",
+      "value": "16 years",
+      "context": "s, '24 years for oxen and buffaloes, 20 years for peacocks, 16 years for goats and rams. 14 years for swans, 12 years for cuckoo"
+    },
+    {
+      "type": "time_period",
+      "value": "14 years",
+      "context": "faloes, 20 years for peacocks, 16 years for goats and rams. 14 years for swans, 12 years for cuckoo, dog and dove, 8 years for h"
+    },
+    {
+      "type": "time_period",
+      "value": "12 years",
+      "context": "peacocks, 16 years for goats and rams. 14 years for swans, 12 years for cuckoo, dog and dove, 8 years for hens etc, and 7 years"
+    },
+    {
+      "type": "time_period",
+      "value": "8 years",
+      "context": "ams. 14 years for swans, 12 years for cuckoo, dog and dove, 8 years for hens etc, and 7 years for birds etc.-these are fujl lif"
+    },
+    {
+      "type": "time_period",
+      "value": "7 years",
+      "context": "2 years for cuckoo, dog and dove, 8 years for hens etc, and 7 years for birds etc.-these are fujl life spans for various living"
+    },
+    {
+      "type": "time_period",
+      "value": "35 years",
+      "context": "sargayu gives 40.7 years. The average of these two, i.e. 46.35 years will be the actual longevity. Similarly assume that the lum"
+    },
+    {
+      "type": "time_period",
+      "value": "9 years",
+      "context": "ies and the ascendant are equally strong, and contribute 62.9 years Pindayu, 25.5 years  430 Brihat Parasara Hora Sastra Nisarg"
+    },
+    {
+      "type": "time_period",
+      "value": "73 years",
+      "context": "d 12.8 ycars of Amsayu. The average of these three, i,e. 33.73 years will be the actual longevity of the native. qqTsa{€fq,qqafq"
+    },
+    {
+      "type": "time_period",
+      "value": "108 years",
+      "context": "id three groups, the span is 120 years, if by twogroupsitis 108 years andif onlybyonegroupitisg6 years. If medium life is arrived"
+    },
+    {
+      "type": "time_period",
+      "value": "6\nyears",
+      "context": "ars, if by twogroupsitis 108 years andif onlybyonegroupitisg6 years. If medium life is arrived at.by three groups, it is 80 yea"
+    },
+    {
+      "type": "time_period",
+      "value": "80 years",
+      "context": "years. If medium life is arrived at.by three groups, it is 80 years, by 2 groups 72 years and by one group 64 years. If short l"
+    },
+    {
+      "type": "time_period",
+      "value": "72 years",
+      "context": "is arrived at.by three groups, it is 80 years, by 2 groups 72 years and by one group 64 years. If short life is denoted by the"
+    },
+    {
+      "type": "time_period",
+      "value": "64 years",
+      "context": "oups, it is 80 years, by 2 groups 72 years and by one group 64 years. If short life is denoted by the said three groups it is on"
+    },
+    {
+      "type": "time_period",
+      "value": "36 years",
+      "context": "the said three groups it is only 32 years, if by two groups 36 years and by one group 40 years. These are rectified as under. No"
+    },
+    {
+      "type": "time_period",
+      "value": "40 years",
+      "context": "s only 32 years, if by two groups 36 years and by one group 40 years. These are rectified as under. Notes : Again, the sage fixe"
+    },
+    {
+      "type": "time_period",
+      "value": "96 years",
+      "context": "(harmonic reduction of 12 years) 2 pairs-I80 years I pair -96 years  433 Chapter 43 Medium life : by 3 pairs-80 years (harmonic"
+    },
+    {
+      "type": "time_period",
+      "value": "4 years",
+      "context": "s Short life : by 3 pairs-32 years (progressive increaee of 4 years) 2 pairs-36 years I pair -40 years The indication has to be"
+    },
+    {
+      "type": "time_period",
+      "value": "18 \nYears",
+      "context": "? divided bv 30' Th'e net longevitv  iq this process  is 31.18  Years' Though Pindayu applies to the said horoscope'  we have sim"
+    },
+    {
+      "type": "time_period",
+      "value": "1000 years",
+      "context": "stra in order are the spans. Super natural life span is for 1000 years. Above tbis supernatural life span of 1000 years it is Amit"
+    },
+    {
+      "type": "time_period",
+      "value": "20 year",
+      "context": "t is impossible to decide upon longevity till the native is 20 year old' Tii such year the child should be protected by sacred"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/60",
+      "context": "of calculating the ruling planet for each Shashtiamsa  (or 1/60th pat of asign or 30'of arc) is advised in sloka 33 above."
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "of signs, Limbs of Kala- purusha, classification of signs, 12 signs described, and Nisheka Lagna. 5. SPECIAL ASCENDANTS B"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": "of Varnada. 6. THE SIXTEEN DIYISIONS OF A SIGN Names of the 16 vargas, Ragi and Hora, Decanate, Chaturthamsa, Sapthamsa, N"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "iamsa, Varga classification, eto. Page l0 t7' n 24 48 67  4 7- DIYISrcNAL CONSI DERATION Use of tbe t6 divisions, Hora, D"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": "o mother,l quadrupeds, dumbnerc, conveyangcs 9l 105 109 118 120 t26 t32 t37 r42  , 5 16. EFFECTS OF THE ,Ih HOUSE Happiness"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "ers, questionable birth, mean children' child at the age or 30,36, 40,32,33and 56 and number of ohilcircn. 17. EFFECTS OF"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": ", questionable birth, mean children' child at the age or 30,36, 40,32,33and 56 and number of ohilcircn. 17. EFFECTS OF THE"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "estionable birth, mean children' child at the age or 30,36, 40,32,33and 56 and number of ohilcircn. 17. EFFECTS OF THE 6th"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "t the age or 30,36, 40,32,33and 56 and number of ohilcircn. 17. EFFECTS OF THE 6th HOUSE Ulccr/bruises, relatives affectod"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "Long life, short life, Saturn and l0th lord in longe- vitY. 20. EFFECTS OF THE gtlt HOUSE Combinations for fortunes, fortu"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "quirements, phpva effccts, fiigiUitity to isue predictions. 28, ISHTA AND KASHTA BALAS . Exaltatioa rays, Chesbta Rasmi, b"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "ometimes mislead. This is what the sage emphasises ln sloka 9. Cqme to chapter 6. The zodiac is divided in to sixteen Var"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "spects are elaborately laid down in the 3 chapters, viz. 26,27 and 28. It is not in order if planets arp studied with refe"
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "as three divisions, viz. Hora, t'rs:: @ r{}qqrrrq nq: dIET  18  Brihat porasara Hora Sastra Ganita and Samhita. Among the"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "apter t tdlirffirrl ilqqr\"€T{ ilfi cr0fd ssnffiq:  uletl 18-19. Ahamkara is of tbree classes, Le. with Satwik, Rajasik and"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "q;q {tarwn*i  r tA{gsetfiir  tqq  eqiq]il  fqqqq: 1!,oll 59-60. RATIO OF EFFECj\"S.. A planet in exaltation gives fully goo"
+    },
+    {
+      "type": "significant_number",
+      "value": 360,
+      "context": "y io thc rboVo computation. Thst is, these are Savanamana  (360 days per year). To apply this to Grcgorbn Calendar (NS), we"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "Ketu, Sun and Venug. (d) Saturn and Rahu asPect Mars. l0?  108 Drihat Parasara-  rtora Sastnl (e) Moon aspccts Mars and Ju"
+    },
+    {
+      "type": "significant_number",
+      "value": 432,
+      "context": "7 t22 426 331 336 340 345 350 355 359 44 49 413 418 423 427 432 431 44r 446 451 455 50 55 00 05 09 014 019 023 o28 033 038"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "stra in order are the spans. Super natural life span is for 1000 years. Above tbis supernatural life span of 1000 years it i"
+    }
+  ],
+  "connections": {
+    "planet_house": [
+      {
+        "planet": "Sun",
+        "house": 2,
+        "snippet": "Sun) and is in the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun in the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun in the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun, being with strength, is in the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 4,
+        "snippet": "Sun be in the 4th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun and Moon be in the llth as Saturn is in the 5th identical with his own house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun placed in the ?th or the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun is the lord of' the 6th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun is in the 6thlSthllzth as the 8th lord is in the 9th, the l2th lord is in the ascendant,  and the 6th lord is in the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun Merc Ven Ketu I bl.\"r\" note tbat the 5th lord is in the 9th in a house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun' Ketu and i\"piirt - all effectively  joining in the 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun in Bhojanavastha in the 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon is decreasing (i.e. approachhg the Sun) and is in the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon Ketu The lOth lord is in the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon, fupiter, Venus and Mercury is exalted in the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon be in the llth as Saturn is in the 5th identical with his own house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon (signifying mother) joins Venus or is in Taurus. (Cancer though the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars Merc Venus Moon Ketu The lOth lord is in the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars ruling the lOth house is in the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars and Saturn be together in the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 3,
+        "snippet": "Mars will destroy both the preborn and later born. Notes : Sage Bhrigu also opines that the Sun in the 3rd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars in the company af Jupiter (in debilitation) in the 4th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars in Prakasavastha  in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars bein Prakasanavastha  in thc 5th or in the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars is in Bhojanavastha or in Sayanavastha  in the 5th house, or in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars are together in the 6th or the gth house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars Erp saturp ruling the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars bein Prakasanavastha  in thc 5th or in the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars is in Bhojanavastha or in Sayanavastha  in the 5th house, or in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars in the 9th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury is in the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury is exalted in the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury ruling the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury be in the 5th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury in the 6th, Jupiter in the 7th and Venus in the gth house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury, the I lth lord, in the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter is in the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 3,
+        "snippet": "Jupiter 12. Saturn Ist house (self, soul, constitution etc.) 2nd house (family, finance, wife ctc.) 3rd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter (in debilitation) in the 4th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter in the 7th and Venus in the gth house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "JUPITER.' If Juplter is In the ascendant or in the 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter or the Matrukaraka Moon (signifying mother) joins Venus or is in Taurus. (Cancer though the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter be in his own sign identical with the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus Moon Ketu The lOth lord is in the 2nd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus and Mercury is exalted in the 2nd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus be in the 9th from the 9th (i.e. in the  l6E  Brlhat Parasara Hora Sastra 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus will be in the 5th in own house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus join the 6th and 8th lords in the I lth house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus is in the 7th from the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus occupying the 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus or is in Taurus. (Cancer though the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus join the 6th and 8th lords in the I lth house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus is in the 7th from the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 2,
+        "snippet": "Saturn be together in the 2nd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "Saturn's contribution He is in the 8th bhava and hence attracts tbis reduction. He is in Gemini 3-9-41 while the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "Saturn Ist house (self, soul, constitution etc.) 2nd house (family, finance, wife ctc.) 3rd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn in the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn in the 5th house. Othor rcsults mentioned for the l lth lord being in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn is in the 5th identical with his own house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn's contribution He is in the 8th bhava and hence attracts tbis reduction. He is in Gemini 3-9-41 while the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn's contribution He is in the 8th bhava and hence attracts tbis reduction. He is in Gemini 3-9-41 while the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn occupying the 9th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 2,
+        "snippet": "Ketu The lOth lord is in the 2nd house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu is in Krittika in the 9th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu I bl.\"r\" note tbat the 5th lord is in the 9th in a house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu and i\"piirt - all effectively  joining in the 9th house"
+      }
+    ],
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Aries",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "count": 5
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Leo",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Libra",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Capricorn",
+        "count": 4
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Taurus",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Cancer",
+        "count": 6
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Leo",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Scorpio",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Capricorn",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aquarius",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Pisces",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aries",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Taurus",
+        "count": 3
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Cancer",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Scorpio",
+        "count": 5
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Taurus",
+        "count": 4
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Gemini",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Virgo",
+        "count": 7
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Taurus",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "count": 3
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Pisces",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aries",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Taurus",
+        "count": 5
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Cancer",
+        "count": 5
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Libra",
+        "count": 6
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Pisces",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aries",
+        "count": 6
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Taurus",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Cancer",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Leo",
+        "count": 6
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Virgo",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Libra",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Scorpio",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aquarius",
+        "count": 6
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Taurus",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Cancer",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Leo",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Virgo",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Scorpio",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aquarius",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Meena",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aries",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Taurus",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Gemini",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Scorpio",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aquarius",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "YOGA KARAKAS Nature due to lordships of planets, natural benetior and malefics, angular and trinal lordships, angular lordship, Rahu and Ketu, Planets & Aties ascendant, 316 327 iro  Taurus ascendant, Gem"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga, Sunapha, Ar.apba, Duradhura and Kemadruma yogas. '8. SOLARYOGAS Veii, Vosi and Ubhayachari Yogas, effects of these Yogae. 39. RATAYOGAS Kingly Yogas forming in various mann'ers. &. YOGAS FOR ROYAL A"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja Yoga resul8 will prcvail in tbe following conditions in a descendiog ordor. l. As given in Kumarr Swameeyam. 2. As given in Chaukambha edition and our edition. 3. The second kind of yoga given by Jataka P"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja yoga (Hindi translation by Pt' G.K. Ojha) puts it thus : The dispositor of ascendant lord should be in his own sign or in his Mootatrikma sign which is identical with an aogle or a trine reckoned from thc"
+      },
+      {
+        "yoga": "Dhana Yoga",
+        "snippet": "Dhana yoga, Sunapha, Ar.apba, Duradhura and Kemadruma yogas. '8. SOLARYOGAS Veii, Vosi and Ubhayachari Yogas, effects of these Yogae. 39. RATAYOGAS Kingly Yogas forming in various mann'ers. &. YOGAS FOR ROYAL A"
+      },
+      {
+        "yoga": "Dhana Yoga",
+        "snippet": "DHANA YOGA .' Should all the (three) benefics be in Upachaya'(i.e. 3rd, 6th, l0th and lltb) counted from the Moon, one will be very affiuent; with two benefics so placed he will have medium effects in regard to"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "Kemadruma yogas. '8. SOLARYOGAS Veii, Vosi and Ubhayachari Yogas, effects of these Yogae. 39. RATAYOGAS Kingly Yogas forming in various mann'ers. &. YOGAS FOR ROYAL ASSOCIATION 41. YAGAS FOR WEALTH Yogas for a"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "Kemadruma prevails throughout the Dasa. *tti  rr.n faq t r [{q}rsFf  8Tg lttl BTeT  qllT€6t{fiTeqTq: 1 8Vt I Chapter 34 Yoga Karakas nnoirrqrr*i qtf qer qrqrftrqilq l.  O Brahmin, thus I have told you about th"
+      },
+      {
+        "yoga": "Gajakesari",
+        "snippet": "Gajakesari, Amala, Parvatha, Kahala, Chamara, Sankha, Bheri, Mridanga, Srinatha, Sarada, Matsya, Koorma,  Khadga, Lakshmi, Kusuma, Kalanidhi, Kalpadruma, Trimurthi, and Iagnadhi Yogas. 37. LANARYOGAS Adhiyoga f"
+      },
+      {
+        "yoga": "Gajakesari",
+        "snippet": "GAJAKESARI YOGA .' Shoutd Jupiter be in an angle from the ascendant or from the Moon, and be conjunct or \"rp'..t.d  by (another) benefic, avoiding at the same time debilit- ation, combustion and inimical sign,"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa Yoga. In other cas€s the angularity between tile two need not be given the name Gaja Kesari' In point of fact, the Moon-Jupiter mutual angular placement is called as simply Kesari Yoga, vide Phala De"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa, Maharshi Ramana, Sankaracharyas  of various prders and periods, Sivananda and so on aitd so forth. In all these cases, the 5th and 9tt lords and 5th and 9th houses enabled them earn that splendour."
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata etc. such as 2 gooti Vargas-parijatha. 3. Uttama, 4. Gopura, 5. Simhasana, 6. paaravata, 7. Devaloka, 8. Brahmaloka, 9. Sakravahana and 10. Vargas-Srirlhama. In the Shodasa Varga scheme the combinati"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata 3. Uttama 4. Gopura 5. Simhasana  6. paravata 7. Devaloka 8. Brahmaloka 9. Sakravahana  10. Sridhama. .  The aulhor of Sarvartba Chintamani designates  8, 9 and l0 respectively as Amara, Iravata and"
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Bharani",
+        "count": 2
+      },
+      {
+        "nakshatra": "Krittika",
+        "count": 6
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 2
+      },
+      {
+        "nakshatra": "Ardra",
+        "count": 1
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 2
+      },
+      {
+        "nakshatra": "Uttara Phalguni",
+        "count": 1
+      },
+      {
+        "nakshatra": "Swati",
+        "count": 2
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 2
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 2
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 10,
+      "heading": "Chapter I and chapter 2 give some . preliminary extra-"
+    },
+    {
+      "page": 12,
+      "heading": "Chapter 5 toucht-is various special lagnas, tike Ghatika"
+    },
+    {
+      "page": 13,
+      "heading": "Chapter 8 deals with what is called Jaimini aspects on Rasi"
+    },
+    {
+      "page": 13,
+      "heading": "Chapter 3l entitled'Argaladhyaya'"
+    },
+    {
+      "page": 14,
+      "heading": "Chapter 34 is again one of the most instructive. Planets"
+    },
+    {
+      "page": 16,
+      "heading": "Chapter I\nThe Creation"
+    },
+    {
+      "page": 18,
+      "heading": "Chapter I \n. '"
+    },
+    {
+      "page": 20,
+      "heading": "Chapter t\ntdlirffirrl"
+    },
+    {
+      "page": 21,
+      "heading": "Chapter 2\nGreat Incarnations (Of The Lord)"
+    },
+    {
+      "page": 32,
+      "heading": "Chapter 3\nNotes : The word gdt in the text has many purports like"
+    },
+    {
+      "page": 42,
+      "heading": "Chapter t\nuqil qusFriT: {41 eqa'fqn}sa a}qa: t"
+    },
+    {
+      "page": 46,
+      "heading": "Chapter 3\nQear6ri{ qalfiq fasflud rrTfEqi q q( |"
+    },
+    {
+      "page": 47,
+      "heading": "Chapter 4\nZodiacal signs Described"
+    },
+    {
+      "page": 64,
+      "heading": "Chapter 5\n. ulwvnn{frr\"i"
+    },
+    {
+      "page": 66,
+      "heading": "Chapter 6\nThe Sixteen Divisions Of A Sign"
+    },
+    {
+      "page": 78,
+      "heading": "Chapter 6\nAgni, Brahma, Chandra, Isa, Aditi, Jrva, Ahi, Pitara, Bhaga,"
+    },
+    {
+      "page": 82,
+      "heading": "Chapter 6\n{rrlqGEd{riq{ilr"
+    },
+    {
+      "page": 90,
+      "heading": "Chapter 7\nDivisional Consideration"
+    },
+    {
+      "page": 98,
+      "heading": "Chapter 7\nLet us consider the Vimsopaka strength for the ascendant"
+    },
+    {
+      "page": 102,
+      "heading": "Chapter 7\n103"
+    },
+    {
+      "page": 108,
+      "heading": "Chapter 9\nEvils At Birth"
+    },
+    {
+      "page": 110,
+      "heading": "Chapter 9 \n1l I"
+    },
+    {
+      "page": 112,
+      "heading": "Chapter 9\nOne born in Scorpio ascendant with malefics in the"
+    },
+    {
+      "page": 118,
+      "heading": "Chapter l0 \nI 19"
+    },
+    {
+      "page": 122,
+      "heading": "Chapter ll\nHere we need Some elaboratiof. The status of the father,"
+    },
+    {
+      "page": 124,
+      "heading": "Chapter ll \nI25"
+    },
+    {
+      "page": 126,
+      "heading": "Chapter 12\n127"
+    },
+    {
+      "page": 128,
+      "heading": "Chapter 12\n129"
+    },
+    {
+      "page": 130,
+      "heading": "Chapter 12\nt3l"
+    },
+    {
+      "page": 131,
+      "heading": "Chapter 13\nEffects of Second House"
+    },
+    {
+      "page": 132,
+      "heading": "Chapter 13\n133"
+    },
+    {
+      "page": 134,
+      "heading": "Chapter 13\n8. IO.S,S OF WEALTH THROAGH THE KING .. Should"
+    },
+    {
+      "page": 136,
+      "heading": "Chapter 14\n\\ \\"
+    },
+    {
+      "page": 138,
+      "heading": "Chapter 14\nNotes : Saturn and Mercury are termed as neutral planets."
+    },
+    {
+      "page": 140,
+      "heading": "Chapter 14\naqi*r"
+    },
+    {
+      "page": 141,
+      "heading": "Chapter 15\nEffects Of The Fourth House"
+    },
+    {
+      "page": 142,
+      "heading": "Chapter 15\n, qrg:Tqri {qti"
+    },
+    {
+      "page": 146,
+      "heading": "Chapter 16\nAspect of Mandi is suggested"
+    },
+    {
+      "page": 148,
+      "heading": "Chapter 16\n16. If the sth lord is exalted or be in the 2nd, 5th or 9tb"
+    },
+    {
+      "page": 150,
+      "heading": "Chapter 16\nl5t"
+    },
+    {
+      "page": 152,
+      "heading": "Chapter 17 \n153"
+    },
+    {
+      "page": 154,
+      "heading": "Chapter 17 \n155"
+    },
+    {
+      "page": 156,
+      "heading": "Chapter l7\nin and obstruction of kidneys, paralysis of the nervous system,"
+    },
+    {
+      "page": 159,
+      "heading": "Chapter 18\nEffects Of The Seventh House"
+    },
+    {
+      "page": 160,
+      "heading": "Chapter tt \n16l'"
+    },
+    {
+      "page": 162,
+      "heading": "Chapter lE \n163"
+    },
+    {
+      "page": 164,
+      "heading": "Chapter 18\nt65"
+    },
+    {
+      "page": 168,
+      "heading": "Chapter t9\n40-41. THREE MARRIAGES: Should the Moon be in the"
+    },
+    {
+      "page": 168,
+      "heading": "Chapter 19\nEffects Of The'Eighth House"
+    },
+    {
+      "page": 170,
+      "heading": "Chapter 19\n2. The 6th and l2th lords simultaneously in the 6th and"
+    },
+    {
+      "page": 172,
+      "heading": "Chapter 20\nEffects Of The Ninth House"
+    },
+    {
+      "page": 174,
+      "heading": "Chapter 20\nqTQ{i s?rqtq(Q uifr"
+    },
+    {
+      "page": 176,
+      "heading": "Chapter 20\n177"
+    },
+    {
+      "page": 177,
+      "heading": "Chapter 2l\nEffects of The Tenth House"
+    },
+    {
+      "page": 178,
+      "heading": "Chapter 2l\nderive extremc paternal happiness, will enjoy, fame and"
+    },
+    {
+      "page": 182,
+      "heading": "Chapter 22\nq,rirqnqi"
+    },
+    {
+      "page": 184,
+      "heading": "Chapter 22 \nlg5"
+    },
+    {
+      "page": 185,
+      "heading": "Chapter 23\nEffects Of The Twelfth House"
+    },
+    {
+      "page": 186,
+      "heading": "Chapter 23\nqw Fr|ETrE qi{ , *ilEriqt: qRdtfrat r"
+    },
+    {
+      "page": 188,
+      "heading": "Chapter 24.\n€qt"
+    },
+    {
+      "page": 192,
+      "heading": "Chapter 24\ncft{i sEt !ft* ffit"
+    },
+    {
+      "page": 194,
+      "heading": "Chapter 24\n22. lt the 2nd lord is in the l0th,the native r,lllbe"
+    },
+    {
+      "page": 196,
+      "heading": "Chapter 24\nan overt clue to tho native being fond of physicallp matiny with"
+    },
+    {
+      "page": 198,
+      "heading": "Chapter 21\nrte"
+    },
+    {
+      "page": 202,
+      "heading": "Chapter \n24 \n20?"
+    },
+    {
+      "page": 204,
+      "heading": "Chapter 24\nqtri 'q?qqr{€i"
+    },
+    {
+      "page": 206,
+      "heading": "Chapter 24\n207"
+    },
+    {
+      "page": 212,
+      "heading": "Chapter 24 \n213"
+    },
+    {
+      "page": 214,
+      "heading": "Chapter 24 \n215"
+    },
+    {
+      "page": 216,
+      "heading": "Chapter 24\nqerii"
+    },
+    {
+      "page": 218,
+      "heading": "Chapter 24\n219"
+    },
+    {
+      "page": 220,
+      "heading": "Chapter 24\n221"
+    },
+    {
+      "page": 222,
+      "heading": "Chapter 24 \n223"
+    },
+    {
+      "page": 228,
+      "heading": "Chapter \n24 \n2rg"
+    },
+    {
+      "page": 230,
+      "heading": "Chapter 24\nElii{i rFHqIir(E qfi: nriE cnrt r"
+    },
+    {
+      "page": 232,
+      "heading": "Chapter 24\n23,/"
+    },
+    {
+      "page": 234,
+      "heading": "Chapter 24 \n. 235"
+    },
+    {
+      "page": 235,
+      "heading": "Chapter 25\nEffects Of Non-Luminous Planets"
+    },
+    {
+      "page": 236,
+      "heading": "Chapter 25\nqn fmqi\"t{r: g(ffiu} faq or: ue: r"
+    },
+    {
+      "page": 238,
+      "heading": "Chapter 25\n239"
+    },
+    {
+      "page": 240,
+      "heading": "Chapter \n25 \n241"
+    },
+    {
+      "page": 242,
+      "heading": "Chapter 25\ngrG<a: gtfr m'* qrr6d cleuafqxr ,"
+    },
+    {
+      "page": 244,
+      "heading": "Chapter 25\ntq€l"
+    },
+    {
+      "page": 250,
+      "heading": "Chapter 25 \n2SI"
+    },
+    {
+      "page": 252,
+      "heading": "Chapter 25.\n82. If Pranapada"
+    },
+    {
+      "page": 253,
+      "heading": "Chapter 26\nEvaluation of Planetary Aspects"
+    },
+    {
+      "page": 254,
+      "heading": "Chapter 26 \nz1s"
+    },
+    {
+      "page": 256,
+      "heading": "Chapter 26\n2s7"
+    },
+    {
+      "page": 258,
+      "heading": "Chapter 26\n259"
+    },
+    {
+      "page": 264,
+      "heading": "Chapter 27\n(Sun's position-Deep debilitation point) + 3"
+    },
+    {
+      "page": 268,
+      "heading": "Chapter 27 \n269"
+    },
+    {
+      "page": 274,
+      "heading": "Chapter 27\n27,5"
+    },
+    {
+      "page": 276,
+      "heading": "Chapter 27\n277"
+    },
+    {
+      "page": 280,
+      "heading": "Chapter 27\n281"
+    },
+    {
+      "page": 282,
+      "heading": "Chapter 27\n283"
+    },
+    {
+      "page": 284,
+      "heading": "Chapter 27\n285"
+    },
+    {
+      "page": 286,
+      "heading": "Chapter 27\nTaqr{f{i mirqriq"
+    },
+    {
+      "page": 290,
+      "heading": "Chapter 28\nt{qT{"
+    },
+    {
+      "page": 292,
+      "heading": "Chapter 29\nqiqrqrq"
+    },
+    {
+      "page": 294,
+      "heading": "Chapter 29\n. In calculating the Arudhas for the varioue housos, we have"
+    },
+    {
+      "page": 296,
+      "heading": "Chapter 29 \nZg7"
+    },
+    {
+      "page": 300,
+      "heading": "Chapter 29\n23. THE 7TH HOUSE FROM PADA (upto slaka 27) : lf"
+    },
+    {
+      "page": 302,
+      "heading": "Chapter 30\n303"
+    },
+    {
+      "page": 302,
+      "heading": "Chapter 30\nUp\" Pada"
+    },
+    {
+      "page": 304,
+      "heading": "Chapter 30\n305"
+    },
+    {
+      "page": 306,
+      "heading": "Chapter 3o\n307"
+    },
+    {
+      "page": 308,
+      "heading": "Chapter 3O \n309"
+    },
+    {
+      "page": 312,
+      "heading": "Chapter 3l\nThe Argala of 4th house Mar$js countered by lOth house Saturn,"
+    },
+    {
+      "page": 314,
+      "heading": "Chapter 31.\nsrf*"
+    },
+    {
+      "page": 315,
+      "heading": "Chapter 32\nPlanetary Karakatwas"
+    },
+    {
+      "page": 316,
+      "heading": "Chapter 32\n{ri <tPqroqrfusqr{ qIQft tqtqmrcs: t"
+    },
+    {
+      "page": 320,
+      "heading": "Chapter 32\n321"
+    },
+    {
+      "page": 322,
+      "heading": "Chapter 32\n323"
+    },
+    {
+      "page": 325,
+      "heading": "Chapter 33\nEffects Of Karakamsa"
+    },
+    {
+      "page": 326,
+      "heading": "Chapter 33\nlqffi"
+    },
+    {
+      "page": 328,
+      "heading": "Chapter 3t\n13-18. EFFECTS OF PLANETS IN KARAKAMSA : O"
+    },
+    {
+      "page": 330,
+      "heading": "Chapter 3t\ntrl deqfrq?er:"
+    },
+    {
+      "page": 332,
+      "heading": "Chapter 33\n333"
+    },
+    {
+      "page": 334,
+      "heading": "Chapter 33\nrFI{.6i{rliq"
+    },
+    {
+      "page": 336,
+      "heading": "Chapter 33\n337"
+    },
+    {
+      "page": 338,
+      "heading": "Chapter 33\n339"
+    },
+    {
+      "page": 339,
+      "heading": "Chapter 34\nYoga Karakas"
+    },
+    {
+      "page": 340,
+      "heading": "Chapter t4\n341"
+    },
+    {
+      "page": 342,
+      "heading": "Chapter 34 \n34?"
+    },
+    {
+      "page": 344,
+      "heading": "Chapter t4\ntwo lords join in an angle or in a trine, or if a trinal lord is in"
+    },
+    {
+      "page": 346,
+      "heading": "Chapter t4 \n347"
+    },
+    {
+      "page": 348,
+      "heading": "Chapter 34 \ng4g"
+    },
+    {
+      "page": 350,
+      "heading": "Chapter 34\nascendants.) Thus Venus gets a dual role to do evil lor a"
+    },
+    {
+      "page": 352,
+      "heading": "Chapter 34\nMoon and Mercury will cause Rajayoga. Mars is a killer."
+    },
+    {
+      "page": 356,
+      "heading": "Chapter 35 \n35?"
+    },
+    {
+      "page": 358,
+      "heading": "Chapter 35\n8. MAALA AND SARPA YOGAS: If 3 angles are"
+    },
+    {
+      "page": 360,
+      "heading": "Chapter 35\n'"
+    },
+    {
+      "page": 362,
+      "heading": "Chapter 35 \n363"
+    },
+    {
+      "page": 365,
+      "heading": "Chapter 36\nMany Other Yogas"
+    },
+    {
+      "page": 366,
+      "heading": "Chapter 36\n367"
+    },
+    {
+      "page": 368,
+      "heading": "Chapter 36 \n369"
+    },
+    {
+      "page": 370,
+      "heading": "Chapter 36\nindicated as a result of ihe yoga by the sage. phala Deepika"
+    },
+    {
+      "page": 374,
+      "heading": "Chapter 36\nascendant lord along with the l0th lord is in a movabb rigo as"
+    },
+    {
+      "page": 376,
+      "heading": "Chapter XG\n377"
+    },
+    {
+      "page": 378,
+      "heading": "Chapter 36\n319"
+    },
+    {
+      "page": 380,
+      "heading": "Chapter 36\nIn the above case, the 2nd lord is Saturn. Note from"
+    },
+    {
+      "page": 382,
+      "heading": "Chapter 36\nqril;q{Fgri:"
+    },
+    {
+      "page": 383,
+      "heading": "Chapter 37\nLunar Yogas"
+    },
+    {
+      "page": 386,
+      "heading": "Chapter 39 \n387"
+    },
+    {
+      "page": 386,
+      "heading": "Chapter 39\nRaja Yogas"
+    },
+    {
+      "page": 392,
+      "heading": "Chapter 39 \n393"
+    },
+    {
+      "page": 394,
+      "heading": "Chapter 39 \n395"
+    },
+    {
+      "page": 396,
+      "heading": "Chapter 39\n397"
+    },
+    {
+      "page": 398,
+      "heading": "Chapter 4O \n399"
+    },
+    {
+      "page": 398,
+      "heading": "Chapter 40\nYogas For Royal Association"
+    },
+    {
+      "page": 400,
+      "heading": "Chapter fi\nFtctt!-it faqnf,q tt"
+    },
+    {
+      "page": 402,
+      "heading": "Chapter 4l\n403"
+    },
+    {
+      "page": 404,
+      "heading": "Chapter 4l\nwr*\"qi"
+    },
+    {
+      "page": 408,
+      "heading": "Chapter 4l\nNotes : The 5th lord has been psed in spiritual and mate-"
+    },
+    {
+      "page": 416,
+      "heading": "Chapter 43\nrqltqqtqrk-iftrrar"
+    },
+    {
+      "page": 418,
+      "heading": "Chapter 43\n4t9"
+    },
+    {
+      "page": 422,
+      "heading": "Chapter 43 \n423"
+    },
+    {
+      "page": 424,
+      "heading": "Chapter 4i\nSun as per rule 3 (i.e. Vyayadi Harana). Hence his final"
+    },
+    {
+      "page": 426,
+      "heading": "Chapter 43\n427"
+    },
+    {
+      "page": 428,
+      "heading": "Chapter 43 \n429"
+    },
+    {
+      "page": 432,
+      "heading": "Chapter 43\nMedium life : by 3 pairs-80 years (harmonic reduction of"
+    },
+    {
+      "page": 436,
+      "heading": "Chapter 43\nI tell you such yogas ac to know of full, medium and short span"
+    },
+    {
+      "page": 438,
+      "heading": "Chapter 43\n(2nd, sth, 8th or llth) medium life. If the said ptanetbe in"
+    },
+    {
+      "page": 440,
+      "heading": "Chapter 44 \n441"
+    },
+    {
+      "page": 442,
+      "heading": "Chapter 44\nby Vedas etc.) and medical treatments, for premature death may"
+    },
+    {
+      "page": 446,
+      "heading": "Chapter 44\ns{6el {r1r1tq*"
+    },
+    {
+      "page": 448,
+      "heading": "Chapter 45\nqErF{n"
+    },
+    {
+      "page": 450,
+      "heading": "Chapter 45\nqecrn] &qil: tie, nlqr qrsqRlfFil' I"
+    },
+    {
+      "page": 454,
+      "heading": "Chapter 45 \n455"
+    },
+    {
+      "page": 456,
+      "heading": "Chapter 45\nstrength and weakness"
+    },
+    {
+      "page": 458,
+      "heading": "Chapter 45\nstrong, very affectionate to his friends and be very kindly"
+    },
+    {
+      "page": 460,
+      "heading": "Chapter 45\n461"
+    },
+    {
+      "page": 462,
+      "heading": "Chapter 45\nTtE[t"
+    },
+    {
+      "page": 464,
+      "heading": "Chapter 45 \n465"
+    },
+    {
+      "page": 466,
+      "heading": "Chapter 45\nq(4fqcilq* ir;ril rTriirl qFpr6i1qrqeri: iga: r"
+    },
+    {
+      "page": 470,
+      "heading": "Chapter 46\nnative will be curious in disposition, very rich, will shine like thc"
+    },
+    {
+      "page": 472,
+      "heading": "Chapter 45 \n473"
+    },
+    {
+      "page": 474,
+      "heading": "Chapter 45\n475"
+    },
+    {
+      "page": 476,
+      "heading": "Chapter 45 \n477"
+    },
+    {
+      "page": 480,
+      "heading": "Chapter 45 \n481"
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 120,
+    "planet_house_connections": 67,
+    "planet_rasi_connections": 89,
+    "yoga_mentions": 14,
+    "nakshatra_mentions": 9,
+    "dasha_mentions": 0,
+    "chapters_detected": 180
+  }
+}

@@ -1,0 +1,33 @@
+﻿Wrote F:\astro\reports\jun 2026\2026-06-02\report\manoj\MANOJ_PREDICTIONS_TA.md
+python : Traceback (most recent call last):
+At C:\Users\chive\AppData\Local\Temp\ps-script-3a39183d-3cd7-4191-ac4e-34d574c022fb.ps1:80 char:24
++ ... n F:\astro; python scratch\_manoj_tamil_predictions_report.py 2>&1 |  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "F:\astro\scratch\_manoj_tamil_predictions_report.py", line 409, in <module>
+    main()
+  File "F:\astro\scratch\_manoj_tamil_predictions_report.py", line 402, in main
+    write_pdf(data, OUT_PDF_TA, "ta")
+  File "F:\astro\scratch\_manoj_tamil_predictions_report.py", line 389, in write_pdf
+    doc.build(flow, onFirstPage=footer, onLaterPages=footer)
+  File "C:\Users\chive\AppData\Local\Programs\Python\Python311\Lib\site-packages\reportlab\platypus\doctemplate.py", 
+line 1322, in build
+    BaseDocTemplate.build(self,flowables, canvasmaker=canvasmaker)
+  File "C:\Users\chive\AppData\Local\Programs\Python\Python311\Lib\site-packages\reportlab\platypus\doctemplate.py", 
+line 1109, in build
+    self._endBuild()
+  File "C:\Users\chive\AppData\Local\Programs\Python\Python311\Lib\site-packages\reportlab\platypus\doctemplate.py", 
+line 1044, in _endBuild
+    if getattr(self,'_doSave',1): self.canv.save()
+                                  ^^^^^^^^^^^^^^^^
+  File "C:\Users\chive\AppData\Local\Programs\Python\Python311\Lib\site-packages\reportlab\pdfgen\canvas.py", line 
+1302, in save
+    self._doc.SaveToFile(self._filename, self)
+  File "C:\Users\chive\AppData\Local\Programs\Python\Python311\Lib\site-packages\reportlab\pdfbase\pdfdoc.py", line 
+208, in SaveToFile
+    f = open(filename, "wb")
+        ^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'F:\\astro\\reports\\jun 
+2026\\2026-06-02\\report\\manoj\\MANOJ_PREDICTIONS_TA.pdf'

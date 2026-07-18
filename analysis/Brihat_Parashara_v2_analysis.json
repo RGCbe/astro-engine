@@ -1,0 +1,3489 @@
+{
+  "book_key": "Brihat_Parashara_v2",
+  "filename": "Brihat_Parashara.pdf",
+  "total_pages": 855,
+  "total_words": 263814,
+  "total_chars": 1619667,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "lord",
+      "count": 1617
+    },
+    {
+      "word": "dasha",
+      "count": 1565
+    },
+    {
+      "word": "effects",
+      "count": 1273
+    },
+    {
+      "word": "ascendant",
+      "count": 1232
+    },
+    {
+      "word": "moon",
+      "count": 1004
+    },
+    {
+      "word": "sun",
+      "count": 959
+    },
+    {
+      "word": "native",
+      "count": 941
+    },
+    {
+      "word": "house",
+      "count": 936
+    },
+    {
+      "word": "sign",
+      "count": 916
+    },
+    {
+      "word": "saturn",
+      "count": 887
+    },
+    {
+      "word": "jupiter",
+      "count": 887
+    },
+    {
+      "word": "mars",
+      "count": 853
+    },
+    {
+      "word": "page",
+      "count": 850
+    },
+    {
+      "word": "venus",
+      "count": 809
+    },
+    {
+      "word": "mercury",
+      "count": 706
+    },
+    {
+      "word": "etc",
+      "count": 669
+    },
+    {
+      "word": "planets",
+      "count": 640
+    },
+    {
+      "word": "wealth",
+      "count": 618
+    },
+    {
+      "word": "antardasa",
+      "count": 609
+    },
+    {
+      "word": "planet",
+      "count": 586
+    },
+    {
+      "word": "malefic",
+      "count": 538
+    },
+    {
+      "word": "years",
+      "count": 521
+    },
+    {
+      "word": "birth",
+      "count": 490
+    },
+    {
+      "word": "rahu",
+      "count": 488
+    },
+    {
+      "word": "rashi",
+      "count": 477
+    },
+    {
+      "word": "yoga",
+      "count": 468
+    },
+    {
+      "word": "notes",
+      "count": 450
+    },
+    {
+      "word": "other",
+      "count": 399
+    },
+    {
+      "word": "signs",
+      "count": 382
+    },
+    {
+      "word": "while",
+      "count": 374
+    },
+    {
+      "word": "ketu",
+      "count": 360
+    },
+    {
+      "word": "own",
+      "count": 354
+    },
+    {
+      "word": "happiness",
+      "count": 331
+    },
+    {
+      "word": "benefice",
+      "count": 321
+    },
+    {
+      "word": "good",
+      "count": 312
+    },
+    {
+      "word": "number",
+      "count": 312
+    },
+    {
+      "word": "king",
+      "count": 311
+    },
+    {
+      "word": "strength",
+      "count": 292
+    },
+    {
+      "word": "wife",
+      "count": 291
+    },
+    {
+      "word": "houses",
+      "count": 285
+    },
+    {
+      "word": "death",
+      "count": 281
+    },
+    {
+      "word": "leo",
+      "count": 275
+    },
+    {
+      "word": "loss",
+      "count": 273
+    },
+    {
+      "word": "days",
+      "count": 268
+    },
+    {
+      "word": "like",
+      "count": 267
+    },
+    {
+      "word": "aries",
+      "count": 266
+    },
+    {
+      "word": "evil",
+      "count": 265
+    },
+    {
+      "word": "above",
+      "count": 263
+    },
+    {
+      "word": "sat",
+      "count": 260
+    },
+    {
+      "word": "danger",
+      "count": 259
+    },
+    {
+      "word": "amsa",
+      "count": 257
+    },
+    {
+      "word": "lagna",
+      "count": 255
+    },
+    {
+      "word": "exaltation",
+      "count": 249
+    },
+    {
+      "word": "jup",
+      "count": 245
+    },
+    {
+      "word": "varga",
+      "count": 244
+    },
+    {
+      "word": "lords",
+      "count": 242
+    },
+    {
+      "word": "trikona",
+      "count": 242
+    },
+    {
+      "word": "ven",
+      "count": 239
+    },
+    {
+      "word": "given",
+      "count": 237
+    },
+    {
+      "word": "said",
+      "count": 236
+    },
+    {
+      "word": "life",
+      "count": 231
+    },
+    {
+      "word": "gain",
+      "count": 226
+    },
+    {
+      "word": "distress",
+      "count": 225
+    },
+    {
+      "word": "mcy",
+      "count": 225
+    },
+    {
+      "word": "navamsha",
+      "count": 222
+    },
+    {
+      "word": "born",
+      "count": 222
+    },
+    {
+      "word": "children",
+      "count": 216
+    },
+    {
+      "word": "mrs",
+      "count": 216
+    },
+    {
+      "word": "government",
+      "count": 215
+    },
+    {
+      "word": "bhava",
+      "count": 214
+    },
+    {
+      "word": "auspicious",
+      "count": 214
+    },
+    {
+      "word": "occupied",
+      "count": 213
+    },
+    {
+      "word": "pada",
+      "count": 210
+    },
+    {
+      "word": "results",
+      "count": 210
+    },
+    {
+      "word": "scorpio",
+      "count": 209
+    },
+    {
+      "word": "taurus",
+      "count": 208
+    },
+    {
+      "word": "aspected",
+      "count": 207
+    },
+    {
+      "word": "same",
+      "count": 203
+    },
+    {
+      "word": "through",
+      "count": 202
+    },
+    {
+      "word": "aquarius",
+      "count": 202
+    },
+    {
+      "word": "diseases",
+      "count": 201
+    },
+    {
+      "word": "order",
+      "count": 199
+    },
+    {
+      "word": "position",
+      "count": 198
+    },
+    {
+      "word": "cancer",
+      "count": 198
+    },
+    {
+      "word": "pisces",
+      "count": 195
+    },
+    {
+      "word": "months",
+      "count": 193
+    },
+    {
+      "word": "many",
+      "count": 191
+    },
+    {
+      "word": "endowed",
+      "count": 190
+    },
+    {
+      "word": "sagittarius",
+      "count": 187
+    },
+    {
+      "word": "time",
+      "count": 186
+    },
+    {
+      "word": "yogas",
+      "count": 186
+    },
+    {
+      "word": "virgo",
+      "count": 184
+    },
+    {
+      "word": "case",
+      "count": 184
+    },
+    {
+      "word": "first",
+      "count": 183
+    },
+    {
+      "word": "chapter",
+      "count": 181
+    },
+    {
+      "word": "capricorn",
+      "count": 180
+    },
+    {
+      "word": "associated",
+      "count": 178
+    },
+    {
+      "word": "sage",
+      "count": 176
+    },
+    {
+      "word": "libra",
+      "count": 173
+    },
+    {
+      "word": "bala",
+      "count": 172
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "180 degrees",
+      "context": "wy. These two are nodes of the Moons  and are exactly apart 180 degrees mutually. Their positions are formed when the  Moon crosses"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°",
+      "context": "ch are not, however standard, are as follows:  The Sun    : 1°  The Moon  : 13 - 15°  Mars    : 30 - 45'  Mercury  : 65 - 10"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°",
+      "context": "tandard, are as follows:  The Sun    : 1°  The Moon  : 13 - 15°  Mars    : 30 - 45'  Mercury  : 65 - 100'  Venus   : 62 - 82'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120°",
+      "context": "the Sun but within 120', she has medium strength.  Between 120° to 240' she is very auspicious, see अवतशुभप्रिो. From 240' t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "0°",
+      "context": "240' she is very auspicious, see अवतशुभप्रिो. From 240' to 0° she is  bereft of, strength. This is Yavanas' view; vide P."
+    },
+    {
+      "type": "degree_measure",
+      "value": "20 degrees",
+      "context": "स्वभम्॥५४॥  51-54. ADDITIONAL DIGNITIES: In Leo, the first 20 degrees are the Sun's  Moola-Trikona while the rest is his own house"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3 degrees",
+      "context": "la-Trikona while the rest is his own house. After the first 3 degrees of exaltation  portion in Taurus, forte Moon the rest is her"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12 \ndegrees",
+      "context": "orte Moon the rest is her Moola-Trikona. Mars has the first 12  degrees in Aries as Moola-Trikona with the rest there in becoming si"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15 degrees",
+      "context": "ming simply his own  house. For Mercury, in Virgo the first 15 degrees are exaltation zone, the next 5  degrees Moola-Trikona and t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5 \ndegrees",
+      "context": "in Virgo the first 15 degrees are exaltation zone, the next 5  degrees Moola-Trikona and the last 10 degrees are own house. The fir"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10 degrees",
+      "context": "tation zone, the next 5  degrees Moola-Trikona and the last 10 degrees are own house. The first one third of  Sagittarius is the Mo"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13 \ndegrees",
+      "context": "॥  61-64. NON-LUMINOUS UPAGRAHAS (SUB-PLANETS): Add 4 signs 13  degrees and 20 minutes of arc to the Sun's longitude at a given mome"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16 degrees 40 \nminutes",
+      "context": "ition of Chapa (Indra Dhanus) who is also inauspicious. Add 16 degrees 40  minutes to Chapa which will give Ketu (Upaketu) who is a malefic. B"
+    },
+    {
+      "type": "degree_measure",
+      "value": "133°20'",
+      "context": "lated as under  based on the above four verses:  1. Sun   + 133°20' = Dhooma  2. Dhooma  + 53°20' = Vyatipata  3. Vyatipata  +"
+    },
+    {
+      "type": "degree_measure",
+      "value": "53°20'",
+      "context": "ove four verses:  1. Sun   + 133°20' = Dhooma  2. Dhooma  + 53°20' = Vyatipata  3. Vyatipata  + 180° = Parivesha  4. Parivesha"
+    },
+    {
+      "type": "degree_measure",
+      "value": "180°",
+      "context": "= Dhooma  2. Dhooma  + 53°20' = Vyatipata  3. Vyatipata  + 180° = Parivesha  4. Parivesha  + 53°20' = Indra Cahpa (Indra Dha"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16°40'",
+      "context": "rivesha  + 53°20' = Indra Cahpa (Indra Dhanus)  5. Chapa  + 16°40' = Upaketu (Sikhi)  Upaketu, if increased by 30 degrees, wil"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30 degrees",
+      "context": "Chapa  + 16°40' = Upaketu (Sikhi)  Upaketu, if increased by 30 degrees, will reach the Sun's exact, position at a  given moment."
+    },
+    {
+      "type": "degree_measure",
+      "value": "40°",
+      "context": "degrees and Calculate the 5  Upagrahas, as under:  Sun  = (40°) + 133°20'  =  Dhooma  = 173°20'.  Dhooma  = (173°20') + 53"
+    },
+    {
+      "type": "degree_measure",
+      "value": "173°20'",
+      "context": "Upagrahas, as under:  Sun  = (40°) + 133°20'  =  Dhooma  = 173°20'.  Dhooma  = (173°20') + 53°20'  =  Vyatipata  = 226°40'  Vy"
+    },
+    {
+      "type": "degree_measure",
+      "value": "226°40'",
+      "context": "= 173°20'.  Dhooma  = (173°20') + 53°20'  =  Vyatipata  = 226°40'  Vyatipata  = (226°40') + 180°  =  Parivesha  = 406°40' (or"
+    },
+    {
+      "type": "degree_measure",
+      "value": "406°40'",
+      "context": "= 226°40'  Vyatipata  = (226°40') + 180°  =  Parivesha  = 406°40' (or 46°40')  Parivesha  = (46°40') - 53°20'  =  ChaPa  = 35"
+    },
+    {
+      "type": "degree_measure",
+      "value": "46°40'",
+      "context": "Vyatipata  = (226°40') + 180°  =  Parivesha  = 406°40' (or 46°40')  Parivesha  = (46°40') - 53°20'  =  ChaPa  = 353°20’  Chap"
+    },
+    {
+      "type": "degree_measure",
+      "value": "353°",
+      "context": "0' (or 46°40')  Parivesha  = (46°40') - 53°20'  =  ChaPa  = 353°20’  Chapa  = (353°20') + 16°40'  =  UPaketu  = 10°  Upaketu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "353°20'",
+      "context": "ivesha  = (46°40') - 53°20'  =  ChaPa  = 353°20’  Chapa  = (353°20') + 16°40'  =  UPaketu  = 10°  Upaketu  = (10°) + 30°  =  St"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10°",
+      "context": "haPa  = 353°20’  Chapa  = (353°20') + 16°40'  =  UPaketu  = 10°  Upaketu  = (10°) + 30°  =  Stm  = 40°    It may be seen that"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30°",
+      "context": "= (353°20') + 16°40'  =  UPaketu  = 10°  Upaketu  = (10°) + 30°  =  Stm  = 40°    It may be seen that by adding 30° to Upaket"
+    },
+    {
+      "type": "degree_measure",
+      "value": "240 degrees",
+      "context": "will yield Paranapada. If the Sun is in a fixed  sign, add 240 degrees additionally and if in dual sign add 120 degrees in furthera"
+    },
+    {
+      "type": "degree_measure",
+      "value": "120 degrees",
+      "context": "sign, add 240 degrees additionally and if in dual sign add 120 degrees in furtherance  to get Prana-Pada. The birth will be auspici"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20 \ndegrees",
+      "context": "ed by 15, this yields 65.66. Rashi which means 65 signs and 20  degrees. Expunging the multiples of 12, we have 5s 20° or 170°.  Th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20°",
+      "context": "and 20  degrees. Expunging the multiples of 12, we have 5s 20° or 170°.  The next step is to add this straightaway to the S"
+    },
+    {
+      "type": "degree_measure",
+      "value": "170°",
+      "context": "degrees. Expunging the multiples of 12, we have 5s 20° or 170°.  The next step is to add this straightaway to the Sun's lo"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5 degrees",
+      "context": "he Sun is in Aries 15 degrees, we get 170+ 15=185 or Libra  5 degrees as Prana-Pada ascendant.  In the same example if the Sun is"
+    },
+    {
+      "type": "degree_measure",
+      "value": "95 \ndegrees",
+      "context": "her 240 degrees. So, to say, 45 (the Sun) +240 + 170=455 or 95  degrees (Cancer 5 degrees) as Prana-Pada ascendant.  Again, alternat"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5°",
+      "context": "240 degrees. That is 75 (Sun's longitude) + 120 +  170=365=5° Aries is Prana-Pada Lagna.   Zodiacal Signs Described  Page"
+    },
+    {
+      "type": "degree_measure",
+      "value": "182° 23'",
+      "context": "and important cusps are as given below:  Ascendant Cusp  : 182° 23' 06\"    9th cusp  : 64° 03'  13\"  10th cusp or M.C: 194° 36'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "64° 03'",
+      "context": "given below:  Ascendant Cusp  : 182° 23' 06\"    9th cusp  : 64° 03'  13\"  10th cusp or M.C: 194° 36' 06\"    Gulika   : 208° 32,"
+    },
+    {
+      "type": "degree_measure",
+      "value": "194° 36'",
+      "context": "182° 23' 06\"    9th cusp  : 64° 03'  13\"  10th cusp or M.C: 194° 36' 06\"    Gulika   : 208° 32,' 06\"  Saturn   : 202° 45'.38\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "208°",
+      "context": "64° 03'  13\"  10th cusp or M.C: 194° 36' 06\"    Gulika   : 208° 32,' 06\"  Saturn   : 202° 45'.38\"    Moon    : 134° 17' 00\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "202° 45'",
+      "context": "r M.C: 194° 36' 06\"    Gulika   : 208° 32,' 06\"  Saturn   : 202° 45'.38\"    Moon    : 134° 17' 00\"  Sidereal Time at birth: 8h 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "134° 17'",
+      "context": "ika   : 208° 32,' 06\"  Saturn   : 202° 45'.38\"    Moon    : 134° 17' 00\"  Sidereal Time at birth: 8h 1m 21s  The longitude of Gu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "241° 40'",
+      "context": "quired. In the example case, these are:  A = s 46’ 28\"  B = 241° 40' 07\"  C = 14° IT 00\"  x = 261° 43' 35\" = 261d 43gh 35 vigh."
+    },
+    {
+      "type": "degree_measure",
+      "value": "14°",
+      "context": "mple case, these are:  A = s 46’ 28\"  B = 241° 40' 07\"  C = 14° IT 00\"  x = 261° 43' 35\" = 261d 43gh 35 vigh.  It will be no"
+    },
+    {
+      "type": "degree_measure",
+      "value": "261° 43'",
+      "context": "are:  A = s 46’ 28\"  B = 241° 40' 07\"  C = 14° IT 00\"  x = 261° 43' 35\" = 261d 43gh 35 vigh.  It will be noticed that 1 degree"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1 degree",
+      "context": "261° 43' 35\" = 261d 43gh 35 vigh.  It will be noticed that 1 degree is treated as one day in the above computation.  That is, th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "29°",
+      "context": "s per Lahiri Ayanamsa.      Mercury  Sun  Mars  Rahu  Moon  29°15’36’’  Venus  Lagna  10°20’37’’    Ketu  Jup (R)  Sat (R)"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10° \n20'",
+      "context": "chart given, the ascendant is Capricorn and portion past is 10°  20'37\". We convert this longitude into seconds of arc to have a"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30 deg.",
+      "context": "r New Delhi. Now see the process as under:  108000 seconds (30 deg.)  = 46248 seconds of time (or 12h 50m 48s)  37237\" (or 10°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10° 20'",
+      "context": "deg.)  = 46248 seconds of time (or 12h 50m 48s)  37237\" (or 10° 20'37\")   =?          = (46248 x 37237)/108000          = 15945"
+    },
+    {
+      "type": "degree_measure",
+      "value": "48°44'",
+      "context": "xample, the difference between Adhana Moon and Adhana La is 48°44' whereas  natal Moon and natal ascendant are 49°6' apart.  T"
+    },
+    {
+      "type": "degree_measure",
+      "value": "49°6'",
+      "context": "na La is 48°44' whereas  natal Moon and natal ascendant are 49°6' apart.  The curious reader may note one thing. There are ma"
+    },
+    {
+      "type": "degree_measure",
+      "value": "24 degrees",
+      "context": "'s Muhurta, the longitude  of Gulika would have advanced by 24 degrees. That would put the Adhana still 24  days behind the noted"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12°",
+      "context": "Sun's longitude as prevalent at the time of Sun rise is 4s 12°. Find out  the Bhava Lagna in the first instance, as under:"
+    },
+    {
+      "type": "degree_measure",
+      "value": "75°",
+      "context": "under:  When birth time is divided by 5 we get 2.5 signs or 75°. This is to be added to  the Sun's longitude as given which"
+    },
+    {
+      "type": "degree_measure",
+      "value": "132°",
+      "context": "is is to be added to  the Sun's longitude as given which is 132°. We get 207° or Libra 27° as Bhava Lagna.  तथा साधयदद्वघपटक"
+    },
+    {
+      "type": "degree_measure",
+      "value": "207°",
+      "context": "dded to  the Sun's longitude as given which is 132°. We get 207° or Libra 27° as Bhava Lagna.  तथा साधयदद्वघपटकावमतािकोियाि्"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27°",
+      "context": "un's longitude as given which is 132°. We get 207° or Libra 27° as Bhava Lagna.  तथा साधयदद्वघपटकावमतािकोियाि् दद्वज।  प्रया"
+    },
+    {
+      "type": "degree_measure",
+      "value": "150 \ndegrees",
+      "context": "me is to be divided by 2.5. When done so, we get 5 signs or 150  degrees. Add this lo the Sun's longitude as a, sunrise (i.e. 132 pl"
+    },
+    {
+      "type": "degree_measure",
+      "value": "282°",
+      "context": "his lo the Sun's longitude as a, sunrise (i.e. 132 plus 150=282°). We  thus get Horā Lagna as Capricorn 12°.   Special Ascen"
+    },
+    {
+      "type": "degree_measure",
+      "value": "375°",
+      "context": "away from the Sun (as at rise of the day). When 12s 15° or 375° are  added to the Sun (132°), we get 507' which after expung"
+    },
+    {
+      "type": "degree_measure",
+      "value": "360°",
+      "context": "added to the Sun (132°), we get 507' which after expunging 360° results in 147° or  Leo 27° as Ghatika Lagna.  क्रमािेषां च"
+    },
+    {
+      "type": "degree_measure",
+      "value": "147°",
+      "context": "n (132°), we get 507' which after expunging 360° results in 147° or  Leo 27° as Ghatika Lagna.  क्रमािेषां च लग्नानां भािकोष्"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7° 30'",
+      "context": "tana.  Notes: Each Chathurthamsa is one fourth of a sign or 7° 30'. The 1st, 2nd, 3rd  and 4th Chathurthamsa are ruled respect"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22° 30'",
+      "context": "10  11  12  15°  4  5  6  7  8  9  10  11  12   1  2  3  22° 30' 7  8  9  10  11  12  1  2  3   4  5  6  30°  10  11  12  1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4° 17'",
+      "context": "an even sign.  Notes: Each sign is made in 7 equal parts of 4° 17' 8.57\" which is called  Saptamamsa. As far as odd signs are"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3° 20'",
+      "context": "sign's order.)  Notes: Navamsha is 1/9th part of a sign or 3° 20'. The 9 Navamsha in order  commence from the same sign for a"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°",
+      "context": "th with reference to an even sign, the 10 Dashamsas each of 3° are reckoned. These  are presided over by the ten rulers of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2° 30'",
+      "context": "Sarpa for the  12 Dvadashamsa,  Notes: Each Dvadashamsa is 2° 30' and the 12 divisions fall successively in  the successive 1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°52'",
+      "context": "ual sign, the 16 Shodashamsas (16th part of a  sign i.e. of 1°52' 30\") are regularly distributed. The presiding deities of th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1° 52'",
+      "context": "s: Each sign is made into 16 equal parts of Shodashamsas of 1° 52' 30\".  The 16 divisions for any movable sign commence from A"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°30'",
+      "context": "nd Aparajita.  Notes: There are 20 Vimsamsas at the rate of 1°30' degrees in the whole of a  sign. See the speculum of Vimsam"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1° 15'",
+      "context": "22-23. SIDDHAMSA: The Siddhamsa (1/24th part of a sign or 1° 15' each)  distribution commences from Leo and Cancer respectiv"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1° \n15'",
+      "context": "msa is also called Chaturvimsasa, each being of a length of 1°  15', (24 in number in the whole of a sign). The successively di"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1° 6'",
+      "context": "ovable signs for all the 12 signs.  Notes: One Bhamsa is of 1° 6' 40\" of arc and there are 27 such divisions in a  sign. See"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7°",
+      "context": "irst 5°  Aries  First  5°  Taurus  Next 5°  Aquarius  Next  7°  Virgo  Next 8°  Sagittariu s  Next  8°  Pisces  Next 7°  Gem"
+    },
+    {
+      "type": "degree_measure",
+      "value": "8°",
+      "context": "First  5°  Taurus  Next 5°  Aquarius  Next  7°  Virgo  Next 8°  Sagittariu s  Next  8°  Pisces  Next 7°  Gemini  Next  5°  C"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13° 25'",
+      "context": "shloka 33 above. Assume that Venus  is placed in Capricorn 13° 25'. To find out the Shashtiamsa lord, ignore the sign  positio"
+    },
+    {
+      "type": "degree_measure",
+      "value": "26° 50'",
+      "context": "nd multiply the degrees and minutes by 2. Hence 13° 25' x 2=26° 50'. The  degrees i.e. 26 (ignoring minutes) be divided by 12."
+    },
+    {
+      "type": "degree_measure",
+      "value": "28°",
+      "context": "29° 30\"  1° - 1° 30\"  3. Deva (B)-divine' spiritual side.  28° 30\" - 29°  1° 30\" - 2°  4. Kubera (B)-celestial treasurer."
+    },
+    {
+      "type": "degree_measure",
+      "value": "2°",
+      "context": ". Deva (B)-divine' spiritual side.  28° 30\" - 29°  1° 30\" - 2°  4. Kubera (B)-celestial treasurer.  28° - 28° 30\"  2° - 2° 3"
+    },
+    {
+      "type": "degree_measure",
+      "value": "26°",
+      "context": "° - 27° 30\"  3° - 3° 30\"  7. Bhrashta (M)-fallen, vicious.  26° 30\" - 27°  3° 30\" - 4°  8. Kulrghna (M)-ruining a family.  2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4°",
+      "context": "7. Bhrashta (M)-fallen, vicious.  26° 30\" - 27°  3° 30\" - 4°  8. Kulrghna (M)-ruining a family.  26° - 26° 30\"  4° - 4° 30"
+    },
+    {
+      "type": "degree_measure",
+      "value": "25°",
+      "context": "26° - 26° 30\"  4° - 4° 30\"  9. Grala (M)-poison or venom.  25° 30\" - 26°  4° 30\" - 5°  10. Vahni (M)-fire, gastric fluid, d"
+    },
+    {
+      "type": "degree_measure",
+      "value": "24°",
+      "context": "° - 25° 30\"  5° - 5° 30\"  11. Maya (M) - deceit, jugglery.  24° 30\" - 25°  5° 30\" - 6°  12. Purishaka (M)-dirt.  24° - 24° 3"
+    },
+    {
+      "type": "degree_measure",
+      "value": "6°",
+      "context": "11. Maya (M) - deceit, jugglery.  24° 30\" - 25°  5° 30\" - 6°  12. Purishaka (M)-dirt.  24° - 24° 30\"  6° - 6° 30\"  13. Apa"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°",
+      "context": "30\"  13. Apampathl (B)-the ocean, Varuna, (the rain  god).  23° 30\" - 24°  6° 30\" - 7°  14. Marut (B)-the wind god.  23° - 2"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°",
+      "context": "rn, Siva, a personification of the destructive  Principle.  22° 30\" - 23°  7° 30\" - 8°  16. Sarpa (M)-snake.  22° - 22° 30\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "21°",
+      "context": "° - 22° 30\"  8° - 8° 30\"  17. Amrita (B)-immortal, nectar.  21° 30\" - 22°  8° 30\" - 9°  18. Indu (BF Moon, the number l, cam"
+    },
+    {
+      "type": "degree_measure",
+      "value": "9°",
+      "context": "17. Amrita (B)-immortal, nectar.  21° 30\" - 22°  8° 30\" - 9°  18. Indu (BF Moon, the number l, camphor.  21° - 21° 30\"  9°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "19°",
+      "context": "anesa, (the elephant faced god),  a boestful hero buffalo'  19° 30\" - 20°  10° 30\" - 11°  22. Brahma (B) - the Universal Fat"
+    },
+    {
+      "type": "degree_measure",
+      "value": "11°",
+      "context": "d god),  a boestful hero buffalo'  19° 30\" - 20°  10° 30\" - 11°  22. Brahma (B) - the Universal Father, a missile,  sacred kn"
+    },
+    {
+      "type": "degree_measure",
+      "value": "18°",
+      "context": "name of a lawgiver (author of  Vishnusmriti), a Pious man'  18° 30\" - 19°  11° 30\" - 12°  24. Maheswara (B)-the third deity"
+    },
+    {
+      "type": "degree_measure",
+      "value": "17°",
+      "context": "8° - 18° 30\"  12° - 12° 30\"  25. Deva (B)-same as S' No' 3  17° 30\" - 18°  12° 30\" - 13°  26. Ardra (B)-moist  17° - 17° 30\""
+    },
+    {
+      "type": "degree_measure",
+      "value": "13°",
+      "context": "0\"  25. Deva (B)-same as S' No' 3  17° 30\" - 18°  12° 30\" - 13°  26. Ardra (B)-moist  17° - 17° 30\"   The Sixteen Divisions o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "16°",
+      "context": "strife (according to  some' this is a malefic Shashtiamsa)  16° 30\" - 17°  13° 30\" - 14°  28' Kshiteesa (B)-ruler of the ear"
+    },
+    {
+      "type": "degree_measure",
+      "value": "14° \n28'",
+      "context": "e' this is a malefic Shashtiamsa)  16° 30\" - 17°  13° 30\" - 14°  28' Kshiteesa (B)-ruler of the earth  16° - 16° 30\"  14° - 14°"
+    },
+    {
+      "type": "degree_measure",
+      "value": "4° 32'",
+      "context": "neously along with Vimsopaka. The longitude of Venus is 95s 4° 32' 30\".  Division  occupation  Lord  Relationship  SV  VV  VS"
+    },
+    {
+      "type": "degree_measure",
+      "value": "209° 24'",
+      "context": "rs on 15th December 1925:      Longitude  Latitude  Mars    209° 24'  0 N 21  Saturn   209° 24'  2 N 25  He declares Saturn as t"
+    },
+    {
+      "type": "degree_measure",
+      "value": "180 deg.",
+      "context": "of the aspecting planet. If the sum exceeds six signs (or  180 deg.) deduct the sum again from 10 signs (or 300 deg.). Convert"
+    },
+    {
+      "type": "degree_measure",
+      "value": "300 deg.",
+      "context": "signs (or  180 deg.) deduct the sum again from 10 signs (or 300 deg.). Convert the latest sum  into degrees and divide by two. T"
+    },
+    {
+      "type": "degree_measure",
+      "value": "150 deg.",
+      "context": "ference  is in excess of 4 signs deduct it from 5 signs (or 150 deg.) and the resultant degree  etc. become Drishti value. If th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "60 degrees",
+      "context": "principles:  Rule 1. When aspectual angle is between 30 and 60 degrees, reduce 30  degrees from the resultant aspectual angle and"
+    },
+    {
+      "type": "degree_measure",
+      "value": "30 \ndegrees",
+      "context": ". When aspectual angle is between 30 and 60 degrees, reduce 30  degrees from the resultant aspectual angle and divide by 2 to get as"
+    },
+    {
+      "type": "degree_measure",
+      "value": "90 degrees",
+      "context": "alue.  Rule 2. If the aspectual angle is above 60 but below 90 degrees, reduce 60  from the aspectual angle and add 15 to get aspe"
+    },
+    {
+      "type": "degree_measure",
+      "value": "150 degrees",
+      "context": "l value.  Rule 4. If the aspectual angle is between 120 and 150 degrees, reduce the  angle of aspect from 150 to get aspectual valu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "300 degrees",
+      "context": "e.  Rule 6. When the aspectual angle is above 160 but below 300 degrees deduct  the aspectual angle from 300 and halve the resultant"
+    },
+    {
+      "type": "degree_measure",
+      "value": "249 degrees",
+      "context": ".  A) Mars: When the aspect angle is 90-120 degrees or 210- 249 degrees, add  15 Virupas to the value obtained from the speculum."
+    },
+    {
+      "type": "degree_measure",
+      "value": "270 degrees",
+      "context": "B) Jupiter: When the aspect angle is 120-150 degrees or 240-270 degrees  increase the speculum value by 30 Virupas.  C) Saturn: When"
+    },
+    {
+      "type": "degree_measure",
+      "value": "203 \nDeg",
+      "context": ".50  80:30  35.50     Evaluation of Planetary Aspects  Page 203  Deg:Mn  Virupa  Deg:Mn  Virupa  Deg:Mn  Virupa  81:00  36.00  1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "8.00 \n \nDeg",
+      "context": "21.00  153:30  7.00  105:00  37.50  129:30  20.50  154:00  8.00    Deg:Mn  Virupa  Deg:Mn  Virupa  Deg:Mn  Virupa  154:30  9.00  1"
+    },
+    {
+      "type": "degree_measure",
+      "value": "37.00 \n \nDeg",
+      "context": "49.25  225:30  37.25  178:00  56.00  202:00  49.00  226:00  37.00    Deg:Mn  Virupa  Deg:Mn  Virupa  Deg:Mn  Virupa   Evaluation of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12° 15'",
+      "context": "mple, assume the Sun 's placement in a given case is Pisces 12° 15'  (or 342° 15'). His deep debilitation point is  Libra 10° ("
+    },
+    {
+      "type": "degree_measure",
+      "value": "342° 15'",
+      "context": "the Sun 's placement in a given case is Pisces 12° 15'  (or 342° 15'). His deep debilitation point is  Libra 10° (or 190°), Henc"
+    },
+    {
+      "type": "degree_measure",
+      "value": "190°",
+      "context": "or 342° 15'). His deep debilitation point is  Libra 10° (or 190°), Hence:   Evaluation of Strengths  Page 209  (Sun's Positi"
+    },
+    {
+      "type": "degree_measure",
+      "value": "152°",
+      "context": "-Deep debilitation point) ÷ 3   =342° 15' minus 190° ÷ 3  = 152° 15’ ÷ 3 = 50.75 Virupas  If the sum before division by 3 is"
+    },
+    {
+      "type": "degree_measure",
+      "value": "23°27'",
+      "context": "found out on the following simple formula.  Ayana Bala = ((23°27' + Kranti) X 60) ÷46° 54'  = (23°27' plus or minus Kranti) x"
+    },
+    {
+      "type": "degree_measure",
+      "value": "46° 54'",
+      "context": "ing simple formula.  Ayana Bala = ((23°27' + Kranti) X 60) ÷46° 54'  = (23°27' plus or minus Kranti) x 1.2793  The following po"
+    },
+    {
+      "type": "degree_measure",
+      "value": "360 degrees",
+      "context": "eshta Kendra. If this exceeds 180 degrees deduct again from 360 degrees.  Divide the Cheshta Kendra by 3 which will be the motional"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27°35'",
+      "context": "tion.  Karaka     Planet   Longitude  Atmakaraka    Moon    27°35'46\"  Amatyakaraka   Venus   27°17'50\"  Bhratru Karaka Jupite"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27°17'",
+      "context": "de  Atmakaraka    Moon    27°35'46\"  Amatyakaraka   Venus   27°17'50\"  Bhratru Karaka Jupiter   26°7'13\"  Matru Karaka    Rahu"
+    },
+    {
+      "type": "degree_measure",
+      "value": "26°7'",
+      "context": "Amatyakaraka   Venus   27°17'50\"  Bhratru Karaka Jupiter   26°7'13\"  Matru Karaka    Rahu    22°22'54\"  Pitru Karaka    Merc"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22°22'",
+      "context": "Bhratru Karaka Jupiter   26°7'13\"  Matru Karaka    Rahu    22°22'54\"  Pitru Karaka    Mercury  14°54'13\"  Putra Karaka    Sun"
+    },
+    {
+      "type": "degree_measure",
+      "value": "14°54'",
+      "context": "Matru Karaka    Rahu    22°22'54\"  Pitru Karaka    Mercury  14°54'13\"  Putra Karaka    Sun    7°12'18\"  Gnati Karaka    Mars"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7°12'",
+      "context": "Pitru Karaka    Mercury  14°54'13\"  Putra Karaka    Sun    7°12'18\"  Gnati Karaka    Mars    6°18'46\"  Dara Karaka    Saturn"
+    },
+    {
+      "type": "degree_measure",
+      "value": "6°18'",
+      "context": "\"  Putra Karaka    Sun    7°12'18\"  Gnati Karaka    Mars    6°18'46\"  Dara Karaka    Saturn   3°9'41\"  If two planets have th"
+    },
+    {
+      "type": "degree_measure",
+      "value": "3°9'",
+      "context": "Gnati Karaka    Mars    6°18'46\"  Dara Karaka    Saturn   3°9'41\"  If two planets have the same longitude identical to the"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21° 50'",
+      "context": "ce to shloka  so in Ch. 24 supra. The Atmakaraka is Saturn (21° 50') while Putra Karaka is Mercury  (13° 11'). It may be noted"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13° 11'",
+      "context": "akaraka is Saturn (21° 50') while Putra Karaka is Mercury  (13° 11'). It may be noted that Saturn is in the ascendant while Mer"
+    },
+    {
+      "type": "degree_measure",
+      "value": "21° 32'",
+      "context": ". The minutes and seconds  be also considered. For example, 21° 32' 49\" is converted into 21.547 degrees for  easy calculation."
+    },
+    {
+      "type": "degree_measure",
+      "value": "21.547 degrees",
+      "context": "also considered. For example, 21° 32' 49\" is converted into 21.547 degrees for  easy calculation.) The formula to find out the basic pl"
+    },
+    {
+      "type": "degree_measure",
+      "value": "223.1613 degrees",
+      "context": "tribute 20 years. In the  horoscope under evaluation, he is 223.1613 degrees away from his deep exaltation  (Libra 20°). Hence to find ou"
+    },
+    {
+      "type": "degree_measure",
+      "value": "29.9925 degrees",
+      "context": "n Gemini. Thus, the length  of the 8th Bhava is 29-59-33 or 29.9925 degrees, which is 'BL' for our purpose. The  basic contribution of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "17.3572 degree",
+      "context": ". The  basic contribution of Saturn is 12.3979 years. He is 17.3572 degree ahead of the 8th  Bhava beginning. Therefore, his reduction"
+    },
+    {
+      "type": "degree_measure",
+      "value": "2.5 degrees",
+      "context": "y converted into years treating 30  degrees as one year, or 2.5 degrees as a month. The contribution of ascendant will  be so calcul"
+    },
+    {
+      "type": "degree_measure",
+      "value": "20° 32'",
+      "context": "nderstood from Pindayu  example, while Horā Lagna is Taurus 20° 32' 12\".  The first group-ascendant lord is in a movable sign a"
+    },
+    {
+      "type": "degree_measure",
+      "value": "51° \n58'",
+      "context": "and Mercury. Their longitudes devoid of signs added denote 51°  58' 26\". This is to be divided by 4, as there are 4 contributor"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12° 59'",
+      "context": "be divided by 4, as there are 4 contributors. Thus, we get 12° 59'  37\". This is to be multiplied by 72 (basic years) and divi"
+    },
+    {
+      "type": "degree_measure",
+      "value": "7° 12'",
+      "context": "Sun in Krittika  Nakshatra, 3rd Navamsha of Taurus (i.e. in 7° 12' Taurus), birth star Krittika, birth at  30 gh 33 vigh, and"
+    },
+    {
+      "type": "degree_measure",
+      "value": "6°40'",
+      "context": "°- 00'  Mrigasira (3,4)  0°  To  6°- 40'  Aridra (1.2,3,4)  6°40'  To  20°- 00'  Punarvasu (1 ,2,3)  20°- 00'  To  30°- 00'"
+    },
+    {
+      "type": "degree_measure",
+      "value": "22 degrees",
+      "context": "ividing 41940 by 3571 we get 11, 22, 20, 17 that is Pisces  22 degrees, 20 minutes and 17 seconds. Adding this to the longitude of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "13 \nDegree",
+      "context": "10  10  7  2  8  Sign  Amsa  29  6  0  13  13  20  13  13  13  Degree  Kala  16  22  56  9  41  4  24  55  55  Minute  Vikala 53  5"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27 \nDegree",
+      "context": "8  9  Sign  Amsa  26 27  29  0  29  27  26 27    29  0  29  27  Degree  Kala  28 44  0  16  0  44  28 44    0  16  0  44  Minute  Vi"
+    },
+    {
+      "type": "time_period",
+      "value": "8 months",
+      "context": "n's transit of two Rāśhis.  The period indicated by Rahu is 8 months and Ketu 3 months (vide shloka 46  of this Ch.). Also, see"
+    },
+    {
+      "type": "time_period",
+      "value": "3 months",
+      "context": "Rāśhis.  The period indicated by Rahu is 8 months and Ketu 3 months (vide shloka 46  of this Ch.). Also, see shloka 18, Ch. 4 o"
+    },
+    {
+      "type": "time_period",
+      "value": "360 days",
+      "context": "ay in the above computation.  That is, these are Sauramana (360 days per year). To apply this to Gregorian Calendar  (NS), we mu"
+    },
+    {
+      "type": "time_period",
+      "value": "200 days",
+      "context": "al Signs Described  Page 34      D  gh  Vigh  Lip  Vilipta  200 days:  2  55  16  56  40  60 days:  0  52  35  5  0  1 day:   0"
+    },
+    {
+      "type": "time_period",
+      "value": "60 days",
+      "context": "D  gh  Vigh  Lip  Vilipta  200 days:  2  55  16  56  40  60 days:  0  52  35  5  0  1 day:   0  0  52  35  5  43.58 gh:  0"
+    },
+    {
+      "type": "time_period",
+      "value": "1 day",
+      "context": "a  200 days:  2  55  16  56  40  60 days:  0  52  35  5  0  1 day:   0  0  52  35  5  43.58 gh:  0  0  38  0  0  Correction"
+    },
+    {
+      "type": "time_period",
+      "value": "273 days",
+      "context": "Firstly, we find out whether the delivery should be before 273 days  or after 273 days from Adhana. The relevant principle is f"
+    },
+    {
+      "type": "time_period",
+      "value": "2 days",
+      "context": "Jataka  Sapram. 273 days is the basis as the Moon takes 273.2 days to complete ten zodiacal  revolutions The Adhana chart is a"
+    },
+    {
+      "type": "time_period",
+      "value": "273 day",
+      "context": "is not enough if we state that the delivery will be before 273 day.  We must narrow down the period still briefly. The Sun's p"
+    },
+    {
+      "type": "time_period",
+      "value": "270 days",
+      "context": "east suggesting delivery in the 9th month (i.e. between 240-270 days).  Stage 3: After the above step, our job is to dig out the"
+    },
+    {
+      "type": "time_period",
+      "value": "24 \ndays",
+      "context": "ave advanced by 24 degrees. That would put the Adhana still 24  days behind the noted date. Please note that we have exactly rea"
+    },
+    {
+      "type": "time_period",
+      "value": "100 years",
+      "context": "n the, 12th for Libra ascendant will confer a life span of  100 years, vide shloka 16, Ch. 10, Infra.  िािान्वितः शशी धमे द्यूनलग"
+    },
+    {
+      "type": "time_period",
+      "value": "2 months",
+      "context": "ुिाहृतम्॥२३॥  23. The life span of the child will be either 2 months or 6 mouths only, if all  planets devoid of strength are re"
+    },
+    {
+      "type": "time_period",
+      "value": "13 years",
+      "context": "ween the lords of the 2nd and the 11th will bring marriage  13 years after birth.  रन्ध्राज्जावमिगे शुक्रे तिीशे भौमसंयुते ।  द्"
+    },
+    {
+      "type": "time_period",
+      "value": "32 years",
+      "context": "8-13. SHORT LIFE: One's span of life will be between 20 and 32 years if the  ascendant lord is weak while the 8th lord is in an"
+    },
+    {
+      "type": "time_period",
+      "value": "60 years",
+      "context": "es: By 'medium life' it is mean to denote a span of life of 60 years. So, to  say the 12th lord in the 8th will not be in a posi"
+    },
+    {
+      "type": "time_period",
+      "value": "0 \nYr",
+      "context": "Vide infra.  Speculum or Abbreviated Ahargana for January 0  Yr.  Ahargana  Yr.  Ahargana  Yr.  Ahargana  1800  458  1842"
+    },
+    {
+      "type": "time_period",
+      "value": "43593 \n \n \n \nYr",
+      "context": "1882  27888  1924  43227  1841  12913  1883  28253  1925  43593        Yr.  Ahargana  Yr.  Ahargana  Yr.  Ahargana  1926  43958  1951"
+    },
+    {
+      "type": "time_period",
+      "value": "100 \nyears",
+      "context": "m and Vedic learning. One will be endowed with longevity of 100  years, be sensuous and will look after state affairs if Venus is"
+    },
+    {
+      "type": "time_period",
+      "value": "1 year",
+      "context": "r sign will also correspondingly  donate (i.e. 30 degrees = 1 year). If the Navamsha Ascendant lord is stronger than  the asce"
+    },
+    {
+      "type": "time_period",
+      "value": "20 years",
+      "context": "Saturn respectively con tribute 19,  25, 15, 12, 15, 21 and 20 years when on deep exaltation degree. The contributions  are just"
+    },
+    {
+      "type": "time_period",
+      "value": "3979 years",
+      "context": "ove,  thus:   Longevity  Page 341  223.1613 X 20 ÷ 360 = 12.3979 years  On this basis, we have for the example nativity, the follo"
+    },
+    {
+      "type": "time_period",
+      "value": "5642 years",
+      "context": "g basic donations  of yean by the 7 planets:  The Sun  : 17.5642 years  The Moon  : 24.6247 years  Mars    : 8.4036 years  Mercury"
+    },
+    {
+      "type": "time_period",
+      "value": "6247 years",
+      "context": "by the 7 planets:  The Sun  : 17.5642 years  The Moon  : 24.6247 years  Mars    : 8.4036 years  Mercury  : 6.9968 years  Jupiter"
+    },
+    {
+      "type": "time_period",
+      "value": "4036 years",
+      "context": "un  : 17.5642 years  The Moon  : 24.6247 years  Mars    : 8.4036 years  Mercury  : 6.9968 years  Jupiter   : 14.1200 years  Venus"
+    },
+    {
+      "type": "time_period",
+      "value": "9968 years",
+      "context": "Moon  : 24.6247 years  Mars    : 8.4036 years  Mercury  : 6.9968 years  Jupiter   : 14.1200 years  Venus   : 19.2327 years  Saturn"
+    },
+    {
+      "type": "time_period",
+      "value": "1200 years",
+      "context": ": 8.4036 years  Mercury  : 6.9968 years  Jupiter   : 14.1200 years  Venus   : 19.2327 years  Saturn   : 12.3979 years  These b"
+    },
+    {
+      "type": "time_period",
+      "value": "2327 years",
+      "context": "ry  : 6.9968 years  Jupiter   : 14.1200 years  Venus   : 19.2327 years  Saturn   : 12.3979 years  These basic contributions will u"
+    },
+    {
+      "type": "time_period",
+      "value": "2869 years",
+      "context": "eduction is:  12 3979 ÷ ((14 -8) - (17.3572 ÷ 29.9925)) = 2.2869 years  Thus, on account of Vyayadi Harana, Saturn entails a check"
+    },
+    {
+      "type": "time_period",
+      "value": "4533 years",
+      "context": "based on the present formula  are  Venus   (7th Bhava)  : 1.4533 years  The Sun  (7th Bhava)  : 2.7939 years  The Moon  (7th Bhava"
+    },
+    {
+      "type": "time_period",
+      "value": "7939 years",
+      "context": "us   (7th Bhava)  : 1.4533 years  The Sun  (7th Bhava)  : 2.7939 years  The Moon  (7th Bhava)  : 1.8636 years  Saturn   (8th Bhava"
+    },
+    {
+      "type": "time_period",
+      "value": "8636 years",
+      "context": "un  (7th Bhava)  : 2.7939 years  The Moon  (7th Bhava)  : 1.8636 years  Saturn   (8th Bhava)  : 2.2869 years  Mars    (9th Bhava)"
+    },
+    {
+      "type": "time_period",
+      "value": "9472 years",
+      "context": "urn   (8th Bhava)  : 2.2869 years  Mars    (9th Bhava)  : 1.9472 years  Jupiter   (10th Bhava)  : 1.9314 years    4. Kroorodaya Ha"
+    },
+    {
+      "type": "time_period",
+      "value": "9314 years",
+      "context": "(9th Bhava)  : 1.9472 years  Jupiter   (10th Bhava)  : 1.9314 years    4. Kroorodaya Harana: Only malefic (i.e. Saturn, the Sm"
+    },
+    {
+      "type": "time_period",
+      "value": "5 \nyears",
+      "context": "then. For example, assume Mercury attracts a reduction of 7.5  years due to rule, I, followed by 2.3 years due to rule 2 and 4.3"
+    },
+    {
+      "type": "time_period",
+      "value": "3 years",
+      "context": "cts a reduction of 7.5  years due to rule, I, followed by 2.3 years due to rule 2 and 4.35 years due to rule 3.  The highest re"
+    },
+    {
+      "type": "time_period",
+      "value": "35 years",
+      "context": "s due to rule, I, followed by 2.3 years due to rule 2 and 4.35 years due to rule 3.  The highest reduction is due to rule I and"
+    },
+    {
+      "type": "time_period",
+      "value": "8 years",
+      "context": "ant, count up to Scorpio beginning from Aries. This denotes 8 years. The  degrees in the ascendant be also proportionately conv"
+    },
+    {
+      "type": "time_period",
+      "value": "3 year",
+      "context": "ries to Cancer we  have three completed Navamsha which give 3 year. The ascending degree is 0-48-34  whereas one Navamsha is 3"
+    },
+    {
+      "type": "time_period",
+      "value": "2428 years",
+      "context": "e Navamsha is 3° 20'. Proportionately thus we get another 0.2428 years  and have the total contribution of 3.2428 years as Ascenda"
+    },
+    {
+      "type": "time_period",
+      "value": "7095 years",
+      "context": "ayadi Harana). Hence his final contribution turns to be  11.7095 years (i.e. basic years minus Satru kshetra Harana). In the matte"
+    },
+    {
+      "type": "time_period",
+      "value": "3124 years",
+      "context": "n (24 627) is halved, she is left with a net donation of 12 3124 years.  Except the Sun, no other planet is in enemy's sign. So, S"
+    },
+    {
+      "type": "time_period",
+      "value": "06 years",
+      "context": "example, we arrive at a net longevity in  Savaramana as 81.06 years.  The Dasha period so obtained are Pinda Dasha of the 7 pla"
+    },
+    {
+      "type": "time_period",
+      "value": "300 years",
+      "context": "ey, bear,  and frog-toe full span of life in these cases is 300 years. Demon's life span in full is  150 years while it is 120 ye"
+    },
+    {
+      "type": "time_period",
+      "value": "150 years",
+      "context": "in these cases is 300 years. Demon's life span in full is  150 years while it is 120 years for human beings. 32 years for horses"
+    },
+    {
+      "type": "time_period",
+      "value": "120 years",
+      "context": "years. Demon's life span in full is  150 years while it is 120 years for human beings. 32 years for horses, 25 years for  don ke"
+    },
+    {
+      "type": "time_period",
+      "value": "25 years",
+      "context": "hile it is 120 years for human beings. 32 years for horses, 25 years for  don keys and camels, 24 years for oxen and buffaloes,"
+    },
+    {
+      "type": "time_period",
+      "value": "24 years",
+      "context": "gs. 32 years for horses, 25 years for  don keys and camels, 24 years for oxen and buffaloes, 20 years for peacocks, 16  years fo"
+    },
+    {
+      "type": "time_period",
+      "value": "16 \nyears",
+      "context": "ls, 24 years for oxen and buffaloes, 20 years for peacocks, 16  years for goats and rams. 14 years for swans, 12 years for cuckoo"
+    },
+    {
+      "type": "time_period",
+      "value": "14 years",
+      "context": "aloes, 20 years for peacocks, 16  years for goats and rams. 14 years for swans, 12 years for cuckoo, dog and dove, 8  years for"
+    },
+    {
+      "type": "time_period",
+      "value": "12 years",
+      "context": "peacocks, 16  years for goats and rams. 14 years for swans, 12 years for cuckoo, dog and dove, 8  years for hens etc. and 7 year"
+    },
+    {
+      "type": "time_period",
+      "value": "8 \nyears",
+      "context": "ams. 14 years for swans, 12 years for cuckoo, dog and dove, 8  years for hens etc. and 7 years for birds etc.-these are full lif"
+    },
+    {
+      "type": "time_period",
+      "value": "7 years",
+      "context": "years for cuckoo, dog and dove, 8  years for hens etc. and 7 years for birds etc.-these are full life spans for various living"
+    },
+    {
+      "type": "time_period",
+      "value": "5 years",
+      "context": "strong and assume  that Pindayu indicates a life span of 52.5 years while Nisargayu gives 40.7 years. The  average of these two"
+    },
+    {
+      "type": "time_period",
+      "value": "9 years",
+      "context": "es and the ascendant are equally strong,  and contribute 62.9 years Pindayu, 25.5 years  Nisargayu and 12.8 years of Amsayu. Th"
+    },
+    {
+      "type": "time_period",
+      "value": "73 \nyears",
+      "context": "d 12.8 years of Amsayu. The average of these three, i.e. 33.73  years will be the actual longevity of the native,  अथाऽन्यिपि िक्"
+    },
+    {
+      "type": "time_period",
+      "value": "108 years",
+      "context": "three groups, the span is 120 years, if by two groups it is 108 years and if only by one  group it is 96 years. If medium life is"
+    },
+    {
+      "type": "time_period",
+      "value": "96 years",
+      "context": "two groups it is 108 years and if only by one  group it is 96 years. If medium life is arrived at by three groups, it is 80 yea"
+    }
+  ],
+  "connections": {
+    "planet_house": [
+      {
+        "planet": "Sun",
+        "house": 2,
+        "snippet": "Sun) and is in the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 2,
+        "snippet": "Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun 1st house (self, soul, constitution etc.)  2. Jupiter: 2nd house (family, finance. wife etc.)  3. Mars: 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun with planets in them. Thus, there will be 3  rāśhis in each Bhava (house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun in the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun in the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun 1st house (self, soul, constitution etc.)  2. Jupiter: 2nd house (family, finance. wife etc.)  3. Mars: 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 4,
+        "snippet": "Sun be in the 4th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun and Moon be in the 11th as Saturn is in the 5th identical  with his own house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun is in the 5th, 9th and 10th or 7th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun is the lord of the 6th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun is in the 6th/8th/12th as  the 8th lord is in the 9th, the 12th lord is in the ascendant, and the 6th lord is in the 5th  house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun be in his sign of debilitation (Libra), be weak in the 6th, the 8th or the 12th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun is in the 5th, 9th and 10th or 7th house. In other house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun placed in the 7th or the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun occupies the 7th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun  Venus  Rahu  Jupiter  Saturn  Mercury  Moon  Mars  There is no planet in the 8th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun be in his sign of debilitation (Libra), be weak in the 6th, the 8th or the 12th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun be in the 8th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun, Ketu and Jupiter -all effectively joining in the 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun is in the 5th, 9th and 10th or 7th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun in Bhojanavastha in the 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun and Mars  acquire this strength in the 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun and Ketu.   The reader can always note that if the 11th lord is well disposed in the 10th  house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun is in the 5th, 9th and 10th or 7th house. In other house"
+      },
+      {
+        "planet": "Sun",
+        "house": 11,
+        "snippet": "Sun, Mars, Rahu and Saturn joining in the 11th  house"
+      },
+      {
+        "planet": "Sun",
+        "house": 11,
+        "snippet": "Sun and the Moon are required to be in the 11th. While being  so, Cancer or Leo will be the 11th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 12,
+        "snippet": "Sun be in his sign of debilitation (Libra), be weak in the 6th, the 8th or the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon is decreasing (i.e.  approaching the Sun) and is in the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon 5-35  Mars 23  Venus20-57  Rahu 10-34  Mere 13-11  Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon  Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 3,
+        "snippet": "Moon.  For example, the Sun in the 3rd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 3,
+        "snippet": "Moon be in her sign of debilitation or waning, there will be  loss of wealth in her Dasha. If the Moon be in 3rd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 4,
+        "snippet": "Moon have this Bala in the 4th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon with decreasing, rays in the 5th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon 5-35  Mars 23  Venus20-57  Rahu 10-34  Mere 13-11  Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon be in the 11th as Saturn is in the 5th identical  with his own house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon be in the 6th, the 8th or the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon is in the 6th  house. Thus the 6th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon  Mars  There is no planet in the 8th house but there are three benefices in the  Ascendant and they aspect the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon (signifying mother) joins Venus or is in Taurus. (Cancer though the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon  Mars  There is no planet in the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon be in the 6th, the 8th or the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 9,
+        "snippet": "Moon  Rahu  Lagna  Mercury  Jupiter Venus    Sun  Ketu    Saturn         In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 11,
+        "snippet": "Moon being in the 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 11,
+        "snippet": "Moon are required to be in the 11th. While being  so, Cancer or Leo will be the 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon with the planets in them. In the third circle place  the 12 house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon is  similarly classified as a killer for Leo ascendant as she is the lord of the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon be in the 6th, the 8th or the 12th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars 23  Venus20-57  Rahu 10-34  Mere 13-11  Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars  Mercury  Venus  Moon  Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars ruling the 10th  house is in tire 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 3,
+        "snippet": "Mars,  will destroy both the preborn and later born.  Notes: Sage Bhrigu also opines that the Sun in the 3rd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 3,
+        "snippet": "Mars with strength be in a Kendra or the   Page 458    3rd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars in the company of Jupiter (in  debilitation) in the 4th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars is in the 5th and the lord of  the 5th associated with a malefic is in the 8th,  (5) The Ascendant and the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars 23  Venus20-57  Rahu 10-34  Mere 13-11  Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars in Prakasavastha in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars be in Prakasavastha in the 5th or in the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars are together in the 6th or the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars, the  Ascendant is occupied by Rahu and the lord of the 5th house is in 6th, the 8th or the  12th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars in the 5th,  (7) The 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars in the 7th house; or owning the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars in the 7th  house is bad for the character of the spouse, Mars or Saturn ruling the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars be in Prakasavastha in the 5th or in the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars are together in the 6th or the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars is in Bhojanavastha or in Sayanavastha in the 5th house, or in the 8th  house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars  There is no planet in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars in the 9th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 9,
+        "snippet": "Mars  Moon  Rahu  Lagna  Mercury  Jupiter Venus    Sun  Ketu    Saturn         In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars  acquire this strength in the 10th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars in the 10th/12th  (not being in own house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars ruling the 10th  house is in tire 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 11,
+        "snippet": "Mars, Rahu and Saturn joining in the 11th  house"
+      },
+      {
+        "planet": "Mars",
+        "house": 11,
+        "snippet": "Mars is in the 11th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 11,
+        "snippet": "Mars will be in the  11th in own house"
+      },
+      {
+        "planet": "Mars",
+        "house": 12,
+        "snippet": "Mars in the 10th/12th  (not being in own house"
+      },
+      {
+        "planet": "Mars",
+        "house": 12,
+        "snippet": "Mars, the  Ascendant is occupied by Rahu and the lord of the 5th house is in 6th, the 8th or the  12th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury  Venus  Moon  Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury is in the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury is exalted in the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury ruling the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury have Dig-bala in the ascendant.  Venus and the Moon have this Bala in the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury will be in the 5th in own house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury be in the 5th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury in the 6th, Jupiter in the 7th and  Venus in the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury  Moon  Mars  There is no planet in the 8th house but there are three benefices in the  Ascendant and they aspect the 7th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 7,
+        "snippet": "Mercury and Saturn be in the 7th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury, the 11th lord, in the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury in the 6th, Jupiter in the 7th and  Venus in the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury  Moon  Mars  There is no planet in the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 9,
+        "snippet": "Mercury  Jupiter Venus    Sun  Ketu    Saturn         In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury have Digbala in the ascendant. The Sun and Mars  acquire this strength in the 10th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury ruling the ascendant and the 10th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury in Nidravastha will curtail longevity if the  position is in ascendant or in the 10th house, whereas in other house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 12,
+        "snippet": "Mercury is in the 2nd house while Jupiter is in the 12th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter  Mars  Mercury  Venus  Moon  Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter, Venus and  Mercury is exalted in the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter is in the 2nd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 3,
+        "snippet": "Jupiter: 2nd house (family, finance. wife etc.)  3. Mars: 3rd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 3,
+        "snippet": "Jupiter: 2nd house (family, finance. wife etc.)  3. Mars: 3rd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter and Venus, the subject will be wealthy.  Notes: The lord of the 2nd should be in the ascendant, or 4th/7th/10th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter (in  debilitation) in the 4th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter and Mercury have Dig-bala in the ascendant.  Venus and the Moon have this Bala in the 4th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter be in the 5th identical with his own house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter. If the rekhas in the 5th  house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter) is associated with Mars, the  Ascendant is occupied by Rahu and the lord of the 5th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 6,
+        "snippet": "Jupiter) is associated with Mars, the  Ascendant is occupied by Rahu and the lord of the 5th house is in 6th, the 8th or the  12th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter and Venus, the subject will be wealthy.  Notes: The lord of the 2nd should be in the ascendant, or 4th/7th/10th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter in exaltation in the 9th.  Apart from the 5th lord being in the 9th for fame via authorship, the 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter in the 7th and  Venus in the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter or the Matru-karaka  Moon (signifying mother) joins Venus or is in Taurus. (Cancer though the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter is lonely well-placed in the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter is a malefic for Taurus ascendant and will avail of the first  opportunity to inflict harm as he owns the 8th and 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter be in the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter  Rashi  Lagna  Sat  Ketu    Please note that the 5th lord is in the 9th in a house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter -all effectively joining in the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter and Venus, the subject will be wealthy.  Notes: The lord of the 2nd should be in the ascendant, or 4th/7th/10th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter  will be in fall in the 10th in a key house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 11,
+        "snippet": "Jupiter  in the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 11,
+        "snippet": "Jupiter in the 2nd have been key factors in the  nave's success. The 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 11,
+        "snippet": "Jupiter is in the 9th in exaltation and aspects the 11th  house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 12,
+        "snippet": "Jupiter is in the 12th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus  Moon  Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus and  Mercury is exalted in the 2nd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 2,
+        "snippet": "Venus in his sub-periods. If Venus be lord of  the 2nd or the 7th (two maraka house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus, the subject will be wealthy.  Notes: The lord of the 2nd should be in the ascendant, or 4th/7th/10th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus and the Moon have this Bala in the 4th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus be in the 9th from the 9th (i.e. in the 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus will be in the 5th in own house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus join the 6th and 8th lords in the 11th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus, the subject will be wealthy.  Notes: The lord of the 2nd should be in the ascendant, or 4th/7th/10th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus is in the 7th from the  8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus Occupying the 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus or is in Taurus. (Cancer though the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus join the 6th and 8th lords in the 11th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus is in the 7th from the  8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus be in the 9th from the 9th (i.e. in the 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus    Sun  Ketu    Saturn         In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 10,
+        "snippet": "Venus, the subject will be wealthy.  Notes: The lord of the 2nd should be in the ascendant, or 4th/7th/10th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 10,
+        "snippet": "Venus is in  Netrapani Avastha. The 10th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 11,
+        "snippet": "Venus join the 6th and 8th lords in the 11th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 11,
+        "snippet": "Venus  be the 5th house and be occupied by Venus himself while Mars is in the 11th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 11,
+        "snippet": "Venus will be in the 5th in own house while Mars will be in the  11th in own house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 2,
+        "snippet": "Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 2,
+        "snippet": "Saturn be together in the 2nd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn in the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn owns the 3rd and 4th for Scorpio ascendant and if he  is in the 4th, he will mainly give good effects of the 4th (his Moola-Trikona house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn  in the 5th house. Other results mentioned for the 11th lord being in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn is in the 5th identical  with his own house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn or Mars in the 7th house; or owning the 7th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn (and) or Mars in the 7th  house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn ruling the 7th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn joins a malefic/ascendant lord in the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn  Mercury  Moon  Mars  There is no planet in the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is in Scorpio. The number of rekhas in the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn occupying the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn         In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn occupies the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 10,
+        "snippet": "Saturn in the 10th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "Saturn joining in the 11th  house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "Saturn, the 9th lord, in the  11th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "Saturn in a trine, and of Jupiter in the 2nd have been key factors in the  nave's success. The 11th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 2,
+        "snippet": "Rahu 10-34  Mere 13-11  Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 2,
+        "snippet": "Rahu  Jupiter  Mars  Mercury  Venus  Moon  Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 2,
+        "snippet": "Rahu  in the 3rd.  As far as the nodes are concerned these are calculated in a reverse manner.  From Rahu, the 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu 10-34  Mere 13-11  Sun 4-04        Note the lord of the 5th Mars occupying the 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu and Saturn endowed with  strength be in the 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu is in the 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 6,
+        "snippet": "Rahu and the lord of the 5th house is in 6th, the 8th or the  12th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 7,
+        "snippet": "Rahu/Ketu to acquire power of killing are the  ascendant, 7th, 8th or 12th. The 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 7,
+        "snippet": "Rahu be the lord of the 2nd or the 7th or be in any of those house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu in an angle/trine  from the 8th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu/Ketu to acquire power of killing are the  ascendant, 7th, 8th or 12th. The 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu  Jupiter  Saturn  Mercury  Moon  Mars  There is no planet in the 8th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 9,
+        "snippet": "Rahu  Lagna  Mercury  Jupiter Venus    Sun  Ketu    Saturn         In the above Libra is the sign in the 9th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 11,
+        "snippet": "Rahu and Saturn joining in the 11th  house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 11,
+        "snippet": "Rahu  and Ketu give favourable results in the 3rd, 6th and 11th, the three Upachaya (उपचय)  house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 12,
+        "snippet": "Rahu/Ketu to acquire power of killing are the  ascendant, 7th, 8th or 12th. The 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 12,
+        "snippet": "Rahu and the lord of the 5th house is in 6th, the 8th or the  12th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 2,
+        "snippet": "Ketu      Saturn     The 10th lord is in the 2nd house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 7,
+        "snippet": "Ketu to acquire power of killing are the  ascendant, 7th, 8th or 12th. The 2nd house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 7,
+        "snippet": "Ketu be in the  3rd, the 6th, the 10th or the 11th from the Ascendant. If Ketu be lord of the 2nd or 7th  (or be in any of those house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 8,
+        "snippet": "Ketu to acquire power of killing are the  ascendant, 7th, 8th or 12th. The 2nd house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu is in Krittika in the 9th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu    Please note that the 5th lord is in the 9th in a house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu and Jupiter -all effectively joining in the 9th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 10,
+        "snippet": "Ketu.   The reader can always note that if the 11th lord is well disposed in the 10th  house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 11,
+        "snippet": "Ketu give favourable results in the 3rd, 6th and 11th, the three Upachaya (उपचय)  house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 12,
+        "snippet": "Ketu to acquire power of killing are the  ascendant, 7th, 8th or 12th. The 2nd house"
+      }
+    ],
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Aries",
+        "count": 9
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "count": 8
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Cancer",
+        "count": 7
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Leo",
+        "count": 19
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Virgo",
+        "count": 6
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Libra",
+        "count": 7
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Scorpio",
+        "count": 3
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Sagittarius",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Capricorn",
+        "count": 12
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Aquarius",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Pisces",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aries",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Taurus",
+        "count": 8
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Cancer",
+        "count": 18
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Leo",
+        "count": 9
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 5
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Libra",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Scorpio",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Sagittarius",
+        "count": 6
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Aquarius",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Pisces",
+        "count": 7
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aries",
+        "count": 20
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Taurus",
+        "count": 6
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Cancer",
+        "count": 3
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Scorpio",
+        "count": 18
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Capricorn",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Aquarius",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Taurus",
+        "count": 10
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Gemini",
+        "count": 13
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Leo",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Virgo",
+        "count": 17
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Libra",
+        "count": 7
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Sagittarius",
+        "count": 3
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Aquarius",
+        "count": 3
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Pisces",
+        "count": 2
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aries",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Taurus",
+        "count": 5
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Gemini",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Cancer",
+        "count": 5
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Virgo",
+        "count": 6
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Libra",
+        "count": 2
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Scorpio",
+        "count": 2
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Sagittarius",
+        "count": 17
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Aquarius",
+        "count": 4
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Pisces",
+        "count": 15
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aries",
+        "count": 5
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Taurus",
+        "count": 15
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Gemini",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Cancer",
+        "count": 8
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Leo",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Virgo",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Libra",
+        "count": 17
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Scorpio",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Capricorn",
+        "count": 3
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Aquarius",
+        "count": 4
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Pisces",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aries",
+        "count": 8
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Taurus",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Gemini",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Cancer",
+        "count": 3
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Leo",
+        "count": 8
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Virgo",
+        "count": 4
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Libra",
+        "count": 6
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Scorpio",
+        "count": 6
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Capricorn",
+        "count": 14
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Aquarius",
+        "count": 20
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Pisces",
+        "count": 8
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aries",
+        "count": 8
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Taurus",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Gemini",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Cancer",
+        "count": 4
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Leo",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Virgo",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Scorpio",
+        "count": 9
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Sagittarius",
+        "count": 3
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Capricorn",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Aquarius",
+        "count": 6
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Pisces",
+        "count": 2
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Meena",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aries",
+        "count": 4
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Taurus",
+        "count": 3
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Gemini",
+        "count": 3
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Virgo",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Libra",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Scorpio",
+        "count": 5
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Sagittarius",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Aquarius",
+        "count": 2
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Meena",
+        "count": 1
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "Yoga- karakas or mutual co-workers, house significance.  33. EFFECTS OF KARAKAMSA          263  Karakamsa in various signs, effects of planets in Karakamsa, Rah-Sun  in Karakamsa, Gulika in Karakamsa, eff"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "YOGA KARAKAS             275  Nature due to lordships of planets, natural benefice and malefic, angular  and trinal lordships, angular lordship, Rahu and Ketu, Planets & Aries  ascendant,  Taurus ascendan"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja yoga. Mercury is  somewhat auspicious, Jupiter etc. and Mars will inflict death. These hints are for a  Taurus native.  Notes: Jupiter is a malefic for Taurus ascendant and will avail of the first  opport"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja Yoga results will prevail  in the following conditions in a descending order.  I. As given in Kumara Swameeyam.  2. As given in Chaukambha edition and our edition.  3. The second kind of yoga given by Jat"
+      },
+      {
+        "yoga": "Dhana Yoga",
+        "snippet": "Dhana Yoga, Sunapha, Anapha, Duradhura  and Kemadruma Yogas.  38. SOLAR YOGAS              312  Vesi, Vosi and Ubbayachari Yogas, effects of these Yogas.  39. RAJA YOGAS               313  Kingly Yogas forming"
+      },
+      {
+        "yoga": "Dhana Yoga",
+        "snippet": "DHANA YOGA: Should all the (three) benefices be in Upachaya (i.e. 3rd,  6th, 10th and 11th) counted from the Moon, one will be very affluent; with two  benefices so placed he will have medium effects in regard"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "Kemadruma Yogas.  38. SOLAR YOGAS              312  Vesi, Vosi and Ubbayachari Yogas, effects of these Yogas.  39. RAJA YOGAS               313  Kingly Yogas forming in various manners.  40. YOGAS FOR ROYAL AS"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "Kemadruma yoga; the effects of which will be still  severer if the Moon's aspect be there. The effects due for these yogas will come to  pass in the Dasha periods of the Rāśhis or planets concerned. Kemadruma"
+      },
+      {
+        "yoga": "Gajakesari",
+        "snippet": "Gajakesari, Amala, Parvatha, Kahala, Chamara,  Sankha, Bheri, Mridanga, Srinatha, Sarada, Matsya, Koorma, Khadga,   Lakshmi, Kusuma, Kalanidhi, Kalpadru ma, Trimurlhi, and Lagnadhi  Yogas.  37. LUNAR YOGAS"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa Yoga. In other cases, the  angularity between the two need not be given the name Gaja Kesari. In point of fact,  the Moon-Jupiter mutual angular placement is called as simply Kesari Yoga, vide  Phala"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa, Maharishi Ramana,  Sankaracharyas of various orders and periods, Sivananda and so on and so forth. In  all these cases, the 5th and 9th, lords and 5th and 9th houses enabled them earn that  splendou"
+      },
+      {
+        "yoga": "Malavya",
+        "snippet": "Malavya and Sasa caused by Mars, Mercury, Jupiter, Venus and  Saturn respectively.  Description of the characteristics of these five types of great personalities.  76. Effects of the Five Elements--Earth, Ai"
+      },
+      {
+        "yoga": "Malavya",
+        "snippet": "Malavya native has beautiful lips and a slender waist. He is  lustrous like the Moon and has fragrance in his body. He is of ordinary red complexion,  has a medium stature and clean and beautiful teeth. His"
+      },
+      {
+        "yoga": "Ruchaka",
+        "snippet": "Ruchaka, Bhadra,  Hamsa, Malavya and Sasa caused by Mars, Mercury, Jupiter, Venus and  Saturn respectively.  Description of the characteristics of these five types of great personalities.  76. Effects of the"
+      },
+      {
+        "yoga": "Ruchaka",
+        "snippet": "Ruchaka, Bhadra, Hamsa, Malayya  and Sasa yogas respectively. These yogas are called Panchamahapurusha yogas  and the persons born in these yogas are known Panchamahapurushas (five types of  great personalit"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra,  Hamsa, Malavya and Sasa caused by Mars, Mercury, Jupiter, Venus and  Saturn respectively.  Description of the characteristics of these five types of great personalities.  76. Effects of the Five El"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra and Inauspicious Yogas  823  Remedial measures to be adopted and religious rites to be performed to  obtain relief from the evil effects of birth in Bhadra, Tithi Kshaya,  Vyatipata,Paridhi, Vajra et"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa caused by Mars, Mercury, Jupiter, Venus and  Saturn respectively.  Description of the characteristics of these five types of great personalities.  76. Effects of the Five Elements--Earth, Air, Water,"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa yogas respectively. These yogas are called Panchamahapurusha yogas  and the persons born in these yogas are known Panchamahapurushas (five types of  great personalities).  दीघाननो महोत्साहो स्वच्छकान"
+      },
+      {
+        "yoga": "Vimala",
+        "snippet": "Vimala, Sati, Tara, Jvala-Mukhi, Sveta, Lalita, Bagala-mukhi, Pratyangira, Sachi,  Raudri, Bhavani, Varada, Jaya (जया), Tripura and Sumukhi. In an even sign these 20  deities respectively are: Daya, Megha,"
+      },
+      {
+        "yoga": "Vimala",
+        "snippet": "Vimala Yoga. The person born in this  Yoga will spend little and save much money. He will be good to everybody. He will be  happy and independent and will have respectable profession or conduct and will be"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata etc. such as 2 good Vargas-Parijatha, 3.  Uttama, 4. Gopura, 5. Simhasana, 6. Paaravata, 7. Devaloka, 8. Brahmaloka, 9.  Sakravahana and 10. Vargas--Sridhama. In the Shodasha Varca scheme the  combin"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata 3. Uttama 4. Gopura 5. Simhasana 6. Paravata  7. Devaloka 8. Brah maoka 9. Sakravahana 10. Sridhama.  The author of Sarvartba Chintalnani designates 8, 9 and 10 respectively as  Amara, Iravata and Va"
+      }
+    ],
+    "dasha_mentions": [
+      {
+        "term": "dasha",
+        "count": 1565
+      },
+      {
+        "term": "vimshottari",
+        "count": 33
+      },
+      {
+        "term": "kalachakra",
+        "count": 30
+      },
+      {
+        "term": "yogini",
+        "count": 7
+      },
+      {
+        "term": "chara dasha",
+        "count": 11
+      },
+      {
+        "term": "shoola dasha",
+        "count": 2
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Ashwini",
+        "count": 30
+      },
+      {
+        "nakshatra": "Bharani",
+        "count": 13
+      },
+      {
+        "nakshatra": "Krittika",
+        "count": 25
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 26
+      },
+      {
+        "nakshatra": "Ardra",
+        "count": 2
+      },
+      {
+        "nakshatra": "Punarvasu",
+        "count": 11
+      },
+      {
+        "nakshatra": "Pushya",
+        "count": 2
+      },
+      {
+        "nakshatra": "Ashlesha",
+        "count": 5
+      },
+      {
+        "nakshatra": "Uttara Phalguni",
+        "count": 3
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 10
+      },
+      {
+        "nakshatra": "Swati",
+        "count": 14
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 13
+      },
+      {
+        "nakshatra": "Jyeshtha",
+        "count": 10
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 5
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 6,
+      "heading": "Chapter I and chapter 2 give some preliminary extra astrological information."
+    },
+    {
+      "page": 7,
+      "heading": "Chapter 5 touches various special Lagna, like Ghatika Lagna, Horā Lagna"
+    },
+    {
+      "page": 8,
+      "heading": "Chapter 8 deals with what is called Jaimini aspects on Rāśhi basis. Maharishi"
+    },
+    {
+      "page": 8,
+      "heading": "Chapter 24 is again one of the most important chapters. Here, the various"
+    },
+    {
+      "page": 9,
+      "heading": "Chapter 31 entitled Argaladhyaya though brief has worthy information on"
+    },
+    {
+      "page": 9,
+      "heading": "Chapter 34 is again one of the most instructive. Planets assume a certain"
+    },
+    {
+      "page": 12,
+      "heading": "Chapter 1. The Creation"
+    },
+    {
+      "page": 16,
+      "heading": "Chapter 2. Great Incarnations (of the Lord)"
+    },
+    {
+      "page": 18,
+      "heading": "Chapter 3. Planetary Characters and"
+    },
+    {
+      "page": 37,
+      "heading": "Chapter 4. Zodiacal Signs Described"
+    },
+    {
+      "page": 48,
+      "heading": "Chapter 5. Special Ascendants"
+    },
+    {
+      "page": 53,
+      "heading": "Chapter 6. The Sixteen Divisions of a Sign"
+    },
+    {
+      "page": 72,
+      "heading": "Chapter 7. Divisional Consideration"
+    },
+    {
+      "page": 84,
+      "heading": "Chapter 8. Aspects of the Signs"
+    },
+    {
+      "page": 87,
+      "heading": "Chapter 9. Evils at Birth"
+    },
+    {
+      "page": 95,
+      "heading": "Chapter 10. Antidotes for Evils"
+    },
+    {
+      "page": 97,
+      "heading": "Chapter 11. Judgement of Houses"
+    },
+    {
+      "page": 102,
+      "heading": "Chapter 12. Effects of First House"
+    },
+    {
+      "page": 107,
+      "heading": "Chapter 13. Effects of Second House"
+    },
+    {
+      "page": 111,
+      "heading": "Chapter 14. Effects of the Third House"
+    },
+    {
+      "page": 115,
+      "heading": "Chapter 15. Effects of the Fourth House"
+    },
+    {
+      "page": 118,
+      "heading": "Chapter 16. Effects of the Fifth House"
+    },
+    {
+      "page": 124,
+      "heading": "Chapter 17. Effects of the Sixth House"
+    },
+    {
+      "page": 131,
+      "heading": "Chapter 18. Effects of the Seventh House"
+    },
+    {
+      "page": 139,
+      "heading": "Chapter 19. Effects of the Eighth House"
+    },
+    {
+      "page": 142,
+      "heading": "Chapter 20. Effects of the Ninth House"
+    },
+    {
+      "page": 147,
+      "heading": "Chapter 21. Effects of the Tenth House"
+    },
+    {
+      "page": 152,
+      "heading": "Chapter 22. Effects of the Eleventh House"
+    },
+    {
+      "page": 154,
+      "heading": "Chapter 23. Effects of the Twelfth House"
+    },
+    {
+      "page": 157,
+      "heading": "Chapter 24. Effects of the Bhava Lords"
+    },
+    {
+      "page": 194,
+      "heading": "Chapter 25. Effects of Non-Luminous Planets"
+    },
+    {
+      "page": 209,
+      "heading": "Chapter 26. Evaluation of Planetary Aspects"
+    },
+    {
+      "page": 218,
+      "heading": "Chapter 27. Evaluation of Strengths"
+    },
+    {
+      "page": 240,
+      "heading": "Chapter 28. Ishta and Kashta Bala"
+    },
+    {
+      "page": 243,
+      "heading": "Chapter 29. Bhava Padas"
+    },
+    {
+      "page": 252,
+      "heading": "Chapter 30. Upa Pada"
+    },
+    {
+      "page": 259,
+      "heading": "Chapter 31. Argala or Planetary Intervention"
+    },
+    {
+      "page": 264,
+      "heading": "Chapter 32. Planetary Karakatwa (Indications)"
+    },
+    {
+      "page": 273,
+      "heading": "Chapter 33. Effects of Karakamsa"
+    },
+    {
+      "page": 285,
+      "heading": "Chapter 34. Yoga Karakas"
+    },
+    {
+      "page": 298,
+      "heading": "Chapter 35. Nabhasa Yogas"
+    },
+    {
+      "page": 306,
+      "heading": "Chapter 36. Many Other Yogas"
+    },
+    {
+      "page": 320,
+      "heading": "Chapter 37. Lunar Yogas"
+    },
+    {
+      "page": 322,
+      "heading": "Chapter 38. Solar Yogas"
+    },
+    {
+      "page": 323,
+      "heading": "Chapter 39. Raja Yogas"
+    },
+    {
+      "page": 333,
+      "heading": "Chapter 40. Yogas for Royal Association"
+    },
+    {
+      "page": 336,
+      "heading": "Chapter 41. Combinations for Wealth"
+    },
+    {
+      "page": 344,
+      "heading": "Chapter 42. Combinations for Penury"
+    },
+    {
+      "page": 347,
+      "heading": "Chapter 43. Longevity"
+    },
+    {
+      "page": 365,
+      "heading": "Chapter 44. Maraka (Killer) Planets"
+    },
+    {
+      "page": 372,
+      "heading": "Chapter 45. Avasthas of Planets"
+    },
+    {
+      "page": 407,
+      "heading": "Chapter 46. Dasha (Periods) of"
+    },
+    {
+      "page": 461,
+      "heading": "Chapter 47. Effects of Dasha"
+    },
+    {
+      "page": 473,
+      "heading": "Chapter 48. Distinctive Effects of"
+    },
+    {
+      "page": 477,
+      "heading": "Chapter 49. Effects of the"
+    },
+    {
+      "page": 478,
+      "heading": "Chapter 46) and there are quarter aspects of its lord Venus and other benefices. There"
+    },
+    {
+      "page": 483,
+      "heading": "Chapter 50. Effects of the Chara etc."
+    },
+    {
+      "page": 495,
+      "heading": "Chapter 51. Working out of"
+    },
+    {
+      "page": 501,
+      "heading": "Chapter 52. Effects of the Antardasa"
+    },
+    {
+      "page": 511,
+      "heading": "Chapter 53. Effects of the Antardasa"
+    },
+    {
+      "page": 521,
+      "heading": "Chapter 54 \nChapter 54. Effects of Antardasa in"
+    },
+    {
+      "page": 532,
+      "heading": "Chapter 55. Effects of Antardasa in"
+    },
+    {
+      "page": 543,
+      "heading": "Chapter 56. Effects of the Antardasa"
+    },
+    {
+      "page": 554,
+      "heading": "Chapter 57. Effects of the Antardasa"
+    },
+    {
+      "page": 565,
+      "heading": "Chapter 58. Effects of the Antardasa"
+    },
+    {
+      "page": 575,
+      "heading": "Chapter 59. Effects of the Antardasa"
+    },
+    {
+      "page": 586,
+      "heading": "Chapter 60. Effects of the Antardasa"
+    },
+    {
+      "page": 596,
+      "heading": "Chapter 61. Effects of Pratyantar"
+    },
+    {
+      "page": 625,
+      "heading": "Chapter 62. Effects of the"
+    },
+    {
+      "page": 637,
+      "heading": "Chapter 63. Effects of Prana Dasha"
+    },
+    {
+      "page": 649,
+      "heading": "Chapter 64. Effects of Antardasa in"
+    },
+    {
+      "page": 684,
+      "heading": "Chapter 65. Effects of Dasha of"
+    },
+    {
+      "page": 690,
+      "heading": "Chapter 66. Ashtaka Varga"
+    },
+    {
+      "page": 712,
+      "heading": "Chapter 67. Trikona Shodhana"
+    },
+    {
+      "page": 719,
+      "heading": "Chapter 68. Ekadhipatya Shodhana"
+    },
+    {
+      "page": 721,
+      "heading": "Chapter 69. Pinda Sadhana in the"
+    },
+    {
+      "page": 723,
+      "heading": "Chapter 70. Effects of the Ashtaka"
+    },
+    {
+      "page": 734,
+      "heading": "Chapter 71. Determination of"
+    },
+    {
+      "page": 736,
+      "heading": "Chapter 72. Aggregational Ashtaka"
+    },
+    {
+      "page": 742,
+      "heading": "Chapter 73. Effects of the Rays of"
+    },
+    {
+      "page": 747,
+      "heading": "Chapter 74. Effects of the"
+    },
+    {
+      "page": 756,
+      "heading": "Chapter 75. Characteristic Features"
+    },
+    {
+      "page": 759,
+      "heading": "Chapter 76. Effects of the Five"
+    },
+    {
+      "page": 763,
+      "heading": "Chapter 77. Effects of the Satwa"
+    },
+    {
+      "page": 767,
+      "heading": "Chapter 78. Lost Horoscopy"
+    },
+    {
+      "page": 775,
+      "heading": "Chapter 79. Yogas Leading to"
+    },
+    {
+      "page": 779,
+      "heading": "Chapter 80. Female Horoscopy"
+    },
+    {
+      "page": 789,
+      "heading": "Chapter 81. Effects of the"
+    },
+    {
+      "page": 802,
+      "heading": "Chapter 82. Effects of Moles, Marks,"
+    },
+    {
+      "page": 805,
+      "heading": "Chapter 83. Effects of curses in the"
+    },
+    {
+      "page": 820,
+      "heading": "Chapter 84. Remedial Measures to"
+    },
+    {
+      "page": 825,
+      "heading": "Chapter 85. Inauspicious Births"
+    },
+    {
+      "page": 826,
+      "heading": "Chapter 86. Remedial Measures for"
+    },
+    {
+      "page": 828,
+      "heading": "Chapter 87. Remedies from the Evil"
+    },
+    {
+      "page": 830,
+      "heading": "Chapter 88. Remedies from evil"
+    },
+    {
+      "page": 832,
+      "heading": "Chapter 89. Remedies from"
+    },
+    {
+      "page": 834,
+      "heading": "Chapter 90. Remedies from"
+    },
+    {
+      "page": 837,
+      "heading": "Chapter 91. Remedies from Birth in"
+    },
+    {
+      "page": 840,
+      "heading": "Chapter 92. Remedies from Birth in"
+    },
+    {
+      "page": 843,
+      "heading": "Chapter 93. Remedies from Birth in"
+    },
+    {
+      "page": 846,
+      "heading": "Chapter 94. Remedies from Effects"
+    },
+    {
+      "page": 849,
+      "heading": "Chapter 95. Remedies from Effects"
+    },
+    {
+      "page": 851,
+      "heading": "Chapter 96. Remedies from Evil"
+    },
+    {
+      "page": 853,
+      "heading": "Chapter 97. Conclusion"
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 200,
+    "planet_house_connections": 192,
+    "planet_rasi_connections": 101,
+    "yoga_mentions": 23,
+    "nakshatra_mentions": 14,
+    "dasha_mentions": 6,
+    "chapters_detected": 104
+  }
+}

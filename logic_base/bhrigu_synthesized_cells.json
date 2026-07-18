@@ -1,0 +1,3451 @@
+{
+  "synthesized_cells": [
+    {
+      "lagna": "mesha",
+      "house": 1,
+      "planet": "Saturn",
+      "house_sign": "Mesha",
+      "dignity": "debilitated",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Saturn in house 1 (kendra/trikona, sign Mesha) is strongly afflicted (debilitated). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 3,
+      "planet": "Ketu",
+      "house_sign": "Mithuna",
+      "dignity": "debilitated",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 3 (upachaya/trishadya, sign Mithuna) is strongly afflicted (debilitated). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 4,
+      "planet": "Moon",
+      "house_sign": "Karka",
+      "dignity": "own-sign",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 4 (kendra, sign Karka) is strong and comfortable (own-sign). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 4,
+      "planet": "Mercury",
+      "house_sign": "Karka",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 4 (kendra, sign Karka) is weakened (enemy). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 5,
+      "planet": "Mars",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 5 (trikona, sign Simha) is well-supported (friendly). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 6,
+      "planet": "Sun",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 6 (dusthana/upachaya/trishadya, sign Kanya) is neutral (neutral). Its karakas (soul, father, authority, government, vitality) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 9,
+      "planet": "Sun",
+      "house_sign": "Dhanu",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 9 (trikona, sign Dhanu) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 9,
+      "planet": "Jupiter",
+      "house_sign": "Dhanu",
+      "dignity": "mooltrikona",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 9 (trikona, sign Dhanu) is very strong (mooltrikona). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 10,
+      "planet": "Mars",
+      "house_sign": "Makara",
+      "dignity": "exalted",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Mars in house 10 (kendra/upachaya, sign Makara) is strongly auspicious (exalted). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 11,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 11 (upachaya/trishadya, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mesha",
+      "house": 12,
+      "planet": "Sun",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 12 (dusthana, sign Meena) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 1,
+      "planet": "Sun",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 1 (kendra/trikona, sign Vrishabha) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 1,
+      "planet": "Venus",
+      "house_sign": "Vrishabha",
+      "dignity": "own-sign",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 1 (kendra/trikona, sign Vrishabha) is strong and comfortable (own-sign). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 1,
+      "planet": "Saturn",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 1 (kendra/trikona, sign Vrishabha) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 2,
+      "planet": "Moon",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 2 (maraka, sign Mithuna) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 3,
+      "planet": "Jupiter",
+      "house_sign": "Karka",
+      "dignity": "exalted",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 3 (upachaya/trishadya, sign Karka) is strongly auspicious (exalted). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 3,
+      "planet": "Rahu",
+      "house_sign": "Karka",
+      "dignity": "mooltrikona",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 3 (upachaya/trishadya, sign Karka) is very strong (mooltrikona). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: improves with age; early struggles mature into strength. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 4,
+      "planet": "Jupiter",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 4 (kendra, sign Simha) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 4,
+      "planet": "Ketu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 4 (kendra, sign Simha) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 5,
+      "planet": "Venus",
+      "house_sign": "Kanya",
+      "dignity": "debilitated",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Venus in house 5 (trikona, sign Kanya) is strongly afflicted (debilitated). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 5,
+      "planet": "Saturn",
+      "house_sign": "Kanya",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 5 (trikona, sign Kanya) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 6,
+      "planet": "Jupiter",
+      "house_sign": "Tula",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 6 (dusthana/upachaya/trishadya, sign Tula) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 6,
+      "planet": "Ketu",
+      "house_sign": "Tula",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 6 (dusthana/upachaya/trishadya, sign Tula) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 7,
+      "planet": "Venus",
+      "house_sign": "Vrishchika",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 7 (kendra/maraka, sign Vrishchika) is neutral (neutral). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 7,
+      "planet": "Ketu",
+      "house_sign": "Vrishchika",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 7 (kendra/maraka, sign Vrishchika) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 8,
+      "planet": "Jupiter",
+      "house_sign": "Dhanu",
+      "dignity": "mooltrikona",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Jupiter in house 8 (dusthana, sign Dhanu) is very strong (mooltrikona). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 9,
+      "planet": "Moon",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 9 (trikona, sign Makara) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 9,
+      "planet": "Ketu",
+      "house_sign": "Makara",
+      "dignity": "mooltrikona",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 9 (trikona, sign Makara) is very strong (mooltrikona). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 10,
+      "planet": "Moon",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 10 (kendra/upachaya, sign Kumbha) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 10,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 10 (kendra/upachaya, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 10,
+      "planet": "Venus",
+      "house_sign": "Kumbha",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 10 (kendra/upachaya, sign Kumbha) is well-supported (friendly). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 10,
+      "planet": "Saturn",
+      "house_sign": "Kumbha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 10 (kendra/upachaya, sign Kumbha) is very strong (mooltrikona). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 12,
+      "planet": "Jupiter",
+      "house_sign": "Mesha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 12 (dusthana, sign Mesha) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishabha",
+      "house": 12,
+      "planet": "Ketu",
+      "house_sign": "Mesha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 12 (dusthana, sign Mesha) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 1,
+      "planet": "Mars",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 1 (kendra/trikona, sign Mithuna) is weakened (enemy). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 1,
+      "planet": "Mercury",
+      "house_sign": "Mithuna",
+      "dignity": "own-sign",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 1 (kendra/trikona, sign Mithuna) is strong and comfortable (own-sign). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 1,
+      "planet": "Jupiter",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 1 (kendra/trikona, sign Mithuna) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 3,
+      "planet": "Moon",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 3 (upachaya/trishadya, sign Simha) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 3,
+      "planet": "Mercury",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Mercury in house 3 (upachaya/trishadya, sign Simha) is well-supported (friendly). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 3,
+      "planet": "Jupiter",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 3 (upachaya/trishadya, sign Simha) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 4,
+      "planet": "Moon",
+      "house_sign": "Kanya",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 4 (kendra, sign Kanya) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 4,
+      "planet": "Mercury",
+      "house_sign": "Kanya",
+      "dignity": "exalted",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Mercury in house 4 (kendra, sign Kanya) is strongly auspicious (exalted). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 4,
+      "planet": "Jupiter",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 4 (kendra, sign Kanya) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 4,
+      "planet": "Ketu",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 4 (kendra, sign Kanya) is neutral (neutral). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 5,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Sun in house 5 (trikona, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 5,
+      "planet": "Mars",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 5 (trikona, sign Tula) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 5,
+      "planet": "Jupiter",
+      "house_sign": "Tula",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 5 (trikona, sign Tula) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 5,
+      "planet": "Saturn",
+      "house_sign": "Tula",
+      "dignity": "exalted",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Saturn in house 5 (trikona, sign Tula) is strongly auspicious (exalted). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 7,
+      "planet": "Moon",
+      "house_sign": "Dhanu",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 7 (kendra/maraka, sign Dhanu) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 7,
+      "planet": "Mars",
+      "house_sign": "Dhanu",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 7 (kendra/maraka, sign Dhanu) is well-supported (friendly). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 8,
+      "planet": "Jupiter",
+      "house_sign": "Makara",
+      "dignity": "debilitated",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "compounded affliction",
+      "text": "Jupiter in house 8 (dusthana, sign Makara) is strongly afflicted (debilitated). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: compounded affliction. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 9,
+      "planet": "Mars",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 9 (trikona, sign Kumbha) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 9,
+      "planet": "Mercury",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 9 (trikona, sign Kumbha) is neutral (neutral). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 9,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 9 (trikona, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 9,
+      "planet": "Saturn",
+      "house_sign": "Kumbha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 9 (trikona, sign Kumbha) is very strong (mooltrikona). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 10,
+      "planet": "Sun",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 10 (kendra/upachaya, sign Meena) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 10,
+      "planet": "Mars",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 10 (kendra/upachaya, sign Meena) is well-supported (friendly). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 11,
+      "planet": "Rahu",
+      "house_sign": "Mesha",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 11 (upachaya/trishadya, sign Mesha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 12,
+      "planet": "Moon",
+      "house_sign": "Vrishabha",
+      "dignity": "exalted",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Moon in house 12 (dusthana, sign Vrishabha) is strongly auspicious (exalted). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "mithuna",
+      "house": 12,
+      "planet": "Jupiter",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 12 (dusthana, sign Vrishabha) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 1,
+      "planet": "Ketu",
+      "house_sign": "Karka",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 1 (kendra/trikona, sign Karka) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Kanya) is neutral (neutral). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 3,
+      "planet": "Moon",
+      "house_sign": "Kanya",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 3 (upachaya/trishadya, sign Kanya) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 4,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Sun in house 4 (kendra, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 4,
+      "planet": "Saturn",
+      "house_sign": "Tula",
+      "dignity": "exalted",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Saturn in house 4 (kendra, sign Tula) is strongly auspicious (exalted). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 5,
+      "planet": "Moon",
+      "house_sign": "Vrishchika",
+      "dignity": "debilitated",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Moon in house 5 (trikona, sign Vrishchika) is strongly afflicted (debilitated). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 6,
+      "planet": "Moon",
+      "house_sign": "Dhanu",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Moon in house 6 (dusthana/upachaya/trishadya, sign Dhanu) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 6,
+      "planet": "Mars",
+      "house_sign": "Dhanu",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Mars in house 6 (dusthana/upachaya/trishadya, sign Dhanu) is well-supported (friendly). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 7,
+      "planet": "Moon",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 7 (kendra/maraka, sign Makara) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 9,
+      "planet": "Sun",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 9 (trikona, sign Meena) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 9,
+      "planet": "Rahu",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 9 (trikona, sign Meena) is neutral (neutral). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 10,
+      "planet": "Rahu",
+      "house_sign": "Mesha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 10 (kendra/upachaya, sign Mesha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 11,
+      "planet": "Sun",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 11 (upachaya/trishadya, sign Vrishabha) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 12,
+      "planet": "Sun",
+      "house_sign": "Mithuna",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 12 (dusthana, sign Mithuna) is neutral (neutral). Its karakas (soul, father, authority, government, vitality) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 12,
+      "planet": "Venus",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Venus in house 12 (dusthana, sign Mithuna) is well-supported (friendly). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "karka",
+      "house": 12,
+      "planet": "Rahu",
+      "house_sign": "Mithuna",
+      "dignity": "exalted",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Rahu in house 12 (dusthana, sign Mithuna) is strongly auspicious (exalted). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 1,
+      "planet": "Sun",
+      "house_sign": "Simha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 1 (kendra/trikona, sign Simha) is very strong (mooltrikona). Its karakas (soul, father, authority, government, vitality) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 2,
+      "planet": "Jupiter",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 2 (maraka, sign Kanya) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 3,
+      "planet": "Moon",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 3 (upachaya/trishadya, sign Tula) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 3,
+      "planet": "Jupiter",
+      "house_sign": "Tula",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 3 (upachaya/trishadya, sign Tula) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 3,
+      "planet": "Ketu",
+      "house_sign": "Tula",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 3 (upachaya/trishadya, sign Tula) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 4,
+      "planet": "Mercury",
+      "house_sign": "Vrishchika",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 4 (kendra, sign Vrishchika) is neutral (neutral). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 4,
+      "planet": "Jupiter",
+      "house_sign": "Vrishchika",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 4 (kendra, sign Vrishchika) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 4,
+      "planet": "Saturn",
+      "house_sign": "Vrishchika",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 4 (kendra, sign Vrishchika) is weakened (enemy). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 4,
+      "planet": "Rahu",
+      "house_sign": "Vrishchika",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 4 (kendra, sign Vrishchika) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 7,
+      "planet": "Moon",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 7 (kendra/maraka, sign Kumbha) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 7,
+      "planet": "Mars",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 7 (kendra/maraka, sign Kumbha) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 7,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 7 (kendra/maraka, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 8,
+      "planet": "Mercury",
+      "house_sign": "Meena",
+      "dignity": "debilitated",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "compounded affliction",
+      "text": "Mercury in house 8 (dusthana, sign Meena) is strongly afflicted (debilitated). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: compounded affliction. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 9,
+      "planet": "Sun",
+      "house_sign": "Mesha",
+      "dignity": "exalted",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Sun in house 9 (trikona, sign Mesha) is strongly auspicious (exalted). Its karakas (soul, father, authority, government, vitality) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 9,
+      "planet": "Moon",
+      "house_sign": "Mesha",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 9 (trikona, sign Mesha) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 9,
+      "planet": "Jupiter",
+      "house_sign": "Mesha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 9 (trikona, sign Mesha) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 10,
+      "planet": "Sun",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 10 (kendra/upachaya, sign Vrishabha) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 10,
+      "planet": "Moon",
+      "house_sign": "Vrishabha",
+      "dignity": "exalted",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Moon in house 10 (kendra/upachaya, sign Vrishabha) is strongly auspicious (exalted). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 11,
+      "planet": "Moon",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 11 (upachaya/trishadya, sign Mithuna) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 11,
+      "planet": "Jupiter",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 11 (upachaya/trishadya, sign Mithuna) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 11,
+      "planet": "Saturn",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Saturn in house 11 (upachaya/trishadya, sign Mithuna) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 11,
+      "planet": "Rahu",
+      "house_sign": "Mithuna",
+      "dignity": "exalted",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 11 (upachaya/trishadya, sign Mithuna) is strongly auspicious (exalted). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 12,
+      "planet": "Moon",
+      "house_sign": "Karka",
+      "dignity": "own-sign",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Moon in house 12 (dusthana, sign Karka) is strong and comfortable (own-sign). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "simha",
+      "house": 12,
+      "planet": "Ketu",
+      "house_sign": "Karka",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 12 (dusthana, sign Karka) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 2,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 2 (maraka, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 2,
+      "planet": "Moon",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 2 (maraka, sign Tula) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Vrishchika",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Vrishchika) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 3,
+      "planet": "Moon",
+      "house_sign": "Vrishchika",
+      "dignity": "debilitated",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 3 (upachaya/trishadya, sign Vrishchika) is strongly afflicted (debilitated). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 3,
+      "planet": "Saturn",
+      "house_sign": "Vrishchika",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Saturn in house 3 (upachaya/trishadya, sign Vrishchika) is weakened (enemy). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: improves with age; early struggles mature into strength. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 4,
+      "planet": "Sun",
+      "house_sign": "Dhanu",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 4 (kendra, sign Dhanu) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 5,
+      "planet": "Sun",
+      "house_sign": "Makara",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 5 (trikona, sign Makara) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 6,
+      "planet": "Rahu",
+      "house_sign": "Kumbha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 6 (dusthana/upachaya/trishadya, sign Kumbha) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 8,
+      "planet": "Sun",
+      "house_sign": "Mesha",
+      "dignity": "exalted",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Sun in house 8 (dusthana, sign Mesha) is strongly auspicious (exalted). Its karakas (soul, father, authority, government, vitality) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 8,
+      "planet": "Rahu",
+      "house_sign": "Mesha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 8 (dusthana, sign Mesha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 9,
+      "planet": "Mercury",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 9 (trikona, sign Vrishabha) is well-supported (friendly). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 9,
+      "planet": "Jupiter",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 9 (trikona, sign Vrishabha) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 9,
+      "planet": "Saturn",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 9 (trikona, sign Vrishabha) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 9,
+      "planet": "Ketu",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 9 (trikona, sign Vrishabha) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 10,
+      "planet": "Jupiter",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 10 (kendra/upachaya, sign Mithuna) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 10,
+      "planet": "Venus",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 10 (kendra/upachaya, sign Mithuna) is well-supported (friendly). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 11,
+      "planet": "Jupiter",
+      "house_sign": "Karka",
+      "dignity": "exalted",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 11 (upachaya/trishadya, sign Karka) is strongly auspicious (exalted). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 11,
+      "planet": "Rahu",
+      "house_sign": "Karka",
+      "dignity": "mooltrikona",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 11 (upachaya/trishadya, sign Karka) is very strong (mooltrikona). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 11,
+      "planet": "Ketu",
+      "house_sign": "Karka",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 11 (upachaya/trishadya, sign Karka) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kanya",
+      "house": 12,
+      "planet": "Rahu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 12 (dusthana, sign Simha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 1,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Sun in house 1 (kendra/trikona, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (self, body, personality, appearance, vitality). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 1,
+      "planet": "Mars",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 1 (kendra/trikona, sign Tula) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 1,
+      "planet": "Rahu",
+      "house_sign": "Tula",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 1 (kendra/trikona, sign Tula) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 2,
+      "planet": "Rahu",
+      "house_sign": "Vrishchika",
+      "dignity": "enemy",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Rahu in house 2 (maraka, sign Vrishchika) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Dhanu",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Dhanu) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 4,
+      "planet": "Moon",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 4 (kendra, sign Makara) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 4,
+      "planet": "Jupiter",
+      "house_sign": "Makara",
+      "dignity": "debilitated",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Jupiter in house 4 (kendra, sign Makara) is strongly afflicted (debilitated). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 4,
+      "planet": "Rahu",
+      "house_sign": "Makara",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 4 (kendra, sign Makara) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 5,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 5 (trikona, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 6,
+      "planet": "Rahu",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 6 (dusthana/upachaya/trishadya, sign Meena) is neutral (neutral). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 6,
+      "planet": "Ketu",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 6 (dusthana/upachaya/trishadya, sign Meena) is neutral (neutral). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 7,
+      "planet": "Moon",
+      "house_sign": "Mesha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 7 (kendra/maraka, sign Mesha) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 8,
+      "planet": "Jupiter",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 8 (dusthana, sign Vrishabha) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 9,
+      "planet": "Mercury",
+      "house_sign": "Mithuna",
+      "dignity": "own-sign",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 9 (trikona, sign Mithuna) is strong and comfortable (own-sign). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 9,
+      "planet": "Saturn",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 9 (trikona, sign Mithuna) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 9,
+      "planet": "Ketu",
+      "house_sign": "Mithuna",
+      "dignity": "debilitated",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Ketu in house 9 (trikona, sign Mithuna) is strongly afflicted (debilitated). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 10,
+      "planet": "Jupiter",
+      "house_sign": "Karka",
+      "dignity": "exalted",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Jupiter in house 10 (kendra/upachaya, sign Karka) is strongly auspicious (exalted). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 11,
+      "planet": "Sun",
+      "house_sign": "Simha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 11 (upachaya/trishadya, sign Simha) is very strong (mooltrikona). Its karakas (soul, father, authority, government, vitality) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 11,
+      "planet": "Jupiter",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 11 (upachaya/trishadya, sign Simha) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 11,
+      "planet": "Ketu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 11 (upachaya/trishadya, sign Simha) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "tula",
+      "house": 12,
+      "planet": "Ketu",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 12 (dusthana, sign Kanya) is neutral (neutral). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 1,
+      "planet": "Venus",
+      "house_sign": "Vrishchika",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 1 (kendra/trikona, sign Vrishchika) is neutral (neutral). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 1,
+      "planet": "Saturn",
+      "house_sign": "Vrishchika",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 1 (kendra/trikona, sign Vrishchika) is weakened (enemy). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 2,
+      "planet": "Ketu",
+      "house_sign": "Dhanu",
+      "dignity": "exalted",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 2 (maraka, sign Dhanu) is strongly auspicious (exalted). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 3,
+      "planet": "Mercury",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Mercury in house 3 (upachaya/trishadya, sign Makara) is neutral (neutral). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 3,
+      "planet": "Saturn",
+      "house_sign": "Makara",
+      "dignity": "own-sign",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Saturn in house 3 (upachaya/trishadya, sign Makara) is strong and comfortable (own-sign). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: improves with age; early struggles mature into strength. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 3,
+      "planet": "Ketu",
+      "house_sign": "Makara",
+      "dignity": "mooltrikona",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 3 (upachaya/trishadya, sign Makara) is very strong (mooltrikona). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 4,
+      "planet": "Mars",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 4 (kendra, sign Kumbha) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 4,
+      "planet": "Mercury",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 4 (kendra, sign Kumbha) is neutral (neutral). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 4,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 4 (kendra, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 4,
+      "planet": "Rahu",
+      "house_sign": "Kumbha",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 4 (kendra, sign Kumbha) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 5,
+      "planet": "Sun",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 5 (trikona, sign Meena) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 5,
+      "planet": "Moon",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 5 (trikona, sign Meena) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 5,
+      "planet": "Mars",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 5 (trikona, sign Meena) is well-supported (friendly). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 6,
+      "planet": "Sun",
+      "house_sign": "Mesha",
+      "dignity": "exalted",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Sun in house 6 (dusthana/upachaya/trishadya, sign Mesha) is strongly auspicious (exalted). Its karakas (soul, father, authority, government, vitality) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 6,
+      "planet": "Rahu",
+      "house_sign": "Mesha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 6 (dusthana/upachaya/trishadya, sign Mesha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 8,
+      "planet": "Mercury",
+      "house_sign": "Mithuna",
+      "dignity": "own-sign",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Mercury in house 8 (dusthana, sign Mithuna) is strong and comfortable (own-sign). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 9,
+      "planet": "Mars",
+      "house_sign": "Karka",
+      "dignity": "debilitated",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Mars in house 9 (trikona, sign Karka) is strongly afflicted (debilitated). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 9,
+      "planet": "Saturn",
+      "house_sign": "Karka",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 9 (trikona, sign Karka) is weakened (enemy). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 10,
+      "planet": "Sun",
+      "house_sign": "Simha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 10 (kendra/upachaya, sign Simha) is very strong (mooltrikona). Its karakas (soul, father, authority, government, vitality) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 10,
+      "planet": "Ketu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 10 (kendra/upachaya, sign Simha) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 11,
+      "planet": "Sun",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 11 (upachaya/trishadya, sign Kanya) is neutral (neutral). Its karakas (soul, father, authority, government, vitality) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 11,
+      "planet": "Jupiter",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 11 (upachaya/trishadya, sign Kanya) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "vrishchika",
+      "house": 12,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "compounded affliction",
+      "text": "Sun in house 12 (dusthana, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: compounded affliction. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 1,
+      "planet": "Sun",
+      "house_sign": "Dhanu",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 1 (kendra/trikona, sign Dhanu) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 1,
+      "planet": "Jupiter",
+      "house_sign": "Dhanu",
+      "dignity": "mooltrikona",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 1 (kendra/trikona, sign Dhanu) is very strong (mooltrikona). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 1,
+      "planet": "Saturn",
+      "house_sign": "Dhanu",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 1 (kendra/trikona, sign Dhanu) is neutral (neutral). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 2,
+      "planet": "Moon",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 2 (maraka, sign Makara) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 3,
+      "planet": "Jupiter",
+      "house_sign": "Kumbha",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 3 (upachaya/trishadya, sign Kumbha) is neutral (neutral). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 4,
+      "planet": "Moon",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 4 (kendra, sign Meena) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 4,
+      "planet": "Mercury",
+      "house_sign": "Meena",
+      "dignity": "debilitated",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Mercury in house 4 (kendra, sign Meena) is strongly afflicted (debilitated). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 6,
+      "planet": "Mercury",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Mercury in house 6 (dusthana/upachaya/trishadya, sign Vrishabha) is well-supported (friendly). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 7,
+      "planet": "Saturn",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 7 (kendra/maraka, sign Mithuna) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 8,
+      "planet": "Sun",
+      "house_sign": "Karka",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 8 (dusthana, sign Karka) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 8,
+      "planet": "Moon",
+      "house_sign": "Karka",
+      "dignity": "own-sign",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Moon in house 8 (dusthana, sign Karka) is strong and comfortable (own-sign). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 9,
+      "planet": "Mercury",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 9 (trikona, sign Simha) is well-supported (friendly). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 9,
+      "planet": "Ketu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 9 (trikona, sign Simha) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 10,
+      "planet": "Moon",
+      "house_sign": "Kanya",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 10 (kendra/upachaya, sign Kanya) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 11,
+      "planet": "Sun",
+      "house_sign": "Tula",
+      "dignity": "debilitated",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 11 (upachaya/trishadya, sign Tula) is strongly afflicted (debilitated). Its karakas (soul, father, authority, government, vitality) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 11,
+      "planet": "Moon",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 11 (upachaya/trishadya, sign Tula) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 11,
+      "planet": "Rahu",
+      "house_sign": "Tula",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 11 (upachaya/trishadya, sign Tula) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "dhanu",
+      "house": 12,
+      "planet": "Jupiter",
+      "house_sign": "Vrishchika",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 12 (dusthana, sign Vrishchika) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 1,
+      "planet": "Moon",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 1 (kendra/trikona, sign Makara) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 1,
+      "planet": "Mercury",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 1 (kendra/trikona, sign Makara) is neutral (neutral). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 2,
+      "planet": "Sun",
+      "house_sign": "Kumbha",
+      "dignity": "enemy",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 2 (maraka, sign Kumbha) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Meena",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Meena) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 3,
+      "planet": "Moon",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 3 (upachaya/trishadya, sign Meena) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 3,
+      "planet": "Mercury",
+      "house_sign": "Meena",
+      "dignity": "debilitated",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Mercury in house 3 (upachaya/trishadya, sign Meena) is strongly afflicted (debilitated). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 3,
+      "planet": "Rahu",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 3 (upachaya/trishadya, sign Meena) is neutral (neutral). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: improves with age; early struggles mature into strength. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 4,
+      "planet": "Sun",
+      "house_sign": "Mesha",
+      "dignity": "exalted",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Sun in house 4 (kendra, sign Mesha) is strongly auspicious (exalted). Its karakas (soul, father, authority, government, vitality) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 4,
+      "planet": "Moon",
+      "house_sign": "Mesha",
+      "dignity": "neutral",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 4 (kendra, sign Mesha) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 4,
+      "planet": "Jupiter",
+      "house_sign": "Mesha",
+      "dignity": "friendly",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 4 (kendra, sign Mesha) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 4,
+      "planet": "Rahu",
+      "house_sign": "Mesha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 4 (kendra, sign Mesha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 5,
+      "planet": "Mars",
+      "house_sign": "Vrishabha",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 5 (trikona, sign Vrishabha) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 5,
+      "planet": "Venus",
+      "house_sign": "Vrishabha",
+      "dignity": "own-sign",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 5 (trikona, sign Vrishabha) is strong and comfortable (own-sign). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 5,
+      "planet": "Ketu",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 5 (trikona, sign Vrishabha) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 6,
+      "planet": "Sun",
+      "house_sign": "Mithuna",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 6 (dusthana/upachaya/trishadya, sign Mithuna) is neutral (neutral). Its karakas (soul, father, authority, government, vitality) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 6,
+      "planet": "Jupiter",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 6 (dusthana/upachaya/trishadya, sign Mithuna) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 6,
+      "planet": "Rahu",
+      "house_sign": "Mithuna",
+      "dignity": "exalted",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Rahu in house 6 (dusthana/upachaya/trishadya, sign Mithuna) is strongly auspicious (exalted). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 8,
+      "planet": "Sun",
+      "house_sign": "Simha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Sun in house 8 (dusthana, sign Simha) is very strong (mooltrikona). Its karakas (soul, father, authority, government, vitality) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 8,
+      "planet": "Moon",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Moon in house 8 (dusthana, sign Simha) is well-supported (friendly). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 8,
+      "planet": "Ketu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 8 (dusthana, sign Simha) is weakened (enemy). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 9,
+      "planet": "Sun",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 9 (trikona, sign Kanya) is neutral (neutral). Its karakas (soul, father, authority, government, vitality) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 9,
+      "planet": "Mars",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 9 (trikona, sign Kanya) is weakened (enemy). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 9,
+      "planet": "Jupiter",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 9 (trikona, sign Kanya) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 9,
+      "planet": "Ketu",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Ketu in house 9 (trikona, sign Kanya) is neutral (neutral). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 10,
+      "planet": "Moon",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Moon in house 10 (kendra/upachaya, sign Tula) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 11,
+      "planet": "Jupiter",
+      "house_sign": "Vrishchika",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 11 (upachaya/trishadya, sign Vrishchika) is well-supported (friendly). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "makara",
+      "house": 12,
+      "planet": "Rahu",
+      "house_sign": "Dhanu",
+      "dignity": "debilitated",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "compounded affliction",
+      "text": "Rahu in house 12 (dusthana, sign Dhanu) is strongly afflicted (debilitated). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: compounded affliction. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 1,
+      "planet": "Saturn",
+      "house_sign": "Kumbha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 1 (kendra/trikona, sign Kumbha) is very strong (mooltrikona). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 2,
+      "planet": "Jupiter",
+      "house_sign": "Meena",
+      "dignity": "own-sign",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Jupiter in house 2 (maraka, sign Meena) is strong and comfortable (own-sign). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 2,
+      "planet": "Ketu",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 2 (maraka, sign Meena) is neutral (neutral). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Mesha",
+      "dignity": "exalted",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Mesha) is strongly auspicious (exalted). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 3,
+      "planet": "Mars",
+      "house_sign": "Mesha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Mars in house 3 (upachaya/trishadya, sign Mesha) is very strong (mooltrikona). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: improves with age; early struggles mature into strength. Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 3,
+      "planet": "Venus",
+      "house_sign": "Mesha",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Venus in house 3 (upachaya/trishadya, sign Mesha) is neutral (neutral). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 4,
+      "planet": "Sun",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 4 (kendra, sign Vrishabha) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 4,
+      "planet": "Moon",
+      "house_sign": "Vrishabha",
+      "dignity": "exalted",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Moon in house 4 (kendra, sign Vrishabha) is strongly auspicious (exalted). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 5,
+      "planet": "Jupiter",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 5 (trikona, sign Mithuna) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 5,
+      "planet": "Venus",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Venus in house 5 (trikona, sign Mithuna) is well-supported (friendly). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 5,
+      "planet": "Saturn",
+      "house_sign": "Mithuna",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Saturn in house 5 (trikona, sign Mithuna) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 5,
+      "planet": "Ketu",
+      "house_sign": "Mithuna",
+      "dignity": "debilitated",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present",
+      "text": "Ketu in house 5 (trikona, sign Mithuna) is strongly afflicted (debilitated). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: Neecha-Bhanga possible if debilitated-lord trine-aspect or cancellation present. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 6,
+      "planet": "Sun",
+      "house_sign": "Karka",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 6 (dusthana/upachaya/trishadya, sign Karka) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 6,
+      "planet": "Mercury",
+      "house_sign": "Karka",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Mercury in house 6 (dusthana/upachaya/trishadya, sign Karka) is weakened (enemy). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 7,
+      "planet": "Mercury",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 7 (kendra/maraka, sign Simha) is well-supported (friendly). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 8,
+      "planet": "Jupiter",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Jupiter in house 8 (dusthana, sign Kanya) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 8,
+      "planet": "Venus",
+      "house_sign": "Kanya",
+      "dignity": "debilitated",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "compounded affliction",
+      "text": "Venus in house 8 (dusthana, sign Kanya) is strongly afflicted (debilitated). Its karakas (love, marriage, wife (for men), luxury, art, vehicles) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: compounded affliction. Planet's effect: its natural karakas suffer notably.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 8,
+      "planet": "Saturn",
+      "house_sign": "Kanya",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Saturn in house 8 (dusthana, sign Kanya) is well-supported (friendly). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 8,
+      "planet": "Ketu",
+      "house_sign": "Kanya",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Ketu in house 8 (dusthana, sign Kanya) is neutral (neutral). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 9,
+      "planet": "Jupiter",
+      "house_sign": "Tula",
+      "dignity": "enemy",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 9 (trikona, sign Tula) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 9,
+      "planet": "Saturn",
+      "house_sign": "Tula",
+      "dignity": "exalted",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Saturn in house 9 (trikona, sign Tula) is strongly auspicious (exalted). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 10,
+      "planet": "Rahu",
+      "house_sign": "Vrishchika",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 10 (kendra/upachaya, sign Vrishchika) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 11,
+      "planet": "Saturn",
+      "house_sign": "Dhanu",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Saturn in house 11 (upachaya/trishadya, sign Dhanu) is neutral (neutral). Its karakas (longevity, discipline, servants, grief, old age, karma) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 12,
+      "planet": "Sun",
+      "house_sign": "Makara",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Sun in house 12 (dusthana, sign Makara) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "kumbha",
+      "house": 12,
+      "planet": "Rahu",
+      "house_sign": "Makara",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 12 (dusthana, sign Makara) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 1,
+      "planet": "Rahu",
+      "house_sign": "Meena",
+      "dignity": "neutral",
+      "classes": [
+        "kendra",
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Rahu in house 1 (kendra/trikona, sign Meena) is neutral (neutral). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (self, body, personality, appearance, vitality). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 2,
+      "planet": "Ketu",
+      "house_sign": "Mesha",
+      "dignity": "friendly",
+      "classes": [
+        "maraka"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 2 (maraka, sign Mesha) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (wealth, family, speech, food, face). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 3,
+      "planet": "Sun",
+      "house_sign": "Vrishabha",
+      "dignity": "enemy",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Sun in house 3 (upachaya/trishadya, sign Vrishabha) is weakened (enemy). Its karakas (soul, father, authority, government, vitality) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 3,
+      "planet": "Mars",
+      "house_sign": "Vrishabha",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Mars in house 3 (upachaya/trishadya, sign Vrishabha) is neutral (neutral). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: improves with age; early struggles mature into strength. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 3,
+      "planet": "Ketu",
+      "house_sign": "Vrishabha",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Ketu in house 3 (upachaya/trishadya, sign Vrishabha) is well-supported (friendly). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (siblings (younger), courage, short travel, effort, communication). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 4,
+      "planet": "Mars",
+      "house_sign": "Mithuna",
+      "dignity": "enemy",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mars in house 4 (kendra, sign Mithuna) is weakened (enemy). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 4,
+      "planet": "Mercury",
+      "house_sign": "Mithuna",
+      "dignity": "own-sign",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 4 (kendra, sign Mithuna) is strong and comfortable (own-sign). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: empowered; supports the native's life goals. Planet's effect: works in its natural element.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 4,
+      "planet": "Rahu",
+      "house_sign": "Mithuna",
+      "dignity": "exalted",
+      "classes": [
+        "kendra"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Rahu in house 4 (kendra, sign Mithuna) is strongly auspicious (exalted). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (mother, home, vehicles, emotional base, education (early)). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 5,
+      "planet": "Sun",
+      "house_sign": "Karka",
+      "dignity": "friendly",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Sun in house 5 (trikona, sign Karka) is well-supported (friendly). Its karakas (soul, father, authority, government, vitality) act upon house-significations (children, intelligence, poorva-punya, creativity, romance). Outcome: empowered; supports the native's life goals. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 6,
+      "planet": "Sun",
+      "house_sign": "Simha",
+      "dignity": "mooltrikona",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord)",
+      "text": "Sun in house 6 (dusthana/upachaya/trishadya, sign Simha) is very strong (mooltrikona). Its karakas (soul, father, authority, government, vitality) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: hidden strength; difficulty at first but mastery later (Vipareeta-raja indicator if lord). Planet's effect: gives steady, authoritative results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 6,
+      "planet": "Mars",
+      "house_sign": "Simha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Mars in house 6 (dusthana/upachaya/trishadya, sign Simha) is well-supported (friendly). Its karakas (energy, siblings (younger), courage, land, accidents, surgery) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 6,
+      "planet": "Rahu",
+      "house_sign": "Simha",
+      "dignity": "enemy",
+      "classes": [
+        "dusthana",
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 6 (dusthana/upachaya/trishadya, sign Simha) is weakened (enemy). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (enemies, disease, debt, service, conflicts, daily work). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 7,
+      "planet": "Jupiter",
+      "house_sign": "Kanya",
+      "dignity": "enemy",
+      "classes": [
+        "kendra",
+        "maraka"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Jupiter in house 7 (kendra/maraka, sign Kanya) is weakened (enemy). Its karakas (wisdom, children, husband (for women), wealth, teacher, dharma) act upon house-significations (spouse, marriage, partnership, travel, business). Outcome: empowered; supports the native's life goals. Planet's effect: struggles to deliver its natural signification.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 8,
+      "planet": "Moon",
+      "house_sign": "Tula",
+      "dignity": "neutral",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Moon in house 8 (dusthana, sign Tula) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (longevity, hidden matters, inheritance, transformation, occult). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 9,
+      "planet": "Mercury",
+      "house_sign": "Vrishchika",
+      "dignity": "neutral",
+      "classes": [
+        "trikona"
+      ],
+      "outcome": "empowered; supports the native's life goals",
+      "text": "Mercury in house 9 (trikona, sign Vrishchika) is neutral (neutral). Its karakas (intellect, speech, commerce, communication, friends) act upon house-significations (dharma, luck, father, higher wisdom, long travel, guru). Outcome: empowered; supports the native's life goals. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 10,
+      "planet": "Ketu",
+      "house_sign": "Dhanu",
+      "dignity": "exalted",
+      "classes": [
+        "kendra",
+        "upachaya"
+      ],
+      "outcome": "Raja-yoga-like amplification",
+      "text": "Ketu in house 10 (kendra/upachaya, sign Dhanu) is strongly auspicious (exalted). Its karakas (liberation, mysticism, separation, past-life karma, detachment) act upon house-significations (career, authority, reputation, father (alternative), status). Outcome: Raja-yoga-like amplification. Planet's effect: delivers the highest good this planet can produce.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 11,
+      "planet": "Moon",
+      "house_sign": "Makara",
+      "dignity": "neutral",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "middling; depends on aspects and ruler's placement",
+      "text": "Moon in house 11 (upachaya/trishadya, sign Makara) is neutral (neutral). Its karakas (mind, mother, emotions, public, nurturing) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: middling; depends on aspects and ruler's placement. Planet's effect: gives mixed, context-dependent results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 11,
+      "planet": "Rahu",
+      "house_sign": "Makara",
+      "dignity": "friendly",
+      "classes": [
+        "upachaya",
+        "trishadya"
+      ],
+      "outcome": "improves with age; early struggles mature into strength",
+      "text": "Rahu in house 11 (upachaya/trishadya, sign Makara) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (gains, elder siblings, income, aspirations, fulfillment of desires). Outcome: improves with age; early struggles mature into strength. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    },
+    {
+      "lagna": "meena",
+      "house": 12,
+      "planet": "Rahu",
+      "house_sign": "Kumbha",
+      "dignity": "friendly",
+      "classes": [
+        "dusthana"
+      ],
+      "outcome": "stress on the planet's karakas; remedies advised",
+      "text": "Rahu in house 12 (dusthana, sign Kumbha) is well-supported (friendly). Its karakas (materialism, foreigners, sudden gains, illusion, obsession) act upon house-significations (loss, expenses, moksha, foreign lands, bed pleasures, hidden enemies). Outcome: stress on the planet's karakas; remedies advised. Planet's effect: produces generally favourable results.",
+      "source": "synthesized"
+    }
+  ],
+  "count": 254,
+  "method": "dignity × house-class × planet-karaka × house-signification synthesis",
+  "note": "These are derived predictions from classical Vedic principles, not direct quotes from the Bhrigu Samhita book. Used to fill cells where OCR damage prevented direct-quote extraction."
+}

@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 44 – Master Report Paragraph Library &
+Narrative Block Database
+Purpose
+This manual defines the reusable paragraph repository used by AstroReport OS. Instead of storing
+complete reports, the system stores modular narrative blocks that are dynamically assembled into
+personalized timeline reports.
+Entity
+Purpose
+Example Fields
+Paragraph
+Reusable narrative
+ID, Text, Tags
+Timeline Block
+Age-specific story
+Stage, Transition
+Planet Block
+Planet meaning
+Planet ID
+House Block
+House meaning
+House ID
+Nakshatra Block
+Nakshatra story
+Nakshatra ID
+Yoga Block
+Combination narrative
+Yoga ID
+Event Block
+Life event text
+Event Type
+Audience
+Reading level
+Child/General/Expert
+Localization
+Language variants
+Locale
+Metadata
+Validation
+Confidence, Version
+Library Design
+Each paragraph should be independent, tagged by topic, life domain, timeline stage, tone, reading
+level and supporting astrological evidence.
+Assembly Rules
+The report engine selects compatible blocks, removes duplication, maintains chronology, inserts
+transitions and adapts wording to the reader profile.
+Developer Specification
+Maintain immutable paragraph IDs, embeddings for semantic search, multilingual variants, version
+history, approval status and graph links.
+Next Volume
+Volume 45 – Master AI Knowledge Graph & Semantic Ontology.

@@ -1,0 +1,322 @@
+{
+  "item_code": "B8",
+  "item_name": "Yoga definitions + effects",
+  "books_covering": [
+    "BPHS_Vol1",
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Jataka_Parijata",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1",
+    "Aryabhatiya_v2",
+    "Vedanga_Jyotisa",
+    "Pancha_Siddhantika",
+    "Uttara_Kalamrita",
+    "Laghu_Parashari",
+    "Prashna_Marga",
+    "Jaimini_Sutras",
+    "Yavanajataka_1",
+    "Yavanajataka_2",
+    "Unknown_6945"
+  ],
+  "total_passages": 242,
+  "formulas_found": [
+    {
+      "book": "Surya_Siddhanta",
+      "score": 7,
+      "context": "e Surya-Siddhanta presents no trace. We will find the time in yogas corresponding to that for which the previous calculations have been made. The longitude of the moon at that time is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we find that eighteen yogas of the series are past, and that the current one is the nineteenth, Parigha, of which 354' are past,, and 446' to come. To ascertain the time at which the current yoga began and that at which it is to end, we divide these parts respectively by 798}', the sum of the daily motions of the sun and moon at the given time, and multiply by 60 to reduce the results to nadis : and we find that Parigha began 26\" 86\" before, and will end 33\" 30\" 4p after the given time. The name yoga, by which this a",
+      "position": 358870
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "score": 5,
+      "context": "and that at which it is to end, we divide these parts respectively by 798}', the sum of the daily motions of the sun and moon at the given time, and multiply by 60 to reduce the results to nadis : and we find that Parigha began 26\" 86\" before, and will end 33\" 30\" 4p after the given time. The name yoga, by which this astrological period is called, is applied to it, apparently, as designating the period during which the \" sum \" (yoga) of the increments in longitude of the sun and moon amounts to a given quantity. It seems an entirely arbitrary device of the astrologers, being neither a natural period nor a subdivision of one, not being of any use that we can discover in determining the relative .position, or 14 106 Surya-Siddh&nta aspect, of the two planets with which it deals, nor having a",
+      "position": 359349
+    },
+    {
+      "book": "Vedanga_Jyotisa",
+      "score": 5,
+      "context": "arts, and so the instruction to divide by 124 is necessary. JIndological Truths ====== PAGE 65 ====== V. DAILY TITHI, NAKSATRA ETC. 63 12. Day’s PARTS AT THE BEGINNING OF A NAKSATRA Text 35 siiryarksabhaggn navabhir vibhajya Sesam dvirabhyasya dinopabhuktih] tithi(2the)r yuta bhuktidinesu kalo yogam ( 2yogo) dinaikddaSakena tadvat||Y-VJ 26 Divide the parts of the Sun’s naksatra by 9. Multiply the remainder by 2. This 1s termed the partial complement for the day’s parts. Add to this the comple- ment for tithis, got as quotient, to obtain the total complement to be added to the day’s parts. Add the total complement to the naksatra-parts and divide by 11. The result is the day before the completed day’s parts when the naksatra began. (Y¥-VJ 26) Example. The parts of the Sun’s naksatra at t",
+      "position": 129164
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 4,
+      "context": "a sign, own sign, and the signs owned by the lord of an angle from the Arudha ascendant are all to be considered (as good Vargas). The divisions of a combust planet, defeated planet, weak planet and a planet in bad Avasthas like Sayana be all ignored to be auspicious, for these destroy the good yogas. Notes: Four kinds of summary of the Vargas or divisions are suggested thus: (a) ShadVarga (considering sir Vargas) viz. Rashi, Horā, Decanate, Navamsha Dvadashamsa and Trimsamsa. (b) Sapia Varga (seven Vargas) adding Saptamamsa to the Shad Varga. (c) Dasha Varga (ten Vargas) adding Shodashamsa, Dashamamsa and Shashtiamsa divisions to the Sapia Varga. The Sixteen Divisions of a Sign Page 60 (d) Shodasha Varga (all the 16 Vargas so far narrated by the sage). The groups as above are",
+      "position": 143694
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "score": 4,
+      "context": "ill be noticed, is made in all the processes from verse 59 onward; its inaccuracy is greatest, of course, where the moon's motion is concerned. Eespecting the lunar day (tithi) see below, under verse 66. 65. From the number of minutes in the sum of the longi- tudes of the sun and moon are found the yogas, by dividing that sum by the portion (bhoga) of an asterism. Multiply the minutes past and to come of the current yoga by sixty, and divide by the The True Places of the Planets 105 sum of the daily motions of the two planets : the result is the time in nadis. What the yoga is, is evident from this rule for finding it; it is the period, of variable length, during which the joint motion ' in longitude of the sun and moon amounts to 18° 20' the portion of a lunar mansion. According to Oolebr",
+      "position": 357130
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "score": 4,
+      "context": "and moon are found the yogas, by dividing that sum by the portion (bhoga) of an asterism. Multiply the minutes past and to come of the current yoga by sixty, and divide by the The True Places of the Planets 105 sum of the daily motions of the two planets : the result is the time in nadis. What the yoga is, is evident from this rule for finding it; it is the period, of variable length, during which the joint motion ' in longitude of the sun and moon amounts to 18° 20' the portion of a lunar mansion. According to Oolebrooke (As. Bes., ix. 365; Essays, ii. 362, 363), ^he use of the yogas is chiefly astrological; the occurrence of certain mova- ble festivals is, however, also regulated by them, and they are so frequently employed that every Hindu almanac contains a column specifying the yoga f",
+      "position": 357406
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "score": 4,
+      "context": "7. Vaidhrti. There is also in use in India (see Colebrooke, as above) another system of yogas, twenty-eight in number, having for the most part different names from these, and governed by other rules in their succession. Of this system the Surya-Siddhanta presents no trace. We will find the time in yogas corresponding to that for which the previous calculations have been made. The longitude of the moon at that time is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we find that eighteen yogas of the series are past, and that the current one is the nineteenth, Parigha, of which 354' are past,, and 446' to come. To ascertain the time at which the current yoga began and that at which it is to end, we divide these parts respectively by 798}', the s",
+      "position": 358632
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "score": 4,
+      "context": "(bfwqa). To find the current lunar day, we divide by this amount, the whole excess of the longitude of the moon over that of the sun at the given time; and to find the part past and to come of the current day, we convert longitude into time in a manner analogous to that employed in the ease of the yoga. Thus, to find the date in lunar time of the midnight preceding the first of January, 1860, we first deduct the longitude of the sun from that of the moon; the remainder is 2\" 29° 24', or 5364': dividing by 720, it appears that the current lunar day is the eighth, and that 324' of its portion are traversed, leaving 396' to be traversed. Multiplying these numbers respectively by 60, and dividing by 675' 38\", the difference of the daily motions at the time, we find that 28\" 46'' 2p have passed",
+      "position": 361224
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Hora_Sara",
+      "rule_words": 7,
+      "context": "ac. Rahu is strong in the South, i.e. when he is on the meridian of the horo- scope. m % ^ y\"<'J=WirH #tT II 36 II Even if the planet derive strength in the ways mentioned earlier, they become weak if eclipsed by the Sun. Such weak planets do not give good results in respect of the bhavas, yogas and Dasas they are connected with. Notes: Benefic planets, if cmbust, do lose their potence, while maefics become more mischievous. Saturn and Venus are said to retain their rays even in combustion as per sloka 15, C h . FV of Uttara Kalamrita. ^dW^:^«r: Mi^t[<^f: m\\: TRPT^ II 37 II Strong benefics mak"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 7,
+      "context": "is aspected by benefic planets, it causes the birth of a lord. 37. If Jupiter is in the ascendent, the lord of (that) sign (the ascendent) in the fifth house, and the lord of (the sign of) its exaltation in a cardine, and if the malefic planets, though very powerful, do not aspect, then in this yoga it produces a king, the lord of the masters of magic. 38. If the lords of the ascendent and of the sign in which the Moon is are strong, being in their friends' houses or in cardines, and if the Moon is in a water-sign or in the fourth place, they cause the birth of kings. 39. In this yoga, if the "
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 7,
+      "context": "s, towns, and tribes, with modific~tions similar to their own (the planets') selves. 15. If the Moon in its own navarp.sa is aspected by Venus at night, it causes the birth of a lord (isvara); ifit is aspected by Jupiter by day, it causes the birth of one superior to that. 16. By means of this yoga, even if it is only in a friend's navarp.sa, the Moon produces the best men; the Moon, if it is aspected by three friends either night or day, produces men who support their friends. 17. If the Moon is in the house of a benefic planet away from the ascendent while benefic planets are in the cardines"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 6,
+      "context": "ant must be Scorpio. If Jupiter is in the 5th, his functions as karaka and lord become identical. He will also aspect the Lagna. Yet the result is highly unfavourable. Again when one is born in Pisces and has Jupiter in the 5th (Cancer) he will have a number of daughters. On the face of it, this yoga could be considered improbable. But the author says it is the opinion of the sages. These combinations should be balanced in the light of other favourable or unfavourable factors influencing the house of children. Stanza 14. If the debilitated lord of the 5th occupies the 8th which should be an in"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 5,
+      "context": "s. Our view which is based on long cxperience, is that these lords will not give unfavot rable cffects if they are in the 3rd,6th and llth respectively in their own signs' The pl:rcement of the lord of the llth in the 2nd and of tlte lord of the 2nd in the llth give rise to a very powcrful Dhana yoga. The 6th, Sth and l2th are Dusthanas (inauspicious houses). All authorities on Hindu Astrology agree in this respect. But eveu for these houses, some recognised authorities have made exceptions in certain circumstances. In this connection it would be relevant to invite attention of the readers to "
+    },
+    {
+      "book": "Hora_Sara",
+      "rule_words": 5,
+      "context": "C h . FV of Uttara Kalamrita. ^dW^:^«r: Mi^t[<^f: m\\: TRPT^ II 37 II Strong benefics make a person fortunate, bright and beauti- ful. Malefics when stronger than benefics make a person sinful and a simpleton. Notes: It is to be noted that benefic planets should be stronger than malefics for yoga purposes. In any case, the 32 HORASARA strength of malefics is equally important as each has its own karakatwas; for example Saturn though a natural malefic should be strong for longevity. If he is weak, the subject cannot enjoy longevity and all Rajayogas then will be equal to a painting sans canvas. "
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "rule_words": 5,
+      "context": "e translate \" encounter,\" yuddha, means literally \" war, conflict.\" Verses 18-20, and verse 22, below, give distinctive definitions of some of the different kinds of encounter and conjunction. 2. When the longitude of the swift-moving planet is greater than that of the slow one, the conjunction (samyoga) is past ; 188 Surya-S'iddhdnta otherwise, it is to come : this is the case when the two are moving eastward; if, however, they are retrograding (vakrin), the con- trary is true. 3. When the longitude of the one moving eastward is greater, the conjunction (samagama) is past ; but when that of t"
+    },
+    {
+      "book": "Laghu_Parashari",
+      "rule_words": 5,
+      "context": "or llth lord has been discussed earlier here. The auspiciousness or inauspiciousness of the Trikona or Trishadaya lords here is only valid till they are not related to other house lords. \\A/hat will be the results if these two are related to other house lords will be described in the chapter named Yogadhyaya. Susloka Sataka a south Indian treatise based on Laghu Parasari also confirms the above view in Sloka 14. ffiunRrddfte ri(feqgrqq:r qts-gfi. q g tq-iq: vtr{Kg}ff,(t I If the lord of a Trikona or a Kendra becomes the lord of 3'd, 6th or 1l.th house at the same time, then according to Sage P"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 5,
+      "context": "s to 'stree-graha' or female planets and they are the Moon and Venus. They should occupy friendly signs and aspect the ascendant which should happen to be a masculine sign. When this combination occurs, the husband gets a loving wife. Here even one female planet (Venus or the Moon) can cause the yoga. Suppose Sagittarius is the ascendant and Venus aspects it from Gemini, a friendly sign. The husband gets a loving wife. Applying this to a male horoscope, if a male planet (Sun, Mars or Jupiter) is in a friendly sign and aspects the Lagna which must be an even sign, the husband will love the wife"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 5,
+      "context": "ording to another version the lord of the 5th is to be debilitated (neecha samsthite): The 9th from Arudha Lagna and the 5th from the ascendant are the houses of issues. Stanza 10. If malefics occupy the 5th from the ascendant, the Moon and Jupiter, and they are not aspected by benefics, anapatya yoga results. Stanza 11. If a sign owned by Mercury or Saturn happens to be the 5th house and it is aspected by or associated with Saturn and Gulika, one will have to go in for adoption. Stanza 12. The native will have no natural issue but will have to adopt one if a strong benefic planet occupies the"
+    },
+    {
+      "book": "Jaimini_Sutras",
+      "rule_words": 5,
+      "context": "s, the person will get riches ona large scale, but through unfair and illegal manner, In both cases he will be rich but in the case of benefics he w Il be agood man and will earn money honestly and by labour, in the cases of evil planets, the wealth will be thoroughly ill-gotten and criminal. These Yogas will hippen when the 12th house is not aspected by any planet. ====== PAGE 106 ====== JAIMINISUTRAS 89 ६. ने ग्रहदम्योगाद्याधिक्यम्‌ ॥ Su. 6. Neeche grahadrigyogad,wyayadhikyam. If there are planets in the 12th house from Lagna or Pada Lagna the person will spend more than he earns. NOTES Na 0"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 5,
+      "context": "his yoga it produces a king, the lord of the masters of magic. 38. If the lords of the ascendent and of the sign in which the Moon is are strong, being in their friends' houses or in cardines, and if the Moon is in a water-sign or in the fourth place, they cause the birth of kings. 39. In this yoga, if the two (lords) are in the fifth place while a benefic planet is in a cardine in its own varga and a navarµsa of the lord of (that) sign (the ascendent) is in the ascendent, then they produce the best king, one who is firm. 40. Seeing configurations of this sort in the horoscopes of kings, even "
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 5,
+      "context": "h of kings. CHAPTER 9 J. Benefic planets in (these) configurations always produce righteous (kings) of good behavior who are famous for their good qualities; malefic planets produce (kings) who act cruelly and fiercely, whose natures are debased, and who are unrighteous and impure. 2. If (the yoga) involves all the planets being in their exaltations to the degree while all these planets are strong, a benefic planet is in the ascendent, and the Moon is full, it produces the emperor of the three worlds. 3. If all the planets are in the vargottamarµsas in their own houses and are brilliant (atidi"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 4,
+      "context": "ouses)' there will'be during his Dasa, physical pains and troubles' To get alleviation from those troubles the native should perform Snut..uar.\"ya (wotfE) or Mrityunjaya Japa in the prescrihed manner and give in charity a cow or female buffaloe' Note : Being lordlof a Kendra and trikona, Venus ts a yogakaraka ptanei for tle Capricorn and Aquarius ascendants' be-ing tora oi th\" 2nd and the 9th, he is a very auspicious planet for the Virgo Ascendant. During his Dasa Venus will yield rery beneficial results in respect of these Ascendants, if he is well plated and is not affiicted in any way- €rrE"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 4,
+      "context": "Mantreswara the lords of the 6th, the 8th and the 12th also produce yoga effects in the follorving circumstances : (l) If the 6th house is occupied or aspected by malefics and the lord of the 6th is in Dusthana (6th, 8th or l2th), such a disposition produces Harsha yoga. The person born in Harsha yoga will be endowed with happiness, enjoyrnent, good fortune and a strong constitution will overcome his enemies, and will be afraid to commit sinful acts. He will become a friend of illustrious and prominent people. He will have wealth, splendour, friends, fame and sons. (2) If the lord of the 8th h"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "wards. The Chara Dasa of Aquarius is of 8 years and Sthira Dasa is also of 8 years. The"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "s of 8 years and Sthira Dasa is also of 8 years. The Dasa of Aquarius in the Yogardha D"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "dha Dasa system will consequently be of 8 years (| of 8+8). The Chara Dasa of Pisccs is"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "isccs is one year and Sthira Dasa is of 9 years. Thus the Dasa of Fisces here will b? o"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "Thus the Dasa of Fisces here will b? of 5 years (* of l-r9). The Dasas of thc rcnaining"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "tivc Trble Sign Aquarius Pisces Dasa\" 8 5 Years Taurus Gemini Canccr 8+811 Aries 4 Sagi"
+    },
+    {
+      "type": "degrees",
+      "value": 15.0,
+      "context": "e 7th Dwadasamsa of Aries, i.e. between 15° 00'-17° 30'. It is in Libra Dwadasamsa."
+    },
+    {
+      "type": "degrees",
+      "value": 17.0,
+      "context": "adasamsa of Aries, i.e. between 15° 00'-17° 30'. It is in Libra Dwadasamsa. Note th"
+    },
+    {
+      "type": "degrees",
+      "value": 18.0,
+      "context": "ongitude of the sun and moon amounts to 18° 20' the portion of a lunar mansion. Acc"
+    },
+    {
+      "type": "degrees",
+      "value": 18.0,
+      "context": "ongitude of the sun and moon amounts to 18° 20' the portion of a lunar mansion. Acc"
+    },
+    {
+      "type": "degrees",
+      "value": 18.0,
+      "context": "ongitude of the sun and moon amounts to 18° 20' the portion of a lunar mansion. Acc"
+    },
+    {
+      "type": "degrees",
+      "value": 17.0,
+      "context": "ongitude of the moon at that time is 11 17° 39', that of the sunis8» 18° 15'; their"
+    },
+    {
+      "type": "degrees",
+      "value": 18.0,
+      "context": "time is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": "of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we fi"
+    },
+    {
+      "type": "degrees",
+      "value": 17.0,
+      "context": "ongitude of the moon at that time is 11 17° 39', that of the sunis8» 18° 15'; their"
+    },
+    {
+      "type": "degrees",
+      "value": 18.0,
+      "context": "time is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": "of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we fi"
+    },
+    {
+      "type": "degrees",
+      "value": 17.0,
+      "context": "ongitude of the moon at that time is 11 17° 39', that of the sunis8» 18° 15'; their"
+    },
+    {
+      "type": "degrees",
+      "value": 18.0,
+      "context": "time is 11 17° 39', that of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'"
+    },
+    {
+      "type": "degrees",
+      "value": 5.0,
+      "context": "of the sunis8» 18° 15'; their sum is 8' 5° 54', or 14,754'. Dividing by 800, we fi"
+    },
+    {
+      "type": "degrees",
+      "value": 29.0,
+      "context": "m that of the moon; the remainder is 2\" 29° 24', or 5364': dividing by 720, it appe"
+    },
+    {
+      "type": "period",
+      "value": 1830,
+      "unit": "days",
+      "context": "the end. All give the five-year yuga of 1830 days with 62 synodic months in it. Everythin"
+    },
+    {
+      "type": "period",
+      "value": 66,
+      "unit": "years",
+      "context": "(madhya ayurdaya, which does not exceed 66 years of age). (e) If these planets are in ho"
+    },
+    {
+      "type": "period",
+      "value": 116,
+      "unit": "years",
+      "context": "asa is of 108 yei.lrs, Sotl.tsottari of 116 years, Dwadasottari of LL2 years and all thc:"
+    },
+    {
+      "type": "period",
+      "value": 120,
+      "unit": "years",
+      "context": "2 years and all thc:.,' lall sltort <tf 120 years, the supposed full longevity of huntan "
+    },
+    {
+      "type": "period",
+      "value": 36,
+      "unit": "years",
+      "context": "n bt'ing. ln Vrgini Dasa the span is of 36 years and the cycle starts again after every "
+    },
+    {
+      "type": "period",
+      "value": 36,
+      "unit": "years",
+      "context": " and the cycle starts again after every 36 years, which is absurd. For the above reasons"
+    },
+    {
+      "type": "degrees",
+      "value": 19.0,
+      "context": "- 16h. 19m. Lagna at 16h. 19m. L.M.T. = 19° 51' Scorpio Therefore Yama Sukra 19° 51"
+    },
+    {
+      "type": "degrees",
+      "value": 19.0,
+      "context": " = 19° 51' Scorpio Therefore Yama Sukra 19° 51' Scorpio Lagna at 1"
+    },
+    {
+      "type": "degrees",
+      "value": 19.0,
+      "context": "- 16h. 19m. Lagna at 16h. 19m. L.M.T. = 19° 51' Scorpio Therefore Yama Sukra 19° 51"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/yoga.py",
+    "function": "all_yoga_details"
+  }
+}

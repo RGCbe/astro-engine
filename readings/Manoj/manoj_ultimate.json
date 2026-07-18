@@ -1,0 +1,2011 @@
+{
+  "divisional_charts": {
+    "D1_Rashi": {
+      "area": "body/life-general",
+      "positions": {
+        "Sun": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 6
+        },
+        "Moon": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 9
+        },
+        "Mars": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 5
+        },
+        "Mercury": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 5
+        },
+        "Jupiter": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 1
+        },
+        "Venus": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 7
+        },
+        "Saturn": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 4
+        },
+        "Rahu": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 10
+        },
+        "Ketu": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 4
+        },
+        "Lagna": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8
+        }
+      }
+    },
+    "D2_Hora": {
+      "area": "wealth/finances",
+      "positions": {
+        "Sun": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 12
+        },
+        "Moon": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 1
+        },
+        "Mars": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 12
+        },
+        "Mercury": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 12
+        },
+        "Jupiter": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 12
+        },
+        "Venus": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 1
+        },
+        "Saturn": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 12
+        },
+        "Rahu": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 1
+        },
+        "Ketu": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 1
+        },
+        "Lagna": {
+          "rasi": "Leo",
+          "rasi_idx": 4
+        }
+      }
+    },
+    "D3_Drekkana": {
+      "area": "siblings/courage",
+      "positions": {
+        "Sun": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 10
+        },
+        "Moon": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 1
+        },
+        "Mars": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 1
+        },
+        "Mercury": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 1
+        },
+        "Jupiter": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 9
+        },
+        "Venus": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 7
+        },
+        "Saturn": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 8
+        },
+        "Rahu": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 6
+        },
+        "Ketu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 12
+        },
+        "Lagna": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8
+        }
+      }
+    },
+    "D4_Chaturthamsa": {
+      "area": "property/fortune",
+      "positions": {
+        "Sun": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 6
+        },
+        "Moon": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 9
+        },
+        "Mars": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 5
+        },
+        "Mercury": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 5
+        },
+        "Jupiter": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 1
+        },
+        "Venus": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 7
+        },
+        "Saturn": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 4
+        },
+        "Rahu": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 10
+        },
+        "Ketu": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 4
+        },
+        "Lagna": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8
+        }
+      }
+    },
+    "D7_Saptamsa": {
+      "area": "children/progeny",
+      "positions": {
+        "Sun": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 1
+        },
+        "Moon": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 10
+        },
+        "Mars": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 9
+        },
+        "Mercury": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 10
+        },
+        "Jupiter": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 5
+        },
+        "Venus": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 6
+        },
+        "Saturn": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 11
+        },
+        "Rahu": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 7
+        },
+        "Ketu": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 1
+        },
+        "Lagna": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9
+        }
+      }
+    },
+    "D9_Navamsa": {
+      "area": "spouse/dharma/soul-purpose",
+      "positions": {
+        "Sun": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 12
+        },
+        "Moon": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 3
+        },
+        "Mars": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 6
+        },
+        "Mercury": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 7
+        },
+        "Jupiter": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 6
+        },
+        "Venus": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 7
+        },
+        "Saturn": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 6
+        },
+        "Rahu": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 3
+        },
+        "Ketu": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 9
+        },
+        "Lagna": {
+          "rasi": "Taurus",
+          "rasi_idx": 1
+        }
+      }
+    },
+    "D10_Dasamsa": {
+      "area": "career/status",
+      "positions": {
+        "Sun": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 4
+        },
+        "Moon": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 11
+        },
+        "Mars": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 11
+        },
+        "Mercury": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 12
+        },
+        "Jupiter": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 7
+        },
+        "Venus": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 7
+        },
+        "Saturn": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 2
+        },
+        "Rahu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 11
+        },
+        "Ketu": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 5
+        },
+        "Lagna": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9
+        }
+      }
+    },
+    "D12_Dwadasamsa": {
+      "area": "parents",
+      "positions": {
+        "Sun": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 8
+        },
+        "Moon": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 11
+        },
+        "Mars": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 12
+        },
+        "Mercury": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 1
+        },
+        "Jupiter": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 8
+        },
+        "Venus": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 6
+        },
+        "Saturn": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 6
+        },
+        "Rahu": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 4
+        },
+        "Ketu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 10
+        },
+        "Lagna": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10
+        }
+      }
+    },
+    "D16_Shodasamsa": {
+      "area": "vehicles/comforts",
+      "positions": {
+        "Sun": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 12
+        },
+        "Moon": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 12
+        },
+        "Mars": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 3
+        },
+        "Mercury": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 4
+        },
+        "Jupiter": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 11
+        },
+        "Venus": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 1
+        },
+        "Saturn": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 4
+        },
+        "Rahu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 10
+        },
+        "Ketu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 10
+        },
+        "Lagna": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10
+        }
+      }
+    },
+    "D20_Vimsamsa": {
+      "area": "spiritual progress",
+      "positions": {
+        "Sun": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 9
+        },
+        "Moon": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 9
+        },
+        "Mars": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 9
+        },
+        "Mercury": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 11
+        },
+        "Jupiter": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 1
+        },
+        "Venus": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 12
+        },
+        "Saturn": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 5
+        },
+        "Rahu": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 11
+        },
+        "Ketu": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 11
+        },
+        "Lagna": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7
+        }
+      }
+    },
+    "D24_Chaturvimsamsa": {
+      "area": "education/learning",
+      "positions": {
+        "Sun": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 4
+        },
+        "Moon": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 5
+        },
+        "Mars": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 3
+        },
+        "Mercury": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 5
+        },
+        "Jupiter": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 3
+        },
+        "Venus": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 12
+        },
+        "Saturn": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 4
+        },
+        "Rahu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 12
+        },
+        "Ketu": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 12
+        },
+        "Lagna": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8
+        }
+      }
+    },
+    "D27_Bhamsa": {
+      "area": "physical strength",
+      "positions": {
+        "Sun": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 9
+        },
+        "Moon": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 7
+        },
+        "Mars": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 5
+        },
+        "Mercury": {
+          "rasi": "Pisces",
+          "rasi_idx": 11,
+          "house": 8
+        },
+        "Jupiter": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 5
+        },
+        "Venus": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 6
+        },
+        "Saturn": {
+          "rasi": "Scorpio",
+          "rasi_idx": 7,
+          "house": 4
+        },
+        "Rahu": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 6
+        },
+        "Ketu": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 12
+        },
+        "Lagna": {
+          "rasi": "Leo",
+          "rasi_idx": 4
+        }
+      }
+    },
+    "D30_Trimsamsa": {
+      "area": "misfortunes/troubles",
+      "positions": {
+        "Sun": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 9
+        },
+        "Moon": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 12
+        },
+        "Mars": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 6
+        },
+        "Mercury": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 5
+        },
+        "Jupiter": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 6
+        },
+        "Venus": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 4
+        },
+        "Saturn": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 9
+        },
+        "Rahu": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 10
+        },
+        "Ketu": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 10
+        },
+        "Lagna": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9
+        }
+      }
+    },
+    "D40_Khavedamsa": {
+      "area": "maternal legacy/auspicious",
+      "positions": {
+        "Sun": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 3
+        },
+        "Moon": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 9
+        },
+        "Mars": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 1
+        },
+        "Mercury": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 5
+        },
+        "Jupiter": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 1
+        },
+        "Venus": {
+          "rasi": "Virgo",
+          "rasi_idx": 5,
+          "house": 12
+        },
+        "Saturn": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 3
+        },
+        "Rahu": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 4
+        },
+        "Ketu": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 4
+        },
+        "Lagna": {
+          "rasi": "Libra",
+          "rasi_idx": 6
+        }
+      }
+    },
+    "D45_Akshavedamsa": {
+      "area": "all life-areas summary",
+      "positions": {
+        "Sun": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 6
+        },
+        "Moon": {
+          "rasi": "Sagittarius",
+          "rasi_idx": 8,
+          "house": 6
+        },
+        "Mars": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 8
+        },
+        "Mercury": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 1
+        },
+        "Jupiter": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 4
+        },
+        "Venus": {
+          "rasi": "Taurus",
+          "rasi_idx": 1,
+          "house": 11
+        },
+        "Saturn": {
+          "rasi": "Aries",
+          "rasi_idx": 0,
+          "house": 10
+        },
+        "Rahu": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 1
+        },
+        "Ketu": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 1
+        },
+        "Lagna": {
+          "rasi": "Cancer",
+          "rasi_idx": 3
+        }
+      }
+    },
+    "D60_Shashtiamsa": {
+      "area": "past-life karma",
+      "positions": {
+        "Sun": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 11
+        },
+        "Moon": {
+          "rasi": "Gemini",
+          "rasi_idx": 2,
+          "house": 9
+        },
+        "Mars": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 5
+        },
+        "Mercury": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 11
+        },
+        "Jupiter": {
+          "rasi": "Libra",
+          "rasi_idx": 6,
+          "house": 1
+        },
+        "Venus": {
+          "rasi": "Capricorn",
+          "rasi_idx": 9,
+          "house": 4
+        },
+        "Saturn": {
+          "rasi": "Cancer",
+          "rasi_idx": 3,
+          "house": 10
+        },
+        "Rahu": {
+          "rasi": "Leo",
+          "rasi_idx": 4,
+          "house": 11
+        },
+        "Ketu": {
+          "rasi": "Aquarius",
+          "rasi_idx": 10,
+          "house": 5
+        },
+        "Lagna": {
+          "rasi": "Libra",
+          "rasi_idx": 6
+        }
+      }
+    }
+  },
+  "chara_karakas": {
+    "AtmaKaraka": {
+      "planet": "Mercury",
+      "area": "soul/self",
+      "degree": 26.01,
+      "rasi": "Aries",
+      "house": 5
+    },
+    "AmatyaKaraka": {
+      "planet": "Mars",
+      "area": "career/minister",
+      "degree": 23.17,
+      "rasi": "Aries",
+      "house": 5
+    },
+    "BhratruKaraka": {
+      "planet": "Jupiter",
+      "area": "siblings/brother",
+      "degree": 23.16,
+      "rasi": "Sagittarius",
+      "house": 1
+    },
+    "MatruKaraka": {
+      "planet": "Saturn",
+      "area": "mother",
+      "degree": 11.23,
+      "rasi": "Pisces",
+      "house": 4
+    },
+    "PutraKaraka": {
+      "planet": "Moon",
+      "area": "children",
+      "degree": 11.18,
+      "rasi": "Leo",
+      "house": 9
+    },
+    "GnatiKaraka": {
+      "planet": "Sun",
+      "area": "relatives",
+      "degree": 10.86,
+      "rasi": "Taurus",
+      "house": 6
+    },
+    "DaraKaraka": {
+      "planet": "Rahu",
+      "area": "spouse",
+      "degree": 9.08,
+      "rasi": "Virgo",
+      "house": 10
+    }
+  },
+  "ayurdaya": {
+    "raw_years": 47.3,
+    "breakdown": {
+      "Sun": {
+        "full": 19,
+        "factor": 0.3333333333333333,
+        "state": "neutral",
+        "contribution": 6.3
+      },
+      "Moon": {
+        "full": 25,
+        "factor": 0.3333333333333333,
+        "state": "neutral",
+        "contribution": 8.3
+      },
+      "Mars": {
+        "full": 15,
+        "factor": 0.5,
+        "state": "own-sign",
+        "contribution": 7.5
+      },
+      "Mercury": {
+        "full": 12,
+        "factor": 0.3333333333333333,
+        "state": "neutral",
+        "contribution": 4.0
+      },
+      "Jupiter": {
+        "full": 15,
+        "factor": 0.5,
+        "state": "own-sign",
+        "contribution": 7.5
+      },
+      "Venus": {
+        "full": 21,
+        "factor": 0.3333333333333333,
+        "state": "neutral",
+        "contribution": 7.0
+      },
+      "Saturn": {
+        "full": 20,
+        "factor": 0.3333333333333333,
+        "state": "neutral",
+        "contribution": 6.7
+      }
+    },
+    "note": "Pindayu — uncorrected. Classical texts apply chakrapata reductions for retrograde, combust, divisor-strength. Typical adjusted range: 60-80% of raw."
+  },
+  "transit_triggers": {
+    "Sun": {
+      "best_trigger_signs": [
+        [
+          "Taurus",
+          6
+        ],
+        [
+          "Sagittarius",
+          5
+        ],
+        [
+          "Capricorn",
+          5
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Leo",
+          3
+        ],
+        [
+          "Virgo",
+          3
+        ],
+        [
+          "Cancer",
+          1
+        ]
+      ]
+    },
+    "Moon": {
+      "best_trigger_signs": [
+        [
+          "Aquarius",
+          6
+        ],
+        [
+          "Libra",
+          6
+        ],
+        [
+          "Leo",
+          5
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Pisces",
+          3
+        ],
+        [
+          "Scorpio",
+          3
+        ],
+        [
+          "Aries",
+          2
+        ]
+      ]
+    },
+    "Mars": {
+      "best_trigger_signs": [
+        [
+          "Libra",
+          6
+        ],
+        [
+          "Virgo",
+          5
+        ],
+        [
+          "Capricorn",
+          4
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Aries",
+          2
+        ],
+        [
+          "Cancer",
+          2
+        ],
+        [
+          "Leo",
+          1
+        ]
+      ]
+    },
+    "Mercury": {
+      "best_trigger_signs": [
+        [
+          "Capricorn",
+          7
+        ],
+        [
+          "Virgo",
+          6
+        ],
+        [
+          "Libra",
+          6
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Scorpio",
+          4
+        ],
+        [
+          "Aquarius",
+          3
+        ],
+        [
+          "Leo",
+          2
+        ]
+      ]
+    },
+    "Jupiter": {
+      "best_trigger_signs": [
+        [
+          "Aquarius",
+          7
+        ],
+        [
+          "Cancer",
+          6
+        ],
+        [
+          "Sagittarius",
+          5
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Virgo",
+          4
+        ],
+        [
+          "Libra",
+          4
+        ],
+        [
+          "Scorpio",
+          3
+        ]
+      ]
+    },
+    "Venus": {
+      "best_trigger_signs": [
+        [
+          "Sagittarius",
+          6
+        ],
+        [
+          "Leo",
+          6
+        ],
+        [
+          "Pisces",
+          5
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Capricorn",
+          3
+        ],
+        [
+          "Scorpio",
+          2
+        ],
+        [
+          "Taurus",
+          1
+        ]
+      ]
+    },
+    "Saturn": {
+      "best_trigger_signs": [
+        [
+          "Taurus",
+          5
+        ],
+        [
+          "Capricorn",
+          4
+        ],
+        [
+          "Aquarius",
+          4
+        ]
+      ],
+      "weak_trigger_signs": [
+        [
+          "Libra",
+          3
+        ],
+        [
+          "Aries",
+          2
+        ],
+        [
+          "Cancer",
+          1
+        ]
+      ]
+    }
+  },
+  "pada_details": {
+    "Sun": {
+      "nakshatra": "Rohini",
+      "pada": 1,
+      "navamsa_sign": "Aries",
+      "navamsa_lord": "Mars",
+      "refined_flavor": "Rohini p1 (navamsa: Aries/Mars)"
+    },
+    "Moon": {
+      "nakshatra": "Magha",
+      "pada": 4,
+      "navamsa_sign": "Cancer",
+      "navamsa_lord": "Moon",
+      "refined_flavor": "Magha p4 (navamsa: Cancer/Moon)"
+    },
+    "Mars": {
+      "nakshatra": "Bharani",
+      "pada": 3,
+      "navamsa_sign": "Libra",
+      "navamsa_lord": "Venus",
+      "refined_flavor": "Bharani p3 (navamsa: Libra/Venus)"
+    },
+    "Mercury": {
+      "nakshatra": "Bharani",
+      "pada": 4,
+      "navamsa_sign": "Scorpio",
+      "navamsa_lord": "Mars",
+      "refined_flavor": "Bharani p4 (navamsa: Scorpio/Mars)"
+    },
+    "Jupiter": {
+      "nakshatra": "Purva Ashadha",
+      "pada": 3,
+      "navamsa_sign": "Libra",
+      "navamsa_lord": "Venus",
+      "refined_flavor": "Purva Ashadha p3 (navamsa: Libra/Venus)"
+    },
+    "Venus": {
+      "nakshatra": "Mrigashira",
+      "pada": 4,
+      "navamsa_sign": "Scorpio",
+      "navamsa_lord": "Mars",
+      "refined_flavor": "Mrigashira p4 (navamsa: Scorpio/Mars)"
+    },
+    "Saturn": {
+      "nakshatra": "Uttara Bhadrapada",
+      "pada": 3,
+      "navamsa_sign": "Libra",
+      "navamsa_lord": "Venus",
+      "refined_flavor": "Uttara Bhadrapada p3 (navamsa: Libra/Venus)"
+    },
+    "Rahu": {
+      "nakshatra": "Hasta",
+      "pada": 4,
+      "navamsa_sign": "Cancer",
+      "navamsa_lord": "Moon",
+      "refined_flavor": "Hasta p4 (navamsa: Cancer/Moon)"
+    },
+    "Ketu": {
+      "nakshatra": "Revati",
+      "pada": 2,
+      "navamsa_sign": "Capricorn",
+      "navamsa_lord": "Saturn",
+      "refined_flavor": "Revati p2 (navamsa: Capricorn/Saturn)"
+    }
+  },
+  "vargottama": {},
+  "dig_bala": {
+    "Jupiter": {
+      "house": 1,
+      "best_house": 1,
+      "strength": 1.0,
+      "rating": "very strong"
+    },
+    "Mercury": {
+      "house": 5,
+      "best_house": 1,
+      "strength": 0.33,
+      "rating": "moderate"
+    },
+    "Moon": {
+      "house": 9,
+      "best_house": 4,
+      "strength": 0.17,
+      "rating": "weak"
+    },
+    "Venus": {
+      "house": 7,
+      "best_house": 4,
+      "strength": 0.5,
+      "rating": "moderate"
+    },
+    "Saturn": {
+      "house": 4,
+      "best_house": 7,
+      "strength": 0.5,
+      "rating": "moderate"
+    },
+    "Sun": {
+      "house": 6,
+      "best_house": 10,
+      "strength": 0.33,
+      "rating": "moderate"
+    },
+    "Mars": {
+      "house": 5,
+      "best_house": 10,
+      "strength": 0.17,
+      "rating": "weak"
+    }
+  },
+  "muntha_per_age": {
+    "0": {
+      "age": 0,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "1": {
+      "age": 1,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "2": {
+      "age": 2,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "3": {
+      "age": 3,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "4": {
+      "age": 4,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "5": {
+      "age": 5,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "6": {
+      "age": 6,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "7": {
+      "age": 7,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "8": {
+      "age": 8,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "9": {
+      "age": 9,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "10": {
+      "age": 10,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "11": {
+      "age": 11,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "12": {
+      "age": 12,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "13": {
+      "age": 13,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "14": {
+      "age": 14,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "15": {
+      "age": 15,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "16": {
+      "age": 16,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "17": {
+      "age": 17,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "18": {
+      "age": 18,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "19": {
+      "age": 19,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "20": {
+      "age": 20,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "21": {
+      "age": 21,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "22": {
+      "age": 22,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "23": {
+      "age": 23,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "24": {
+      "age": 24,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "25": {
+      "age": 25,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "26": {
+      "age": 26,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "27": {
+      "age": 27,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "28": {
+      "age": 28,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "29": {
+      "age": 29,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "30": {
+      "age": 30,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "31": {
+      "age": 31,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "32": {
+      "age": 32,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "33": {
+      "age": 33,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "34": {
+      "age": 34,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "35": {
+      "age": 35,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "36": {
+      "age": 36,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "37": {
+      "age": 37,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "38": {
+      "age": 38,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "39": {
+      "age": 39,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "40": {
+      "age": 40,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "41": {
+      "age": 41,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "42": {
+      "age": 42,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "43": {
+      "age": 43,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "44": {
+      "age": 44,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "45": {
+      "age": 45,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "46": {
+      "age": 46,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "47": {
+      "age": 47,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "48": {
+      "age": 48,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "49": {
+      "age": 49,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "50": {
+      "age": 50,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "51": {
+      "age": 51,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "52": {
+      "age": 52,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "53": {
+      "age": 53,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "54": {
+      "age": 54,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "55": {
+      "age": 55,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "56": {
+      "age": 56,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "57": {
+      "age": 57,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "58": {
+      "age": 58,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "59": {
+      "age": 59,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "60": {
+      "age": 60,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "61": {
+      "age": 61,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "62": {
+      "age": 62,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "63": {
+      "age": 63,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "64": {
+      "age": 64,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "65": {
+      "age": 65,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "66": {
+      "age": 66,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "67": {
+      "age": 67,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "68": {
+      "age": 68,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "69": {
+      "age": 69,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "70": {
+      "age": 70,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "71": {
+      "age": 71,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "72": {
+      "age": 72,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "73": {
+      "age": 73,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "74": {
+      "age": 74,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "75": {
+      "age": 75,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "76": {
+      "age": 76,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "77": {
+      "age": 77,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "78": {
+      "age": 78,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "79": {
+      "age": 79,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "80": {
+      "age": 80,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "81": {
+      "age": 81,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "82": {
+      "age": 82,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "83": {
+      "age": 83,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "84": {
+      "age": 84,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "85": {
+      "age": 85,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "86": {
+      "age": 86,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "87": {
+      "age": 87,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "88": {
+      "age": 88,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "89": {
+      "age": 89,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "90": {
+      "age": 90,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "91": {
+      "age": 91,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "92": {
+      "age": 92,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "93": {
+      "age": 93,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "94": {
+      "age": 94,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "95": {
+      "age": 95,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "96": {
+      "age": 96,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "97": {
+      "age": 97,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "98": {
+      "age": 98,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "99": {
+      "age": 99,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "100": {
+      "age": 100,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "101": {
+      "age": 101,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "102": {
+      "age": 102,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "103": {
+      "age": 103,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "104": {
+      "age": 104,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "105": {
+      "age": 105,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "106": {
+      "age": 106,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "107": {
+      "age": 107,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    },
+    "108": {
+      "age": 108,
+      "muntha_rasi": "Sagittarius",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 1
+    },
+    "109": {
+      "age": 109,
+      "muntha_rasi": "Capricorn",
+      "muntha_lord": "Saturn",
+      "muntha_house": 2
+    },
+    "110": {
+      "age": 110,
+      "muntha_rasi": "Aquarius",
+      "muntha_lord": "Saturn",
+      "muntha_house": 3
+    },
+    "111": {
+      "age": 111,
+      "muntha_rasi": "Pisces",
+      "muntha_lord": "Jupiter",
+      "muntha_house": 4
+    },
+    "112": {
+      "age": 112,
+      "muntha_rasi": "Aries",
+      "muntha_lord": "Mars",
+      "muntha_house": 5
+    },
+    "113": {
+      "age": 113,
+      "muntha_rasi": "Taurus",
+      "muntha_lord": "Venus",
+      "muntha_house": 6
+    },
+    "114": {
+      "age": 114,
+      "muntha_rasi": "Gemini",
+      "muntha_lord": "Mercury",
+      "muntha_house": 7
+    },
+    "115": {
+      "age": 115,
+      "muntha_rasi": "Cancer",
+      "muntha_lord": "Moon",
+      "muntha_house": 8
+    },
+    "116": {
+      "age": 116,
+      "muntha_rasi": "Leo",
+      "muntha_lord": "Sun",
+      "muntha_house": 9
+    },
+    "117": {
+      "age": 117,
+      "muntha_rasi": "Virgo",
+      "muntha_lord": "Mercury",
+      "muntha_house": 10
+    },
+    "118": {
+      "age": 118,
+      "muntha_rasi": "Libra",
+      "muntha_lord": "Venus",
+      "muntha_house": 11
+    },
+    "119": {
+      "age": 119,
+      "muntha_rasi": "Scorpio",
+      "muntha_lord": "Mars",
+      "muntha_house": 12
+    }
+  }
+}

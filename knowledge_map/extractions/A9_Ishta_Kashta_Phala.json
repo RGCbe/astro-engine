@@ -1,0 +1,37 @@
+{
+  "item": "A9_Ishta/Kashta Phala",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2"
+  ],
+  "per_book_passages": {
+    "BPHS_Vol1": [
+      {
+        "position": 452375,
+        "match_text": "Ishta phala",
+        "context": "nauspicious rays (or Asubha Rasmis). stdcentrq fuq ftFn{en g affiq 1 mdfqtedd q 6{e ireuftaavrga{ uqtl 6. ISHTA AND KASHTA (BENEFIC AND MALEFIC TENDENCIES) .. Reduce I from each of Cheshta Rasmi and Uchcha Rasmi. Then multiply the products by l0 and add together. Half of the sum will represent the Ishta phala (benefic tendency) of the planet. Reduce Ishta Phala from 60 to obtain the planet's Kashta Phala (or malefic tendency). TAd Tefrs}li ir <idirgq{toai r ffi't {rTri efu-qn dtqi fiqq u\\etl qfiaftsmtlqfr\"{|ET!f,cftmtr rrilT: l qsrt} al Er q?d q {q+66i 1[ tre tr qk: qffti fuAd ?qrqd It I mtiq?Eqfg iri f?s ! qws{rq netl . 7-9. ISHTA KASHTA SAPTAVARGAIA PHALA : 60, 45, 30, 22,15,t,4,2 and 0 are the Subhankas (or Subha Griha Pankthis or benefic points) due to a planet's placement respecti- ve",
+        "pattern_hit": "ishta phala"
+      },
+      {
+        "position": 18313,
+        "match_text": "Kashta phala",
+        "context": "ntrary indications is given in slokas 145-148. The bhava effects of Dhooma, Vyatipata, Gulika ctc.. are narrated fully in chapter 2.5. Pranapada Lagna's position vis-a- vis natal ascendant also reveals certain special effects as could be seen in this very chapter. Shadbala calculations, Ishta and Kashta phalas and other related mathematical aspects are elaborately laid down in the 3 chapters, viz. 26,27 and 28. It is not in order if planets arp studied with reference to mere natal chart. Padas for various houses will furfher alter the planetary sffects. This is what is taugbt in chapter 29. Raja Yogas, inter alia are best analysed through Arudha chart or Pada chart. The sage suggests Graha Padas as well, but u0fortuna- tely he leaves it at that without adding much information.' For still deeper rese",
+        "pattern_hit": "kashta phala"
+      }
+    ],
+    "Brihat_Parashara_v2": [
+      {
+        "position": 476546,
+        "match_text": "Ishta Phala",
+        "context": "भहयत्वा तु योजयेत्। तिधयवमिसंज्ञं यात् किं तत्त्षपितश्व्च्युतम्॥६॥ Ishta and Kashta Bala Page 231 6. ISHTA AND KASHTA (BENEFICE AND MALEFIC TENDENCIES): Reduce 1 from each of Cheshta Rasmi and Uchcha Rasmi. Then multiply the products by JO and add together. Half of the sum will represent the Ishta Phala (benefice tendency) of the planet. Reduce Ishta Phala from 60 to obtain the planet's Kashta Phala (or malefic tendency). स्वोच्चे मूलपिकोणे च स्वभेऽत्तधसुहृिीिभे। समभे शिुभे चात्तधशिुभे नीचभे क्रमात्॥७॥ षपिररष्वियस्त्रिंशिाकृवतस्तस्तथयो गजाः। चत्वारो द्वौ च शून्यं च शुभमेतत्फलं गृहे॥८॥ षपितः िवततं चैतच्छेषं यािशुभं गृहे। तिधयमन्यिगेषु ज्ञेयं विप्र शुभाऽशुभम्॥९॥ 7-9. lSHTA KASHTA SAPTAVARGAJA PHALA: 60, 45, 30, 22, 15, 8, 4, 2 and 0 are the Subhankas (or Subha Griha Pankthis or benefic",
+        "pattern_hit": "ishta phala"
+      },
+      {
+        "position": 19036,
+        "match_text": "Kashta phala",
+        "context": "ry indications is given in shlokas 145-148. The Bhava effects of Dhooma, Vyatipata, Gulika, etc. are narrated fully in chapter 25. Prana-Pada Lagna's position vis a vis natal ascendant also reveals certain special effects as could be seen in this very chapter. Shad-bala calculations, Ishta and Kashta phalas and other related mathematical aspects are elaborately laid down in the 3 chapters, viz. 26, 27 and 28. It is not in order if planets art studied with reference to mere natal chart Paclas for various houses will further alter the planetary effects. This is what is taught in chapter 29. Raja Yogas, inter alia are best analysed through Arudha chart or Pada chart. The sage suggests Graha Padas as well, but unfortunately, he leaves it at that without adding much information, Preface For",
+        "pattern_hit": "kashta phala"
+      }
+    ]
+  }
+}

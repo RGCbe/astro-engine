@@ -1,0 +1,112 @@
+{
+  "current_size": 22,
+  "target": 50,
+  "missing_count": 29,
+  "by_status": {
+    "have_partial_gemma": 7,
+    "missing": 29,
+    "have_gemma_partial_volumes": 1,
+    "have_no_gemma": 2,
+    "have_gemma": 11,
+    "have_gemma_partial": 1
+  },
+  "by_school": {
+    "Parashari": {
+      "have": 8,
+      "missing": 4
+    },
+    "Parashari (Greek-influenced)": {
+      "have": 2,
+      "missing": 0
+    },
+    "Parashari (Tantric flavor)": {
+      "have": 1,
+      "missing": 0
+    },
+    "Parashari + Jaimini bridge": {
+      "have": 1,
+      "missing": 0
+    },
+    "Jaimini": {
+      "have": 1,
+      "missing": 1
+    },
+    "Jaimini + KP": {
+      "have": 0,
+      "missing": 1
+    },
+    "Bhrigu (Naadi)": {
+      "have": 1,
+      "missing": 0
+    },
+    "Bhrigu": {
+      "have": 0,
+      "missing": 1
+    },
+    "Naadi": {
+      "have": 0,
+      "missing": 1
+    },
+    "Siddhanta (mathematical)": {
+      "have": 1,
+      "missing": 0
+    },
+    "Siddhanta": {
+      "have": 3,
+      "missing": 0
+    },
+    "Vedic": {
+      "have": 1,
+      "missing": 0
+    },
+    "Muhurta": {
+      "have": 1,
+      "missing": 0
+    },
+    "Kerala Prashna": {
+      "have": 1,
+      "missing": 2
+    },
+    "Tajik (annual horoscopy)": {
+      "have": 0,
+      "missing": 1
+    },
+    "Tajik": {
+      "have": 0,
+      "missing": 1
+    },
+    "KP": {
+      "have": 0,
+      "missing": 5
+    },
+    "Lal Kitab": {
+      "have": 0,
+      "missing": 2
+    },
+    "Modern Parashari": {
+      "have": 0,
+      "missing": 6
+    },
+    "Jaimini Modern": {
+      "have": 0,
+      "missing": 1
+    },
+    "Modern": {
+      "have": 0,
+      "missing": 1
+    },
+    "Western Vedic": {
+      "have": 0,
+      "missing": 2
+    },
+    "?": {
+      "have": 1,
+      "missing": 0
+    }
+  },
+  "by_priority_missing": {
+    "P0": 15,
+    "P1": 10,
+    "P2": 4
+  }
+}

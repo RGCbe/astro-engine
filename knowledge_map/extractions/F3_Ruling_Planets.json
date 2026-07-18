@@ -1,0 +1,34 @@
+{
+  "item": "F3_Ruling Planets",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2",
+    "Laghu_Parashari"
+  ],
+  "per_book_passages": {
+    "BPHS_Vol1": [
+      {
+        "position": 126346,
+        "match_text": "ruling planet",
+        "context": "ayodhi, 59. Bhramana, 60. Chandrarekha (Indurekha). The reverse is the order for even signs insomuch as these names are concerned. Planets in benefic Shashtiamsas produce auspicious results while the opposite is true in case of planets in malefic Shashtiamsas. Notes : The method of calculating the ruling planet for each Shashtiamsa (or 1/60th pat of asign or 30'of arc) is advised in sloka 33 above. Assume that Venus is placed in Capricorn 13\" 25', To find out the Shashtiamsa lord, ignorc the sign position and multiply the degrees and minutes by 2. Hence 13\" 25' x2:26\" 50'. The degrees i.e. 26 (ignoring minutes) be divided by 12. The remainder is 2 which should be increase,:l by l. Thus we get 3. Count 3 signs from Capricorn. The resulting Shashtiamsa position is Pisces whose lord is Jupiter. 'These",
+        "pattern_hit": "ruling planet"
+      }
+    ],
+    "Brihat_Parashara_v2": [
+      {
+        "position": 134083,
+        "match_text": "ruling planet",
+        "context": "dhi, 59. Bhramana, 60. Chandrarekha (lndurekha). The reverse is the order for even signs insomuch as these names are concerned. Planets in benefice Shashtiamsas produce auspicious results while the opposite is true in case of planets in malefic Shashtiamsas. Notes: The method of calculating the ruling planet for each Shashtiamsa (or 1/60th part of a sign or 30' of arc) is advised in shloka 33 above. Assume that Venus is placed in Capricorn 13° 25'. To find out the Shashtiamsa lord, ignore the sign position and multiply the degrees and minutes by 2. Hence 13° 25' x 2=26° 50'. The degrees i.e. 26 (ignoring minutes) be divided by 12. The remainder is 2 which should be increased by I. Thus, we get 3. Count 3 signs from Capricorn. The resulting Shashtiamsa position is Pisces whose lord is Jupiter.",
+        "pattern_hit": "ruling planet"
+      }
+    ],
+    "Laghu_Parashari": [
+      {
+        "position": 267478,
+        "match_text": "ruling planet",
+        "context": "rrived at is yet a mystery but we have brought some fact before our readers in this respect in the introcluctory chapter. This can be accepted as an axiont, which has stood to the test of time. Now how can we decide the planet whose Dasa is on at the time of birth of a native? Each Naksatra has its ruling planet, who rules for a certain period of time as told earlier. In counting of Dasas (Main periods) of planets, the starting Dasa is always of the ruler of Naksatra in which the Moon is at the time of birth and the succeeding Dasas are calculated in the order told above. Simple mathematical exercises will enable one to calculate the 174 Laghu Parasari'Jataka Chandrika Dasa at birth. We have tabulated the order of Naksatras, their elongations, tl\"ieir lords and their years of Dasas as under- Naksatr",
+        "pattern_hit": "ruling planet"
+      }
+    ]
+  }
+}

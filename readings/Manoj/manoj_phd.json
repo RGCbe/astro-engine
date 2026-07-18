@@ -1,0 +1,725 @@
+{
+  "kp_chart": {
+    "Sun": {
+      "lon": 40.8597,
+      "nakshatra": "Rohini",
+      "star_lord": "Moon",
+      "sub_lord": "Moon",
+      "sub_sub_lord": "Ketu"
+    },
+    "Moon": {
+      "lon": 131.1845,
+      "nakshatra": "Magha",
+      "star_lord": "Ketu",
+      "sub_lord": "Saturn",
+      "sub_sub_lord": "Jupiter"
+    },
+    "Mars": {
+      "lon": 23.1665,
+      "nakshatra": "Bharani",
+      "star_lord": "Venus",
+      "sub_lord": "Saturn",
+      "sub_sub_lord": "Moon"
+    },
+    "Mercury": {
+      "lon": 26.0144,
+      "nakshatra": "Bharani",
+      "star_lord": "Venus",
+      "sub_lord": "Ketu",
+      "sub_sub_lord": "Venus"
+    },
+    "Jupiter": {
+      "lon": 263.1645,
+      "nakshatra": "Purva Ashadha",
+      "star_lord": "Venus",
+      "sub_lord": "Saturn",
+      "sub_sub_lord": "Moon"
+    },
+    "Venus": {
+      "lon": 63.9134,
+      "nakshatra": "Mrigashira",
+      "star_lord": "Mars",
+      "sub_lord": "Venus",
+      "sub_sub_lord": "Jupiter"
+    },
+    "Saturn": {
+      "lon": 341.2339,
+      "nakshatra": "Uttara Bhadrapada",
+      "star_lord": "Saturn",
+      "sub_lord": "Moon",
+      "sub_sub_lord": "Rahu"
+    },
+    "Rahu": {
+      "lon": 170.9185,
+      "nakshatra": "Hasta",
+      "star_lord": "Moon",
+      "sub_lord": "Venus",
+      "sub_sub_lord": "Sun"
+    },
+    "Ketu": {
+      "lon": 350.9185,
+      "nakshatra": "Revati",
+      "star_lord": "Mercury",
+      "sub_lord": "Venus",
+      "sub_sub_lord": "Saturn"
+    },
+    "H1_cusp": {
+      "lon": 245.23,
+      "nakshatra": "Moola",
+      "star_lord": "Ketu",
+      "sub_lord": "Mars",
+      "sub_sub_lord": "Mercury"
+    },
+    "H2_cusp": {
+      "lon": 275.23,
+      "nakshatra": "Uttara Ashadha",
+      "star_lord": "Sun",
+      "sub_lord": "Mercury",
+      "sub_sub_lord": "Mercury"
+    },
+    "H3_cusp": {
+      "lon": 305.23,
+      "nakshatra": "Dhanishta",
+      "star_lord": "Mars",
+      "sub_lord": "Sun",
+      "sub_sub_lord": "Saturn"
+    },
+    "H4_cusp": {
+      "lon": 335.23,
+      "nakshatra": "Uttara Bhadrapada",
+      "star_lord": "Saturn",
+      "sub_lord": "Saturn",
+      "sub_sub_lord": "Jupiter"
+    },
+    "H5_cusp": {
+      "lon": 5.23,
+      "nakshatra": "Ashwini",
+      "star_lord": "Ketu",
+      "sub_lord": "Mars",
+      "sub_sub_lord": "Mercury"
+    },
+    "H6_cusp": {
+      "lon": 35.23,
+      "nakshatra": "Krittika",
+      "star_lord": "Sun",
+      "sub_lord": "Mercury",
+      "sub_sub_lord": "Mercury"
+    },
+    "H7_cusp": {
+      "lon": 65.23,
+      "nakshatra": "Mrigashira",
+      "star_lord": "Mars",
+      "sub_lord": "Sun",
+      "sub_sub_lord": "Saturn"
+    },
+    "H8_cusp": {
+      "lon": 95.23,
+      "nakshatra": "Pushya",
+      "star_lord": "Saturn",
+      "sub_lord": "Saturn",
+      "sub_sub_lord": "Jupiter"
+    },
+    "H9_cusp": {
+      "lon": 125.23,
+      "nakshatra": "Magha",
+      "star_lord": "Ketu",
+      "sub_lord": "Mars",
+      "sub_sub_lord": "Mercury"
+    },
+    "H10_cusp": {
+      "lon": 155.23,
+      "nakshatra": "Uttara Phalguni",
+      "star_lord": "Sun",
+      "sub_lord": "Mercury",
+      "sub_sub_lord": "Mercury"
+    },
+    "H11_cusp": {
+      "lon": 185.23,
+      "nakshatra": "Chitra",
+      "star_lord": "Mars",
+      "sub_lord": "Sun",
+      "sub_sub_lord": "Saturn"
+    },
+    "H12_cusp": {
+      "lon": 215.23,
+      "nakshatra": "Anuradha",
+      "star_lord": "Saturn",
+      "sub_lord": "Saturn",
+      "sub_sub_lord": "Jupiter"
+    }
+  },
+  "ruling_planets_now": {
+    "day_lord": "Venus",
+    "moon_star_lord": "Saturn",
+    "moon_sub_lord": "Rahu",
+    "lagna_star_lord": "Venus",
+    "lagna_sub_lord": "Saturn",
+    "timestamp": "2026-04-24T09:49:51.666683"
+  },
+  "sudarshan_chakra": {
+    "1": {
+      "from_lagna": [
+        "Jupiter"
+      ],
+      "from_moon": [
+        "Moon"
+      ],
+      "from_sun": [
+        "Sun"
+      ],
+      "triple_score": 1,
+      "rating": "neutral"
+    },
+    "2": {
+      "from_lagna": [],
+      "from_moon": [
+        "Rahu"
+      ],
+      "from_sun": [
+        "Venus"
+      ],
+      "triple_score": 0,
+      "rating": "neutral"
+    },
+    "3": {
+      "from_lagna": [],
+      "from_moon": [],
+      "from_sun": [],
+      "triple_score": 0,
+      "rating": "neutral"
+    },
+    "4": {
+      "from_lagna": [
+        "Saturn",
+        "Ketu"
+      ],
+      "from_moon": [],
+      "from_sun": [
+        "Moon"
+      ],
+      "triple_score": -1,
+      "rating": "afflicted"
+    },
+    "5": {
+      "from_lagna": [
+        "Mars",
+        "Mercury"
+      ],
+      "from_moon": [
+        "Jupiter"
+      ],
+      "from_sun": [
+        "Rahu"
+      ],
+      "triple_score": 0,
+      "rating": "neutral"
+    },
+    "6": {
+      "from_lagna": [
+        "Sun"
+      ],
+      "from_moon": [],
+      "from_sun": [],
+      "triple_score": -1,
+      "rating": "afflicted"
+    },
+    "7": {
+      "from_lagna": [
+        "Venus"
+      ],
+      "from_moon": [],
+      "from_sun": [],
+      "triple_score": 1,
+      "rating": "neutral"
+    },
+    "8": {
+      "from_lagna": [],
+      "from_moon": [
+        "Saturn",
+        "Ketu"
+      ],
+      "from_sun": [
+        "Jupiter"
+      ],
+      "triple_score": -1,
+      "rating": "afflicted"
+    },
+    "9": {
+      "from_lagna": [
+        "Moon"
+      ],
+      "from_moon": [
+        "Mars",
+        "Mercury"
+      ],
+      "from_sun": [],
+      "triple_score": 1,
+      "rating": "neutral"
+    },
+    "10": {
+      "from_lagna": [
+        "Rahu"
+      ],
+      "from_moon": [
+        "Sun"
+      ],
+      "from_sun": [],
+      "triple_score": -2,
+      "rating": "afflicted"
+    },
+    "11": {
+      "from_lagna": [],
+      "from_moon": [
+        "Venus"
+      ],
+      "from_sun": [
+        "Saturn",
+        "Ketu"
+      ],
+      "triple_score": -1,
+      "rating": "afflicted"
+    },
+    "12": {
+      "from_lagna": [],
+      "from_moon": [],
+      "from_sun": [
+        "Mars",
+        "Mercury"
+      ],
+      "triple_score": 0,
+      "rating": "neutral"
+    }
+  },
+  "d60_past_life": {
+    "Sun": {
+      "d60_part": 21,
+      "d60_sign": "Leo",
+      "karma_name": "Brahma (creative/priestly past-life)"
+    },
+    "Moon": {
+      "d60_part": 22,
+      "d60_sign": "Gemini",
+      "karma_name": "Vishnu (protective/benevolent past-life)"
+    },
+    "Mars": {
+      "d60_part": 46,
+      "d60_sign": "Aquarius",
+      "karma_name": "Amrita (nectar/positive past-life)"
+    },
+    "Mercury": {
+      "d60_part": 52,
+      "d60_sign": "Leo",
+      "karma_name": "Vishnu (protective/benevolent past-life)"
+    },
+    "Jupiter": {
+      "d60_part": 46,
+      "d60_sign": "Libra",
+      "karma_name": "Amrita (nectar/positive past-life)"
+    },
+    "Venus": {
+      "d60_part": 7,
+      "d60_sign": "Capricorn",
+      "karma_name": "Kulaghna (family-destructive past-life)"
+    },
+    "Saturn": {
+      "d60_part": 22,
+      "d60_sign": "Cancer",
+      "karma_name": "Vishnu (protective/benevolent past-life)"
+    },
+    "Rahu": {
+      "d60_part": 41,
+      "d60_sign": "Leo",
+      "karma_name": "Purishaka (filthy/low past-life)"
+    },
+    "Ketu": {
+      "d60_part": 41,
+      "d60_sign": "Aquarius",
+      "karma_name": "Purishaka (filthy/low past-life)"
+    }
+  },
+  "panchanga_today": {
+    "tithi": "Ashtami",
+    "tithi_num": 8,
+    "nakshatra": "Pushya",
+    "yoga": "Shula",
+    "karana": "Taitila"
+  },
+  "best_muhurtas_next_90d": [
+    {
+      "date": "2026-05-01",
+      "day_of_week": "Friday",
+      "tithi": "Purnima",
+      "nakshatra": "Swati",
+      "yoga": "Siddhi",
+      "score": 6
+    },
+    {
+      "date": "2026-05-08",
+      "day_of_week": "Friday",
+      "tithi": "Saptami",
+      "nakshatra": "Uttara Ashadha",
+      "yoga": "Shubha",
+      "score": 6
+    },
+    {
+      "date": "2026-05-26",
+      "day_of_week": "Tuesday",
+      "tithi": "Ekadashi",
+      "nakshatra": "Hasta",
+      "yoga": "Siddhi",
+      "score": 6
+    },
+    {
+      "date": "2026-06-27",
+      "day_of_week": "Saturday",
+      "tithi": "Trayodashi",
+      "nakshatra": "Anuradha",
+      "yoga": "Shubha",
+      "score": 6
+    },
+    {
+      "date": "2026-04-29",
+      "day_of_week": "Wednesday",
+      "tithi": "Trayodashi",
+      "nakshatra": "Hasta",
+      "yoga": "Harshana",
+      "score": 4
+    },
+    {
+      "date": "2026-05-03",
+      "day_of_week": "Sunday",
+      "tithi": "Dwitiya",
+      "nakshatra": "Anuradha",
+      "yoga": "Variyan",
+      "score": 4
+    },
+    {
+      "date": "2026-05-14",
+      "day_of_week": "Thursday",
+      "tithi": "Trayodashi",
+      "nakshatra": "Revati",
+      "yoga": "Priti",
+      "score": 4
+    },
+    {
+      "date": "2026-05-18",
+      "day_of_week": "Monday",
+      "tithi": "Dwitiya",
+      "nakshatra": "Mrigashira",
+      "yoga": "Sukarma",
+      "score": 4
+    },
+    {
+      "date": "2026-05-28",
+      "day_of_week": "Thursday",
+      "tithi": "Trayodashi",
+      "nakshatra": "Swati",
+      "yoga": "Variyan",
+      "score": 4
+    },
+    {
+      "date": "2026-05-30",
+      "day_of_week": "Saturday",
+      "tithi": "Purnima",
+      "nakshatra": "Anuradha",
+      "yoga": "Shiva",
+      "score": 4
+    }
+  ],
+  "rasi_drishti": {
+    "Sun": {
+      "aspects_signs": [
+        "Cancer",
+        "Libra",
+        "Capricorn"
+      ],
+      "affected_planets": []
+    },
+    "Moon": {
+      "aspects_signs": [
+        "Aries",
+        "Libra",
+        "Capricorn"
+      ],
+      "affected_planets": [
+        [
+          "Mars",
+          "Aries"
+        ],
+        [
+          "Mercury",
+          "Aries"
+        ]
+      ]
+    },
+    "Mars": {
+      "aspects_signs": [
+        "Leo",
+        "Scorpio",
+        "Aquarius"
+      ],
+      "affected_planets": [
+        [
+          "Moon",
+          "Leo"
+        ]
+      ]
+    },
+    "Mercury": {
+      "aspects_signs": [
+        "Leo",
+        "Scorpio",
+        "Aquarius"
+      ],
+      "affected_planets": [
+        [
+          "Moon",
+          "Leo"
+        ]
+      ]
+    },
+    "Jupiter": {
+      "aspects_signs": [
+        "Gemini",
+        "Virgo",
+        "Pisces"
+      ],
+      "affected_planets": [
+        [
+          "Venus",
+          "Gemini"
+        ],
+        [
+          "Rahu",
+          "Virgo"
+        ],
+        [
+          "Saturn",
+          "Pisces"
+        ],
+        [
+          "Ketu",
+          "Pisces"
+        ]
+      ]
+    },
+    "Venus": {
+      "aspects_signs": [
+        "Virgo",
+        "Sagittarius",
+        "Pisces"
+      ],
+      "affected_planets": [
+        [
+          "Rahu",
+          "Virgo"
+        ],
+        [
+          "Jupiter",
+          "Sagittarius"
+        ],
+        [
+          "Saturn",
+          "Pisces"
+        ],
+        [
+          "Ketu",
+          "Pisces"
+        ]
+      ]
+    },
+    "Saturn": {
+      "aspects_signs": [
+        "Gemini",
+        "Virgo",
+        "Sagittarius"
+      ],
+      "affected_planets": [
+        [
+          "Venus",
+          "Gemini"
+        ],
+        [
+          "Rahu",
+          "Virgo"
+        ],
+        [
+          "Jupiter",
+          "Sagittarius"
+        ]
+      ]
+    },
+    "Rahu": {
+      "aspects_signs": [
+        "Gemini",
+        "Sagittarius",
+        "Pisces"
+      ],
+      "affected_planets": [
+        [
+          "Venus",
+          "Gemini"
+        ],
+        [
+          "Jupiter",
+          "Sagittarius"
+        ],
+        [
+          "Saturn",
+          "Pisces"
+        ],
+        [
+          "Ketu",
+          "Pisces"
+        ]
+      ]
+    },
+    "Ketu": {
+      "aspects_signs": [
+        "Gemini",
+        "Virgo",
+        "Sagittarius"
+      ],
+      "affected_planets": [
+        [
+          "Venus",
+          "Gemini"
+        ],
+        [
+          "Rahu",
+          "Virgo"
+        ],
+        [
+          "Jupiter",
+          "Sagittarius"
+        ]
+      ]
+    }
+  },
+  "bhava_arudha": {
+    "1": {
+      "lord": "Jupiter",
+      "lord_house": 1,
+      "arudha_pada": "Libra",
+      "arudha_house": 11
+    },
+    "2": {
+      "lord": "Saturn",
+      "lord_house": 4,
+      "arudha_pada": "Taurus",
+      "arudha_house": 6
+    },
+    "3": {
+      "lord": "Saturn",
+      "lord_house": 4,
+      "arudha_pada": "Aries",
+      "arudha_house": 5
+    },
+    "4": {
+      "lord": "Jupiter",
+      "lord_house": 1,
+      "arudha_pada": "Cancer",
+      "arudha_house": 8
+    },
+    "5": {
+      "lord": "Mars",
+      "lord_house": 5,
+      "arudha_pada": "Aquarius",
+      "arudha_house": 3
+    },
+    "6": {
+      "lord": "Venus",
+      "lord_house": 7,
+      "arudha_pada": "Cancer",
+      "arudha_house": 8
+    },
+    "7": {
+      "lord": "Mercury",
+      "lord_house": 5,
+      "arudha_pada": "Aquarius",
+      "arudha_house": 3
+    },
+    "8": {
+      "lord": "Moon",
+      "lord_house": 9,
+      "arudha_pada": "Virgo",
+      "arudha_house": 10
+    },
+    "9": {
+      "lord": "Sun",
+      "lord_house": 6,
+      "arudha_pada": "Sagittarius",
+      "arudha_house": 1
+    },
+    "10": {
+      "lord": "Mercury",
+      "lord_house": 5,
+      "arudha_pada": "Scorpio",
+      "arudha_house": 12
+    },
+    "11": {
+      "lord": "Venus",
+      "lord_house": 7,
+      "arudha_pada": "Aquarius",
+      "arudha_house": 3
+    },
+    "12": {
+      "lord": "Mars",
+      "lord_house": 5,
+      "arudha_pada": "Virgo",
+      "arudha_house": 10
+    }
+  },
+  "remedies": [
+    {
+      "planet": "Sun",
+      "reason": "placed in H6 (dusthana) — health + authority challenges",
+      "gem": "Ruby",
+      "mantra": "Om Suryaya Namah",
+      "donation": "Wheat, jaggery, copper on Sunday",
+      "temple": "Surya temple",
+      "fast_day": "Sunday",
+      "deity": "Lord Shiva/Rama"
+    },
+    {
+      "planet": "Moon",
+      "reason": "in H9 without adjacent support (Kemadruma risk — needs Jupiter strengthening)",
+      "gem": "Pearl",
+      "mantra": "Om Chandraya Namah",
+      "donation": "Rice, milk, silver on Monday",
+      "temple": "Shiva/Devi temple",
+      "fast_day": "Monday",
+      "deity": "Shiva/Durga"
+    },
+    {
+      "planet": "Saturn",
+      "reason": "in H4 conjunct Ketu — mother/home karma, also 2nd lord = maraka",
+      "gem": "Blue Sapphire",
+      "mantra": "Om Shanaishcharaya Namah",
+      "donation": "Black sesame, iron on Saturday",
+      "temple": "Shani/Hanuman",
+      "fast_day": "Saturday",
+      "deity": "Shani/Hanuman"
+    },
+    {
+      "planet": "Rahu",
+      "reason": "in H10 — amplifies career but brings instability",
+      "gem": "Hessonite (Gomedha)",
+      "mantra": "Om Rahave Namah",
+      "donation": "Urad dal, coconut on Saturday",
+      "temple": "Durga",
+      "fast_day": "Saturday",
+      "deity": "Durga"
+    },
+    {
+      "planet": "Jupiter (ENHANCE — already strong, keep boosting)",
+      "reason": "Jupiter own-sign in Lagna = your #1 strength asset",
+      "gem": "Yellow Sapphire (if can afford)",
+      "mantra": "Om Brihaspataye Namah (108 x daily)",
+      "donation": "Teachers/books/yellow food on Thursday",
+      "temple": "Vishnu/Brihaspati",
+      "deity": "Vishnu",
+      "fast_day": "Thursday"
+    }
+  ]
+}

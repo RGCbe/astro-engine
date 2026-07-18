@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 37 – Complete House Database
+Specification
+Purpose
+This manual defines the master database schema for the twelve houses. It standardizes every
+house as a structured knowledge object that can be queried by the reasoning engine, timeline
+engine and report generator.
+Entity
+Purpose
+Example Fields
+House
+Master object
+ID, Name, Keywords
+Natural Meaning
+Core significance
+Life themes
+House Lord
+Ownership rules
+Planet, Strength
+Planet in House
+Interpretation
+Effects, Weight
+Sign in House
+Context
+Modifier rules
+House Links
+Related houses
+Dependencies
+Timeline Rules
+Activation
+Life stages
+Question Links
+Knowledge mapping
+Question IDs
+Narrative Library
+Reusable content
+Paragraph IDs
+Validation
+Quality
+Confidence, Version
+Database Schema
+Every house record should include natural meanings, life domains, house lord rules, planetary
+occupancy rules, timeline triggers, evidence weights, report fragments and graph relationships.
+Recommended Fields
+House ID, aliases, domains, strengths, weaknesses, karakas, linked questions, linked yogas,
+Dasha behavior, transit behavior, narrative templates, validation metadata and multilingual labels.
+Developer Specification
+Expose the database using immutable IDs, semantic search indexes, graph edges, API-ready
+schemas and version history.
+Next Volume
+Volume 38 – Complete Nakshatra Database Specification.

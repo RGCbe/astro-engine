@@ -1,0 +1,194 @@
+{
+  "event_feedback": [
+    {
+      "chart_id": "user_0",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.177055"
+    },
+    {
+      "chart_id": "user_1",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.179057"
+    },
+    {
+      "chart_id": "user_2",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.180058"
+    },
+    {
+      "chart_id": "user_3",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.181058"
+    },
+    {
+      "chart_id": "user_4",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.182060"
+    },
+    {
+      "chart_id": "user_5",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.182650"
+    },
+    {
+      "chart_id": "user_6",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.183652"
+    },
+    {
+      "chart_id": "user_7",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.184652"
+    },
+    {
+      "chart_id": "user_8",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.185653"
+    },
+    {
+      "chart_id": "user_9",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.186654"
+    },
+    {
+      "chart_id": "user_10",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.187656"
+    },
+    {
+      "chart_id": "user_11",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.190659"
+    },
+    {
+      "chart_id": "user_12",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.190659"
+    },
+    {
+      "chart_id": "user_13",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.191660"
+    },
+    {
+      "chart_id": "user_14",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.192661"
+    },
+    {
+      "chart_id": "user_15",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.193662"
+    },
+    {
+      "chart_id": "user_16",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.194663"
+    },
+    {
+      "chart_id": "user_17",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.195664"
+    },
+    {
+      "chart_id": "user_18",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.195664"
+    },
+    {
+      "chart_id": "user_19",
+      "category": "marriage",
+      "rule_ids": [
+        "dyn_h_lord_md"
+      ],
+      "rating": 1,
+      "ts": "2026-07-08T10:30:24.196664"
+    }
+  ],
+  "rule_stats": {
+    "dyn_h_lord_md": {
+      "count": 20,
+      "positive": 0,
+      "negative": 20
+    }
+  },
+  "learned_weights": {
+    "dyn_h_lord_md": 0.5
+  }
+}

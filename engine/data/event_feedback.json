@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-29",
+      "predicted_end": "2022-03-06",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T18:34:08.723819+00:00"
+    },
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-29",
+      "predicted_end": "2022-03-06",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T18:34:43.010619+00:00"
+    },
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-29",
+      "predicted_end": "2022-03-06",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T18:35:32.350180+00:00"
+    },
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-29",
+      "predicted_end": "2022-03-06",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T18:36:38.825229+00:00"
+    },
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-05",
+      "predicted_end": "2022-02-09",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T19:08:53.858868+00:00"
+    },
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-05",
+      "predicted_end": "2022-02-09",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T19:09:43.726588+00:00"
+    },
+    {
+      "chart_key": "bc99bc21abd2",
+      "event": "joined dad shop",
+      "actual_date": "2021-09-01",
+      "predicted_md": "Sun",
+      "predicted_ad": "Mercury",
+      "predicted_start": "2021-04-05",
+      "predicted_end": "2022-02-09",
+      "predicted_triggers": "family_business_window,career_upgrade,marriage_window",
+      "match": true,
+      "score": 1.0,
+      "ts": "2026-04-26T19:12:07.606757+00:00"
+    }
+  ],
+  "weights": {
+    "family_business_window": 1.35
+  }
+}

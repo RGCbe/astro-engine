@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyswisseph
+pydantic
+reportlab>=4.0
+requests
+fpdf2
+

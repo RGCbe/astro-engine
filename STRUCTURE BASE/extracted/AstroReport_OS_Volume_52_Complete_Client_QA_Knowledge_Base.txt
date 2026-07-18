@@ -1,0 +1,52 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 52 – Complete Client Question & Answer
+Knowledge Base
+Purpose
+This manual defines the knowledge base used to answer every client follow-up question after the
+main report. Questions are mapped to astrological evidence, timeline context and reusable
+explanation blocks.
+Knowledge Set
+Coverage
+Target Records
+Career
+Jobs, business, promotions
+500+
+Marriage
+Compatibility, timing
+500+
+Finance
+Income, wealth, assets
+500+
+Education
+Study & learning
+300+
+Family
+Children, parents, siblings
+500+
+Health
+General life-phase themes
+300+
+Travel
+Foreign, relocation
+300+
+Spiritual
+Purpose & growth
+300+
+Timeline
+Age-specific questions
+1000+
+Answer Blocks
+Reusable responses
+10000+
+Knowledge Record Template
+Each answer stores Question ID, category, intent, required chart evidence, timeline stage,
+supporting rules, child-friendly answer, professional answer, reusable answer blocks, confidence
+score, cross references and version history.
+Population Strategy
+Represent every question as an intent linked to structured evidence rather than storing isolated
+answers. The engine builds a personalized response from the user's chart and timeline.
+Developer Specification
+Support semantic search, multilingual answers, graph relationships, embeddings, immutable IDs,
+API retrieval, validation metadata and audit history.
+Next Volume
+Volume 53 – Complete Life Event Knowledge Base.

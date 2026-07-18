@@ -1,0 +1,66 @@
+AstroReport OS Specification
+Volume 10K – Travel, Relocation & Foreign
+Opportunities Knowledge Base
+Purpose
+Define structured question records for travel, relocation, migration and global opportunities. These
+records help the report engine explain how movement, exploration and foreign connections develop
+across the life timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0101
+How important is travel in my life?
+Travel
+Whole Life
+Timeline
+Q0102
+Will I benefit from living abroad?
+Foreign
+Adult
+Timeline
+Q0103
+Is overseas education suitable for me?
+Education
+Teen
+Timeline
+Q0104
+Will international work help my growth?
+Career
+Adult
+Timeline
+Q0105
+Should I relocate for better opportunities?
+Relocation
+Adult
+Timeline
+Q0106
+How do I adapt to new cultures?
+Personal Growth
+Adult
+Timeline
+Q0107
+Will business travel play a major role?
+Business
+Adult
+Timeline
+Q0108
+What spiritual journeys are meaningful?
+Spirituality
+Whole Life
+Summary
+Q0109
+Will I eventually return to my homeland?
+Relocation
+Later Adult
+Timeline
+Q0110
+How do global experiences shape my life purpose?Purpose
+Whole Life
+Legacy
+Implementation Rules
+Travel themes should reflect exploration, opportunity, learning and adaptation. Discuss timing and
+personal growth rather than guaranteeing relocation or migration outcomes.
+Next Volume
+Volume 10L – Spirituality, Purpose & Inner Growth Knowledge Base.

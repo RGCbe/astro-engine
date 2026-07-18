@@ -1,0 +1,4621 @@
+{
+  "blocks": [
+    {
+      "lagna": "mesha",
+      "planet": "Sun",
+      "block_start": 82511,
+      "block_end": 82547,
+      "row_count": 1,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 121,
+          "pos": 82511
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Moon",
+      "block_start": 83145,
+      "block_end": 83178,
+      "row_count": 1,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qa",
+          "rule_number": 126,
+          "pos": 83145
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Rahu",
+      "block_start": 84776,
+      "block_end": 84989,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 155,
+          "pos": 84776
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 147,
+          "pos": 84845
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "ृश्चिक",
+          "rule_number": 156,
+          "pos": 84918
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 160,
+          "pos": 84956
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Jupiter",
+      "block_start": 85425,
+      "block_end": 85715,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ea",
+          "rule_number": 164,
+          "pos": 85425
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "वुष",
+          "rule_number": 165,
+          "pos": 85459
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Tag",
+          "rule_number": 168,
+          "pos": 85568
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्निक",
+          "rule_number": 171,
+          "pos": 85677
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": null,
+      "block_start": 87053,
+      "block_end": 87291,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "मिशन",
+          "rule_number": 180,
+          "pos": 87053
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 162,
+          "pos": 87145
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "near",
+          "rule_number": 163,
+          "pos": 87181
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "मुकश्चिक",
+          "rule_number": 1615,
+          "pos": 87251
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Rahu",
+      "block_start": 87774,
+      "block_end": 88128,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 200,
+          "pos": 87774
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "कर",
+          "rule_number": 203,
+          "pos": 87881
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 206,
+          "pos": 88093
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Ketu",
+      "block_start": 88586,
+      "block_end": 88905,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qv",
+          "rule_number": 213,
+          "pos": 88586
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 216,
+          "pos": 88690
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 217,
+          "pos": 88725
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "यृश्दिक",
+          "rule_number": 216,
+          "pos": 88799
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 221,
+          "pos": 88873
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Sun",
+      "block_start": 141897,
+      "block_end": 142281,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 225,
+          "pos": 141897
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 226,
+          "pos": 141929
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "यृकश्षिक",
+          "rule_number": 232,
+          "pos": 142137
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "भनुः",
+          "rule_number": 23,
+          "pos": 142178
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 234,
+          "pos": 142214
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gee",
+          "rule_number": 235,
+          "pos": 142250
+        }
+      ]
+    },
+    {
+      "lagna": "mesha",
+      "planet": "Moon",
+      "block_start": 142692,
+      "block_end": 143029,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 235,
+          "pos": 142692
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 242,
+          "pos": 142831
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "owe",
+          "rule_number": 246,
+          "pos": 142997
+        }
+      ]
+    },
+    {
+      "lagna": "vrishabha",
+      "planet": "Mercury",
+      "block_start": 144302,
+      "block_end": 144587,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 264,
+          "pos": 144302
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 265,
+          "pos": 144337
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "wear",
+          "rule_number": 266,
+          "pos": 144373
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 266,
+          "pos": 144481
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 270,
+          "pos": 144516
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "eva",
+          "rule_number": 274,
+          "pos": 144553
+        }
+      ]
+    },
+    {
+      "lagna": "vrishabha",
+      "planet": null,
+      "block_start": 144978,
+      "block_end": 145342,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 274,
+          "pos": 144978
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 276,
+          "pos": 145049
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "frag",
+          "rule_number": 277,
+          "pos": 145085
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 278,
+          "pos": 145122
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "शुम्भः",
+          "rule_number": 283,
+          "pos": 145307
+        }
+      ]
+    },
+    {
+      "lagna": "vrishabha",
+      "planet": "Venus",
+      "block_start": 145801,
+      "block_end": 146133,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 287,
+          "pos": 145801
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 260,
+          "pos": 145915
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Rea",
+          "rule_number": 265,
+          "pos": 146099
+        }
+      ]
+    },
+    {
+      "lagna": "vrishabha",
+      "planet": "Saturn",
+      "block_start": 146603,
+      "block_end": 146913,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Makara",
+          "rashi_raw": "कर",
+          "rule_number": 300,
+          "pos": 146603
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gat",
+          "rule_number": 303,
+          "pos": 146713
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 206,
+          "pos": 146844
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gen",
+          "rule_number": 307,
+          "pos": 146879
+        }
+      ]
+    },
+    {
+      "lagna": "vrishabha",
+      "planet": "Rahu",
+      "block_start": 147270,
+      "block_end": 147625,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 306,
+          "pos": 147270
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृषः",
+          "rule_number": 310,
+          "pos": 147306
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शल्क",
+          "rule_number": 316,
+          "pos": 147524
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "aed",
+          "rule_number": 318,
+          "pos": 147592
+        }
+      ]
+    },
+    {
+      "lagna": "vrishabha",
+      "planet": "Ketu",
+      "block_start": 148071,
+      "block_end": 148379,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 322,
+          "pos": 148071
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "भिपु्न",
+          "rule_number": 323,
+          "pos": 148105
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 329,
+          "pos": 148313
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "sae",
+          "rule_number": 330,
+          "pos": 148346
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Sun",
+      "block_start": 200747,
+      "block_end": 201034,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 336,
+          "pos": 200747
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 342,
+          "pos": 200966
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 343,
+          "pos": 201000
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Moon",
+      "block_start": 201509,
+      "block_end": 201830,
+      "row_count": 8,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "धृष",
+          "rule_number": 347,
+          "pos": 201509
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Page",
+          "rule_number": 348,
+          "pos": 201545
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "करक",
+          "rule_number": 346,
+          "pos": 201582
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Taq",
+          "rule_number": 350,
+          "pos": 201617
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 351,
+          "pos": 201651
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 353,
+          "pos": 201722
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 254,
+          "pos": 201760
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 355,
+          "pos": 201796
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Mars",
+      "block_start": 202246,
+      "block_end": 202534,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Sa",
+          "rule_number": 350,
+          "pos": 202246
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ae",
+          "rule_number": 356,
+          "pos": 202281
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 363,
+          "pos": 202426
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gen",
+          "rule_number": 364,
+          "pos": 202464
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "afer",
+          "rule_number": 365,
+          "pos": 202500
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Mercury",
+      "block_start": 203074,
+      "block_end": 203436,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qv",
+          "rule_number": 271,
+          "pos": 203074
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 372,
+          "pos": 203108
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "afters",
+          "rule_number": 377,
+          "pos": 203291
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 378,
+          "pos": 203330
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 376,
+          "pos": 203365
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भ",
+          "rule_number": 380,
+          "pos": 203401
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Jupiter",
+      "block_start": 203806,
+      "block_end": 204250,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ea",
+          "rule_number": 382,
+          "pos": 203806
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 384,
+          "pos": 203877
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "म्भः",
+          "rule_number": 362,
+          "pos": 204182
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ate",
+          "rule_number": 363,
+          "pos": 204216
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Venus",
+      "block_start": 204633,
+      "block_end": 205014,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qv",
+          "rule_number": 365,
+          "pos": 204633
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 366,
+          "pos": 204666
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कक",
+          "rule_number": 367,
+          "pos": 204701
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 400,
+          "pos": 204804
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "aa",
+          "rule_number": 402,
+          "pos": 204878
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 403,
+          "pos": 204911
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मोन",
+          "rule_number": 4045,
+          "pos": 204979
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": null,
+      "block_start": 205474,
+      "block_end": 205690,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "कक",
+          "rule_number": 406,
+          "pos": 205474
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 410,
+          "pos": 205508
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 411,
+          "pos": 205543
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 414,
+          "pos": 205656
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Rahu",
+      "block_start": 206135,
+      "block_end": 206549,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 4618,
+          "pos": 206135
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "युष",
+          "rule_number": 416,
+          "pos": 206168
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "om",
+          "rule_number": 421,
+          "pos": 206232
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 423,
+          "pos": 206303
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृतिः",
+          "rule_number": 425,
+          "pos": 206374
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "सकर",
+          "rule_number": 497,
+          "pos": 206443
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "afta",
+          "rule_number": 426,
+          "pos": 206514
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Ketu",
+      "block_start": 206911,
+      "block_end": 207271,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 430,
+          "pos": 206911
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 421,
+          "pos": 206945
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Tag",
+          "rule_number": 434,
+          "pos": 207055
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "wet",
+          "rule_number": 436,
+          "pos": 207237
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Sun",
+      "block_start": 259669,
+      "block_end": 260084,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Fra",
+          "rule_number": 443,
+          "pos": 259669
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 447,
+          "pos": 259802
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 451,
+          "pos": 259945
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 452,
+          "pos": 259980
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मोन",
+          "rule_number": 454,
+          "pos": 260050
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": "Moon",
+      "block_start": 260519,
+      "block_end": 260810,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Brera",
+          "rule_number": 457,
+          "pos": 260519
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 458,
+          "pos": 260557
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "वर्क",
+          "rule_number": 462,
+          "pos": 260701
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 464,
+          "pos": 260774
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": null,
+      "block_start": 261248,
+      "block_end": 262221,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "यूष",
+          "rule_number": 468,
+          "pos": 261248
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मिचुन",
+          "rule_number": 469,
+          "pos": 261289
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "कर",
+          "rule_number": 470,
+          "pos": 261333
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 472,
+          "pos": 261416
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fer",
+          "rule_number": 473,
+          "pos": 261459
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्थिक",
+          "rule_number": 474,
+          "pos": 261500
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 475,
+          "pos": 261546
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gee",
+          "rule_number": 477,
+          "pos": 261628
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "iter",
+          "rule_number": 475,
+          "pos": 261670
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Ga",
+          "rule_number": 476,
+          "pos": 262057
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 480,
+          "pos": 262096
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "snp",
+          "rule_number": 482,
+          "pos": 262182
+        }
+      ]
+    },
+    {
+      "lagna": "mithuna",
+      "planet": null,
+      "block_start": 262223,
+      "block_end": 262554,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 483,
+          "pos": 262223
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 484,
+          "pos": 262264
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "दुल",
+          "rule_number": 485,
+          "pos": 262308
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 486,
+          "pos": 262348
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 488,
+          "pos": 262431
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ata",
+          "rule_number": 460,
+          "pos": 262515
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": null,
+      "block_start": 263002,
+      "block_end": 264189,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "we",
+          "rule_number": 464,
+          "pos": 263002
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fog",
+          "rule_number": 4645,
+          "pos": 263041
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fer",
+          "rule_number": 466,
+          "pos": 263084
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "गृत्त्विक",
+          "rule_number": 490,
+          "pos": 263187
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "सीन",
+          "rule_number": 502,
+          "pos": 263356
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Ga",
+          "rule_number": 503,
+          "pos": 263727
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 504,
+          "pos": 263764
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 506,
+          "pos": 263850
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 506,
+          "pos": 263977
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्विक",
+          "rule_number": 510,
+          "pos": 264018
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ane",
+          "rule_number": 512,
+          "pos": 264106
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "yew",
+          "rule_number": 513,
+          "pos": 264149
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Venus",
+      "block_start": 264191,
+      "block_end": 265029,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ata",
+          "rule_number": 514,
+          "pos": 264191
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Bre",
+          "rule_number": 515,
+          "pos": 264573
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 516,
+          "pos": 264615
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 517,
+          "pos": 264656
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 518,
+          "pos": 264699
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 516,
+          "pos": 264740
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 520,
+          "pos": 264780
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 521,
+          "pos": 264822
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "बृश्थिक",
+          "rule_number": 522,
+          "pos": 264863
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "घनु",
+          "rule_number": 523,
+          "pos": 264908
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "wed",
+          "rule_number": 524,
+          "pos": 264949
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शम्भः",
+          "rule_number": 525,
+          "pos": 264989
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Rahu",
+      "block_start": 265389,
+      "block_end": 266360,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 427,
+          "pos": 265389
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 528,
+          "pos": 265431
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 530,
+          "pos": 265515
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 532,
+          "pos": 265600
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 533,
+          "pos": 265644
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 534,
+          "pos": 265685
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनुः",
+          "rule_number": 535,
+          "pos": 265730
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "रम्भः",
+          "rule_number": 537,
+          "pos": 265813
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "सीन",
+          "rule_number": 538,
+          "pos": 265855
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fer",
+          "rule_number": 526,
+          "pos": 266238
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृषः",
+          "rule_number": 440,
+          "pos": 266278
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "सियुत",
+          "rule_number": 541,
+          "pos": 266319
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Ketu",
+      "block_start": 266362,
+      "block_end": 266733,
+      "row_count": 8,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ee",
+          "rule_number": 542,
+          "pos": 266362
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fae",
+          "rule_number": 543,
+          "pos": 266401
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "mar",
+          "rule_number": 544,
+          "pos": 266443
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 545,
+          "pos": 266483
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 546,
+          "pos": 266525
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकरः",
+          "rule_number": 548,
+          "pos": 266611
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 546,
+          "pos": 266653
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "dt",
+          "rule_number": 550,
+          "pos": 266694
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Sun",
+      "block_start": 316793,
+      "block_end": 317224,
+      "row_count": 11,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 552,
+          "pos": 316793
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "aR",
+          "rule_number": 553,
+          "pos": 316829
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 555,
+          "pos": 316901
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिह",
+          "rule_number": 556,
+          "pos": 316936
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 557,
+          "pos": 316969
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 558,
+          "pos": 317006
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "बृश्चिक",
+          "rule_number": 556,
+          "pos": 317042
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "og",
+          "rule_number": 560,
+          "pos": 317082
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 561,
+          "pos": 317117
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भ",
+          "rule_number": 562,
+          "pos": 317154
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "भौन",
+          "rule_number": 563,
+          "pos": 317191
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Moon",
+      "block_start": 317592,
+      "block_end": 318535,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "निष",
+          "rule_number": 564,
+          "pos": 317592
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 566,
+          "pos": 317662
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 566,
+          "pos": 317768
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "थूश्चिक",
+          "rule_number": 571,
+          "pos": 317841
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 572,
+          "pos": 317880
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "भरकर",
+          "rule_number": 573,
+          "pos": 317915
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "भौन",
+          "rule_number": 575,
+          "pos": 317991
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "पेष",
+          "rule_number": 576,
+          "pos": 318361
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 577,
+          "pos": 318396
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शयु",
+          "rule_number": 578,
+          "pos": 318431
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "करके",
+          "rule_number": 576,
+          "pos": 318466
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 580,
+          "pos": 318502
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Mars",
+      "block_start": 318537,
+      "block_end": 318753,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 581,
+          "pos": 318537
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ृश्विक",
+          "rule_number": 583,
+          "pos": 318611
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 581,
+          "pos": 318685
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 5856,
+          "pos": 318719
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": null,
+      "block_start": 319170,
+      "block_end": 320093,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 589,
+          "pos": 319170
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मिघुन",
+          "rule_number": 560,
+          "pos": 319204
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 563,
+          "pos": 319310
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "ठुला",
+          "rule_number": 564,
+          "pos": 319347
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 595,
+          "pos": 319383
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 566,
+          "pos": 319422
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 597,
+          "pos": 319457
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शम्भः",
+          "rule_number": 568,
+          "pos": 319492
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "भीन",
+          "rule_number": 566,
+          "pos": 319527
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "न्ष",
+          "rule_number": 600,
+          "pos": 319893
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 602,
+          "pos": 319963
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 604,
+          "pos": 320059
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Jupiter",
+      "block_start": 320130,
+      "block_end": 320269,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 606,
+          "pos": 320130
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्निक",
+          "rule_number": 607,
+          "pos": 320164
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ay",
+          "rule_number": 608,
+          "pos": 320203
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "अकरः",
+          "rule_number": 606,
+          "pos": 320236
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Venus",
+      "block_start": 320663,
+      "block_end": 321023,
+      "row_count": 9,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Be",
+          "rule_number": 612,
+          "pos": 320663
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृषः",
+          "rule_number": 613,
+          "pos": 320696
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Pra",
+          "rule_number": 614,
+          "pos": 320732
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिह",
+          "rule_number": 616,
+          "pos": 320804
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "न्या",
+          "rule_number": 617,
+          "pos": 320839
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 618,
+          "pos": 320875
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "वुश्चिक",
+          "rule_number": 616,
+          "pos": 320910
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 620,
+          "pos": 320953
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "awe",
+          "rule_number": 621,
+          "pos": 320989
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Saturn",
+      "block_start": 321476,
+      "block_end": 321867,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 625,
+          "pos": 321476
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "वनु",
+          "rule_number": 632,
+          "pos": 321729
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "सकर",
+          "rule_number": 633,
+          "pos": 321763
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मौन",
+          "rule_number": 635,
+          "pos": 321834
+        }
+      ]
+    },
+    {
+      "lagna": "karka",
+      "planet": "Rahu",
+      "block_start": 322265,
+      "block_end": 322632,
+      "row_count": 10,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "भियुन",
+          "rule_number": 638,
+          "pos": 322265
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 639,
+          "pos": 322303
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 640,
+          "pos": 322339
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 641,
+          "pos": 322375
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "ठुला",
+          "rule_number": 642,
+          "pos": 322415
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "ृश्चिक",
+          "rule_number": 643,
+          "pos": 322451
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 644,
+          "pos": 322491
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "awe",
+          "rule_number": 645,
+          "pos": 322526
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शम्भः",
+          "rule_number": 646,
+          "pos": 322562
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ata",
+          "rule_number": 647,
+          "pos": 322598
+        }
+      ]
+    },
+    {
+      "lagna": "simha",
+      "planet": "Ketu",
+      "block_start": 322988,
+      "block_end": 323351,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 648,
+          "pos": 322988
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "न्याः",
+          "rule_number": 653,
+          "pos": 323170
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 654,
+          "pos": 323206
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "बृश्विक",
+          "rule_number": 655,
+          "pos": 323240
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनुः",
+          "rule_number": 656,
+          "pos": 323280
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकरः",
+          "rule_number": 647,
+          "pos": 323316
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Sun",
+      "block_start": 371545,
+      "block_end": 371912,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 661,
+          "pos": 371545
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 665,
+          "pos": 371689
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्थः",
+          "rule_number": 666,
+          "pos": 371725
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 669,
+          "pos": 371839
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 670,
+          "pos": 371877
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Moon",
+      "block_start": 372333,
+      "block_end": 372764,
+      "row_count": 8,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 673,
+          "pos": 372333
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 674,
+          "pos": 372367
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 677,
+          "pos": 372473
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "श्रुलाः",
+          "rule_number": 676,
+          "pos": 372546
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 680,
+          "pos": 372584
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ay",
+          "rule_number": 681,
+          "pos": 372624
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 683,
+          "pos": 372695
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीन",
+          "rule_number": 684,
+          "pos": 372730
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Mars",
+      "block_start": 373131,
+      "block_end": 373511,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 686,
+          "pos": 373131
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिह",
+          "rule_number": 686,
+          "pos": 373228
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कत्या",
+          "rule_number": 660,
+          "pos": 373263
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ane",
+          "rule_number": 664,
+          "pos": 373404
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शम्भः",
+          "rule_number": 695,
+          "pos": 373441
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीनः",
+          "rule_number": 696,
+          "pos": 373477
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": null,
+      "block_start": 373925,
+      "block_end": 374249,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 669,
+          "pos": 373925
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 701,
+          "pos": 373999
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "बृश्चिक",
+          "rule_number": 704,
+          "pos": 374105
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "eg",
+          "rule_number": 704,
+          "pos": 374145
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "awe",
+          "rule_number": 706,
+          "pos": 374181
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शम्भः",
+          "rule_number": 707,
+          "pos": 374215
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": null,
+      "block_start": 374675,
+      "block_end": 375623,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन्",
+          "rule_number": 711,
+          "pos": 374675
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्कः",
+          "rule_number": 712,
+          "pos": 374736
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 713,
+          "pos": 374772
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 715,
+          "pos": 374844
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 716,
+          "pos": 374879
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ay",
+          "rule_number": 717,
+          "pos": 374914
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Her",
+          "rule_number": 716,
+          "pos": 374980
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ata",
+          "rule_number": 720,
+          "pos": 375015
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fe",
+          "rule_number": 721,
+          "pos": 375376
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृदः",
+          "rule_number": 722,
+          "pos": 375409
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Her",
+          "rule_number": 726,
+          "pos": 375552
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 727,
+          "pos": 375588
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Venus",
+      "block_start": 375625,
+      "block_end": 375736,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "यृश्चिक",
+          "rule_number": 728,
+          "pos": 375625
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 726,
+          "pos": 375665
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 730,
+          "pos": 375701
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Saturn",
+      "block_start": 376203,
+      "block_end": 377326,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 734,
+          "pos": 376203
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मियुन",
+          "rule_number": 735,
+          "pos": 376239
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Tag",
+          "rule_number": 737,
+          "pos": 376311
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 736,
+          "pos": 376385
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "बृश्चिक",
+          "rule_number": 740,
+          "pos": 376421
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 742,
+          "pos": 376497
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मौन",
+          "rule_number": 744,
+          "pos": 376568
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 745,
+          "pos": 376927
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 746,
+          "pos": 377068
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "afer",
+          "rule_number": 752,
+          "pos": 377179
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 7,
+          "pos": 377256
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कम्प",
+          "rule_number": 755,
+          "pos": 377293
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Ketu",
+      "block_start": 377782,
+      "block_end": 378100,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 756,
+          "pos": 377782
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "करक",
+          "rule_number": 760,
+          "pos": 377819
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिंह",
+          "rule_number": 761,
+          "pos": 377853
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 762,
+          "pos": 377889
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Oar",
+          "rule_number": 763,
+          "pos": 377924
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 766,
+          "pos": 378031
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 767,
+          "pos": 378067
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": null,
+      "block_start": 429444,
+      "block_end": 429864,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "re",
+          "rule_number": 770,
+          "pos": 429444
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 774,
+          "pos": 429478
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 773,
+          "pos": 429547
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 7745,
+          "pos": 429618
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 776,
+          "pos": 429656
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ge",
+          "rule_number": 780,
+          "pos": 429796
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीन",
+          "rule_number": 781,
+          "pos": 429830
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Moon",
+      "block_start": 430283,
+      "block_end": 430601,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 784,
+          "pos": 430283
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 789,
+          "pos": 430489
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "श्वनु",
+          "rule_number": 760,
+          "pos": 430529
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "अकर",
+          "rule_number": 761,
+          "pos": 430567
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Mars",
+      "block_start": 431007,
+      "block_end": 431994,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "भष",
+          "rule_number": 764,
+          "pos": 431007
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "कर",
+          "rule_number": 767,
+          "pos": 431116
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Her",
+          "rule_number": 766,
+          "pos": 431186
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "afew",
+          "rule_number": 801,
+          "pos": 431260
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 2,
+          "pos": 431297
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 804,
+          "pos": 431369
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मोत",
+          "rule_number": 804,
+          "pos": 431404
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fr",
+          "rule_number": 806,
+          "pos": 431787
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 807,
+          "pos": 431819
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 808,
+          "pos": 431854
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कक",
+          "rule_number": 809,
+          "pos": 431890
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कत्या",
+          "rule_number": 811,
+          "pos": 431958
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": null,
+      "block_start": 432029,
+      "block_end": 432201,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 813,
+          "pos": 432029
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 814,
+          "pos": 432067
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "अकर",
+          "rule_number": 815,
+          "pos": 432101
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "भीत",
+          "rule_number": 817,
+          "pos": 432168
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Jupiter",
+      "block_start": 432559,
+      "block_end": 432956,
+      "row_count": 9,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ar",
+          "rule_number": 816,
+          "pos": 432559
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 820,
+          "pos": 432592
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "करके",
+          "rule_number": 821,
+          "pos": 432628
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 822,
+          "pos": 432664
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 8,
+          "pos": 432736
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 825,
+          "pos": 432771
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 826,
+          "pos": 432813
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "que",
+          "rule_number": 828,
+          "pos": 432886
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मोग",
+          "rule_number": 529,
+          "pos": 432922
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Venus",
+      "block_start": 433318,
+      "block_end": 433681,
+      "row_count": 8,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "re",
+          "rule_number": 830,
+          "pos": 433318
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मिषुनः",
+          "rule_number": 832,
+          "pos": 433387
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कक",
+          "rule_number": 833,
+          "pos": 433425
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिंह",
+          "rule_number": 834,
+          "pos": 433460
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Har",
+          "rule_number": 835,
+          "pos": 433496
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 836,
+          "pos": 433532
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 8,
+          "pos": 433609
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "गकर",
+          "rule_number": 836,
+          "pos": 433646
+        }
+      ]
+    },
+    {
+      "lagna": "kanya",
+      "planet": "Saturn",
+      "block_start": 434081,
+      "block_end": 434429,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 842,
+          "pos": 434081
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "कर्फ",
+          "rule_number": 841,
+          "pos": 434186
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 846,
+          "pos": 434223
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 847,
+          "pos": 434259
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 850,
+          "pos": 434394
+        }
+      ]
+    },
+    {
+      "lagna": "tula",
+      "planet": "Rahu",
+      "block_start": 434878,
+      "block_end": 435269,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 854,
+          "pos": 434878
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ae",
+          "rule_number": 855,
+          "pos": 434914
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "न्या",
+          "rule_number": 556,
+          "pos": 435055
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fern",
+          "rule_number": 861,
+          "pos": 435127
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "शकर",
+          "rule_number": 863,
+          "pos": 435201
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ged",
+          "rule_number": 864,
+          "pos": 435236
+        }
+      ]
+    },
+    {
+      "lagna": "tula",
+      "planet": "Ketu",
+      "block_start": 435642,
+      "block_end": 435992,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "वष",
+          "rule_number": 837,
+          "pos": 435642
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Page",
+          "rule_number": 868,
+          "pos": 435674
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ak",
+          "rule_number": 8566,
+          "pos": 435710
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 871,
+          "pos": 435780
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "बृश्चिक",
+          "rule_number": 873,
+          "pos": 435850
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "eq",
+          "rule_number": 874,
+          "pos": 435889
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "शम्भः",
+          "rule_number": 876,
+          "pos": 435958
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Sun",
+      "block_start": 486400,
+      "block_end": 486761,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "faq",
+          "rule_number": 881,
+          "pos": 486400
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिंह",
+          "rule_number": 883,
+          "pos": 486472
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "THT",
+          "rule_number": 888,
+          "pos": 486656
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "बीन",
+          "rule_number": 68,
+          "pos": 486729
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Moon",
+      "block_start": 487123,
+      "block_end": 488116,
+      "row_count": 9,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Pra",
+          "rule_number": 861,
+          "pos": 487123
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qa",
+          "rule_number": 862,
+          "pos": 487160
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 867,
+          "pos": 487348
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 600,
+          "pos": 487458
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 601,
+          "pos": 487495
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "धीव",
+          "rule_number": 602,
+          "pos": 487530
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ae",
+          "rule_number": 603,
+          "pos": 487905
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "ककं",
+          "rule_number": 606,
+          "pos": 488013
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "छन्न",
+          "rule_number": 608,
+          "pos": 488082
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Mercury",
+      "block_start": 488723,
+      "block_end": 489841,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 616,
+          "pos": 488723
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मिशन",
+          "rule_number": 617,
+          "pos": 488756
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिंह",
+          "rule_number": 616,
+          "pos": 488824
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भं",
+          "rule_number": 625,
+          "pos": 489033
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "धौतः",
+          "rule_number": 626,
+          "pos": 489070
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मेब",
+          "rule_number": 627,
+          "pos": 489437
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "av",
+          "rule_number": 628,
+          "pos": 489473
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "गिवुन",
+          "rule_number": 626,
+          "pos": 489529
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 632,
+          "pos": 489636
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 633,
+          "pos": 489670
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "wee",
+          "rule_number": 636,
+          "pos": 489774
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gee",
+          "rule_number": 637,
+          "pos": 489809
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Venus",
+      "block_start": 490249,
+      "block_end": 490529,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "qa",
+          "rule_number": 640,
+          "pos": 490249
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 941,
+          "pos": 490282
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 643,
+          "pos": 490352
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "ठुला",
+          "rule_number": 685,
+          "pos": 490423
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "og",
+          "rule_number": 947,
+          "pos": 490497
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Saturn",
+      "block_start": 491143,
+      "block_end": 491353,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 655,
+          "pos": 491143
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 956,
+          "pos": 491177
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 659,
+          "pos": 491285
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 660,
+          "pos": 491318
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Rahu",
+      "block_start": 491763,
+      "block_end": 492151,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 66,
+          "pos": 491763
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 664,
+          "pos": 491795
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कफैः",
+          "rule_number": 666,
+          "pos": 491863
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनुः",
+          "rule_number": 671,
+          "pos": 492045
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 672,
+          "pos": 492081
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भः",
+          "rule_number": 973,
+          "pos": 492116
+        }
+      ]
+    },
+    {
+      "lagna": "vrishchika",
+      "planet": "Ketu",
+      "block_start": 492568,
+      "block_end": 492777,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृषः",
+          "rule_number": 676,
+          "pos": 492568
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 678,
+          "pos": 492640
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 681,
+          "pos": 492744
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Sun",
+      "block_start": 545587,
+      "block_end": 545699,
+      "row_count": 2,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 661,
+          "pos": 545587
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 667,
+          "pos": 545663
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Moon",
+      "block_start": 546310,
+      "block_end": 546527,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 1005,
+          "pos": 546310
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1006,
+          "pos": 546347
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "यूश्चिक",
+          "rule_number": 1007,
+          "pos": 546382
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ay",
+          "rule_number": 1008,
+          "pos": 546422
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "करम्भः",
+          "rule_number": 1010,
+          "pos": 546491
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Mars",
+      "block_start": 546901,
+      "block_end": 547196,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 1012,
+          "pos": 546901
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 1011,
+          "pos": 546936
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1014,
+          "pos": 546972
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "कर",
+          "rule_number": 1015,
+          "pos": 547010
+        },
+        {
+          "rashi": "Simha",
+          "rashi_raw": "सिंह",
+          "rule_number": 1016,
+          "pos": 547046
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 1017,
+          "pos": 547084
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "यूश्चिक",
+          "rule_number": 1019,
+          "pos": 547157
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": null,
+      "block_start": 547693,
+      "block_end": 548730,
+      "row_count": 9,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Go",
+          "rule_number": 1024,
+          "pos": 547693
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कल्याः",
+          "rule_number": 1026,
+          "pos": 547861
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 1034,
+          "pos": 548043
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ata",
+          "rule_number": 10345,
+          "pos": 548075
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Gv",
+          "rule_number": 1036,
+          "pos": 548429
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Farge",
+          "rule_number": 1038,
+          "pos": 548491
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "we",
+          "rule_number": 1036,
+          "pos": 548530
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Gar",
+          "rule_number": 1042,
+          "pos": 548657
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 1043,
+          "pos": 548692
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Venus",
+      "block_start": 549234,
+      "block_end": 549376,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "यूष",
+          "rule_number": 1046,
+          "pos": 549234
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ae",
+          "rule_number": 1051,
+          "pos": 549308
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fae",
+          "rule_number": 1052,
+          "pos": 549343
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Saturn",
+      "block_start": 549968,
+      "block_end": 550219,
+      "row_count": 6,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1060,
+          "pos": 549968
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qo",
+          "rule_number": 1061,
+          "pos": 550004
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1062,
+          "pos": 550039
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "we",
+          "rule_number": 1063,
+          "pos": 550076
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 1065,
+          "pos": 550146
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 1066,
+          "pos": 550183
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Rahu",
+      "block_start": 550831,
+      "block_end": 550865,
+      "row_count": 1,
+      "rows": [
+        {
+          "rashi": "Makara",
+          "rashi_raw": "करे",
+          "rule_number": 1075,
+          "pos": 550831
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Ketu",
+      "block_start": 551557,
+      "block_end": 551887,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "दूषः",
+          "rule_number": 1085,
+          "pos": 551557
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 1090,
+          "pos": 551735
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "aed",
+          "rule_number": 1093,
+          "pos": 551852
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Sun",
+      "block_start": 603022,
+      "block_end": 603534,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 1097,
+          "pos": 603022
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 1098,
+          "pos": 603063
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मिशुन",
+          "rule_number": 1066,
+          "pos": 603105
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ay",
+          "rule_number": 1105,
+          "pos": 603363
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीन",
+          "rule_number": 1104,
+          "pos": 603494
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Moon",
+      "block_start": 603932,
+      "block_end": 604277,
+      "row_count": 2,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 1110,
+          "pos": 603932
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ay",
+          "rule_number": 1117,
+          "pos": 604237
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Mars",
+      "block_start": 605001,
+      "block_end": 605259,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1127,
+          "pos": 605001
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "awd",
+          "rule_number": 1130,
+          "pos": 605132
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gro",
+          "rule_number": 1111,
+          "pos": 605175
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीन",
+          "rule_number": 1112,
+          "pos": 605218
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Mercury",
+      "block_start": 605611,
+      "block_end": 606601,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Sa",
+          "rule_number": 1133,
+          "pos": 605611
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 1124,
+          "pos": 605645
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1135,
+          "pos": 605681
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "करे",
+          "rule_number": 1136,
+          "pos": 605719
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "यूर्षिक",
+          "rule_number": 1140,
+          "pos": 605858
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 1141,
+          "pos": 605898
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ree",
+          "rule_number": 1142,
+          "pos": 605935
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भ",
+          "rule_number": 1642,
+          "pos": 605971
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ate",
+          "rule_number": 1144,
+          "pos": 606009
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1145,
+          "pos": 606380
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्कं",
+          "rule_number": 1148,
+          "pos": 606492
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ara",
+          "rule_number": 1150,
+          "pos": 606566
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Jupiter",
+      "block_start": 606625,
+      "block_end": 606852,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "gen",
+          "rule_number": 1151,
+          "pos": 606625
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 1154,
+          "pos": 606740
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "करम्भः",
+          "rule_number": 1155,
+          "pos": 606779
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीन",
+          "rule_number": 1156,
+          "pos": 606817
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Venus",
+      "block_start": 607223,
+      "block_end": 608379,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ye",
+          "rule_number": 1158,
+          "pos": 607223
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Farge",
+          "rule_number": 1156,
+          "pos": 607264
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 1161,
+          "pos": 607353
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 1162,
+          "pos": 607396
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनुः",
+          "rule_number": 1165,
+          "pos": 607527
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "भीन",
+          "rule_number": 1168,
+          "pos": 607660
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 1166,
+          "pos": 608025
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष",
+          "rule_number": 1170,
+          "pos": 608089
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1171,
+          "pos": 608130
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कक",
+          "rule_number": 1172,
+          "pos": 608173
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Tag",
+          "rule_number": 1173,
+          "pos": 608213
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "afer",
+          "rule_number": 1176,
+          "pos": 608337
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Saturn",
+      "block_start": 608501,
+      "block_end": 608542,
+      "row_count": 1,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "ara",
+          "rule_number": 1180,
+          "pos": 608501
+        }
+      ]
+    },
+    {
+      "lagna": "dhanu",
+      "planet": "Rahu",
+      "block_start": 608997,
+      "block_end": 609252,
+      "row_count": 5,
+      "rows": [
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 1184,
+          "pos": 608997
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 6185,
+          "pos": 609040
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 16986,
+          "pos": 609082
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृष्क",
+          "rule_number": 1108,
+          "pos": 609169
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 9186,
+          "pos": 609212
+        }
+      ]
+    },
+    {
+      "lagna": "makara",
+      "planet": "Ketu",
+      "block_start": 609772,
+      "block_end": 610161,
+      "row_count": 7,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "बुध",
+          "rule_number": 1164,
+          "pos": 609772
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "भिशुन",
+          "rule_number": 11615,
+          "pos": 609815
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "करके",
+          "rule_number": 1196,
+          "pos": 609861
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 1167,
+          "pos": 609905
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "sear",
+          "rule_number": 119,
+          "pos": 609948
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "यूश्बिक",
+          "rule_number": 1200,
+          "pos": 610034
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "awd",
+          "rule_number": 1202,
+          "pos": 610119
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": "Mars",
+      "block_start": 663760,
+      "block_end": 663799,
+      "row_count": 1,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 1237,
+          "pos": 663760
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": null,
+      "block_start": 664339,
+      "block_end": 664596,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "get",
+          "rule_number": 1242,
+          "pos": 664339
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1248,
+          "pos": 664523
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 1246,
+          "pos": 664557
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": "Jupiter",
+      "block_start": 665277,
+      "block_end": 666320,
+      "row_count": 11,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 1256,
+          "pos": 665277
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ger",
+          "rule_number": 1260,
+          "pos": 665315
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 1261,
+          "pos": 665352
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 1263,
+          "pos": 665429
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मौनः",
+          "rule_number": 1265,
+          "pos": 665502
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1266,
+          "pos": 665877
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1272,
+          "pos": 666098
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ates",
+          "rule_number": 1273,
+          "pos": 666134
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 1275,
+          "pos": 666210
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भ",
+          "rule_number": 1276,
+          "pos": 666247
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मौनः",
+          "rule_number": 1277,
+          "pos": 666285
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": "Saturn",
+      "block_start": 666844,
+      "block_end": 667030,
+      "row_count": 2,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्याः",
+          "rule_number": 1283,
+          "pos": 666844
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "aac",
+          "rule_number": 1287,
+          "pos": 666994
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": "Rahu",
+      "block_start": 667436,
+      "block_end": 667878,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1260,
+          "pos": 667436
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 1264,
+          "pos": 667586
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1296,
+          "pos": 667661
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मीन",
+          "rule_number": 1301,
+          "pos": 667843
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": "Ketu",
+      "block_start": 668501,
+      "block_end": 668690,
+      "row_count": 2,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्विक",
+          "rule_number": 1306,
+          "pos": 668501
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ava",
+          "rule_number": 1313,
+          "pos": 668655
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": null,
+      "block_start": 718969,
+      "block_end": 719382,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1315,
+          "pos": 718969
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1317,
+          "pos": 719042
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 1320,
+          "pos": 719154
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gee",
+          "rule_number": 1325,
+          "pos": 719348
+        }
+      ]
+    },
+    {
+      "lagna": "kumbha",
+      "planet": "Moon",
+      "block_start": 719918,
+      "block_end": 720142,
+      "row_count": 2,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "Pag",
+          "rule_number": 1331,
+          "pos": 719918
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 1336,
+          "pos": 720106
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Mars",
+      "block_start": 720732,
+      "block_end": 720996,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्यः",
+          "rule_number": 1344,
+          "pos": 720732
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qa",
+          "rule_number": 1345,
+          "pos": 720770
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "मोन",
+          "rule_number": 1350,
+          "pos": 720961
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Mars",
+      "block_start": 721357,
+      "block_end": 721534,
+      "row_count": 4,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भेष",
+          "rule_number": 1351,
+          "pos": 721357
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "as",
+          "rule_number": 1352,
+          "pos": 721392
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1343,
+          "pos": 721427
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Tag",
+          "rule_number": 1355,
+          "pos": 721500
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Jupiter",
+      "block_start": 722169,
+      "block_end": 723038,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "दृष",
+          "rule_number": 1364,
+          "pos": 722169
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1365,
+          "pos": 722205
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "कर्क",
+          "rule_number": 1366,
+          "pos": 722243
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "fag",
+          "rule_number": 1367,
+          "pos": 722279
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 1368,
+          "pos": 722338
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1366,
+          "pos": 722375
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 1370,
+          "pos": 722409
+        },
+        {
+          "rashi": "Dhanu",
+          "rashi_raw": "धनु",
+          "rule_number": 1371,
+          "pos": 722449
+        },
+        {
+          "rashi": "Meena",
+          "rashi_raw": "भीन",
+          "rule_number": 1374,
+          "pos": 722557
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1375,
+          "pos": 722929
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qe",
+          "rule_number": 1376,
+          "pos": 722966
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1377,
+          "pos": 723002
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Venus",
+      "block_start": 723118,
+      "block_end": 724021,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 1380,
+          "pos": 723118
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 1986,
+          "pos": 723155
+        },
+        {
+          "rashi": "Vrishchika",
+          "rashi_raw": "बृश्चिक",
+          "rule_number": 1382,
+          "pos": 723191
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "मकर",
+          "rule_number": 1384,
+          "pos": 723268
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Sere",
+          "rule_number": 1385,
+          "pos": 723307
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "मीत",
+          "rule_number": 66386,
+          "pos": 723344
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "भ्रेष",
+          "rule_number": 1387,
+          "pos": 723727
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qv",
+          "rule_number": 1388,
+          "pos": 723765
+        },
+        {
+          "rashi": "Karka",
+          "rashi_raw": "करके",
+          "rule_number": 1360,
+          "pos": 723838
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 1362,
+          "pos": 723910
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qa",
+          "rule_number": 1363,
+          "pos": 723948
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्विक",
+          "rule_number": 1364,
+          "pos": 723983
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Saturn",
+      "block_start": 724022,
+      "block_end": 724829,
+      "row_count": 12,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "चु",
+          "rule_number": 1365,
+          "pos": 724022
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "wee",
+          "rule_number": 1366,
+          "pos": 724057
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "रम्भः",
+          "rule_number": 1367,
+          "pos": 724093
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "attr",
+          "rule_number": 1368,
+          "pos": 724129
+        },
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेष",
+          "rule_number": 1366,
+          "pos": 724494
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "av",
+          "rule_number": 1400,
+          "pos": 724531
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 14501,
+          "pos": 724566
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "we",
+          "rule_number": 1402,
+          "pos": 724606
+        },
+        {
+          "rashi": "Kanya",
+          "rashi_raw": "कन्या",
+          "rule_number": 1404,
+          "pos": 724677
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "gar",
+          "rule_number": 14515,
+          "pos": 724716
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 6406,
+          "pos": 724754
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ag",
+          "rule_number": 1407,
+          "pos": 724795
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Rahu",
+      "block_start": 724831,
+      "block_end": 724941,
+      "row_count": 3,
+      "rows": [
+        {
+          "rashi": null,
+          "rashi_raw": "aa",
+          "rule_number": 9408,
+          "pos": 724831
+        },
+        {
+          "rashi": "Kumbha",
+          "rashi_raw": "कुम्भ",
+          "rule_number": 64806,
+          "pos": 724866
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ate",
+          "rule_number": 1410,
+          "pos": 724906
+        }
+      ]
+    },
+    {
+      "lagna": "meena",
+      "planet": "Ketu",
+      "block_start": 725294,
+      "block_end": 725700,
+      "row_count": 10,
+      "rows": [
+        {
+          "rashi": "Mesha",
+          "rashi_raw": "मेषः",
+          "rule_number": 1511,
+          "pos": 725294
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "qs",
+          "rule_number": 1412,
+          "pos": 725329
+        },
+        {
+          "rashi": "Mithuna",
+          "rashi_raw": "मिथुन",
+          "rule_number": 1413,
+          "pos": 725363
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Fag",
+          "rule_number": 1415,
+          "pos": 725440
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "कत्या",
+          "rule_number": 2416,
+          "pos": 725476
+        },
+        {
+          "rashi": "Tula",
+          "rashi_raw": "तुला",
+          "rule_number": 1417,
+          "pos": 725514
+        },
+        {
+          "rashi": "Vrishabha",
+          "rashi_raw": "वृश्चिक",
+          "rule_number": 1415,
+          "pos": 725552
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "ug",
+          "rule_number": 1416,
+          "pos": 725593
+        },
+        {
+          "rashi": "Makara",
+          "rashi_raw": "सकर",
+          "rule_number": 1420,
+          "pos": 725630
+        },
+        {
+          "rashi": null,
+          "rashi_raw": "Beat",
+          "rule_number": 1421,
+          "pos": 725666
+        }
+      ]
+    }
+  ],
+  "lookup_index": {
+    "mesha|Sun|Kanya": 121,
+    "mesha|Rahu|Karka": 155,
+    "mesha|Rahu|Kanya": 147,
+    "mesha|Rahu|Vrishchika": 156,
+    "mesha|Jupiter|Vrishabha": 171,
+    "mesha|Rahu|Mesha": 200,
+    "mesha|Rahu|Makara": 203,
+    "mesha|Ketu|Kanya": 217,
+    "mesha|Ketu|Makara": 221,
+    "mesha|Sun|Mesha": 225,
+    "mesha|Sun|Vrishabha": 226,
+    "mesha|Sun|Dhanu": 23,
+    "mesha|Sun|Makara": 234,
+    "mesha|Moon|Vrishabha": 235,
+    "mesha|Moon|Kanya": 242,
+    "vrishabha|Mercury|Karka": 264,
+    "vrishabha|Mercury|Makara": 270,
+    "vrishabha|Venus|Mithuna": 287,
+    "vrishabha|Venus|Kanya": 260,
+    "vrishabha|Saturn|Makara": 300,
+    "vrishabha|Rahu|Mesha": 306,
+    "vrishabha|Rahu|Vrishabha": 310,
+    "vrishabha|Ketu|Vrishabha": 322,
+    "vrishabha|Ketu|Dhanu": 329,
+    "mithuna|Sun|Mithuna": 336,
+    "mithuna|Sun|Makara": 343,
+    "mithuna|Moon|Vrishabha": 347,
+    "mithuna|Moon|Karka": 346,
+    "mithuna|Moon|Kanya": 351,
+    "mithuna|Moon|Dhanu": 254,
+    "mithuna|Moon|Makara": 355,
+    "mithuna|Mars|Kanya": 363,
+    "mithuna|Mercury|Mithuna": 372,
+    "mithuna|Mercury|Dhanu": 378,
+    "mithuna|Mercury|Makara": 376,
+    "mithuna|Mercury|Kumbha": 380,
+    "mithuna|Jupiter|Mithuna": 384,
+    "mithuna|Venus|Mithuna": 366,
+    "mithuna|Venus|Makara": 403,
+    "mithuna|Venus|Meena": 4045,
+    "mithuna|Rahu|Mesha": 4618,
+    "mithuna|Rahu|Kanya": 423,
+    "mithuna|Rahu|Vrishabha": 425,
+    "mithuna|Rahu|Makara": 497,
+    "mithuna|Ketu|Mesha": 430,
+    "mithuna|Ketu|Vrishabha": 421,
+    "mithuna|Sun|Meena": 454,
+    "karka|Venus|Vrishabha": 516,
+    "karka|Venus|Mithuna": 517,
+    "karka|Venus|Karka": 518,
+    "karka|Venus|Kanya": 520,
+    "karka|Venus|Dhanu": 523,
+    "karka|Rahu|Mesha": 427,
+    "karka|Rahu|Vrishabha": 528,
+    "karka|Rahu|Karka": 530,
+    "karka|Rahu|Kanya": 532,
+    "karka|Rahu|Dhanu": 535,
+    "karka|Rahu|Meena": 538,
+    "karka|Ketu|Vrishabha": 546,
+    "karka|Ketu|Makara": 548,
+    "karka|Sun|Mesha": 552,
+    "karka|Sun|Karka": 555,
+    "karka|Sun|Simha": 556,
+    "karka|Sun|Kanya": 557,
+    "karka|Sun|Vrishchika": 556,
+    "karka|Sun|Makara": 561,
+    "karka|Sun|Kumbha": 562,
+    "karka|Sun|Meena": 563,
+    "karka|Moon|Mithuna": 566,
+    "karka|Moon|Kanya": 566,
+    "karka|Moon|Vrishchika": 571,
+    "karka|Moon|Dhanu": 572,
+    "karka|Moon|Makara": 573,
+    "karka|Moon|Meena": 575,
+    "karka|Moon|Mesha": 576,
+    "karka|Moon|Vrishabha": 577,
+    "karka|Moon|Karka": 576,
+    "karka|Mars|Kanya": 581,
+    "karka|Mars|Makara": 581,
+    "karka|Jupiter|Vrishabha": 607,
+    "karka|Jupiter|Makara": 606,
+    "karka|Venus|Simha": 616,
+    "karka|Venus|Vrishchika": 616,
+    "karka|Saturn|Dhanu": 632,
+    "karka|Saturn|Makara": 633,
+    "karka|Saturn|Meena": 635,
+    "karka|Rahu|Tula": 642,
+    "karka|Rahu|Vrishchika": 643,
+    "simha|Ketu|Mesha": 648,
+    "simha|Ketu|Kanya": 653,
+    "simha|Ketu|Dhanu": 656,
+    "simha|Ketu|Makara": 647,
+    "kanya|Sun|Mesha": 661,
+    "kanya|Sun|Kanya": 666,
+    "kanya|Sun|Makara": 670,
+    "kanya|Moon|Mesha": 673,
+    "kanya|Moon|Tula": 676,
+    "kanya|Moon|Vrishabha": 680,
+    "kanya|Moon|Meena": 684,
+    "kanya|Mars|Simha": 686,
+    "kanya|Mars|Meena": 696,
+    "kanya|Venus|Vrishchika": 728,
+    "kanya|Venus|Dhanu": 726,
+    "kanya|Venus|Makara": 730,
+    "kanya|Saturn|Vrishabha": 734,
+    "kanya|Saturn|Tula": 736,
+    "kanya|Saturn|Vrishchika": 740,
+    "kanya|Saturn|Makara": 742,
+    "kanya|Saturn|Meena": 744,
+    "kanya|Saturn|Mesha": 745,
+    "kanya|Ketu|Mithuna": 756,
+    "kanya|Ketu|Karka": 760,
+    "kanya|Ketu|Simha": 761,
+    "kanya|Ketu|Kanya": 762,
+    "kanya|Ketu|Makara": 766,
+    "kanya|Moon|Mithuna": 784,
+    "kanya|Moon|Dhanu": 760,
+    "kanya|Moon|Makara": 761,
+    "kanya|Mars|Makara": 767,
+    "kanya|Mars|Dhanu": 2,
+    "kanya|Mars|Vrishabha": 807,
+    "kanya|Mars|Mithuna": 808,
+    "kanya|Jupiter|Mithuna": 820,
+    "kanya|Jupiter|Karka": 821,
+    "kanya|Jupiter|Vrishabha": 825,
+    "kanya|Venus|Simha": 834,
+    "kanya|Venus|Tula": 836,
+    "kanya|Saturn|Kanya": 847,
+    "tula|Rahu|Mesha": 854,
+    "tula|Rahu|Kanya": 556,
+    "tula|Rahu|Makara": 863,
+    "tula|Ketu|Kanya": 871,
+    "tula|Ketu|Vrishchika": 873,
+    "vrishchika|Sun|Simha": 883,
+    "vrishchika|Sun|Meena": 68,
+    "vrishchika|Moon|Makara": 600,
+    "vrishchika|Moon|Karka": 606,
+    "vrishchika|Mercury|Simha": 616,
+    "vrishchika|Mercury|Kumbha": 625,
+    "vrishchika|Mercury|Kanya": 632,
+    "vrishchika|Venus|Mithuna": 941,
+    "vrishchika|Venus|Tula": 685,
+    "vrishchika|Saturn|Kanya": 956,
+    "vrishchika|Saturn|Makara": 660,
+    "vrishchika|Rahu|Mesha": 66,
+    "vrishchika|Rahu|Dhanu": 671,
+    "vrishchika|Rahu|Makara": 672,
+    "vrishchika|Rahu|Kumbha": 973,
+    "vrishchika|Ketu|Vrishabha": 676,
+    "vrishchika|Ketu|Karka": 678,
+    "dhanu|Sun|Vrishabha": 661,
+    "dhanu|Sun|Makara": 667,
+    "dhanu|Moon|Kanya": 1005,
+    "dhanu|Moon|Vrishchika": 1007,
+    "dhanu|Moon|Makara": 1010,
+    "dhanu|Mars|Mesha": 1012,
+    "dhanu|Mars|Mithuna": 1014,
+    "dhanu|Mars|Makara": 1015,
+    "dhanu|Mars|Simha": 1016,
+    "dhanu|Mars|Kanya": 1017,
+    "dhanu|Mars|Vrishchika": 1019,
+    "dhanu|Venus|Vrishabha": 1046,
+    "dhanu|Saturn|Mesha": 1060,
+    "dhanu|Saturn|Mithuna": 1062,
+    "dhanu|Saturn|Kanya": 1065,
+    "dhanu|Saturn|Tula": 1066,
+    "dhanu|Rahu|Makara": 1075,
+    "dhanu|Ketu|Vrishabha": 1085,
+    "dhanu|Ketu|Tula": 1090,
+    "dhanu|Sun|Mesha": 1097,
+    "dhanu|Sun|Meena": 1104,
+    "dhanu|Moon|Vrishabha": 1110,
+    "dhanu|Mars|Meena": 1112,
+    "dhanu|Mercury|Vrishabha": 1124,
+    "dhanu|Mercury|Mithuna": 1135,
+    "dhanu|Mercury|Makara": 1136,
+    "dhanu|Mercury|Kumbha": 1642,
+    "dhanu|Mercury|Mesha": 1145,
+    "dhanu|Mercury|Karka": 1148,
+    "dhanu|Jupiter|Makara": 1154,
+    "dhanu|Jupiter|Meena": 1156,
+    "dhanu|Venus|Kanya": 1162,
+    "dhanu|Venus|Dhanu": 1165,
+    "dhanu|Venus|Meena": 1168,
+    "dhanu|Venus|Mesha": 1166,
+    "dhanu|Venus|Mithuna": 1171,
+    "dhanu|Rahu|Karka": 1184,
+    "dhanu|Rahu|Kanya": 16986,
+    "dhanu|Rahu|Vrishabha": 1108,
+    "makara|Ketu|Karka": 1196,
+    "kumbha|Mars|Vrishabha": 1237,
+    "kumbha|Jupiter|Kanya": 1256,
+    "kumbha|Jupiter|Vrishabha": 1261,
+    "kumbha|Jupiter|Makara": 1263,
+    "kumbha|Jupiter|Meena": 1265,
+    "kumbha|Jupiter|Mesha": 1266,
+    "kumbha|Jupiter|Kumbha": 1276,
+    "kumbha|Saturn|Kanya": 1283,
+    "kumbha|Rahu|Mesha": 1260,
+    "kumbha|Rahu|Meena": 1301,
+    "kumbha|Ketu|Vrishabha": 1306,
+    "kumbha|Moon|Makara": 1336,
+    "meena|Mars|Kanya": 1344,
+    "meena|Mars|Meena": 1350,
+    "meena|Mars|Mesha": 1351,
+    "meena|Mars|Mithuna": 1343,
+    "meena|Jupiter|Vrishabha": 1364,
+    "meena|Jupiter|Mithuna": 1365,
+    "meena|Jupiter|Karka": 1366,
+    "meena|Jupiter|Kanya": 1368,
+    "meena|Jupiter|Dhanu": 1371,
+    "meena|Jupiter|Meena": 1374,
+    "meena|Jupiter|Mesha": 1375,
+    "meena|Venus|Kanya": 1380,
+    "meena|Venus|Vrishchika": 1382,
+    "meena|Venus|Makara": 1384,
+    "meena|Venus|Mesha": 1387,
+    "meena|Venus|Karka": 1360,
+    "meena|Venus|Vrishabha": 1364,
+    "meena|Saturn|Mesha": 1366,
+    "meena|Saturn|Mithuna": 14501,
+    "meena|Saturn|Kanya": 1404,
+    "meena|Saturn|Vrishabha": 6406,
+    "meena|Rahu|Kumbha": 64806,
+    "meena|Ketu|Mesha": 1511,
+    "meena|Ketu|Mithuna": 1413,
+    "meena|Ketu|Tula": 1417,
+    "meena|Ketu|Vrishabha": 1415,
+    "meena|Ketu|Makara": 1420
+  },
+  "block_count": 97,
+  "row_count_total": 585,
+  "unique_pairs": 65
+}

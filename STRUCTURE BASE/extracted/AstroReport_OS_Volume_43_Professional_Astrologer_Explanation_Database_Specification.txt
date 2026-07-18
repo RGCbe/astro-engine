@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 43 – Complete Professional Astrologer
+Explanation Database Specification
+Purpose
+This manual defines the structured expert-language database used to generate reports for
+professional astrologers. It stores advanced terminology, layered reasoning, technical commentary
+and traceable evidence while remaining compatible with the core reasoning engine.
+Entity
+Purpose
+Example Fields
+Technical Concepts
+Advanced meanings
+Concept ID, Keywords
+Classical Terms
+Traditional vocabulary
+Sanskrit, Translation
+Reasoning Blocks
+Expert analysis
+Evidence, Logic
+Evidence Chain
+Supporting factors
+Rule IDs
+Commentary
+Technical notes
+Expert paragraphs
+Classical Sources
+Reference metadata
+Text, Chapter
+Narrative Templates
+Professional reports
+Template IDs
+Validation
+Quality control
+Confidence, Review
+Knowledge Graph
+Cross references
+Linked Objects
+Versioning
+Lifecycle
+Revision, Status
+Database Schema
+Store technical vocabulary, interpretation layers, classical terminology, evidence chains,
+commentary blocks, multilingual labels and reusable report fragments.
+Recommended Fields
+Content ID, topic, Sanskrit term, translation, interpretation level, evidence links, report template IDs,
+graph edges, confidence score and version history.
+Developer Specification
+Support semantic search, immutable identifiers, API-ready schemas, citation metadata, audit logs
+and backward-compatible versioning.
+Next Volume
+Volume 44 – Master Report Paragraph Library & Narrative Block Database.

@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 38 – Complete Nakshatra Database
+Specification
+Purpose
+This manual defines the master database schema for all 27 Nakshatras and their four Padas. It
+standardizes every Nakshatra as a structured knowledge object for the reasoning engine, timeline
+engine and report generator.
+Entity
+Purpose
+Example Fields
+Nakshatra
+Master record
+ID, Name, Keywords
+Pada
+Quarter record
+Pada No., Navamsa
+Ruler
+Planet mapping
+Planet ID
+Symbol & Deity
+Symbolic meaning
+Icon, Deity
+Traits
+Personality data
+Strengths, Growth
+Life Domains
+Applications
+Career, Relationships
+Timeline
+Activation rules
+Dasha, Age
+Narratives
+Reusable text
+Paragraph IDs
+Knowledge Graph
+Cross references
+Related IDs
+Validation
+Quality
+Confidence, Version
+Database Schema
+Each Nakshatra should include overview, symbolism, deity, ruling planet, four Padas, traits, life
+domains, timing rules, narrative templates and multilingual labels.
+Recommended Fields
+Nakshatra ID, aliases, Pada records, element, Gana, Yoni, Nadi, Rajju, keywords, evidence
+weights, report blocks, graph edges and version history.
+Developer Specification
+Use immutable IDs, indexed retrieval, semantic metadata, graph relationships and API-ready
+schemas for all Nakshatra records.
+Next Volume
+Volume 39 – Complete Yoga & Combination Database Specification.

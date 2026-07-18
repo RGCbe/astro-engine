@@ -1,0 +1,58 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 27 – Complete Rashi (12 Zodiac Signs)
+Interpretation Encyclopedia
+Purpose
+This manual defines a standardized interpretation framework for all twelve Rashis (zodiac signs). It
+explains how sign qualities modify planets, houses and life themes throughout the report.
+Rashi
+Element
+Primary Theme
+Aries
+Fire
+Initiative & action
+Taurus
+Earth
+Stability & resources
+Gemini
+Air
+Learning & communication
+Cancer
+Water
+Care & emotions
+Leo
+Fire
+Identity & leadership
+Virgo
+Earth
+Analysis & service
+Libra
+Air
+Balance & relationships
+Scorpio
+Water
+Transformation & depth
+Sagittarius
+Fire
+Wisdom & exploration
+Capricorn
+Earth
+Discipline & achievement
+Aquarius
+Air
+Innovation & community
+Pisces
+Water
+Compassion & spirituality
+Standard Rashi Entry
+Each sign includes: overview, element, modality, ruler, strengths, growth areas, communication
+style, career themes, wealth patterns, relationship style, spiritual lessons, timeline influence, report
+template and validation rules.
+Interpretation Framework
+Interpret every placement as: planet + sign + house + aspects + dignity + Dasha timing + life stage
+before producing the narrative.
+Developer Specification
+Maintain sign IDs, keywords, elemental traits, compatibility metadata, report blocks, confidence
+modifiers and cross-references.
+Next Volume
+Volume 28 – Complete Divisional Charts (Varga) Interpretation Encyclopedia.

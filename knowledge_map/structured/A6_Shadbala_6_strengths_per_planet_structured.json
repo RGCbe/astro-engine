@@ -1,0 +1,371 @@
+{
+  "item_code": "A6",
+  "item_name": "Shadbala — 6 strengths per planet",
+  "books_covering": [
+    "BPHS_Vol1",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Uttara_Kalamrita",
+    "Unknown_6945"
+  ],
+  "total_passages": 59,
+  "formulas_found": [
+    {
+      "book": "Saravali",
+      "score": 8,
+      "context": "ाज्ञः ॥४०॥ 40. NAISARGIKA BALA (NATURAL STRENGTH) : Saturn, Mars, Mercury, Jupiter, Venus, Moon and Sun are stronger than the other in the ascending order. (This is called natural strength). Should there be similarity in other strengths, then the one with greater natural strength prevails. Notes: Naisargika bala accrues to a planet according to its brightness. This is constantly expressed and is not variable. The Sun is the most luminous body and hence its natural strength is the highest. The darkest body Saturn gets the least. See the following table for an easy grasp : Sua व 1.000 Rupa Moon त 0.857 Rupa Mars 8 0.286 Rupa Mercury 8 0.429 Rupa Jupiter 4 0.571 Rupa Venus a 0.714 Rupa Saturn ६ 0.143 Rupa (One Rupa equals 60 Shashtiamsas) इति कल्याणवर्मविरचितायां सारावल्यां ग्रहयोनिभेदों नाम ",
+      "position": 95993
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 7,
+      "context": "cp) debilitation point. If the sum is lcss than 6 signs, consider it as it isi if it exceeds 6 signs, deduct the samc from 12 signs. The sum s6 got be converted into degress etc. and divided by 3 which is the planet's uchchabata or exaltation strength (in Virupas) Notes : These strengths are called Shadbala. These consist of the following : l. Sthaana Bala (or positional strength) 2. Dig Bala (or directional strength) 3. Kala Bala (Temporal Strcngtb) inclusive of Ayana Bala (or equinoctial strength) 4. Cheshta Bala (or motional strength) 5. Naisargika Bala (or natural strength) 6. Drik Bala (or aspectual strength) These strengths are computed for the seven planets from the Sun to Saturn. The nodes aro not considered. Firstly exprained is sthaana Bara due to a pranet'e position. This streng",
+      "position": 411501
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "debilitation point. If the sum is Jess than 6 signs, consider it as it is; if it exceeds 6 signs, deduct the same from 12 signs. The sum so got be converted into degrees etc. and divided by 3 which is the planet's UchchaBala or exaltation strength (in Virupas). Notes: These strengths are called Shad-bala. These consist of the following: 1. Sthana-Bala (or positional strength). 2, Dig Bala (or directional strength) 3. Kala Bala (Temporal Strength) inclusive of Ayana Bala (or equinoctial strength) 4. Cheshta Bala (or motional strength) 5. Naisargika Bala (or natural strength) 6. Drik Bala (or aspectual strength) These strengths are computed for the seven planets from the Sun to Saturn. The nodes are not considered. Firstly, explained is Sthana-Bala due to a planet's position. This s",
+      "position": 432965
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "position is other than what is required, then the strength on this count is nil. This strength is also called Linga Bala. The Balas so far acquired, viz. (l) Uchcha-Bala, (2) SaptaVargaja Bala, (3) Ojhayugmarasiamsa Bala, (4) Kendradi Bala and (5) Drekkana Bala he all added together to get net Sthana bala or positional strength. These are in Virupas and hence be divided by 60 to know the strength in Rupa. सूयात् कुजात् सुखं जीिाज्ज्ञाच्चाऽस्तं लग्नमापक्रयतः। िशमं च भृगोश्चिाि् दहत्वा षड्भात्तधके सवत॥७॥ चक्राि् विशोध्य ति्भागास्त्रित्तभभयताश्च दिग्बलम्। 7-7½: DIG-BALA OR DIRECTIONAL STRENGTH: Deduct the 4th house (i.e. Nadir) from the longitudes of Sun and Mars; the 7th house (i.e. descendant) from that of Jupiter and Mercury; the 10th house (i.e. meridian) from that of Venus and the Moon",
+      "position": 438416
+    },
+    {
+      "book": "Phaladeepika",
+      "score": 6,
+      "context": "as are assigned to Mars and 7 to Mer- cury. Jupiter's Purnabala is similar to that of the Sun, that is, 6.j Rupas. Venus is strong when he gets 5^ Rupas. JT^?g ’T^^r fg \"Tii^rrJrf n:sri»T^«n'^«iT : i ?rcrorr ii^^ii Sloka 23.— Saturn should have 5 flupas. These are the figures representing the total Shadbala for the several planets. If the respective figures be otherwise, /.p., less than the above, the planets should be considered as weak. It is only after a minute examination of the several kinds of strength (the Shad’ balas) of the several planets, one ought to declare their effects. 5r?n%'i:RrJTRT7^7 rr^^wwig-jTTf ? i q-frr iiRyil^ .43 SI. 1 JTfW ^»il5V5qrw: i Sloka 24.- -In the case of the Lagna and other Bha- vas, add one Rupa to the. strength of the lord of the Bhava concerned. Supple",
+      "position": 88389
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "score": 5,
+      "context": "their Seeghrochcha. The mean position of the Sun is taken for Budha and Shukra also. The Seeghrochcha of Budha and Shukra (their apogee) has to be Calculated. Add the mean longitude to the true longitude of a planet and divide it by two to arrive at its cheshtakendra. This divided by 180 gives the Cheshta Bala ofthe planet. These calculations are explained in Srlpati Paddhati and in Dr. B. V. Raman's Graha and Bhava Balas. The Cheshta Bala of the planets in our example Chart are as follows: Ravt Chandra Kuja Budha Guru Shulcra Shant IVCheshta .6974 .938 .5429 .3786 .229 First three 3.83825 5.564 4.6825 6.72 4.5955 4.09825 4.74375 BaJas Total 3.83825 5.564 5.3799 7.658 5.1384 4.47685 4.97275 The Sun and Moon have no Cheshta Bala as they do not have retrograde movements. ~ wqftr \"'lj'!lfl;;j",
+      "position": 40356
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "to be in twilight and to the bhavas falling in Prishtodaya Rasis if birth be in night. oirnq*59{TqT{q amiln nqfir?uq: r { afi qqt*E eat,itc fttrl Et?t I ll Q o11 ;rEilrFrrr: g(rfTT{rE <nigfimr: $qq illRrl Chapter 27 Taqr{f{i mirqriq f,il gqfqq} qil: I eTftrs $fq?qTR qi{ iqafnn} Gw! rr11rr 32-33. SHADBALA REQU{;:EMENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the Sun etc. (upto Saturn) to bc considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to",
+      "position": 447440
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "fqq} qil: I eTftrs $fq?qTR qi{ iqafnn} Gw! rr11rr 32-33. SHADBALA REQU{;:EMENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the Sun etc. (upto Saturn) to bc considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to the native by virtue of its strength. However, Saturn's cxterme strength will give long life as wcll as miseries. gqd*unqtori g Tds{*r{* faq t r {snqq: q -q-drf{ rfiq-sTRlgcrnnil: nlYtl ailwFtir fiqriFq|?T-ftq-*ra-urflsqi r ftfuafrrqtiiir.?n",
+      "position": 447683
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "ngth exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to the native by virtue of its strength. However, Saturn's cxterme strength will give long life as wcll as miseries. gqd*unqtori g Tds{*r{* faq t r {snqq: q -q-drf{ rfiq-sTRlgcrnnil: nlYtl ailwFtir fiqriFq|?T-ftq-*ra-urflsqi r ftfuafrrqtiiir.?nit dqq: q3<q: q1te 1it1 a?{rferq t,iil q}q-ffErq}: qqqq {qK I fqqrq qaET: sEilS.rrffi$aenfrq t rrltrr 34-36. Jupiter, Mercury and the Sun are strong if each of their Sthaana Bala, Digbala, Kaalabala, Cheshta Bala and Ayana",
+      "position": 447908
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 4,
+      "context": "ercury and the Sun are strong if each of their Sthaana Bala, Digbala, Kaalabala, Cheshta Bala and Ayana Bala are respectively 165, 35, 50, l12 and 30 Virupas. The same required for the Moon and Venus are 133, 50, 30, 100 and 4O For Mars and Saturn these are 96, 30, 40,67 and 20. Notes : Even if the Shadbala pinda is short of the sums stipulated in the previous two slokas, certain minimum require- ments of the constituent strengths will make the planet \"ooiid.r- ably favourablc. For this purpose, Jupiter, Mercury and the Sun 287 h 288 Brihat Parasara Hora Sasffa can be put in 'A' group. The Moon and Venus form 'B' group while Mars and Saturn 'C' group. The constituent Balas in Virupas that should be minimum are : 'Type Group'At Group'B' Group .C' Sthaanabala 165 133 96 Digbala 35 50 30 K",
+      "position": 448613
+    }
+  ],
+  "tables_found": [
+    {
+      "book": "BPHS_Vol1",
+      "pair_count": 7,
+      "context": "to be in twilight and to the bhavas falling in Prishtodaya Rasis if birth be in night. oirnq*59{TqT{q amiln nqfir?uq: r { afi qqt*E eat,itc fttrl Et?t I ll Q o11 ;rEilrFrrr: g(rfTT{rE <nigfimr: $qq illRrl Chapter 27 Taqr{f{i mirqriq f,il gqfqq} qil: I eTftrs $fq?qTR qi{ iqafnn} Gw! rr11rr 32-33. SHADBALA REQU{;:EMENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the Sun etc. (upto Saturn) to bc considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "pair_count": 7,
+      "context": "fqq} qil: I eTftrs $fq?qTR qi{ iqafnn} Gw! rr11rr 32-33. SHADBALA REQU{;:EMENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the Sun etc. (upto Saturn) to bc considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to the native by virtue of its strength. However, Saturn's cxterme strength will give long life as wcll as miseries. gqd*unqtori g Tds{*r{* faq t r {snqq: q -q-drf{ rfiq-sTRlgcrnnil: nlYtl ailwFtir fiqriFq|?T-ftq-*ra-urflsqi r ftfuafrrqtiiir.?n"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "pair_count": 7,
+      "context": "ngth exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to the native by virtue of its strength. However, Saturn's cxterme strength will give long life as wcll as miseries. gqd*unqtori g Tds{*r{* faq t r {snqq: q -q-drf{ rfiq-sTRlgcrnnil: nlYtl ailwFtir fiqriFq|?T-ftq-*ra-urflsqi r ftfuafrrqtiiir.?nit dqq: q3<q: q1te 1it1 a?{rferq t,iil q}q-ffErq}: qqqq {qK I fqqrq qaET: sEilS.rrffi$aenfrq t rrltrr 34-36. Jupiter, Mercury and the Sun are strong if each of their Sthaana Bala, Digbala, Kaalabala, Cheshta Bala and Ayana"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "pair_count": 7,
+      "context": "Rāśhis if birth happens to be in twilight and to the Bhavas falling in Prishtodaya Rāśhis if birth be in night. अंकाग्नयोऽङ्गरामाश्च खाग्नया करलसन्धिः। निाग्नयः सुरास्त्रिंशि् िशसंगुणणताः क्रमात्॥३२॥ रव्यािीनां बलैक्यश्चेत् तिा सुबललनो मताः। अत्तधकं िूणयमेि याि् बलं चेि्बललनो दद्वज॥३३॥ 32-33. SHAD-BALA REQUIREMENTS: 390, 360, 300, 420, 390, 330 and 300 Virupas are the Shad-bala Pindas needed for the Sun etc. (up to Saturn) to be considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes: The minimum Shad-bala requirements of the planets are as under; The Sun = 6.5 Rupas Evaluation of Strengths Page 228 The Moon= 6.0 Rupas Mars = 5.0 Rupas Mercury = 7.0 Rupas Jupiter = 6.5 Rupas Venus = 5.5 Rupas Saturn = 5.0 Rupas If a planet has the required sha"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "pair_count": 7,
+      "context": "अत्तधकं िूणयमेि याि् बलं चेि्बललनो दद्वज॥३३॥ 32-33. SHAD-BALA REQUIREMENTS: 390, 360, 300, 420, 390, 330 and 300 Virupas are the Shad-bala Pindas needed for the Sun etc. (up to Saturn) to be considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes: The minimum Shad-bala requirements of the planets are as under; The Sun = 6.5 Rupas Evaluation of Strengths Page 228 The Moon= 6.0 Rupas Mars = 5.0 Rupas Mercury = 7.0 Rupas Jupiter = 6.5 Rupas Venus = 5.5 Rupas Saturn = 5.0 Rupas If a planet has the required shad bala, it will prove favour able to the native by virtue of its strength. However, Saturn's extreme strength will give long life as well as miseries. गुरुसौम्रिीणां तु भूतषट्केन्दिो दद्वज। िंचाग्नयः खभूतावन करभूवमसुधाकराः॥३४॥ खाग्नयश्च क्र"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "pair_count": 7,
+      "context": "to be very strong. Notes: The minimum Shad-bala requirements of the planets are as under; The Sun = 6.5 Rupas Evaluation of Strengths Page 228 The Moon= 6.0 Rupas Mars = 5.0 Rupas Mercury = 7.0 Rupas Jupiter = 6.5 Rupas Venus = 5.5 Rupas Saturn = 5.0 Rupas If a planet has the required shad bala, it will prove favour able to the native by virtue of its strength. However, Saturn's extreme strength will give long life as well as miseries. गुरुसौम्रिीणां तु भूतषट्केन्दिो दद्वज। िंचाग्नयः खभूतावन करभूवमसुधाकराः॥३४॥ खाग्नयश्च क्रमात्त्स्थानदिक्चेिासमयाऽयने। लसतेन्द्वोस्त्र्त्र्यक्ग्नचिाश्च खेषिः खाग्नयः शतम्॥३५॥ चत्वाररंशत् कला भौममन्दयोः षण्णि क्रमात्। पिंशत् खिेिाः सप्ताङ्गा नखाश्चेत्युदिता दद्वज॥३६॥ 34-36. Jupiter, Mercury and the Sun are strong if each of their Sthaana Bala, D"
+    }
+  ],
+  "rules_found": [
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 11,
+      "context": "tl 92. If the 8th lord is in the 8th the native will bc long' tived. If the said planet be weak being in the 8th, the longevity will be medium, while the native will be a thief, be blameworthy and will blame others well. Notes : In remaining in the 8th itself, the 8th lord should be quite strong in Shadbala, so the native will be long'lived. If he is bereft of strength, the native will not enjoy full span of life. The 8th house in occupation by its own lord will give a spouse with questionable character. However she will be a source of financial help to the natirrc by her own earnings or prope"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 11,
+      "context": "92. If the 8th lord is in the 8th the native will be long-lived. If the said planet be weak being in the 8th, the longevity will be medium, while the native will be a thief, be blameworthy and will blame others well. Notes: In remaining in the 8th itself, the 8th lord should be quite strong in Shad-bala, so the native will be long-lived. If he is bereft of strength, the native will not enjoy full span of life. The 8th house in occupation by its own lord will give a spouse with questionable character. However, she will be a source of financial help to the native by her own earnings or propertie"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 7,
+      "context": "argas of a benefic; or if he is exalted-then the native becomes the chief ruler of the land and he will be respected by other rulers. ~\"\"\\'ClI.ii\"·I:~ ~ ~ ~ eflq{l(4l 1~~'Jld\\.0ISn: ~ n.'l'~'\\1«1 lGt,.,IW<ilH·tWft i§\\JiI'Mc:ft ~ ~ ~ ~: «10114;\\1 ~: ll' Wlli«I~' ~ II t II (l) The full Moon strong in Shadbala should be exalted, in his own or in a friend's house and it should be the fourth, seventh, ninth or tenth house from lagna: and this full Moon should be with or aspected by Guru or Shukra. (tl) Or, Kuja and Shant should be strong in ShadbaIa, have the aspect of a benefic and be posited in t"
+    },
+    {
+      "book": "Saravali",
+      "rule_words": 6,
+      "context": "it and gives clothes, jewels, conveyances etc. And the native is happy in such a direction. A planet with Ayana Bala similarly takes t'e native to its direction and confers various kinds of wealth apart from fame. In both the cases, the planets should not be combust or debilitated. If a planet has Cheshta Bala, it sometimes gives kingdom, sometimes respect; sometimes money and yet some- times increases the fame of the native. Notes: We have already explained Digbala or direc- tional strength, vide notes under sloka 35 of Chapter 4. Suppose, Saturn is in the 7th, without combustion or debilitat"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 5,
+      "context": "nsi- dered. If all the 3 are equally strong, the average of the 3 be considered. 'Notes : In slokas 30 and 3l above, we are asked to select one among the 3 systems, viz Pindayu, Naisargayu and Amsatu accordirg to the Sun, the Moon and ascendant being the strongest. If two among the three have equal Shadbala, then the average of the respective systems will be the fina1 longevity. If the three are of equal strength, the average of three systems be taken to be actual life duration of the native. Take for example where the Sun and the Moon are equally strong and assume that Pindayu indicates a lif"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 5,
+      "context": "sidered. If all the 3 are equally strong, the average of the 3 be considered. Notes: In shlokas 30 and 31 above, we are asked to select one among the 3 systems, viz Pindayu, Naisargayu and Amsayu according to the Sun, the Moon and ascendant being the strongest. If two among the three have equal Shad-bala, then the Longevity Page 347 average of the respective systems will be the final longevity. If the three are of equal strength, the average of three systems be taken to be actual life duration of the native. Take for example where the Sun and the Moon are equally strong and assume that Pindayu"
+    },
+    {
+      "book": "Hora_Sara",
+      "rule_words": 5,
+      "context": "riod contributed by Lagna should be com- puted. Notes: Suppose the Lagna (be it in any Rasi) falls in Scorpio Navamsa, its contribution is 8 years, as the sign Scorpio is the 8th from Aries. Further, this figure has to be modified thus: if benefics are there or if the Lagna is strong (by way of Shadbala calculations), the contribution 8 becomes 10, when one fourth is increased. Should the Lagna be weak or malefic occupied, then one fourth is to be reduced, i.e. the said figure becomes 6 only. ^?^:n?r5wr^ ^ ^ErR<m^ ii i3 ii 78 HORASARA The longevity will be exactly arrived at by assessing a pla"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 4,
+      "context": "Rāśhis if birth happens to be in twilight and to the Bhavas falling in Prishtodaya Rāśhis if birth be in night. अंकाग्नयोऽङ्गरामाश्च खाग्नया करलसन्धिः। निाग्नयः सुरास्त्रिंशि् िशसंगुणणताः क्रमात्॥३२॥ रव्यािीनां बलैक्यश्चेत् तिा सुबललनो मताः। अत्तधकं िूणयमेि याि् बलं चेि्बललनो दद्वज॥३३॥ 32-33. SHAD-BALA REQUIREMENTS: 390, 360, 300, 420, 390, 330 and 300 Virupas are the Shad-bala Pindas needed for the Sun etc. (up to Saturn) to be considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes: The minimum Shad-bala requirements of the planets are as under; The Sun = 6."
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 4,
+      "context": "as are assigned to Mars and 7 to Mer- cury. Jupiter's Purnabala is similar to that of the Sun, that is, 6.j Rupas. Venus is strong when he gets 5^ Rupas. JT^?g ’T^^r fg \"Tii^rrJrf n:sri»T^«n'^«iT : i ?rcrorr ii^^ii Sloka 23.— Saturn should have 5 flupas. These are the figures representing the total Shadbala for the several planets. If the respective figures be otherwise, /.p., less than the above, the planets should be considered as weak. It is only after a minute examination of the several kinds of strength (the Shad’ balas) of the several planets, one ought to declare their effects. 5r?n%'i:"
+    },
+    {
+      "book": "Saravali",
+      "rule_words": 4,
+      "context": "ses the fame of the native. Notes: We have already explained Digbala or direc- tional strength, vide notes under sloka 35 of Chapter 4. Suppose, Saturn is in the 7th, without combustion or debilitation, then it takes one towards west (see sloka 8, Ch.4) and gives success. Similarly, Ayana Bala and Cheshta Bala are explained in Slokas 36-37 of the previous chapter. वक्रिणस्तु महावीर्याः शुभा राज्यप्रदा TET: । पापा व्यसनिनां पुंसां कुर्वंन्ति च च वुधाठनम्‌ naan 39. EFFECTS OF RETROGRADE PLANETS : A benefic if retrograde is strong and is capable of conferring kingdom. If a malefic is retrograde, "
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 4,
+      "context": "a seventh. From each preceedtng.one the succeeding one is less by a seventh in the sequence of Shukra, Guru, Budha, Kuja, and Shant. The six sources of strength-8apta Varga, Determination of the Strength 45 Dik) Kala, Cheshta, Drishti and Naisatgika have to be added for each planet, This gives the Shadbala of the planet concerned. It is the rectified dngbala that should be taken into consideration. If a planet is victorious in Oraha Yuddha, it gets a strength of one Rupa. The vanquished one loses one Rupa. The total of these six balas (as rectified) is the planet's Shadbala in Rupas. A planet "
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 4,
+      "context": "ach planet, This gives the Shadbala of the planet concerned. It is the rectified dngbala that should be taken into consideration. If a planet is victorious in Oraha Yuddha, it gets a strength of one Rupa. The vanquished one loses one Rupa. The total of these six balas (as rectified) is the planet's Shadbala in Rupas. A planet having less than five Rupas is weak. It has the normal strength if its strength is between five and ten Rupas. In our example chart we get the following: Rool Chandra Ku]a Budha Guru Shukra Shanl 4. The pre- 3.83825 5.564 5.3799 7.658 5.1384 4.47685 4.97275 vlous Balas 5."
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 3,
+      "context": "to be in twilight and to the bhavas falling in Prishtodaya Rasis if birth be in night. oirnq*59{TqT{q amiln nqfir?uq: r { afi qqt*E eat,itc fttrl Et?t I ll Q o11 ;rEilrFrrr: g(rfTT{rE <nigfimr: $qq illRrl Chapter 27 Taqr{f{i mirqriq f,il gqfqq} qil: I eTftrs $fq?qTR qi{ iqafnn} Gw! rr11rr 32-33. SHADBALA REQU{;:EMENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the Sun etc. (upto Saturn) to bc considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 3,
+      "context": "fqq} qil: I eTftrs $fq?qTR qi{ iqafnn} Gw! rr11rr 32-33. SHADBALA REQU{;:EMENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the Sun etc. (upto Saturn) to bc considered strong. If the strength exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to the native by virtue of its strength. Howe"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 3,
+      "context": "ngth exceeds, the planet is deemed to be very strong. Notes : The minimum Shadbala requirements of the planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the required shadbala, it will prove favour- able to the native by virtue of its strength. However, Saturn's cxterme strength will give long life as wcll as miseries. gqd*unqtori g Tds{*r{* faq t r {snqq: q -q-drf{ rfiq-sTRlgcrnnil: nlYtl ailwFtir fiqriFq|?T-ftq-*ra-urflsqi r ftfuafrrqtiiir.?nit dqq: q3<q: q1te 1it1 a?"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "bala_value",
+      "value": 300,
+      "unit": "virupas",
+      "context": "ENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the "
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "he planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas "
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": "der'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas "
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": ".5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas"
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": ".0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas S"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the "
+    },
+    {
+      "type": "bala_value",
+      "value": 300,
+      "unit": "virupas",
+      "context": "ENZ,S .' 390, 360, 300, 42C,390,330 and 300 Virupas are the Shadbala Pindas needed for the "
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "he planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas "
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": "der'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas "
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": ".5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas"
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": ".0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas S"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the "
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "he planets are as under'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas "
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": "der'i . The Sun : 6.5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas "
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": ".5 Rupas The Moon: 6.0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas"
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": ".0 Rupas . Mars : 5.0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas S"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "0 Rupas MercurY : 7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "7'0 RuPas Jupiter : 6.5 Rupas Venus : 5.5 Rupas Saturn - 5.0 Rapas If a planet has the "
+    },
+    {
+      "type": "bala_value",
+      "value": 30,
+      "unit": "virupas",
+      "context": "a are respectively 165, 35, 50, l12 and 30 Virupas. The same required for the Moon and Ven"
+    },
+    {
+      "type": "bala_value",
+      "value": 32,
+      "unit": "rupas",
+      "context": "ted and is cndowed with a Shadbala of 9,32 Rupas and Mars 7.32 Rupas. Their Vimsopaka st"
+    },
+    {
+      "type": "bala_value",
+      "value": 32,
+      "unit": "rupas",
+      "context": "ith a Shadbala of 9,32 Rupas and Mars 7.32 Rupas. Their Vimsopaka strengths-are respecti"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "hat Pindayu indicates a life span of 52.5 years while Nisargayu gives 40.7 years. The a"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": " of 52.5 years while Nisargayu gives 40.7 years. The average of these two, i.e. 46.35 y"
+    },
+    {
+      "type": "period",
+      "value": 35,
+      "unit": "years",
+      "context": "ears. The average of these two, i.e. 46.35 years will be the actual longevity. Similarly"
+    },
+    {
+      "type": "bala_value",
+      "value": 300,
+      "unit": "virupas",
+      "context": "MENTS: 390, 360, 300, 420, 390, 330 and 300 Virupas are the Shad-bala Pindas needed for the"
+    },
+    {
+      "type": "bala_value",
+      "value": 5,
+      "unit": "rupas",
+      "context": "f the planets are as under; The Sun = 6.5 Rupas Evaluation of Strengths Page 228 The Mo"
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": "ation of Strengths Page 228 The Moon= 6.0 Rupas Mars = 5.0 Rupas Mercury = 7.0 Rupas Ju"
+    },
+    {
+      "type": "bala_value",
+      "value": 0,
+      "unit": "rupas",
+      "context": "s Page 228 The Moon= 6.0 Rupas Mars = 5.0 Rupas Mercury = 7.0 Rupas Jupiter = 6.5 Rupas"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "panchanga/drik.py",
+    "function": "planet_positions"
+  }
+}

@@ -1,0 +1,58 @@
+AstroReport OS Specification
+Volume 10B – Master Life Question Knowledge
+Base (Identity Domain)
+Purpose
+Expand the structured question library with identity-related records used by the report engine.
+Standard Record
+Each record stores: Question ID, Canonical Question, Alternate Phrasings, Domain, Life Stage,
+Astrological Evidence, Timeline Placement, Narrative Priority, Confidence Rules, Related
+Questions and Validation.
+ID
+Question
+Life Stage
+Placement
+Q0011
+What makes me unique?
+Birth
+Foundation
+Q0012
+What are my natural talents?
+Birth
+Foundation
+Q0013
+What skills should I develop?
+School
+Timeline
+Q0014
+How do I make decisions?
+Teen
+Timeline
+Q0015
+What motivates me?
+Whole Life
+Foundation
+Q0016
+What fears hold me back?
+Teen
+Timeline
+Q0017
+How do I react under pressure?
+Adult
+Timeline
+Q0018
+Am I a leader or supporter?
+Young Adult
+Career
+Q0019
+How do others perceive me?
+Adult
+Timeline
+Q0020
+What is my greatest life lesson?
+Whole Life
+Foundation
+Implementation Rules
+Identity questions are introduced in the Foundation chapter and revisited throughout the timeline as
+the person grows. Answers evolve with Dasha/Bhukti and life stage instead of remaining static.
+Next Volume
+Volume 10C: Family, Parents, Childhood and Home Environment Question Knowledge Base.

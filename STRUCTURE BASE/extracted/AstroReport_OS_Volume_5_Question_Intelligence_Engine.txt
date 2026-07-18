@@ -1,0 +1,35 @@
+AstroReport OS Specification
+Volume 5 – Question Intelligence Engine (QIE)
+Purpose
+The Question Intelligence Engine ensures the report answers nearly every meaningful client
+question without presenting a traditional FAQ. Questions are mapped to life domains, life stages
+and timeline chapters.
+Core Philosophy
+People ask questions, but astrologers think in life patterns. Convert every question into a structured
+life domain before generating answers.
+Question Ontology
+Maintain a master library grouped into Identity, Family, Education, Career, Business, Wealth,
+Marriage, Children, Health, Property, Travel, Spirituality, Purpose, Reputation, Legacy and Daily
+Life.
+Mapping Rules
+Every question maps to: one or more life domains, chart evidence, Dasha/Bhukti timing, life stage,
+narrative priority and confidence score.
+Examples
+'Will I become rich?' maps to Wealth, Career, Business, Property, Investments, Savings and
+Timing. 'Will I marry?' maps to Relationships, Marriage, Family, Timing and Personal Growth.
+Priority Engine
+At each timeline chapter, answer only the questions naturally relevant to that life stage. Briefly
+update other domains only when needed.
+Coverage Validation
+Before finishing the report, verify that every important life domain has been addressed at least once
+and every recurring domain has been updated across time.
+Narrative Integration
+Never expose the question list to the reader. Blend the answers naturally into the story so the report
+feels like a biography rather than an interview.
+Developer Interface
+Represent each question with metadata: Question ID, Domain IDs, Priority Rules, Evidence
+Requirements, Timeline Rules, Narrative Template and Validation Rules.
+Mission Statement
+The QIE guarantees completeness. Its purpose is to ensure that the reader rarely needs to ask
+follow-up questions because the report has already addressed them at the appropriate point in the
+life journey.

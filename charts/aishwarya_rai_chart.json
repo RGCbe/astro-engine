@@ -1,0 +1,179 @@
+{
+  "name": "Aishwarya Rai",
+  "birth": {
+    "year": 1973,
+    "month": 11,
+    "day": 1,
+    "hour": 4,
+    "min": 55,
+    "lat": 12.9141,
+    "lon": 74.856,
+    "place": "Mangalore, Karnataka, India",
+    "tz": 5.5,
+    "weekday": "Thursday"
+  },
+  "lagna": "Virgo",
+  "lagna_idx": 5,
+  "lagna_deg": 22.5367,
+  "lagna_lord": "Mercury",
+  "ayanamsa": 23.491589,
+  "positions": {
+    "Sun": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 14.9051,
+      "lon_abs": 194.9051,
+      "nak": "Swati",
+      "nak_idx": 14,
+      "nak_lord": "Rahu",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 1.0006,
+      "house": 2
+    },
+    "Moon": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 20.0006,
+      "lon_abs": 260.0006,
+      "nak": "Purva Ashadha",
+      "nak_idx": 19,
+      "nak_lord": "Venus",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 11.7757,
+      "house": 4
+    },
+    "Mars": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 5.879,
+      "lon_abs": 5.879,
+      "nak": "Ashwini",
+      "nak_idx": 0,
+      "nak_lord": "Ketu",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.3022,
+      "house": 8
+    },
+    "Mercury": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 2.9365,
+      "lon_abs": 212.9365,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.2234,
+      "house": 3
+    },
+    "Jupiter": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 10.5737,
+      "lon_abs": 280.5737,
+      "nak": "Shravana",
+      "nak_idx": 21,
+      "nak_lord": "Moon",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.1034,
+      "house": 5
+    },
+    "Venus": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 1.5446,
+      "lon_abs": 241.5446,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.0705,
+      "house": 4
+    },
+    "Saturn": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 11.0551,
+      "lon_abs": 71.0551,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.0273,
+      "house": 10
+    },
+    "Rahu": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 7.66,
+      "lon_abs": 247.66,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 4
+    },
+    "Ketu": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 7.66,
+      "lon_abs": 67.66,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 10
+    }
+  },
+  "janma_nakshatra": "Purva Ashadha",
+  "janma_nakshatra_lord": "Venus",
+  "moon_rasi": "Sagittarius",
+  "moon_pada": 3,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 4:55 AM from mother Vrinda Rai (astrodatabank)",
+  "known_events": [
+    {
+      "date": "1994-11-19",
+      "event": "Crowned Miss World — first Indian Miss World since 1966 Reita Faria"
+    },
+    {
+      "date": "1997-08-15",
+      "event": "Film debut in Tamil film Iruvar (Mani Ratnam)"
+    },
+    {
+      "date": "1999-07-30",
+      "event": "Hindi film breakthrough — Hum Dil De Chuke Sanam"
+    },
+    {
+      "date": "2002-06-14",
+      "event": "Devdas released at Cannes — first Indian actress invited to Cannes festival officially"
+    },
+    {
+      "date": "2007-04-20",
+      "event": "Married Abhishek Bachchan at Bachchan home, Mumbai"
+    },
+    {
+      "date": "2009-04-15",
+      "event": "Awarded Padma Shri"
+    },
+    {
+      "date": "2011-11-16",
+      "event": "Birth of daughter Aaradhya Bachchan"
+    },
+    {
+      "date": "2017-03-18",
+      "event": "Father Krishnaraj Rai died after long illness"
+    }
+  ]
+}

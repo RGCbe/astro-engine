@@ -1,0 +1,724 @@
+{
+  "item": "B2_Planet in House (108 base rules)",
+  "books_covering": [
+    "BPHS_Vol1",
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Jataka_Parijata",
+    "Laghu_Parashari",
+    "Prashna_Marga"
+  ],
+  "per_book_passages": {
+    "BPHS_Vol1": [
+      {
+        "position": 169054,
+        "match_text": "Moon in the 6th",
+        "context": "loll trn rr{ qET ieet: qriq*g<qa: t fffiqrernrrct<) Ereqr il rrg.olfqq: ulltl ?-ll. If Saturn and Mars aspect the ascendant as the luminaries join Rahu (elsewhere), the child will live only for a fortnight. Immediate death of the child along with its mother will occur if Satrrrn is in the lOth, the Moon in the 6th and Mars in the 7th. One will immediately go to the abode of Yama (the Hindu god of death) if Saturn is in thp ascendant while the Moon and Jupiter are in their order io the 8th and the 3rd. Only a month will be the span of one's life who has the Sun in the 9th, Mars in tbe Ttha nd Jupiter and Venus in the'l lth. AU planets (i.e. any planet) in thc l2th will be source of short lifc, specifically the luminaries, Venus and Rahu. But the aspect of one of these four planets (on the l2th) will count",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 169317,
+        "match_text": "Sun in\nthe 9th",
+        "context": "occur if Satrrrn is in the lOth, the Moon in the 6th and Mars in the 7th. One will immediately go to the abode of Yama (the Hindu god of death) if Saturn is in thp ascendant while the Moon and Jupiter are in their order io the 8th and the 3rd. Only a month will be the span of one's life who has the Sun in the 9th, Mars in tbe Ttha nd Jupiter and Venus in the'l lth. AU planets (i.e. any planet) in thc l2th will be source of short lifc, specifically the luminaries, Venus and Rahu. But the aspect of one of these four planets (on the l2th) will counteract suc\\ evils. Notes : One of the 4 planets among the Sun, Moon, Rahu and Venus in the l2th will contrib'ute to premature end. If there is aspebt of one of these on the l2th, the evils for premarure death are checked. (This goes to prove that Rahu has aspects",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 175450,
+        "match_text": "Saturn in the 4th",
+        "context": "ilk but on that of a ehe-goat if the Sun is exalted or debilitatcd in the 7th. Notes : For an Aries native, if the Sun is in the 7th in debilitation, or in the 7th in exaltation for a Libra nativq it deprives one of mother's milk. The 7th rules thc 4th from the 4th and hence the 7th is referred to. Saturn in the 4th house will'alpo deprive om of mother's milk. Atmakaraka in Scorpio Navamsa will producc similar effects. For a definition of Atmakaraka, see ch. 32,lnfra. iTFilI€qTq{: qrm frguti wil rtq r r<t qr.ced gufE *Fi qFE q* r iq trle tr 28. Should a malefic bc in the 4th, identical with an inimi- cal sign, counted from the Moon while there is no bcnefic in an angle, the child will lose its mother in a premature mtnoer. ur<{i ftgmi q qar , fiqqfi witl t irfl qlq*d fcuraE{ Ent ftq,uRc.tl 29. Malefics",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 176181,
+        "match_text": "Mercury in the 2nd",
+        "context": ". ur<{i ftgmi q qar , fiqqfi witl t irfl qlq*d fcuraE{ Ent ftq,uRc.tl 29. Malefics in the 6th and l2thwill biing,cvils to mother. The child's father will receive similareffects if the 4th and l0th are captured bY malefics. trfi T* rli 1<l ul qlsq6'iq q r \"*1 ' qqi E{: qfql€tit(r llQoll 30. Mercury in the 2nd while malefics occupy the asc&nd' ant, 7th and 12th : this yoga will destroy the entire family. qwi q grl qtt qt rqt qciH t rfr i=q?qrri raqrnl irglt t frrft tti ttt 31. Jupiter, Saturn and Rahu rcspectively posited in the ascendant, 2nd and 3rd will cause motheils death early. Brihat Parasara Hora Sostra qftqqrrn$fdunt: qrt: qlqfqqfrii: r qmqfuqiqrnf qor1p1ttt Ft irq: ttiqtt 32. Doubtlcssly the pother will give up the (hild if it has melcfics in trines counted from the decreasing Mooi. No ben",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 178389,
+        "match_text": "Moon in the 6th",
+        "context": ": Mercury is the sote encmy of Mars, vide ch. 3' verso 55. Mercury's camps are Gemini.and Virgo' Hence, for a Sagittarius native or for a Yirgo nathe, Mars in the lOth (alonc) will cause early death of father. frge*t* qqn qil} tttf,Tltf. rtirrt: I Tq{q ftq} sqfi fqet ts t !frqfil lllett 39. The Moon in the 6th, Saturn in the ascendant and Mars in Fe ?t.1 : thb array of hcavcnly bodies at birth will not ensure I long spar of life for thc father. q'H{rnfrqi qnl {rf-{il Er ftttfqi r rrrrwl falfn: wl{qqstsft frm}: fqq: ttvott 4Q. If the Sun is aspectcd by Saturn and be in Aries/Scor' pio NavLmrp, the father would have givea up thc family beforc thc birth of the child or would have passed away. qq{ qlt} $ql arefr q ra ffi t' fril{ qlar Fqr f{fie{rrf,r q*( llvttl 41. lf the 4th, loth and l2th are all ooc",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 181608,
+        "match_text": "Jupiter in the ascendant",
+        "context": "er and Venus bc in an angle from the ascendant, all evils arc destroyed as the Sun eliminates darkness. qfi gq qq\"t aiti qqrql ftceiwl t qf< rnn{ qrfiqr wTFT fq rtfq?: nln 3. Just as a singte reverential obeisance beforo Lord Siva, the Trident holder, frees one from ali sins, a singlc but strong Jupiter in the ascendant will ward off all thc evils. Notes : In the caseof Capricorn ascendant, Jupiter therein should be eiceedingly strong by other virtues, as otherwise he can lead to shqrt-life. For, sago Bhrigu specifically hints at Madhyayu or medium span of ffe with Jupiter in the aecendant idcntical with debilitation or inimical sign or malcfic'r cign. gs gq Rq,in: trlieql qqrfiqr: I qfrcE frfqri qfn framl feSt uw rrru 4. The ascendant lord is singly capable of counteracting all evils if he ie strongly place",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 206106,
+        "match_text": "Venus in the 2nd",
+        "context": "is combination will cause financial losses through penalties, fines etc. imposed by the government, in the nnodern context. Monetary deficiencies will as well persist throughout. i35 iili dtn .qi q qi vr* q.ii quig* r qudgril qffii qiqq: uetl 9. EXPENSES ON GOOD ACCOUNTS.. Jupiter inthe llth, Venus in the 2nd, and a benefic in the l2th while the 2nd lord is conjunct a benefic there will be expenses on religious or charitable grounds. sqrr}tart q{rdt{i qRFF} qq*qr: r qqlw'rtt reqm{ir fqiq} feqgqq ! uqorr 10. FAME ETC, : If the 2nd lord is in own sign or is exalted the native will look after his people, will help others and will become famous. Notes : Our text requires the 2nd lord to be in exaltation or in own sign so that the native will look after his people & C. It has been practically seen tha",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 209085,
+        "match_text": "Venus in the\n2nd",
+        "context": "ively lord over right eye and left eye respectively. This is from the health point of view of eye. However, when the beauty of the oyes is to be known, it is from the 2nd house only. Jupiter well placed ih the 2nd, or the 2nd lord in exaltation, or with a benefic will give one beautiful eyes. While Venus in the 2nd or Full Moon in the 2nd will not deprive one of beautiful eyes, defects bf sight at an early stage will result from the said position. Mercury in the 2nd will have a say on the speech rather than on the sight. Hence Jupter's position in the 2nd is a safe bet for strong sight and beauty of the eyes, if the planet is not with evils of fall and the like. Chapter 14 \\ \\ u{qI nndg* fqndsqiqqrdl ?t r37 qi flqqqR r qrae{TfirqqG<a: rr 1 1 r t 13. UNTRUTHFUL PERSON .. If the 2nd house and its lord ar",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 213790,
+        "match_text": "Jupiter in the 3rd",
+        "context": "ns occu- pied by female planets. This should be known from the 3;d house being male or female sign & C. If the 3rd house is occupied by a male planet as well as a female planet, there will be brothers and sisters as well. The contribution will come to pass if the contributor is strong. For example, Jupiter in the 3rd in a male sign if strong will cause the birth of a brother. If he is weak, acquisition of brother through Jupitrr will not be fruitful. Then one has to look upto alternative sources whether the native will have a brother or not. q* gqqdtnqft aqlat|lmnrl n{tl *afhftri qTsfq sftqfqxqqft r 6r* (€td n qqtk{ fsfrfil( rrqrr 5-6. Should the 3rd lord and Mars be together in the gth, destruction of coborn will result. Happiness in this respect will come to pass if Mars or the 3rd lord is in an angle",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 217300,
+        "match_text": "Sun in the 3rd",
+        "context": "d Jupitcr while the 3rd is occupied by the Moon. If the Moon is loncly placed in the 3rd in aspect to male planets, there will be younger brothers while the aspect of Venus denotes younger sisters. oti ilif {fqtFil lst qrd fliqqq: r srTaI tT66!f {fq t6werr} q{rgil: ulvtl 14. ADVERSE PLANEZ,S : The Sun in the 3rd will destroy thc prehorn. The afterborn will be destroyed if Saturn is found in rhe 3rd. In the same situation Mars will destroy both the preborn and later born. Notes : Sage Bhrigu also opines that the Sun in the 3rd house will not allow the native to retain his elder brothers. This position will affect one's relationship with brothers and sisters. Regarding Mars in the 3rd, Garga Maharshi states that the native will obtain two brothers and two sisters all the 4 of whom will pass away early. T",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 217518,
+        "match_text": "Sun in the 3rd",
+        "context": "qrd fliqqq: r srTaI tT66!f {fq t6werr} q{rgil: ulvtl 14. ADVERSE PLANEZ,S : The Sun in the 3rd will destroy thc prehorn. The afterborn will be destroyed if Saturn is found in rhe 3rd. In the same situation Mars will destroy both the preborn and later born. Notes : Sage Bhrigu also opines that the Sun in the 3rd house will not allow the native to retain his elder brothers. This position will affect one's relationship with brothers and sisters. Regarding Mars in the 3rd, Garga Maharshi states that the native will obtain two brothers and two sisters all the 4 of whom will pass away early. The placement of Mars in the 3rd has also adverse say on the native's character. For further details, see my detailed notes in the chapter .,Effects of planets in Bhavas\", of Saravali. qiqt fqq ! qlqni qanqfqfaotqra r w",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 217830,
+        "match_text": "Mars in the\n3rd",
+        "context": "rd house will not allow the native to retain his elder brothers. This position will affect one's relationship with brothers and sisters. Regarding Mars in the 3rd, Garga Maharshi states that the native will obtain two brothers and two sisters all the 4 of whom will pass away early. The placement of Mars in the 3rd has also adverse say on the native's character. For further details, see my detailed notes in the chapter .,Effects of planets in Bhavas\", of Saravali. qiqt fqq ! qlqni qanqfqfaotqra r wquri qfrr{tqi {T qrerrq uvaiqultrr 15. After estimating the strength and weakness of such yogas, the effects related to brothers and sisters be announced. 14t qeT (tKililIeilFciluutllt: ffl{ll Chapter 15 Effects Of The Fourth House glit tiilqqEl(4 qi{ daiT& qrn I mqqfq faqltrq ! ulrr gqqrilfiq glsq l. O exc",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 220228,
+        "match_text": "Sun in the 4th",
+        "context": "aci iT€r *;,cftual r11: r {rf{rQ *q<tf r qrg: Hot q<r a'\\ rrurr 7. HAPPIN.ESS TO MOTHER.. The native,s mother will be happy if the 4th lord is in an angle while venus is atso in an angle as Mercury is exalted. g<{ qRti qt q?i warrri sfr r qNRErFrqr) ftfr l|}-n{@eilT[( netl 8, QaADRaPED,S .. The Sun in the 4th, Moor: and Saturn in the 9th and Mars in the llth_this yoga will confei cows and buffaloes on the native. qdQsqqqi gd qrB qi fwi qll rq: 143 anfnmq*'r srrdlfr qqi-f,q ilQ.tl 9. DUMBNESS .. Should the 4th house be a movable one while its rord and Mars are together in the 6th or the gth house, the native will be dumb. qr{F{rdfrfqi Hlr} gdri ;f}r<rfvrt r ' {r<t qqqrq*t gdrfr qrwngi | | I o tl nq{i qiat n d qr$€q gq \"aq, *-d qfi3ti Tqt€ aqqn{rq+ u t trr rJT'r rigri qf aTfffi nE;i €q r sfrii",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 232628,
+        "match_text": "Saturn in the\n9th",
+        "context": "er benefic. Nine will be the number of sons that one wilt beget if Jupiter is in deep exaltation as Rahu is with the 2nd lord and the 9th is occupied by its own lord. There will be eight sons if Jupiter is in the 5th/9th while the 5th lord is endo- wed with strength and the 2nd lord is in the l0th. Saturn in the 9th from fhe ascendant while the 5th lord is in the 5th itself, will give 7 sons out of which twins will be born twice. If the 5th lord in the 5th ih conjunction with the 2nd lord, there will be birth of 7 sons out of which 3 will pass away. Only one son is denoted if there be a malefic in the 5th from the ascen- dant while Jupiter is in the sth from Saturn ot vice versa, If the 5th house has a malefic in it or if Saturn is in the 5th from Jupiter, the native will beget offspring only through his 2",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 233219,
+        "match_text": "Saturn in the 5th",
+        "context": "a malefic in the 5th from the ascen- dant while Jupiter is in the sth from Saturn ot vice versa, If the 5th house has a malefic in it or if Saturn is in the 5th from Jupiter, the native will beget offspring only through his 2nd or 3rd wife. Should the 5th be occupied by a malefic while Jupiter has Saturn in the 5th as the ascendant lord is in the 2nd, and the 5th lord is with Mars, one will live long but lose his children one after the other as they are born. Dear Raader, rile are glad you are readlng thls Unlque Book. 3one other' remalnlng chapters,whlch contaln ve lmprortant maLerlal,are glven 1n 1fs ffnd Paft. Please wrlte for yonr copy of the same. RANJAN PU BLICAIIOI{S ' t A A n o ^ r { E t . . ^ A l - l ^ F r r a d a n { SIet rr66$ttEt'sqpqllt: lt t ell Chepter 17 Effects Of The Sixth Hou",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "BPHS_Vol2": [
+      {
+        "position": 505101,
+        "match_text": "Saturn in the 2nd",
+        "context": "a of Jupiter one planet in the 2nd and the llth,2 planets in the l0th, 7 planets in the l2th, 4 pianets in the 6th,5 planets in the gth and the 3rd, 3 planets rn the remaining houses (lst, 4th, 5th, Zth, gth) are Karanaprada (dot significators). Thus Venus, the Moon and Saturn, these 3 in the lst : Saturn in the 2nd and llth : the Ascendant, Mars, the Moon, Mercury and Venus, these 5 in the 3rd : the Sun, Jupiter and Mars, these 3 in the 5th - Venus, Saturn and the Moon, these 3 in 4th : Mercury, Venus and Saturn, these 3 in the 7th : Jupitero Mars, the Sun and the Moon, these 4 in the 6th : all except Saturn, these Z in the l2th : the Moon and Saturn, these 2 in the 10th : Saturn, Mars and Jupiter, these 3 in the 9th : the Ascendant, Saturn, Venus, the Moon and Mercury, these five in the 8th, from their o",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 508442,
+        "match_text": "Sun in 6th",
+        "context": "ars, Mercury, Jupiter, Venus,, Saturn and the Ascendant, these 7 in the 2nd and the 7th : the Sun, the Moon, Mars, Jupiter, Venus, Saturn and the Ascendant, these 7 in the 9th : Tho Moon, Jupiter, 'Venus and Saturn, thcse 4 in thc tOth: Jupiter, the Sun, Mercury and Venus, tbese 4 in th\"' 3rd : the Sun in 6th : the Ascendant the Moon, Saturn, the Suri. these 4 in the 12th : Venus, the Sun, the Moon, Mercury an ' the A,scendant, these 5 in the 5th : tbe Moon, Mars, Jui:rter. Vcnr:s, Saturn and the Ascendant, these 6 in the 8th ' none in tbe llth : iiom their own places are Karanapradas (bindu or dot sisnificatcm). The remaining plaes are Rekha\"ptadas (linc signi- Scators) and are auspiciotts. !.54 Brihat Parasara Hora Sastra Dots in tbc Saturn's Ashtakavarga SN MN MRS MCY JUP VEN SAT ASC Nuraber cf <",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 509554,
+        "match_text": "Sun in the 2nd",
+        "context": "rFErq{qf dtqEq} qe r fqtl *Eqrarfa arqrmffn,m,qr G rrvYrr A q *{ qri ils* r{ qai faar, aqa I FTcr{r{arqr: qrat * q dttqum* llyx1l 43-45. The Sage said-Now I will describe the auspicious (r(ekhaprada) houses for the benefit ofthe learneds : In the Ashtakavarga of the Sun, Saturn, Mars and the Sun in the 2nd, the 8th and the lst : Jupiter and Mercury in the 5th : Mercury, the Moon and the Ascendant in the 3rd : the Ascendarrt, the Sun, Satlrn and Mars in the 4th : the Ascendant, the Sun, Saturn, Mars, ivfercury and the Moon in the 10th : the Sun, the Moon, Mdrs, Mercury, Jupiter, Saturn and th; 0 1 2 ? 4 5 6 8 9 1 0 l 1 t 2 00 00 0 0 0 00 00 00 00 00 0 c) 0 r:i o0 00 0 0 0 3 0 0 0 0 0 0 (t 7 4 6 5 I 7 6 7 4 4 0 0 0 0 I 0 0 Clwpter 66 855 Ascendant in the llth: ihe Ascendant, Vsnus andMercury in",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 509785,
+        "match_text": "Moon in the 10th",
+        "context": "fthe learneds : In the Ashtakavarga of the Sun, Saturn, Mars and the Sun in the 2nd, the 8th and the lst : Jupiter and Mercury in the 5th : Mercury, the Moon and the Ascendant in the 3rd : the Ascendarrt, the Sun, Satlrn and Mars in the 4th : the Ascendant, the Sun, Saturn, Mars, ivfercury and the Moon in the 10th : the Sun, the Moon, Mdrs, Mercury, Jupiter, Saturn and th; 0 1 2 ? 4 5 6 8 9 1 0 l 1 t 2 00 00 0 0 0 00 00 00 00 00 0 c) 0 r:i o0 00 0 0 0 3 0 0 0 0 0 0 (t 7 4 6 5 I 7 6 7 4 4 0 0 0 0 I 0 0 Clwpter 66 855 Ascendant in the llth: ihe Ascendant, Vsnus andMercury in the l2th : the Ascendant, Venus, Mercury, Jupiter and the Moon in theYth : the Sun, Mars, Saturn and Venus in tbe ?th : the Sun, Mars, Saturn, Mercury and Jupiter in ths 9th from tlteir own places are Rekhapradas (auspicious). Chert",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 511419,
+        "match_text": "Venus in the 7th",
+        "context": "and Mar; in rhe 2nd : Mercury, the Sun, the Moon, Mars, Saturn, Vrnu r and the Ascerdant in the li'l : Jupiter, Venus and Mq'rcury rn rhe 4th : Mars, Mc;r;rv. Venrrs and Saturn in the Stir : ihc Sun, the Moon, Marr, $arurn a.,rtt the Ascendant jn Lhc 6th : the Sun, thc Moc,n, jnpitern Mercurl' and Venus in the 7th: lhe Sun, Mcrcury and Jupiter in the 8th : Vcnus and the Mcon in the 9th : the Sun, Mercury, Jupiter, Yenus, the lvd<ron, thc Ascendant and Mars in the i0th and all the S ii. the llth frorrr their own places are Rekhapradas. No planer i\" R':kiraprada in;the I2th. Ritbas in th hloon Ashtakavarga SN MN MRS MCY JUP VEN SAT ASC Number of dots Rehhapnde houses of tlc Meon MN IvIRS MCY JUP VEN SAT ASC 1 2 3 4 5 6 7 E '9 l0 l l 12 J J l7 3 4 l5 5 3 1 l 7 1 8 0 t211333 3332456 65415610 765771111 9",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 512438,
+        "match_text": "Sun in the 3rd",
+        "context": "?qnql, qls}' $uaqfaatffir:' t q?Enlr infru *geif<nfalntd{t:u ilYqlt rran{' al fs6o qqtf,fi :o qurmfrntfcanEil: \" I wi,' rmfra],: qq6i sftd{i?i feg{ur:1lxotl 49-50. In the Arbtakavarga of Mars tlre Asccndant' Saturn and Mars in. 'i' l,t : Mais in the 2nd : the Ascendant' Mercury, the Moc',r 'g ttt\" Sun in the 3rd: Saturn and Mars in the 4th: Mercury arrd the Sun in the 5th: Mercury' thc Moott' Jupiter, the Sun, the iscendant and Venus in the 6th : Saturn and Mars in the ?th: Saturn, Mars and Venus in the 8th : Saturn in the 9th : Mars, the i;;, iupiter' Saturn and the Ascendant in 10th : al! :n tl',e ltttr ani iopit\"t and Venus in ths 12th' frorl their rlwr piaces are rekhapradas' Rekhas ln tbe Ashtrk'vatga of Mars SN MN MRS M6Y JUP VEN SAT ASC Number of Rekhrrs I , 4 5 . 6 7 r 8 !' e ryro tl t2 I I 3,",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 512654,
+        "match_text": "Saturn\nin the 9th",
+        "context": "and Mars in. 'i' l,t : Mais in the 2nd : the Ascendant' Mercury, the Moc',r 'g ttt\" Sun in the 3rd: Saturn and Mars in the 4th: Mercury arrd the Sun in the 5th: Mercury' thc Moott' Jupiter, the Sun, the iscendant and Venus in the 6th : Saturn and Mars in the ?th: Saturn, Mars and Venus in the 8th : Saturn in the 9th : Mars, the i;;, iupiter' Saturn and the Ascendant in 10th : al! :n tl',e ltttr ani iopit\"t and Venus in ths 12th' frorl their rlwr piaces are rekhapradas' Rekhas ln tbe Ashtrk'vatga of Mars SN MN MRS M6Y JUP VEN SAT ASC Number of Rekhrrs I , 4 5 . 6 7 r 8 !' e ryro tl t2 I I 3, I 4 , , 6 2 3 I 5 8' , I I I I I 1 r , I ; . { - r l , l I ' 1 1 I I I I 1 l I I I I I I I 858 Briha parasara Hora &stra Rckha pradr houscs of Mars MN MRS MCY JUP VEN SAT ASC SN 3 5 6 t0 tl 0 0 3l 62",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 513667,
+        "match_text": "Mercury in the 3rd",
+        "context": "niqT:5 n{fll *taifqmffie qfqqa{ri{qrt, r al q qfit vtrnrqfd q;EnniaqntEr:, utRrl _ il;TlFEnfq,-q;al:r0 lrirr 61**'F{T:,s il{titl 5l-52+. In the Ashtakavarga of Mercury the Ascendant, Saturn, Mars, Vemrs and Mercury in the lst : the Ar;;;;;; Mars. the Moon, Venus and Saturn in the Zna : Venus aii Mercury in the 3rd : the Ascendant, the Moon, Saturn, Venus and Mars in the 4rh : Mercury, Saturn and Venus in in, itt I Jupiter, Mcrcury, the Sun, the Moon and the Ascendant in the 6th : Mars and Saturn in the 7th : Mars, Saturn, th\" A;;;;; the Moon, Venus and Jupiter in the gth , S\"tu.rr, Mars, lhe Sun, Mercury and Venus in the 9th : the Ascenduni, Suiurn, il, Mercury and the Moon in the l0th : all in the llth \"\"d j\"pr,\";, Mercury and the Sun in the l2th, from their o*n ptuor, \"i\" rckhapradas. €lwpter 66 )",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 513986,
+        "match_text": "Venus in the 9th",
+        "context": ": the Ascendant, the Moon, Saturn, Venus and Mars in the 4rh : Mercury, Saturn and Venus in in, itt I Jupiter, Mcrcury, the Sun, the Moon and the Ascendant in the 6th : Mars and Saturn in the 7th : Mars, Saturn, th\" A;;;;; the Moon, Venus and Jupiter in the gth , S\"tu.rr, Mars, lhe Sun, Mercury and Venus in the 9th : the Ascenduni, Suiurn, il, Mercury and the Moon in the l0th : all in the llth \"\"d j\"pr,\";, Mercury and the Sun in the l2th, from their o*n ptuor, \"i\" rckhapradas. €lwpter 66 ) 859 Rekhns in the Ashttl(rvarga of Mercury . SN MN MR*S MCY JUP VEN SATASCNumberof Rekhas Rekhrpradr booses of MercurY 1 a L \\ 3 ,l 5 1 6 l 7 I 9 l 10 ll l 12 I rl 11 '1175 1l1s t2 I 1 I 5l t3 t15 t2 I l 1 1* 6 11 5 115 I 1 1 l z $ t3 5 I u t2 .0 0 MN 2 6 8 10 r1. *0 I 1 I I 1 1 l - 1 '1 I I MR",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 515243,
+        "match_text": "Saturn in the 5th",
+        "context": "the Sun and Mercury in the lt: u::l^- ^-,r wan,rc in rhe Ivlall' Lus uurr 4[v rY^Jr'--J ron and venus in thg Ascendant, Mars' the Sun, Mercury, tlt 11: tr---.- +r.o r\\irnnn ffiffiil,'ilJ,i., \";;;;4\"'' in the 3rd : venus, the Moon' 860 Brihat parasaru Hora Sastra. the Ascenda't, Mercury and Saturn in the 5th : Venus, thc Ascendant, Mercury and Saturn in the 6th : the Ascendant, Mars, Jupiter, the Sun and the Moon in the 7th : Jupiter, the Sun and Mars in the 8th : Veuus, the Sun, the Ascendant, the t\\4oon and Mercury in the 9th : Jupiter, Mercury, Mars, tlrc Sun, .Venus and the Ascendant in the l0th: all exceit Satuin in the llth and Saturn in the l2th, from their own places are rekhapradas. Rekhas in thc Asbtakoargl of Jupiter 'SN MN MRS MCy JUp VEN SAT ASC Number of Rekhas. I _ l I ! t : I 3 l",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 515466,
+        "match_text": "Mercury in the 9th",
+        "context": "nus, the Moon' 860 Brihat parasaru Hora Sastra. the Ascenda't, Mercury and Saturn in the 5th : Venus, thc Ascendant, Mercury and Saturn in the 6th : the Ascendant, Mars, Jupiter, the Sun and the Moon in the 7th : Jupiter, the Sun and Mars in the 8th : Veuus, the Sun, the Ascendant, the t\\4oon and Mercury in the 9th : Jupiter, Mercury, Mars, tlrc Sun, .Venus and the Ascendant in the l0th: all exceit Satuin in the llth and Saturn in the l2th, from their own places are rekhapradas. Rekhas in thc Asbtakoargl of Jupiter 'SN MN MRS MCy JUp VEN SAT ASC Number of Rekhas. I _ l I ! t : I 3 l 4 1 5 6 7 l 8 l 9 1 r0 I 1 l I 1 2 I I I l l l 1 I t , l I I 1 l 1 I I I tt I t l 1 l 1 JUP VEN t2 25 36 49 7to 811 100 llo 00 00 00 00 SN MN T2 25 37 49 7ll 80 ,90 100 11 0 '0 0 00 00 5 7 3. s 5 4 5 3 ^6' 7 t t Rekbapr",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 516571,
+        "match_text": "Moon in the 2nd",
+        "context": "lac1, bre rckhaPradas. Rchbrs in thc Ashtrlinvrrgl of Yeoue SN- MN MRS MCY JUP VEN SAT ASC Numbcr , of rekhas qri qi rfr fraP {gerrqrra qtdi'o ' , lTi\" gfrarrra:'t 6n{ WgFTq q lltqll 56'58. In thc Ashtakavarga of Veiius the Ascendant' vcnus and tbe Moon in the lst : the Ascendant, venus 1pd ttc Moon in the 2nd : thc Ascend&nt, venus' tle Moon, Mer.cury' Slturn and Mrrs in thc 3rd : the Ascendant' Venus' tbe Moor' Scturn and Mars in tnc 4th : the Ascendaut' Mercury' thc Hoon, Jupiter, Saturn and Venus in the 5th : Mercury and }f,rn in the 6th , ooo\" in the ?th : Vcnus' thc Sun' the Moon' ropii\"t, the Ascendant and Saturn inthe 8th : all exccpt the Sur' in'tho gtb : Ycous, il;it\"; uoO S\"tono in the loth : all in thc Itth : Man, the M#--\"\"4 iUt Sun in the 12th : from their t- 2 3 4 5 6 7 8l 9 t8 11 t",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 516775,
+        "match_text": "Venus in the 5th",
+        "context": "takavarga of Veiius the Ascendant' vcnus and tbe Moon in the lst : the Ascendant, venus 1pd ttc Moon in the 2nd : thc Ascend&nt, venus' tle Moon, Mer.cury' Slturn and Mrrs in thc 3rd : the Ascendant' Venus' tbe Moor' Scturn and Mars in tnc 4th : the Ascendaut' Mercury' thc Hoon, Jupiter, Saturn and Venus in the 5th : Mercury and }f,rn in the 6th , ooo\" in the ?th : Vcnus' thc Sun' the Moon' ropii\"t, the Ascendant and Saturn inthe 8th : all exccpt the Sur' in'tho gtb : Ycous, il;it\"; uoO S\"tono in the loth : all in thc Itth : Man, the M#--\"\"4 iUt Sun in the 12th : from their t- 2 3 4 5 6 7 8l 9 t8 11 t l? .l I 1 1 1 1 l 1 1 I I 1 I I I I 1 I 1 I I 3 J 6 5 6 2 l 6 7 3 8 3 1 I I l1 1l 11 lll 111 111 111 862 Brihat Parasara Hora Sastrc. Rekhapnda houses of Veirus SN MN MRS MCY JUP VEN SAT ASC 8133s131 11",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 517029,
+        "match_text": "Sun in the 12th",
+        "context": "ndaut' Mercury' thc Hoon, Jupiter, Saturn and Venus in the 5th : Mercury and }f,rn in the 6th , ooo\" in the ?th : Vcnus' thc Sun' the Moon' ropii\"t, the Ascendant and Saturn inthe 8th : all exccpt the Sur' in'tho gtb : Ycous, il;it\"; uoO S\"tono in the loth : all in thc Itth : Man, the M#--\"\"4 iUt Sun in the 12th : from their t- 2 3 4 5 6 7 8l 9 t8 11 t l? .l I 1 1 1 1 l 1 1 I I 1 I I I I 1 I 1 I I 3 J 6 5 6 2 l 6 7 3 8 3 1 I I l1 1l 11 lll 111 111 111 862 Brihat Parasara Hora Sastrc. Rekhapnda houses of Veirus SN MN MRS MCY JUP VEN SAT ASC 8133s131 11 2 4 5 8 2 4 2 123669353 0499t0484 0 5 1l lt 11 5 9 5 08t200810-8 0 9 0 0 0 9 11 g 0 ll 0 0 0 10 0 11 0.120061100 Rckhaprada houses in the Ashtakavargr of Saturn {ri <fanr1 EqT qrt3sqs{qr: r ' qrid' ErftrTrhl' *qq;qr<T: a{ qr",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 517826,
+        "match_text": "Sun in the 2nd",
+        "context": "l' *qq;qr<T: a{ qri ffir He utetl Erdsrri* qulsmtcalar: TF6rrTFir?r: I $qilrle{TFq fiil( €qntqe frg,rrqorr Rekhas in the Ashtakavarga of Saturn SN MN MRS MCy JUp VEN SAT ASC. Numbl.r . of rekhas \\ 1 . , 2 I l l 4 l 2 59-60. In the. Ashtakavarga of Saturn the sun and Ascendant in the Ist : the Sun in the 2nd : the Ascepdant, the Moon, Mars and Saturn in the 3rd : the Ascendant and the Sur,r jn the 4th : Jupiter, Saturn and Mars in the 5th : all except tl:re Sun in the 6th : the Sun in the 7th : the Sun and Mercury in the Sth : Mercury in the 9th: the Sun, Mgrs, the Ascendarrt antl Mercury in the 10th: all in the llth: Mars, Mercury, fupite,: rnd Venus,in the l2th from thefr own places, are rekhapradas. I I I I I I I I t l I 2 3 4 5 6 7 8 9 10 1t 12 I I 1 I I lt3 tlll7 l t l l l I 2 I 4 8 4 863 Chap",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Brihat_Parashara_v2": [
+      {
+        "position": 179877,
+        "match_text": "Moon in the 6th",
+        "context": "ग्रहा नेिाः सूयेशुक्रेन्दुराहिः। विशेषािाशकतारो दृष्ट्या िा भङ्गकाररणः॥११॥ 7-11. If Saturn and Mars aspect the ascendant as the luminaries join Rahu (elsewhere) the child will live only for a fortnight. Immediate death of the child along with its mother will occur if Saturn is in the 10th, the Moon in the 6th and Mars in the 7th. One will immediately go to the abode of Yama (the Hindu god of death) if Saturn is in the ascendant while the Moon and Jupiter are in their order in the 8th and the 3rd. Only a month will be the span of one's life who has the Sun in the 9th, Mars in the 7th and Jupiter and Venus in the 11th. All planets (i.e. any planet) in the 12th will be source of short life, specifically the luminaries, Venus and Rahu. But the aspect of one of these four planets (on the 12th) will",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 180143,
+        "match_text": "Sun in the 9th",
+        "context": "cur if Saturn is in the 10th, the Moon in the 6th and Mars in the 7th. One will immediately go to the abode of Yama (the Hindu god of death) if Saturn is in the ascendant while the Moon and Jupiter are in their order in the 8th and the 3rd. Only a month will be the span of one's life who has the Sun in the 9th, Mars in the 7th and Jupiter and Venus in the 11th. All planets (i.e. any planet) in the 12th will be source of short life, specifically the luminaries, Venus and Rahu. But the aspect of one of these four planets (on the 12th) will counteract such evils. Notes: One of the 4 planets among the Sun, Moon, Rahu and Venus in the 12th will contribute to premature end. If there is aspect of one of these on the 12th, Evils at Birth Page 79 the evils for premature death are checked. (This goes",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 180475,
+        "match_text": "Venus in the \n12th",
+        "context": "and Jupiter and Venus in the 11th. All planets (i.e. any planet) in the 12th will be source of short life, specifically the luminaries, Venus and Rahu. But the aspect of one of these four planets (on the 12th) will counteract such evils. Notes: One of the 4 planets among the Sun, Moon, Rahu and Venus in the 12th will contribute to premature end. If there is aspect of one of these on the 12th, Evils at Birth Page 79 the evils for premature death are checked. (This goes to prove that Rahu has aspects.). The Sun, however, in the, 12th for Libra ascendant will confer a life span of 100 years, vide shloka 16, Ch. 10, Infra. िािान्वितः शशी धमे द्यूनलग्नगतो यदि। शुभैरिेलक्षतयुतस्तिा मृत्युप्रिः लशशोः॥१२॥ 12. The Moon is capable of causing early end if she is 'with a malefic in the 8th, 7th or the as",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 184301,
+        "match_text": "Moon in the ascendant",
+        "context": "ातो मृत्युमाप्नोवत स विप्रेश न संशयः॥१८॥ 18. Early death will be inflicted on the native if decreasing Moon is in the ascendant while malefic capture the 8th and an angle. There is no doubt about that. िाियोमयध्यगश्चिो लग्नािान्वन्तमसप्तमः। अचचरान्मृत्युमाप्नोवत यो जातः स लशशुस्तिा॥१९॥ 19. The Moon in the ascendant, 8th, 12th or the 7th and hemmed between malefic will confer premature death. िािद्वयमध्यगते चिे लग्नसमाचश्रते। सप्तािमेन िािेन मािा सह मृतः लशशुः॥२०॥ 20. Should the Moon be in the ascendant hemmed between two malefic while the 7th or the 8th has a malefic in it, the child will face immediate death along with its mother. शनैश्चराकयभौमेषु ररष्फधमािमेषु च। Evils at Birth Page 81 शभैरिीक्ष्यमाणेषु यो जातो वनधनंगतः॥२१॥ 21. Should Saturn, the Sun and Mars be in the 12th, 9th and 8th with",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 186611,
+        "match_text": "Saturn in the 4th",
+        "context": "if the Sun is exalted or debilitated in the 7th. Evils at Birth Page 82 Notes: For an Aries native, if the Sun is in the 7th in debilitation, or in the 7th in exaltation for a Libra native it deprives one of mother's milk. The 7th rules the 4th from the 4th and hence the 7th is referred to. Saturn in the 4th house will also deprive one of mother's milk. Atmakaraka in Scorpio Navamsha will produce similar effects. For a definition of Atmakaraka, see Ch. 32, Infra. चिाच्चतुथयगः िािो ररिुक्षेिे यिा भिेत्। तिा मातृिधं कुयात् केिे यदि शुभो न चेत्॥२८॥ 28. Should a malefic be in the 4th, identical with an inimical sign, counted from the Moon while there is no benefice in an angle, the child will lose its mother in a premature manner. द्वािशे ररिुभािे च यिा िािग्रहो भिेत्। तिा मातुभयं विद्याच्चतुथ",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 187389,
+        "match_text": "Mercury in the 2nd",
+        "context": "िग्रहो भिेत्। तिा मातुभयं विद्याच्चतुथे िशमे पितुः॥२९॥ 29. Malefic in the 6th and 12th will bring evils to mother. The child's father will receive similar-effects if the 4th and 10th are captured by malefic. लग्ने क्रूरो व्यये क्रूरो धने सौम्स्तथैि च। सप्तमे भिने क्रूरः िररिारक्षयंकरः॥३०॥ 30. Mercury in the 2nd while malefic occupy the ascendant, 7th and 12th: this yoga will destroy the entire family. लग्नस्थे च गुरौ सौरौ धने राहौ तृतीयगे। इवत चेञ्जन्मकाले यान्माता तय न जीिवत॥३१॥ 31. Jupiter, Saturn and Rahu respectively posited in the ascendant, 2nd and 3rd will cause mother’s death early. क्षीणचिापत्त्िकोणस्थैः िािैः सौम्वििलजयतैः। माता िररत्यजेद्बलं षण्मासाच्च न संशयः॥३२॥ 32. Doubtlessly the mother will give up the child if it has malefic in trines counted from the decreasing Moon. No bene",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 189526,
+        "match_text": "Mars \nin the 10th",
+        "context": "जातय पिता शीघ्रं न संशयः॥३८॥ 38. Early and doubtless will be one's father's death it Mars is in the 10th identical with his enemy's sign. Notes: Mercury is the sole enemy of Mars, vide Ch. 3, verse, SS. Mercury's camps are Gemini and Virgo. Hence, for a Sagittarius native or for a Virgo native, Mars in the 10th (alone) will cause early death of father. ररिुस्थाने यिा चिो लग्नस्थाने शनैश्चरः। कुजश्च सप्तमे स्थाने पिता तय न जीिवत॥३९॥ 39. The Moon in the 6th, Saturn in the ascendant and Mars in the 7th: this array of heavenly bodies at birth will not ensure a long span of life for the father. भौमांशकस्थस्थते भानौ शवनना च वनरीलक्षते। प्राग्जन्मनो वनिृत्तत्तः यान्मृत्युिाऽपि लशशोः पितुः॥४०॥ 40. If the Sun is aspected by Saturn and be in Aries/Scorpio Navamsha, the father would have given up the fam",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 193072,
+        "match_text": "Jupiter in the ascendant",
+        "context": "e in an angle from the ascendant, all evils are destroyed as the Sun eliminates darkness. एक एि बली जीिो लग्नस्थो ररिसंचयम्। हन्वन्त िािक्षयं भक्त्या प्रणाम इि शूललनः॥३॥ 3. Just as a single reverential obeisance before Lord Siva, the Trident holder, frees one from all sins, a single but strong Jupiter in the ascendant will ward off all the evils. Notes: In the case of Capricorn ascendant, Jupiter therein should be exceedingly strong by other virtues, as otherwise he can lead to short-life. For, sago Bhrigu specifically hints at Madhyayu or medium span of life with Jupiter in the ascendant identical with debilitation or inimical sign or malefic, sign. एक एि विलग्नेशः केिसंस्थो बलान्वितः। अररिं वनखखलं हन्वन्त पिनाकी पििुरं यथा॥४॥ 4. The ascendant lord is singly capable of counteracting all evils if he",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 193352,
+        "match_text": "Jupiter in the \nascendant",
+        "context": "a single but strong Jupiter in the ascendant will ward off all the evils. Notes: In the case of Capricorn ascendant, Jupiter therein should be exceedingly strong by other virtues, as otherwise he can lead to short-life. For, sago Bhrigu specifically hints at Madhyayu or medium span of life with Jupiter in the ascendant identical with debilitation or inimical sign or malefic, sign. एक एि विलग्नेशः केिसंस्थो बलान्वितः। अररिं वनखखलं हन्वन्त पिनाकी पििुरं यथा॥४॥ 4. The ascendant lord is singly capable of counteracting all evils if he is strongly placed in an angle just as Lord Siva, the holder of Bow, destroyed the three cities (built of gold, silver and Iron by Maya for the demons). शुक्लिक्षे क्षिाजन्म लग्ने सौम्वनरीलक्षते। वििरीतं कृष्णिक्षे तथाररिविनाशनं॥५॥ 5. All evils are destroyed if a benefice asp",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 194381,
+        "match_text": "Sun in the 12th",
+        "context": "cond statement does not imply evils to longevity if a benefice aspects the ascendant for a day-birth in Krishna Paksha (or dark-half). That is however not enough, if exists, but a malefics aspect is required. व्ययस्थाने यिा सूययस्तुलालग्ने तु जायते। जीिेत् स शतिषाणण िीघायुबालको भिेत्॥६॥ 6. The Sun in the 12th will confer a hundred-year life span on one born in Libra ascendant. गुरुभौमौ यिा युतौ गुरुदृऋटोऽथिा कुजः। हत्वाऽररिमशेषं च जनन्याः शुभक्रि्भिेत्॥७॥ 7. It will prove auspicious for the mother as well as the native if Mars joins or is aspected by Jupiter. चतुथयिशमे िािः सौम्मध्ये यिा भिेत्। पितुः सौख्यकरो योगः शुभैः केिपिकोणगैः॥८॥ 8. Though malefic in the 4th/10th are a source of evil for the father, they turn auspicious if hemmed by benefices or if benefices are in trines or in angles:",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 207935,
+        "match_text": "Moon in the ascendant",
+        "context": "Notes: \"Rajalakshana\" means mark of fortune. There are 32 Lakshana of Major categories in Samudrika Shastra or physiognomy. Some of these could be found in Ch. 81 of our present work (Vol. II). If Mercury, Jupiter or Venus be in 4th, 7th or 10th from the ascendant, or be in the company of the Moon in the ascendant, the native will enjoy royal fortunes, ससौरे सकुजे िापि लग्ने मेषे िृषे हरौ। राश्यंशसदृशौ गािे स जातो नालविपितः॥८॥ 8. CHILD BIRTH: If there be a birth in one of Aries, Taurus and Leo ascendants containing either Saturn or Mars, the birth of the child is with a coil around- The corresponding limb will be in accordance with the Rashi or Navamsha rising, Notes: This rule applies to only three ascendants, viz. Aries, Taurus and Leo. Mars or Saturn should be in the ascendant. The limbs indica",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 214575,
+        "match_text": "Mercury in the 2nd",
+        "context": "use. If the lord of the 2nd is in the 2nd or is in an angle or in a trine, he will promote one's wealth (or monetary state). Should he be in the 6th/8th/12th, financial conditions will decline. A benefice in the 2nd will give wealth while a malefic instead will destroy the same. Notes: Venus or Mercury in the 2nd will be favourable for wealth, while Jupiter will not be wholly auspicious. If however, Jupiter is in the 2nd ruling the 2nd, then financial aspects will be smooth. That is why the sage specifically mentions this fact in the next shloka. It does not mean that Jupiter, otherwise in the 2nd will be wholly harmful. This denotes a problematic situation in money matters. Various authors have given different views in their works for a summary of which the reader may switch over to page 491 of m",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 218832,
+        "match_text": "Jupiter in the 11th",
+        "context": "e financial losses through penalties, fines etc. imposed by the government, in the modern context. Monetary deficiencies will as well persist throughout. Effects of Second House Page 99 लाभे जीिे धने शुक्रे धनेशे शुभसंयुते। व्यये च शुभसंयुते धमयकाये धनव्ययः॥९॥ 9. EXPENSES ON GOOD ACCOUNTS: Jupiter in the 11th, Venus in the 2nd, and a benefice in the 12th while the 2nd lord is conjunct a benefice there will be expenses on religious or charitable grounds. स्वभोच्चस्थे धनाधीशे जातको जनिोषकः। िरोिकारी ख्यातश्च विज्ञेयो दद्वजसत्तम॥१०॥ 10. FAME ETC.: If the 2nd lord is in own sign or is exalted the native will look after his people, will help others and will become famous. Notes: Our text requires the 2nd lord to be in exaltation or in own sign so that the native will look after his people & C. I",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 221888,
+        "match_text": "Venus in the 2nd",
+        "context": "ly lord over right eye and left eye respectively. This is from the health point of view of eye. However, when the beauty of the eyes is to be known, it is from the 2nd house only. Jupiter well placed in the 2nd, or the 2nd lord in exaltation or with a benefice will give one beautiful eyes. While Venus in the 2nd or Full Moon in the 2nd will not deprive one of beautiful eyes, defects of sight at an early stage will result from the said position. Mercury in the 2nd will have a say on the speech rather than on the sight. Hence Jupiter’s position in the 2nd is a safe bet for strong sight and beauty of the eyes, if the planet is not with evils of fall and the like. धनेशे िािसंयुते धने िािसमन्विते। पिशुनोऽसत्यिािी च िातव्यात्तधसमन्वितः॥१३॥ 13. UNTRUTHFUL PERSON: If the 2nd house and its lord are conju",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 226714,
+        "match_text": "Jupiter in the 3rd",
+        "context": "s occupied by female planets. This should be known from the 3rd house being male or female sign & C. If the 3rd house is occupied by a male planet as well as a female planet, there will be brothers and sisters as well. The contribution will come to pass if the contributor is strong. For example, Jupiter in the 3rd in a male sign if strong will cause the birth of a brother. If he is weak, acquisition of brother through Jupiter will not be fruitful. Then one has to look up to alternative sources whether the native will have a brother or not. मृतौ कुजतृतीयेशौ सहोिरविनाशकौ॥५॥ केिपिकोणगे िाऽपि स्वोच्चवमिस्विगयगे। कारके सहजेशे या भ्रातृसौख्यं विवनदियशेत्॥६॥ 5-6: Should the 3rd lord and Mars be together in the 8th, destruction of co- born will result. Happiness in this respect will come to pass if Mars o",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Phaladeepika": [
+      {
+        "position": 79071,
+        "match_text": "Moon\nin the\n4th",
+        "context": "trograde motion. In planetary war, those that are posited in the north and who have got brilliant rays should be con' sidered as victorious. Planets have their full Uchcha bala when in their highest exaltation. As re- gards directional strength, the Sun and Mars are strong in the 10th Venus and the Moon in the 4th; Mercury and Jupiter in the 1st and Saturn in the 7th. Mercury, Saturn and the Moon have their Ayana bala in their southerly course. The rest have the same in iheir northern. srtTP 'srgi’Tgisnrgyri^’Ti^T-. i ii^ii Sloka 3.—The strength accruing to a planet in the sr> SI. 4-5 six Vargas {viz. Rasi, Hora, Drekkana, Navamsa, Dwa- dasamsa and Trimsamsa) on a consid'eration of its be- ing posited in its exaltation, its own and its friendly- signs, etc., is termed its positional strength. That aris-",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 99903,
+        "match_text": "Moon in the\n12th",
+        "context": "le, tUe bun, the Moon and the Lagna are in odd signs, the (Mahabhagya) Yoga is formed. The same Yoga in the case of females will arise when the birth is at night and the Sun, the Moon and the Lagna are posited in even signs. The Moon in a Kendra position to Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house from Jupiter causes (Sakata). Bui if the Moon be in a Kendra house from the Lagna, there is no (Sakata). The {Adhama), (Sama) and (Varishtha) Yogas are formed when the Moon occupies respectively a Kendra, a Panaphara and an Apoklima house counted from the Sun. fkt jl\": ?rvTgq*Trm m \\\\W\\ Sloka 25,—The person who has his birth in a (Mahabhagya) Yoga will cause immense pleasure to all people, by his mere appearance, will be very liberal in his gifts and famous. He will be.arul^r",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 137742,
+        "match_text": "Sun in the 11th",
+        "context": "rth, the Sun should occupy the 9th house, the person concerned will lose his father; he will have children and relations and will revere Gods and Brahmins. If he occupies the lOth^ house, the person will have sons, vehicles, laudation, intelligence, wealth, strength and fame. He will be a King. The Sun in the 11th house will make the person born very wealthy and long-lived. He will be a King and vdll have no sorrow. If the Sun be in the 12th house, the person born will hate his father. His eye- sight will be defective and he will be without wealth and children. ^ Sloka 5 . If at a person's birth, the Moon be waxing and happens to be in the first house, the person con- cerned will possess a strong constitution and a long lease of life. He will be free from fear, very powerful and wealthy. But if the Moon",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 141061,
+        "match_text": "Mars\nin\nthe\n7th",
+        "context": "irth be in the 5th house, the SI. 10-11 , 67 person concerned will be^unhappy, without children, lull of reverses, back-biting and weak-minded. If Mars occupy the 6th house, the person born will be ex- ceedingly smitten with love, wealthy, and famous : he will be a King and victorious (in battle). Mars in the 7th house makes the person born do improper acts, suffer affliction through disease, wander in the roads and lose his wife. If Mars be in the 8th house, the person born will have a deformed body, will be poor, short-lived and cursed by the people. Sloka iO. --If Mars occupy the 9th house at a pei- son's birth; the native will, though a friend of the sove- reign, be hated by others ; he will be fatherless and will commit homicide. Mars in the 10th house makes the person born a King cruel, liberal an",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 141507,
+        "match_text": "Mars\nin\nthe\n10th",
+        "context": "in the 8th house, the person born will have a deformed body, will be poor, short-lived and cursed by the people. Sloka iO. --If Mars occupy the 9th house at a pei- son's birth; the native will, though a friend of the sove- reign, be hated by others ; he will be fatherless and will commit homicide. Mars in the 10th house makes the person born a King cruel, liberal and prais- ed by important people. If at a birth Mars should be in the 11th house, the person concerned will be endowed with riches and happiness. He will be brave, will have no sorrow and possessed of good characte::. When Mars occupies the 12th house at a birth, the person concerned will have deformed eyes ; he v/ili be cruel, and without a wif3. He will baa slanderer arni a mean wretch. 5^5:: ^rmf: ?T!sTm TT^flr^?^T3rsri?qT4-4Tt*fT ii ii SIok",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 142909,
+        "match_text": "Mercury\nin the 6th",
+        "context": "learned, witty in speach happy and possessed of friends, lands, corn, wealth and enjoyment. iilkii Sloka 12 ,—If Mercury be in the 5th house at a birth, the person concerned, will be learned, happy and courageous. He will have a good number of children and will be conversant with charms or spells. Mercury in the 6th house makes the person born angry through disputes, harsh in speach and idle. The native will destroy the power of his enemies. When Mercury occu- pies the 7th house, the person born will be learned ; he will dress himself beautifully, will have all the great- ness, and will have a rich lady as his wife. If Mercury should be posited in the 8th house at a birth, the person concerned will be widely renowned, and long- lived ; he will be the supporter of his family, a lord and a commander of the a",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 143907,
+        "match_text": "Mercury\nin the\n11th",
+        "context": "ood conduct ; he will be religious-minded, conversant with every- thing, and very ^eloquent in speech. If Mercury be in the 10th house, the person born will be successful in whatever he undertakes, will have good learning, strength, intelligence, and happiness. Ha will do good acts and be truthful. Mercury in the 11th house makes the person born long-lived, truthful, very rich, happy and possessed of servants. Jf Mercury be in the 12th house, the person born will be miserable, devoid of learning, suffer humiliation, will be cruel and inactive. sr?ftrr4^3r: 5Tt4S4^^vfir- Illy II Sloka 24. —If at a birth Jupiter should be posited in the Lagna, the person concerned will be handsome, for- tunate, long-lived, fearless, and blessed with children. If Jupiter occupy the 2nd house, the person born will be eloquent, a",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 144889,
+        "match_text": "Jupiter in the 5th",
+        "context": "ated with disrespect, will be miserly, will have a renowned brother, will commit sins, and will be wickedly-disposed. When Jupiter occupies the 4th house, the person born will live with his mother, friends, attendants, sons, wife, corn, etc. and be happy. 3%: -epTmiT ^4^4 ^0 Adh. Vlll Slot-;! 15 .—Jupiter in the 5th house ^t a birth makes the native suffer distress through sons. The person will be intelligent and will be a king's adviser. If Jupiter should occupy the 6th house at a birth, the person concerned will be very inactive, suffer dis- respect, destroy his enemies, and clever in charms and exorcising. If Jupiter be in the 7th house, the person born will possess a good wife and sons. He will be very amiable, and more munificent than his father. If Jupiter be posited in the 8th house, the person born",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 146534,
+        "match_text": "Venus in the 3rd",
+        "context": "lts;«n?T: fTwirfiT^ fir^ ii^vsii Sloka 17 . If Venus should occupy the Lagna at a person's birth, he will hasre a healthy and beautiful body; he will be happy and endowed with long life. When Venus 9ccupies the 2nd house, the person born, will become a poet and endowed with riches of various kinds. Venus in the 3rd house at birth makes the native wifeless, unhappy, poor, miserly and un- popular. If Venus should be in the 4th house at a birth, the native will have good vehicles, good house jewels, clothes, scents, etc. 3T?irfwi^?rVT^ ^<T 5JTf^JTIrIT% ^TlrffST ’JVTPTir^fiTTIrf JT^ ^TT=TnrfiT?7Tf^q' ^if^vTrT: Il'Cll ^ • Sloka 18.— li Venus be in the 5th house at a birth,, the person concerned will be the owner of immense wealth, will protect others, will be very wise and bless- ed with children. When Venus o",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 147359,
+        "match_text": "Venus in the\n8th",
+        "context": "he 6th house, the person born will have no enemies, no riches, will be corrupted by young females and affected by grief. If Venus should be posited in the 7th house at a birth, the person concerned will have a good wife but will have intrigues with bad women. He will lose a wife and willbe wealthy. Venus in the 8th house makes the native long-lived, rich, and a ruler of the earth. . Adh. VI II Shkij 19 .—If Venus occupy the 9th house at a birth, the person concerned v/ill be blessed with a wife, friends and children, and will become prosperous through royal favor. If Venus should be in the 10th hoiise/ihe per:jOU born will become widely renowned, will have friends, and will be a lord happily employed. Venus in the 11th liouse makes the person born rich, fond of the company of other females and endowed wi",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 147771,
+        "match_text": "Venus in the 11th",
+        "context": "Venus occupy the 9th house at a birth, the person concerned v/ill be blessed with a wife, friends and children, and will become prosperous through royal favor. If Venus should be in the 10th hoiise/ihe per:jOU born will become widely renowned, will have friends, and will be a lord happily employed. Venus in the 11th liouse makes the person born rich, fond of the company of other females and endowed with many comforts. When Venus occupies the 12th house, the person born will have sexiial enjoyment, wealth and splendour. p;?rrs^;^ ‘fl-'rfrr i n:?r !^Tfeii;^gr5Tm ir<oii UIok:: 20.— li at a birth Saturn occupies his exalta- tion or own house identical with the Lagna, the person Concerned will be on a par with the king, a chief or mayor of a city. If Saturn should be rising in any other Ra^i, the person born wi",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 149518,
+        "match_text": "Saturn in the\n7th",
+        "context": "be loaming about, will have lost his reason, will be bereft of children, wealth and happiness, will be perfidious and evil-minded, When Saturn occupies the 6th house, the person born will be a voracious eater, will be wealthy, subdued by his enemies, will be stubborn and possessed of self-respect. Saturn in the 7th house will cause the native to be wedded to a bad wife, to be poor, roaming and be distressed. Shkci 23 .—The person at whose biith Saturn is in ihe 8th house will be unclean and without wealth. He will suffer from piles, will be cruel-minded, will be pinched with hunger and will be despised by his friends. JT!=Wr ^rr ^q-Frrvj^r irfe:^T:’T=T't I ^{Tr firaifi R'jrRrRrr: ir<yii Sloka 24 .—The person at whose birth Saturn is” in the 9th house will be bereft of fortune, wealth children, lather and",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 150276,
+        "match_text": "Saturn\nin\nthe\n11th",
+        "context": "use will be bereft of fortune, wealth children, lather and religious merit. He will be wicked. If 94. q^5!^^?TT- Adh. vills Saturn should occupy the 10th house, the person born will be a king or his minister, will devote himself to agriculture, will be brave, rich and renowned. The person vyho has Saturn in the 11th house in his nativity will have a long span of life, lasting wealth and good income, will be br&ve, free from disease and moneyed. Saturn in the 12th house makes the native impudent, indigent, without children, defective of some limb, stupid and driven out by his enemies. lie'll! Shka 25.— If at a birth Rahu occupy the Lagna, the person concerned will have a short life, possess wealth and strength, and will suffer from diseases in the higher limbs of his body (head, face, etc). The person who h",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 180800,
+        "match_text": "Mercury in the 7th",
+        "context": "|:^«rJ^ i ii^ii Sloka 6. The following 4.xoga? lead to family ex- tinction : ( 1 ) The 4th, the 7th and' the 10th houses in my nativity being occupied respectively by a malefic planet, Venus and the Moon ; (2) the 12th, the 8th the Sth and the first houses being oocupied by malefics ; (3) Venus and Mercury in the 7th, Jupiter in the Sth and malefics in the 4ih houses ; and (4 ) the Moon in the Sth and malefics in the Sth, the 12th and the Ist. SI.8--10 no Sloka /.““The following two yogas lead to affliction through children or barrenness f (1) a malefic in the Lagna, its lord in the 5th. the lord of the 5th in the 3rd, and the Moon in an odd Rasi or Amsa in the 5th and aspected by the Sun. ^^TicTTir: f%Tar: ikii Sloka 8, If the 5th bhava be a sign owned by Saturn or Mercury and is aspected by or associated",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 236504,
+        "match_text": "Moon in the\n4th",
+        "context": "bvoihc*/, father, son, etc,, o! a Bhava should tlius be divined bv d .refererica to the particular Bhava and its KcnaUa When any Bhava, its iojd and its Karsdoi a: j a!! strong, one ought to predict good effects (happiness for that Bhava. ! Sl'o/cc 2s3.—But others say that tho Sun in the Qi ’p the Moon in the 4th, Mars in the 3rd, Jupiter in the 5th Venus in the 7th and Saturn in the Sth, will cause disaess to the Bhavas concerned. Adh. XV sy?i»irTt t.^ < ^1% cTft% *T?rvrT!% %5T *nir?T ii^v^sii Shka 27.— The lord ol the Lagna produces the eiiects j!)ertaining to the Bhava with whose lord he is conjoined, or the one occupied by him. If the Bhava or its lord be strong, goodwill result from that Bhava; ii weak, one has to expect only untoward things. gvr ra?T;s^ 53 - 1 jq?5?!7t ?r^#t5r¥rR»Tra»Ti f?rmf^7fr",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Saravali": [
+      {
+        "position": 91019,
+        "match_text": "Mars in the 10th",
+        "context": "्करि- बंन्धाविन्दुसितो दिशाकृतमिदं स्वोच्चे स्वकोणे स्वभे । मित्रस्वांशकसंस्थितः शुभफलेहं set बलीयान्‌ ग्रहः सत्रीक्षेत्रे शशिभागवो नरगृहे शेषा बले स्थानजे ॥३५॥ 35. DIRECTIONAL AND POSITIONAL STRENGTHS : Jupiter and Mercury have directional strength while in the ascendant (i.e. East), the Sun and Mars in the 10th (i.e. South), Saturn in the 7th (1.6. West) and the Moon and Venus in the 4th (ie. North). If a planet is in exaltation, Mulatrikona, own house, friendly house or own Navamsa and aspected by a benefic, it assumes strength. The Moon and Venus are strong in even Rasis while the rest are so in odd Rasis. This is called positional strength. _ Notes: Digbala or directional strength is found thus : Take the case of Jupiter. He gets full strength, under this heading, of 60 shashtiamsas, if he is on t",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 129160,
+        "match_text": "Sun in the 10th",
+        "context": "and promotes the pros- perity. Neither the mutual aspect between the Sun and Saturn shall be adverse in this case. तुद्भसुहत्खग॒हांशे स्थिता ग्रहाः कारकाः समाख्याताः 1 age च रविरिति विशेषतो वक्ति चाणक्यः nan 3. Planets posited in exaltation, friendly Rasi, own Rasi or Amsa also become Karakas. The Sun in the 10th as above becomes greatly significant. This is Chanakya’s opinion, लग्नस्थाः सुखसंस्था दशमस्थाइचापि कारकाः सर्वे | एकादशे5पि केचिद्राञ्छन्ति न तन्मतं सुनीन्द्राणाम्‌ ॥४॥ 4. Planets though not in Vargas like own house become Karakas if they are in Lagna, 4th, 10th or even the 11th. But this view is not acceptable to great sages. Note: The author thus does not subscribe to this view. नीचकुले aya: कारकविहगेः प्रधानतां याति। क्षितिपतिवंशतमुत्थो भवति नरेनद्रो न सन्देहः ॥५॥ कारकमभेदो बलवान्मूलं य",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 148454,
+        "match_text": "Mercury in 7th",
+        "context": "aspecting a planet falling in common Navamsa (d) Mercury in Virgo Navamsa aspecting acommon sign which ascends (०) Mercury in Gemini Amsa aspecting a planet in Gemini Amsa or Sagittarius Amsa (f) Mercury in Gemini Navamsa aspecting the Lagna which falls in Gemini Navamsa or Sagittarius Navamsa, (g) Mercury in 7th aspecting a planet in Kanya or Mina Navamsa or aspecting ====== PAGE 97 ====== Chapter 8 93 such Lagna Navamsa. Combinations (a) and (b) lead to birth of triplets-one female and two males. Combinations (c) and (d) cause birth of triplets consisting of two females and one male. Combinations at (e) and (f) cause three male children while the ones at (g) indicate three female children. दिवसे मातापितरौ शुक्रबी शशिशनी निश्ञायां च । मातुभगिनोपितृग्यौ विपयंयात्‌ कोतितो यवनैः । २७ ॥ 27. MOTHER, FA",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 154006,
+        "match_text": "Mars in\n4th",
+        "context": ". the female concerned dies. The same effect prevails if the said ascendant and the 7th are occupied by malefics and be without benefic aspect or if the said ascendant is occupied by Saturn and weak Moon aspected by Mars. Again similar effects shall come to pass if weak Moon and the Sun are in 120, Mars in 4th while Venus is between two malefics. Both the child in the womb and its mother leave this world if malefics occupy the 4th from the said ascendant or from the Moon while Mars is ====== PAGE 100 ====== 96 Saravali in the 7thor Lagna. The same result follows if Mars is in 4th, Sun in 12th and the Moon be decreasing and be with malefic aspect. If the Sun is in Lagna while the Moon is weak or if Mars is in Lagna while malefics are in 12th and 2nd with- out benefics’ aspect, death occurs of the",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 154299,
+        "match_text": "Sun in 12th",
+        "context": "n 120, Mars in 4th while Venus is between two malefics. Both the child in the womb and its mother leave this world if malefics occupy the 4th from the said ascendant or from the Moon while Mars is ====== PAGE 100 ====== 96 Saravali in the 7thor Lagna. The same result follows if Mars is in 4th, Sun in 12th and the Moon be decreasing and be with malefic aspect. If the Sun is in Lagna while the Moon is weak or if Mars is in Lagna while malefics are in 12th and 2nd with- out benefics’ aspect, death occurs of the mother along with child. The Sun in the 7th at Adhana while Marsis in Lagna, takes away the child along with its mother through instru- ments. Notes : Please see the folowing addition causing death of the carrying woman : If the 12th house from Adhana Lagna has malefics, according to Garga,",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 154547,
+        "match_text": "Sun in the 7th",
+        "context": "r Lagna. The same result follows if Mars is in 4th, Sun in 12th and the Moon be decreasing and be with malefic aspect. If the Sun is in Lagna while the Moon is weak or if Mars is in Lagna while malefics are in 12th and 2nd with- out benefics’ aspect, death occurs of the mother along with child. The Sun in the 7th at Adhana while Marsis in Lagna, takes away the child along with its mother through instru- ments. Notes : Please see the folowing addition causing death of the carrying woman : If the 12th house from Adhana Lagna has malefics, according to Garga, the female dies before deli- very. Should the Sun and weak Moon be in the 121}, Venus hemmed between malefics while Mars occupies the 4th, the female soon quits the world. Malefics in the 4th from Lagna or the Moon in Adhana chart causes the same eff",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 161038,
+        "match_text": "Moon in the 7th",
+        "context": "a Page 50. व लग्ने शनेश्चरशि शर्नेइचरे aan यदि निषेकः | वर्षत्रयेण सुतिर्दादशभि: स्याच्छशिनि चेवम्‌ vei 49. BELATED DELIVERY (PREGNANCY): Should a navamsa of Saturn rule the Nisheka Lagna and Saturn be in the 7th, the delivery takes place after three years. If Cancer be the Navamsa Lagna with the Moon in the 7th (from Rasi lagna) delivery occurs after twelve years. Notes: As per tne first part of the sloka, Saturn should occupy the 7th bhava from the ascendant while Capricorn Navamsa or Aquarius Navamsa be in Lagna. Then, the sexual act does not promote conception for 3 years to eome. Similarly if Cancer be the Lagna Navamsa while the Moon occupies the 7th from Lagna, the conception is delayed for 12 years. ` Some translators interpret this sloka as well as the identical ones from Brihat Jataka and S",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 164536,
+        "match_text": "Moon in the 12th",
+        "context": "hall further explain yogas affecting the eyes. Should the 12th be occupied by waning Moon, left eye is destroyed and if by the Sun, it is the right eye. If, how- ever, benefics aspect (the said 12th and the Sun/Moon), then by (suitabje) efforts, the eye can be repaired. Notes : Normally the Sun or Moon in the 12th or 2nd from Lagna, causes eye defects. If Cancer rises and the Sun be there, one can find floral mark in the native’s eye. क्ररंगू हसन्धिगते: शशिनि aa भौमसौररविहष्टे । qe: सौम्येहष्टे वाचं कालान्तरे वदति॥ ५६॥ 56. YOGAS FOR DUMBNESS : If malefics are in (ह्वा Sandhi aud the Moon is in Taurus aspected by Mars, Saturn and the Sun, the native born will be dumb. If however there is benefic’s aspect, the person speaks latter on. arg राशिसन्धिषु शशी न सौम्ये नि रक्ष्यते च जडः 1 बुधनवमभागसंस्यौ शनिभ",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 181242,
+        "match_text": "Moon in the 4th",
+        "context": "The luminaries along with malefics not receiving the aspect of Jupiter. (d) The Sun, the Moon and Jupiter simultaneously in fall while Saturn is in Lagna and Lagna, Moon and Venus not being in aspect to Jupiter. Notes : The following are additional traditional rules for illegal births : (1) The Moon in the 4th and in aspect to malefic or ini- mical planets. (2) Lords of the 3rd, 6th, 2nd and 5th occupying the ascendant. (3) Saturn in the 10th, malefics in Lagna while benefics are confined to,the 7th. (4) Mars and Venus in the 3rd while the Moon is in Lagna (5) Sun in the ascendant and Rahu in the 4th. (6) Sun and Moon in Lagna or Sun and Mars in 7th. (7) Lagna with Mars and Rahu while the luminaries are in the 7th. (8) No planets in angles. (9) All planets relegated to 2nd, 6th; 8th and 12th (10) Lor",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 181465,
+        "match_text": "Venus in the 3rd",
+        "context": "The following are additional traditional rules for illegal births : (1) The Moon in the 4th and in aspect to malefic or ini- mical planets. (2) Lords of the 3rd, 6th, 2nd and 5th occupying the ascendant. (3) Saturn in the 10th, malefics in Lagna while benefics are confined to,the 7th. (4) Mars and Venus in the 3rd while the Moon is in Lagna (5) Sun in the ascendant and Rahu in the 4th. (6) Sun and Moon in Lagna or Sun and Mars in 7th. (7) Lagna with Mars and Rahu while the luminaries are in the 7th. (8) No planets in angles. (9) All planets relegated to 2nd, 6th; 8th and 12th (10) Lords of Lagna and 7th in conjun- tion. (11) Lords of Lagna and 4th in exchange (which is other- wise a Raga yoga). (12) Lagna and Moon not belonging to any Varga of Jupiter. (13) The Sun, Moon and Jupiter together in Lagna whi",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 182298,
+        "match_text": "Jupiter in the 4th",
+        "context": "in fall. (14) Karakamsa Lagna, related to only malefics. (15) Any one group of the following prevalent at birth : (a) Sunday-Dvitiya Thithi-Swati Nakshatra (b) Wednesday-Saptami-Revati, (c) Sunday-Dvadasi-Dhanishta. Some Of these combinations do not call for literal applica- tion. In this context Jupiter in the 4th or Mars aspecting Jupiter ====== PAGE 115 ====== -Chapter 9 lil or any Kendra occupied by a planet or Lagna Lord in Lagna or benefics aspecting the ascendant or Jupiter and Moon in mutual Vargas or the Sun and the Moon in exchange cancel the combi- nations for illegal birth. । क्लेशो मातुः क्ररबंन्ध्वस्तगत: शशा ङ्ुयुक्तर्वा । चन्द्रात्‌ सप्तमराश्ञौ पापा मरणाय वक्रसन्हष्टाः ३४॥ amen भाुर्मातुमंरणं करोति पापयुत:। शुक्रात्‌ पञ्चमनवमे सौरियुतस्तेन वा हृष्टः ।। ३५ ॥ चन्द्रात्त्रकोश राशी रविजो म",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 183113,
+        "match_text": "Sun in the\n10th",
+        "context": "ो मातुवंधं feafa रात्रौ । शुक्रात्तथेव दिवसे भौमः पापेन सन्हष्टः॥ ३६ ॥ 34-36. EVILS TO MOTHER: If the Moon is in the 4th or 7th along with malefics, it is evil to mother. The native’s mother dies (immediately after delivery) if there are malefics in the 7th from the Moon, and aspected by Mars, The Sun in the 10th from the Moon along with malefics indicate death of the mother. The same effect prevails if the Sun is in the 5th or 9th from Venus (??) and with Saturn’s company or aspect. If birth takes place during night time while Saturn occupies Sth or 9th from the Moon, the mother soon leaves the world. For a day birth, if Mars is the Sth or 9th from Venus and aspected by malefics, the mother dies (early). Notes : According to Jataka Sarvasva, should the Sun be in the 5th or the 9th from the Moon and be",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 184849,
+        "match_text": "Mars in the 7th",
+        "context": "turnin 11th bring similar effects. Should a benefic aspect such combinations, the child is rescued by the respective relative. Both malefics and benefics aspecting indicate death in the hands of others. Saturn and Mars joining in the same Amsa indicate that the child will be forsaken by the mother. Mars in the 7th from the ascendant in aspect to Saturn produces similar effects. यादुक्पश्यति सौम्यस्तत्तुल्यगुणं सुतः समाधत्ते। पितृजननोसादृश्यं रवेः श्ञाङ्कस्य बलयोगात्‌ ॥ ४१ ॥ 41. RESEMBLANCE DESCRIBED : The child acquires the qualities corresponding to the benefic’s aspects. Should the Sun be strong, it resembles the father, If the Moon be so, resemblance is that of the mother. सिहाजगोभिरुदये जातो नालेन वेष्टितो जन्तुः । लग्ने BST सौरे रष्यंश्ञसमानगात्रे च| ४२॥ 42. BIRTH WITH COIL AROUND: When Leo, Arie",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 195398,
+        "match_text": "Saturn in the ascendant",
+        "context": "the natal decanate’s lord. The native, dies 11 11 days, if the said Aquarius. is occupied by the lord of - Navamsa Lagna सारयति षोडशाहै: शनेइचरः पापवीक्षितो लग्ने । संयुक्तो मासेन तु वर्षाच्छुदस्तु मारयति॥ १६॥ 19, If Saturn isin the ascendant in aspect to malefics? longevity is only 16 days; if Saturn in the ascendant is in’ the company of malefics, death occurs ina month and if he is alone in the ascendant without malefic connections, the child lives for one year. Notes: Saturn alone in Lagna identical with Libra, Sagittarius, Capricorn, Aquarius or Pisces is not adverse for longevity. His lonely occupation in other Lagnas are pronoun- cedly harmful for longevity. According to Sage Jambunada’s Jambu Nadeeyam, one with Saturn in ascendant identical with Libra, Sagittarius, Pisces, Aquarius or Capricorn will",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 195832,
+        "match_text": "Saturn in ascendant",
+        "context": "nections, the child lives for one year. Notes: Saturn alone in Lagna identical with Libra, Sagittarius, Capricorn, Aquarius or Pisces is not adverse for longevity. His lonely occupation in other Lagnas are pronoun- cedly harmful for longevity. According to Sage Jambunada’s Jambu Nadeeyam, one with Saturn in ascendant identical with Libra, Sagittarius, Pisces, Aquarius or Capricorn will possess attractive limbs, become a king, be learned and rule cities.and villages क्षीणशरीरश्चन्रो लम्मस्थ: क्ररवीक्षितः करते । स्वगंगमनं हि dat कुलीरगोऽजान्‌ परित्यज्य ॥ २०॥ वर्षान्मारयति शक्षी षष्ठाष्टम राशिसंस्थितो लग्नात्‌ | सद्यः क्ररंद ष्टः सोम्येरब्दाष्टकाच्चेव ॥ २१॥ अशुभशुभः सन्दुष्टे वषचतुष्केण निर्विधेदन्तम्‌ । अनुपात: करतंव्यः प्रोक्तादूनाधिकद ष्टे ॥२२॥ 1. Some texts read as Sun and Mars instead of mlaefics. =",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Hora_Sara": [
+      {
+        "position": 45866,
+        "match_text": "Moon in the 7th",
+        "context": "ng in the 7th, if it is Pisces, or the first half of Sagittarius. If she is in Taurus or in the latter half of Sagittarius as the 7th house or the 10th house as the case may be, she is strong. Similarly when in Cancer or in Gemini as the 4th house, she has strength. Notes: For Virgo Lagna, the Moon in the 7th in Pisces, for Scorpio Lagna in Taurus in the 7th, for Gemini Lagna, in the 7th in the first half of Sagittarius, for Pisces in the 4th in Cancer, is said to possess strength. ^F^fe^f^^^^rfl ^Ir%sfH' s r a ^ II 23 II f^TW^T^Tif^ tldlP^^d: wn^*>\"\\ ^ 11 24 II Mars is strong in Lagna indentical with Aquarius; or in the 7th house if it be Cancer or Scorpio. He is strong in the 10th house in the first half of Capricorn or in Gemini and in the 4th house if in the second half of Sagittar",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 47120,
+        "match_text": "Mercury in the 4th",
+        "context": "ces Lagnas the planet is good in the 9th and will not cause bad effects for ttie father of the native. 28 HORASARA mdlci^^ITEfF> ^ ^ i W H ^ I '^ ^Tff^: 11 25 II Mercury is strong in Ascendant if in Capricorn, Leo or Can- cer. He is also strong in his own divisions. Should Sagittarius hold Mercury in the 4th house, then too he is strong. Similarly in Taurus as the 7th or in Pisces as the 10th house. Notes: Should Makara be the Lagna and be occupied by Mercury, his blemish of 6th lordship is mihgated, and similarly the 12th lordship if i n Cancer Lagna. For Gemini ascendant, though he will be in fall in the 10th, he will prove auspicious. \"mm^ ^(^m^^ssf^^ 11 26 11 Jupiter has strength in Leo, Taurus, Aries, Sagittarius, Scor- pio and Pisces if one of these happens to be ascendant, or the 4t",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 48011,
+        "match_text": "Jupiter in 10th",
+        "context": "iter rules the 8th for Taurus Lagna. Hence, he is adverse for longevity if he is in Taurus when it rises in the horoscope. In such circumstances Saturn should be strong lest the nahve is short lived. Or otherwise, Venus should be stronger than Jupiter. Dr. B.V. Raman, a powerful astrologer has Jupiter in 10th in Scorpio. ^H-^l'^^im-v^'Idl <^r^-^ct,<i^f| ^ -qr^^: II 27 II smm^ M fenfiT|w^ ^ f ? ^ ^ : 11 28 II Venus possesses strength in Leo, Aries, Aquarius and Scor- pio if these happen to be Lagna; similarly in the 7th house if at the end of Sagittarius or in (the whole of) Scorpio. He is strong in the first half of Sagittarius in the 10th house. The 10th house position in Pisces, Leo or Scorpio is also good. He is strong also in the 4th in the second half of Capricorn. He is strong if",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 48579,
+        "match_text": "Venus in Lagna",
+        "context": "tarius or in (the whole of) Scorpio. He is strong in the first half of Sagittarius in the 10th house. The 10th house position in Pisces, Leo or Scorpio is also good. He is strong also in the 4th in the second half of Capricorn. He is strong if he wins in a planetary war. CHAPTERS 2 9 Notes: Venus in Lagna in his own sign is exceedingly good. Additionally if he joins exalted Saturn, i.e. in Libra, it is greatly potential. See the horoscope of King George VI whose Venus dasa was momentous in his life, vide Dr. B.V. Raman's Notable Horoscopes. Details of birth: 14th December, 1895 at 0305 hours, 52 N 51, O E 30 Planetary positions: Jupiter in Cancer, Ketu in Leo, Lagna, Venus and Saturn in Libra, the Moon, the Sun, Mercury and Mars in Scorpio, and Rahu in Aquarius. The native passed away i",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 50188,
+        "match_text": "Jupiter in the Ascendant",
+        "context": "will be beneficial. Suppose a planet that rises with its head is in a Sirshodaya Rasi, then the dasa concerned will be auspicious. Saturn is strong if he be in Libra Lagna; see notes under previous sloka. f?5[% ^g^^^smrraWt ^4H-<^H^^irM 11 30 11 30 HORASARA m m: II 31 II . Mercury and Jupiter in the Ascendant, the M o o n and Venus in the 4th, the Sun and Mars in the 10th and Saturn in the 7th enjoy digbala or directional strength. According to Yavanas, all the planets are devoid of strength in Apoklima houses (3rd, 6th, 9th and 12th); have medium strength in Panaphara (2nd, 5th, 8th and 11th) and are strong in angles (1st, 4th 7th and 10th). Notes: Directional strength makes a planet confer gocxl results during its Dasa Bhukhs. In the opposite house with reference to such Rasis, the planet",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 56977,
+        "match_text": "Mercury in the 5th",
+        "context": "CHAPTER 4 36 exists, then the intercourse will definitely yield conception. The undermentioned yogas (prevailing at the time of inter- (a) conjunction of Ascendant lord and the 5th lord; their mutual aspect or exchange between them. (b) Strong Saturn in odd houses other than Ascendant. (c) Mercury in the 5th without being in the company of or in aspect to others. (d) A l l the male planets in the 6th house and or the U t h house while the 5th ord is strong. (e) A l l planets in odd signs. Notes: The involvement of an odd Rasi as they are male ones, so that a male issue is obtained, vide points (a) and (e) above. The conceptional ascendant, Jupier, luminaries and Venus being strong and in odd Rasi can also lead to birth of a son. As the conception time is difficult to be obtained, one can s",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 59307,
+        "match_text": "Mercury in Lagna",
+        "context": "^ ^lOTPfi ^ ^ ^ 1 t5R^f^^K#^ ^ W I : W=r ¥ M : II 12 II The following positions (at the time of intercourse) doubt- lessly lead to birth of twins, (aj Both the Moon and Venus in even Rasis or in dual Navamasas (in female Rasis like Taurus, Cancer etc. or in Gemini navamsa and its angles); (b) Mercury in Lagna while Mars and Jupiter are in odd Rasis. Notes: The first combination can lead to birth of two female issues as the Moon and Venus are female planets. The later combination is capable of giving two male issues as Jupiter and Mars are masculine planets. Should ijve-Ascendant and the Moon be in even Rasis and be CHAPTER 4 37 aspected by a srong planet, then there are twins in the womb (one female and one male). Similar results follow if the M o o n and Venus are in even Rasis while J",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 60676,
+        "match_text": "Mercury in 7th",
+        "context": "a planet falling in common Navamsa, (d) Mercury in Virgo Navamsa aspecting a common sign which ascends, (e) Mercury in Gemini Amsa aspecting a plcmet in Gemini Amsa or Sagittarius Amsa, (f) Mercury in Gemini Navamsa aspecting the Lagna which falls in Gemini Navamsa or Sagittarius Navamsa, (g) Mercury in 7th aspecting a planet in Virgo/Pisces Navamsa or aspecting such Lagna Navamsa. Combinations (a) and (b) lead to birth of trip- lets-one female and two males. Combinations (c) and (d) cause birth of triplets consisting of two females and one male. Combi- nations at (e) and (f) cause three male children while the ones at (g) indicate birth of three female issues. Jataka Parijata, C h . Ill quotes more combinations for birth of triplets which the reader may consult. For birth of more than thre",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 76027,
+        "match_text": "Saturn in 8th",
+        "context": "the ascendant lord is weak and joining Mars or aspected by him, the child's father was sick at the time of its birth. ^rd*l<rl to ft:TTTCJl5fq cf\\ \\\\ 15 11 Should Saturn be in Leo Navamsa and be aspected by the Sun, the father was in a miserable state at the time of the birth of the child. Saturn in 8th or 12th and in Leo Navamsa simulta- neously, gives the same results. ^ ^ r F f ^ m-^M'h: II 16 II n ^ R ^ ^ ^ ' ^ ^ W ^ T O ^ ^ II 17 II I c f t ^ II 18 II The child should be declared to have been b o m of others' loins, if the Moon or Lagna is without Jupiter's aspect. Should the luminaries be in the company of malefics and aspect Jupiter, then also the same result prevails. Jupiter or Moon in mutual vargas or luminaries in exchange nullify these Yogas. Notes: Apart from the a",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 76957,
+        "match_text": "Saturn in the 10th",
+        "context": "arasara Hora (Tamil translation by C . G . Rajan), Saravali, Jataka Parijata and Jataka Tatwa: (1^ If the Moon is in the 4th house from Lagna and aspected by malefics or inimical planets. (2) Lords of 3,6,2 and 5 in Lagna (birth through servants). (3) Malefics in Lagna, benefics in the 7th and Saturn in the 10th. (4) Moon in Lagna, and Mars with Venus in the third. (5) Sun in Lagna and Rahu in 4th. (6) Sun and M o o n in Lagna or Sun and Mars in 7th (7) Lagna with Mars and Rahu 48 HORASARA while the Sun and the Moon are in 7th. (8) Angles without planets. (9) A l l planets in 2, 6, 8 and 12. (10) Lords of Lagna and 7th together. (11) Exchang-^ between Lagna Lord and 4th lord (which should be considered otherwise a Rajyasabha.). (12) The Lagna or the Moon not falling in the Vargas, of Jupiter",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 77884,
+        "match_text": "Jupiter in the 4th",
+        "context": "nesday--7th tithi-- Revati, (c) Sunday-12th hthi--Dhanishta (14) The Sun, Moon and Jupiter in fall, one of them being in Lagna. (15) Karakamsa re- lated to only malefic planets. These yogas stand cancelled if kendra has a planet or benefics aspect Lagna or the Moon, or Lagna, Lord in Lagna, or Jupiter in the 4th or Mars aspecting Jupiter. ^^duiKlPi R-^^TirnrMTid: II 19 II There w i l l be moles or scars in the particular limb of Kalapurusha corresponding to the Rasi occupied by benefics. Notes: According to Jataka Muktavali, following combina- tions indicate moles, scars etc. on the body of the native: If the 7th from Lagna is occupied by Venus or Mars or Jupiter, there will be a scar o the head. Venus or Mars or Moon in Lagna leaves a mark through fire at the age of 12. Rahu in the 8th while Ve",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 78318,
+        "match_text": "Moon in Lagna",
+        "context": "mb of Kalapurusha corresponding to the Rasi occupied by benefics. Notes: According to Jataka Muktavali, following combina- tions indicate moles, scars etc. on the body of the native: If the 7th from Lagna is occupied by Venus or Mars or Jupiter, there will be a scar o the head. Venus or Mars or Moon in Lagna leaves a mark through fire at the age of 12. Rahu in the 8th while Venus is in Lagna causes a scar on the left ear. Jupiter in Lagna and Rahu in the 7th leave a scar on the left hand. Venus in the 10th or 12th and Jupiter in Lagna indicate marks on both the hands. If Mars is in 3rd or 6th or 11th along with Venus, there will be a mark on the side close to left hand. Should Mercury or Saturn be in Lagna while the Sun is in the 10th, mark on the right side should be noted. If Mars or Merc",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 78519,
+        "match_text": "Venus in the 10th",
+        "context": "Lagna is occupied by Venus or Mars or Jupiter, there will be a scar o the head. Venus or Mars or Moon in Lagna leaves a mark through fire at the age of 12. Rahu in the 8th while Venus is in Lagna causes a scar on the left ear. Jupiter in Lagna and Rahu in the 7th leave a scar on the left hand. Venus in the 10th or 12th and Jupiter in Lagna indicate marks on both the hands. If Mars is in 3rd or 6th or 11th along with Venus, there will be a mark on the side close to left hand. Should Mercury or Saturn be in Lagna while the Sun is in the 10th, mark on the right side should be noted. If Mars or Mercury is in Lagna while Rahu is in the 5th, or 6th or 9th, moleon genetal organ or anus may be found. Venus in \\he 5tii or the 9th, while the 7th or 8th or 4th is occupied by either Jupiter or Mercury ind",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 79093,
+        "match_text": "Sun in the 2nd",
+        "context": "side should be noted. If Mars or Mercury is in Lagna while Rahu is in the 5th, or 6th or 9th, moleon genetal organ or anus may be found. Venus in \\he 5tii or the 9th, while the 7th or 8th or 4th is occupied by either Jupiter or Mercury indicates a mark on stomach. Should tiiere be Venus or the Sun in the 2nd or 8th while the 10th has Rahu and Saturn, declare a scar on the navel. A mark on the waist may be found if the 10th is occupied by Jupiter while the Moon is in 2nd and Rahu with Venus is in 3rd. O n the anus will be found a mark CHAPTER 5 49 if the 12th has Jupiter while Mercury is in 3rd or 6th or 9th and Moon is in the 9th house. Should there be Venus and Rahu in 4th while Lagna is occupied by Saturn and Mars, there will be a symbol of fish in the palm or sole or ankles, (which ac",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 86099,
+        "match_text": "Sun in the 10th",
+        "context": "lords. N o w , coming to survival in spite of Gandanta, this is one of the two charts that we could pick from the ones in our possession. There are various other superior combinations in the chart, like Venus causing Malavya Yoga, both from the Moon and Lagna, the Moon aspected by Jupiter, the Sun in the 10th, Lords of the 2nd both from the Moon and Lagna receiving highy beneficial aspects, lord of the 11th Mars aspecting the 2nd lord M o o n etc. etc. Gandanta Nakshatra, which survived the native, made him a big industrialist, who started the first Indian cement plant and also Bharat Bank. He also managed newspapers like The Times of India, and was connected with Indian National Airways, Swadeshi Cotton Mills etc. The most highly respected international figure, Mahatma CHAPTER 5 53 Gan",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Jataka_Parijata": [
+      {
+        "position": 178203,
+        "match_text": "Venus in the 3rd",
+        "context": "Drekkana owned by Jupiter, of be aspected by thor planet, and if Mara occupy. in great strength a Kendra or ‘Trilona with reepsct to the lord Of the 3rd bhava, the person born will bs fond of roots, frutts, radishes and syrups. खोदसरविः शुकः झोकरोगरमयमरदर { न्व, शयम्‌ Ta, GRE ग्द TREE, ७. Sloka 65. Venus in the 3rd and. the Oth bhavas caures sorrow, disease and danger. The same planet in the same position may become benefic when in advance of the Sun (whza appearing as aa Evening atar). --- Page 152 --- छा. 67-59 Same us Adhyaya's, ७1. 67. ogg’ छन्ती नार सौम्पयुतेकिस्ति । बलबच्छुमच्े बा स्वच्नदाता भवेचरः ॥ ५७ 11 Stoka 67. If in the tnd bhava the lord théreot become ausociated with Jupiter and \"Venus, or being in - conjunction with or aspected By a benctic planct be powerlully aspected by anothce benef",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Laghu_Parashari": [
+      {
+        "position": 104533,
+        "match_text": "Mars in\nthe 5th",
+        "context": "t;ut|rfc Yoga but simply an aspectual relationship productive of some good results. (\") If Saturn is in the L2'h house and Jupiter in the 1Lth house then it is an oTzi-rTlf9lfl Yoga of the 1l.th and ].2'h house lords not of the 9'h and 10'h house lords. Similarly if the Sun is in the 8'h house and Mars in the 5th house then it ir un e1fftfA Yoga of the 5th and 8,h house lords, not productive of greatly auspicious results. (\"i) If Saturn is in own sign in the LOth house and ]upiter in the 4th house in the Moon s sign both aspecting each other, it is 68 Laghu Parasari'Jataka Chandrika an aspectual relationship between the 9ft lord Jupiter and the 1.0'h lord Saturn productive of some auspiciousness. (vii) If the 9th and LOth lords are related not being in the 9'h and Lgth houses therefore it is not sl.",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 112832,
+        "match_text": "Mercury in the 4th",
+        "context": "mple-The chart hereunder is of an astrologer though a mechanical engineer by profession. He is of philanthropic disposition. /s Mars ue7\\ /10 \\ Mercwy 7 Moon Ketu 4 Safurn Venus Rahu Sun Saturn Mercury Mars fupiter Lagria Moon Ketu (i) Saturn the 4ft and 5ft lord is in the 10ft house. The 9ft lord Mercury in the 4th house is aspected by his dispositor Saturn. Significant changes for the better occurred in his life with the start of Saturn's Dasa. (ii) Earlier in Jupiter's Dasa ( a Trishadaya lord) he did not have any fair stability through Jupiter, the Upachaya lord is in own sign. Results of the Dasas of Yogakaraka planets- qsn€{fr rrdq: qrqvilffi:t @ YJlltrrfwr(ll18ll The auspicious or Yoga results occur during the Dasa and Bhukti of two Yogakaraka planets (the Kendra and Trikona lords) and such results",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 160169,
+        "match_text": "Venus in the 6th",
+        "context": "d in the 2fr,7'n,8'h or l'2th house or is in the 7th from Marakiplanets or is conjunct a Maraka planet, it becomes a Maraka in its Bhukti. If Rahu is conjunct with evil planets in the 3'r, 6th or'l1th house it becomes a Maraka' InthechartofMrslndiraGandhiRahuisconjunct inauspicious Trishadaya lord Venus in the 6th house. Mrs Gandhi was kllled in Saturn's Dasa and Rahu's Bhukti' In this sloka thewordw-*n(has beenused whichindicates, if Maraka planet is not in his house and being placed elsewhere is related to saturn or Maraka is in Maraka house and saturn is related to him by one of the four pronged relationships even then Saturn becomes orime Maraka 101 102 Laghu Parasari-Jataka Chandrika Example -The chart hereunder is of one of the villains of 2\"d world war, Benito Mussolini. He died in Saturn's Das",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 228860,
+        "match_text": "Jupiter in\nthe Lagna",
+        "context": "ajayogakaraka Mars. She is under the Moon's Dasa since 28- :.f,-tggs.As she is not a working lady, therefore the results of Rajayoga occur to her through her husband. Her hu;band is miting'steady progress inbusiness since the start of her Moon's Dasa. Au*sa yoga is also present due to exaltation of Jupiter in the Lagna. fif6 erq tdqn: Leo Lagna rqffim qTfi: E-cr qer VJ$Irdr6: l sqffiq q VIq rJqJtrziltts4ll T{g-d T<t sffi fufrqqtr{r+fi:t EF: TilqTI=T EflRsrtqr[fi*{ Ftfl$rf : I 155 | | EFd dqr<q: qrqr :nr**t afqrfl : l qq u-flrf{ ffi ftifss qfrffi1;115511 For Leo Lagna saturn, Mercury and venus are inauspicious. planets. Mars iJonly auspici,crus. The combination of Jupiter and Lag h u Pa rasa ri -J ataka C h and r i ka 147 Venus alone is not productive of auspiciousness. Mars-Jupiter combination is p",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 234397,
+        "match_text": "Mars in the 10th",
+        "context": "is caused due to the exchange of the- Lagna loid Sun uitd tn\" 5th house lord Jupiter. The native is blessed with an obedient son, who is settled in Ehgland. Presently the native is in England with his son. It was predicted earlier that his son will mirry an N.R.I. girl and it happened- so' Saturn + Mars in the 10th ho.tr\" did not let him to be an industrialist but the man became a successful businessman' i5e11 qrt fqqpi , Virgo Lagna {.ffi+<t[: qrqrqi[,\\tr TI{F:I .n+*<gdr*a rrim ffitrsztt q EFil qfuri e qrc*,rqr {clrfi: I rfrtd Err+d wqRrRT qcrs fr I lss I t For Virgo Lagna, Mars, Jupiter, and the Moon are evil or inauspicio,it. O.,ty Venus is auspicious' Venus and Mercury Uu.o\"i\" yogakaraias. The Venus does not kill. Mars and others become Mirakas. In this way the auspicious and inauspicious planets fo",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 237937,
+        "match_text": "Venus in the\n10th",
+        "context": "evil or inauspicious planets induce and misguidehimto usehis Maraka Powers. Mercury, the Lagna lord is undoubtedly a Rajayogakaraka planet as he owns Lagna, a Kendra as well as Tiikona at the same time. Therefore, according to qrrf*5g-ar*q rrlor ffi, Mercury produces Rajayoga in relatiorr to Venus. Venus in the 10th and Mercury in the 9th house, Venus in the Lagna and Mercury in the 9th house and Venus in the Lagna and Mercury in the 2nd are the various Yogas formed. They are powerful in reducing order i.e., best one is the first one. The Moon being the 11.th house lord is essentially inauspicious vide Sloka 6. Fruitful Yogas :- : 1. Mercury + Venus, best Yoga. 2. Mercury * Saturn, Saturn only blemished. 3. Mercury + Jupiter can be productive of some good results, if Mercury occupies 4th and Jupiter the L",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 238693,
+        "match_text": "Venus in 4th",
+        "context": "some good results, if Mercury occupies 4th and Jupiter the Lagna. Spoilt Yogas :- 1. Jupiter + Venus, both get spoilt. Jupiter is Maraka as well as blemished by Kendradhipatya Dosha. Venus as 2nd house lord functions according to {T|6d or association. Thus acquires the blemish and evil of Jupiter. Venus in 4th and Jupiter in the 9th house can be of some good. 2. Jupiter + Saturn, both the planets get spoilt. Jupiter in the 5th and Saturn in the 4th house can be very feebly good. 8 \\ Moorr 6 Ketu ^k 10\\ Jupiter. 72 Ilahu 11 Rahu Sun Mars Mercury Venus Birth 9-6-1949 )upiter Saturn Moon Ketu Lagna Laghu Parasari-Jataka Chandrika 153 Example - In the chart of Mrs Kiran Bedi, the reformist police officer, Venus the 9th house lord and Mercury the L0th house lord are in house exchange which is a great Ra",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 245313,
+        "match_text": "Sun in the 9th",
+        "context": "wever in association with other evil planets in the 2nd house, he may exercise some Maraka powers. bestows good results. The Sun as L0th (a Kendra) house lord abandons his maleficence and is productive of Rajayoga results in relation with the 9th lord Moon. The Moon may be in the L0th house and the Sun in the 9th house or both of them may be in the 9th or LOth house. Mercury owns the deadly evil 8th house and l.lth, a Trishadaya house, Therefore Mercury is totally evil. Saturn owns the 3rd and 4th houses. He is inauspicious as a Trishadaya lord. Lordship of the 4th house (a Kendra) does not alter his inauspiciousness. 10 8 Scorpio 11 12 Lagna The Moon is auspicious being the 9th (a Trikona) lord and 158 Lag h u Pa rasa r i -Jataka C hand ri ka Venus as the L2th house lord becomes neutral and gives resu",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 256284,
+        "match_text": "Mercury in the\n4th",
+        "context": "he two planets function as the 9th and 10th house lords in house exchange. Mercury owns the 8th house therefore he is evil but then he is also the 5th (Trikona) house lord, hence auspicious. InB.P.H.S (Jha'sedition). thelinetr.:rM tq: *-Bt+ {6+tfr:l appears. If Venus is placed in the 5th house and Mercury in the 4th house, a Rajayoga is caused by the exchange of houses by the 4th and 5th house lords. This also seems to be appealing. 166 Lag h u Parasari -Jataka Ch and ri ka Perhaps in our reading Mercury is not considered for the reason that his Moolatrikonisign falls in the 8th house and he might have been considered more evil than auspicious' The Moon as the 6,h (Tiishadaya) house lord is inauspicious in her Dasa. The Sun as the 7'h lord turns neutral and Kendradhipatya Qosha does not occur to him. As t",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ],
+    "Prashna_Marga": [
+      {
+        "position": 32888,
+        "match_text": "Moon in the 8th",
+        "context": "asures to be performed to bring about happy consummation of marriage as the worship of Sita, Rama, Krishna, Rukmini, etc. Stanza 15. Marriage will not take place if the afflicted Moon occupies an even sign from the Prasna Lagna or Arudha and the query is put in the period of the waning Moon. The Moon in the 8th also indicates some obstacle for the marriage. NOTES The above combinations are as given in Prasna Sangraha. Stanza 16. If the querist happens to touch his arm, chest or head, marriage will take place. If he however touches his feet, knees and knee-caps, the marriage will be delayed. If he touches his left arm, his back, his hind waist, the marriage will not take place. If the lords of the ascendant and the 7th or the lord of the ascendant and Venus interchange houses, or occupy friendly p",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 58000,
+        "match_text": "Jupiter in the 5th",
+        "context": "ceive. A careful study of Beeja and Kshetra theory is very necessary. While there is the general dictum that Jupiter as karaka of children, placed in the house of children, destroys the house, the author appears to extend the principle further when he says, on the authority of ancient sages, that Jupiter in the 5th identical with Capricorn or Pisces makes one suffer from sorrow due to death of children. If Pisces is to be the 5th, the ascendant must be Scorpio. If Jupiter is in the 5th, his functions as karaka and lord become identical. He will also aspect the Lagna. Yet the result is highly unfavourable. Again when one is born in Pisces and has Jupiter in the 5th (Cancer) he will have a number of daughters. On the face of it, this yoga could be considered improbable. But the author says it is the op",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 58360,
+        "match_text": "Jupiter in the 5th",
+        "context": "one suffer from sorrow due to death of children. If Pisces is to be the 5th, the ascendant must be Scorpio. If Jupiter is in the 5th, his functions as karaka and lord become identical. He will also aspect the Lagna. Yet the result is highly unfavourable. Again when one is born in Pisces and has Jupiter in the 5th (Cancer) he will have a number of daughters. On the face of it, this yoga could be considered improbable. But the author says it is the opinion of the sages. These combinations should be balanced in the light of other favourable or unfavourable factors influencing the house of children. Stanza 14. If the debilitated lord of the 5th occupies the 8th which should be an inimical sign devoid of aspects of benefics and the lord of the 8th is in the 5th, there will be loss of children. Stanza 15",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 97334,
+        "match_text": "Moon in the ascendant",
+        "context": "dead or half alive. Stanza 80. Abortion will result under the following combinations: (a) Mars or the Sun occupies a kendra; Jupiter is in a non-kendra house. The 8th house is occupied by a planet; (b) The Moon in a quadrant, a planet in the 8th and Jupiter in a sign other than a kendra; (c) the Moon in the ascendant and a malefic in the 19th Drekkana from Lagna Drekkana; (d) Jupiter in a kendra, Mars in the 8th and the Moon in the ascendant. Stanza 81. As suggested in Jnana Pradeepika, abortion will take place if parivesha is observed at the time of the question. NOTES Pariveshas are haloes round the Sun and the Moon. According to Varaha Mihira \"the rays of the Sun and the Moon formed into a circle by the wind and reflected in the sky with a few clouds become haloes with colours and shapes. The differe",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 100713,
+        "match_text": "Jupiter in the 7th",
+        "context": "odd or even sign. In a question bearing on marriage, if Saturn occupies an odd sign, marriage will take place soon. Otherwise marriage will not happen. NOTES This stanza is from Shatpanchasikha. All the above combinations are to be applied to prasna or horary charts. Stanza 90, The Sun, Mars and Jupiter in the 7th house denote a male issue. The Moon, Mercury and Venus in the 7th house indicate a female. Again if the Sun, Mars and Jupiter are in the ascendant, the child is a male. If the Moon, Mercury and Venus are in Lagna, the issue is a female. Saturn in the ascendant gives a son. Stanza 91. If the questioner or the messenger touches the odd limbs of his body with his right hand, then the child is a male. If he touches the even limbs of his body with his left hand, the issue is a female. If he tou",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 100972,
+        "match_text": "Saturn in the ascendant",
+        "context": "ary charts. Stanza 90, The Sun, Mars and Jupiter in the 7th house denote a male issue. The Moon, Mercury and Venus in the 7th house indicate a female. Again if the Sun, Mars and Jupiter are in the ascendant, the child is a male. If the Moon, Mercury and Venus are in Lagna, the issue is a female. Saturn in the ascendant gives a son. Stanza 91. If the questioner or the messenger touches the odd limbs of his body with his right hand, then the child is a male. If he touches the even limbs of his body with his left hand, the issue is a female. If he touches the even limbs with his right hand the child dies. NOTES The odd limbs of his body are: head, chest, stomach, vasthi, thighs, legs. The even limbs of his body are: face, heart, waist, sex organs, knees and feet. The sex of the dead child can be known from",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 149986,
+        "match_text": "Venus in the 7th",
+        "context": "endered possible by marrying upto 4 wives which in the present social set-up is impossible. Hence in the application of the other combinations one must use one's skill and interpretative ability. Stanza 22. The following combinations indicate extinction of family: (1) Malefics occupying the 4th; Venus in the 7th and the Moon in the 10th; (2) all malefics posited in the 1st, 5th, 8th and 12th houses; (3) all malefics occupying the 4th, Mercury and Venus in the 7th and Jupiter in the 5th. Stanza 23. It is said in Sarvartha Chintamani that if an evil planet occupies the ascendant, the Moon is in the 4th and the lord of the ascendant is in the 5th and the lord of the 5th is weak, the family will be extinguished. Stanza 24. If malefics are in the 12th, 5th and 8th from the ascendant; if Jupiter and th",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 158306,
+        "match_text": "Mars in the ascendant",
+        "context": "die before it is born. The child bom will live long and happy. If Mercury occupies the 5th along with a malefic and if a malefic occupies the 11th, or the 5th, or 1st or the 4th, the father may live only to see the birth of the child. NOTES Obviously the father will not live long. Stanza 38. (a) Mars in the ascendant, the Moon in the 8th and the Sun in the issueless signs; (b) Jupiter in the 8th, Mars in the 12th, Saturn in the ascendant and an issueless sign happens to be the 5th house; (c) malefics in the 5th house from Jupiter, many planets in the ascendant and the Moon in the 12th. The above three combinations indicate birth of issues in old age. NOTES The issueless or alpatmaja signs are Taurus, Leo, Virgo and Scorpio. Stanza 39. The waning Moon in the ascendant, malefics in the ascendant or the 4",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 158588,
+        "match_text": "Moon in the 12th",
+        "context": "g. Stanza 38. (a) Mars in the ascendant, the Moon in the 8th and the Sun in the issueless signs; (b) Jupiter in the 8th, Mars in the 12th, Saturn in the ascendant and an issueless sign happens to be the 5th house; (c) malefics in the 5th house from Jupiter, many planets in the ascendant and the Moon in the 12th. The above three combinations indicate birth of issues in old age. NOTES The issueless or alpatmaja signs are Taurus, Leo, Virgo and Scorpio. Stanza 39. The waning Moon in the ascendant, malefics in the ascendant or the 4th house, planets other than benefics in trines indicate the posthumous birth of the child. Stanza 40. When a malefic occupies the 5th house which is not his own sign, and which has no aspect of strong benefics, the child will die. When the planet occupying the 5th is also",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 159669,
+        "match_text": "Mars in \nthe 5th",
+        "context": "dren will die. NOTES A malefic must occupy the 5th house, which should not be the malefic's own sign. It should not receive the aspect of strong benefics. Under this combination children will die. If the planet owning the 5th and 8th is in the 5th, there will be loss of children. The position of Mars in the 5th favours the death of children as they are born. If Mars receives the aspect of Jupiter the first issue will survive. Children will die if Pisces happens to be the 5th occupied by Jupiter and aspected by Saturn. Stanza 41. When the lord of the 5th is in a malefic Navamsa, debilitated and combust and aspected by malefics or occupies dusthanas then loss of children should be predicted. NOTES The dusthanas are the 6th, 8th and 12th houses. Stanza 42. If the lord of the Drekkana occupied by th",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 163954,
+        "match_text": "Moon in the 5th",
+        "context": "happens to be his own, a malefic there indicates death of children. If benefics occupy the 5th happening to be their own signs it indicates a number of children. Taurus, Leo, Virgo and Scorpio are said to be alpaputra rasis. When any of these happen to be the 5th, very few children are born. The Moon in the 5th in one of these signs denies children. If Virgo is the 4th or 5th house and the Moon is situated there, birth of daughters is indicated. Stanza 49. When the Moon occupies an odd sign and an odd Navamsa aspected by the Sun, there will be issues. If the lord of the 7th occupies the 5th, both the wife and children will get ruined. If the strong lord of the 7th is in the 5th and the lord of the 8th is in the 7th, there will be issues. Similarly, if the lords of the 1st and the 5th interchange",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 186947,
+        "match_text": "Mars in the 7th",
+        "context": "g connected with benefics or the lord of the ascendant or these occupy the 6th, the 8th or the 12th, the native will not marry. Even if he marries, the wife will not live long. Stanza 7. If Mars occupies the 7th house, the husband will live apart from his wife or she will die. If Saturn aspects Mars in the 7th without any benefic connection, then the wife will die. If the 7th house is Capricorn and Jupiter occupies it or if the 7th house is Scorpio and Venus occupies it, the wife will die. If Taurus happens to, be the 7th and Mercury is placed there, then his first wife will die. Stanza 8. If Saturn is in the 7th identical with Pisces, if Jupiter is in the 7th identical with Virgo; or if a strong malefic is in the 4th; or if the lord of the 8th or lord of the 5th occupies the 7th; the wife will",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 242233,
+        "match_text": "Venus in the 2nd",
+        "context": "in the 12th, fatigue caused by long walks and severe miseries in life. Stanza 16. Venus transiting the natal Moon denotes getting wholesome food, enjoyment with wife, gain of perfumed articles, fresh sleeping materials and valuable clothes and happiness resulting from these. Stanza 17. Venus in the 2nd gives wealth and grains, acquisition of ornaments and flowers, favour of rulers and happiness for the family members; in the 3rd, respect and regard for one's opinions, profits, honours from others, acquisition of clothes and destruction of enemies; and in the 4th, happy reconciliation with relatives and great prosperity. Stanza 18. Venus transiting the 5th indicates gain of money, birth of children, help from relatives, satisfaction for the elders; in the 6th, troubles from ene",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 243556,
+        "match_text": "Saturn in the 2nd",
+        "context": "sition of clothes and ornaments. Stanza 20. Saturn transiting birth Moon causes fear from poison and fire, loss of relatives and friends, exile to distant lands, quarrels with one's own relatives, misunderstandings due to monetary transactions and journeys to distant places. Stanza 21. Saturn in the 2nd, loss of wealth, happiness and health; decrease of desires; in the 3rd, gain of elephants, buffaloes, good health and successful termination of all actions. Stanza 22. Saturn in the 4th brings in a cloud to the mind, separation from wife and one's own wealth; quarrels with all; in the 5th, sorrows arising from death of children. Stanza 23. In the 6th, pacification of enemies and diseases; in the 7th, intimacy with female servants and distant journeys; in the 8th misunderstanding with one's",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      },
+      {
+        "position": 244111,
+        "match_text": "Saturn in the 9th",
+        "context": "fe and one's own wealth; quarrels with all; in the 5th, sorrows arising from death of children. Stanza 23. In the 6th, pacification of enemies and diseases; in the 7th, intimacy with female servants and distant journeys; in the 8th misunderstanding with one's own people and extreme helplessness. Saturn in the 9th, enemity with all, imprisonment or bondage, obstruction to one's charitable actions and heart trouble; in the 10th, loss of fame, wealth and education, and success in one's actions (Karma Phala). Stanza 24. Saturn in the 11th, intimacy with other women, huge profits, increase of honour and authority; and in the 12th, succession of intermittent griefs and overwhelming calamities in life. Stanza 25. Planets in the course of their transit contribute both good and evil to the native. But, the",
+        "pattern_hit": "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+      }
+    ]
+  }
+}

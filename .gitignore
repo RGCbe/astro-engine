@@ -1,0 +1,27 @@
+# ── Large data / never in git ──────────────────────────────
+Books/
+ephe/
+engine_code_export/
+engine_code_export.zip
+AstroReport_Clean_Source.zip
+AstroReport_OS_Full_Source_Code.pdf
+gemma_extractions/
+venv/
+.venv/
+
+# ── Generated artifacts ────────────────────────────────────
+reports/
+local_backups/
+*.pdf
+*.png
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# ── Env / secrets ──────────────────────────────────────────
+.env
+*.key
+
+# Keep the small canonical inputs even though parent patterns exist
+!charts/*.json
+!frontend/**

@@ -1,0 +1,69 @@
+AstroReport OS Specification
+Volume 10G – Marriage, Love & Relationship
+Knowledge Base
+Purpose
+Define structured question records for romance, marriage, partnership and long-term relationship
+development. These records are consumed by the report engine to generate relationship chapters
+across the timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0061
+How do I express love?
+Relationships
+Young Adult
+Timeline
+Q0062
+What qualities suit my ideal partner?
+Marriage
+Young Adult
+Timeline
+Q0063
+How do I build healthy relationships?
+Relationships
+Young Adult
+Timeline
+Q0064
+When does partnership become a major life theme?
+Marriage
+Adult
+Timeline
+Q0065
+How do I handle disagreements?
+Communication
+Adult
+Timeline
+Q0066
+What strengthens trust in my relationships?
+Marriage
+Adult
+Timeline
+Q0067
+How do family expectations affect marriage?
+Family
+Adult
+Timeline
+Q0068
+How should finances be managed as a couple?
+Finance
+Adult
+Timeline
+Q0069
+What lessons does marriage teach me?
+Marriage
+Whole Life
+Summary
+Q0070
+How do relationships support my life purpose?
+Purpose
+Whole Life
+Legacy
+Implementation Rules
+Relationship questions should evolve naturally. Early chapters emphasize attraction and
+self-understanding, later chapters emphasize communication, commitment, shared responsibilities
+and long-term growth. Avoid deterministic statements and present relationship themes with
+balanced guidance.
+Next Volume
+Volume 10H – Children, Parenting & Family Legacy Knowledge Base.

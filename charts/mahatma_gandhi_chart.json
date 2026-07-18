@@ -1,0 +1,191 @@
+{
+  "name": "Mahatma Gandhi",
+  "birth": {
+    "year": 1869,
+    "month": 10,
+    "day": 2,
+    "hour": 7,
+    "min": 33,
+    "lat": 21.6417,
+    "lon": 69.6293,
+    "place": "Porbandar, Gujarat, India",
+    "tz": 4.62,
+    "weekday": "Saturday"
+  },
+  "lagna": "Libra",
+  "lagna_idx": 6,
+  "lagna_deg": 9.7064,
+  "lagna_lord": "Venus",
+  "ayanamsa": 22.038222,
+  "positions": {
+    "Sun": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 16.9088,
+      "lon_abs": 166.9088,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.9853,
+      "house": 12
+    },
+    "Moon": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 28.1617,
+      "lon_abs": 118.1617,
+      "nak": "Ashlesha",
+      "nak_idx": 8,
+      "nak_lord": "Mercury",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 14.4356,
+      "house": 10
+    },
+    "Mars": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 26.3766,
+      "lon_abs": 206.3766,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.6977,
+      "house": 1
+    },
+    "Mercury": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 11.7451,
+      "lon_abs": 191.7451,
+      "nak": "Swati",
+      "nak_idx": 14,
+      "nak_lord": "Rahu",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.6175,
+      "house": 1
+    },
+    "Jupiter": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 28.1375,
+      "lon_abs": 28.1375,
+      "nak": "Krittika",
+      "nak_idx": 2,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.0731,
+      "house": 7
+    },
+    "Venus": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 24.4181,
+      "lon_abs": 204.4181,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 1.194,
+      "house": 1
+    },
+    "Saturn": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 20.3291,
+      "lon_abs": 230.3291,
+      "nak": "Jyeshtha",
+      "nak_idx": 17,
+      "nak_lord": "Mercury",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.0724,
+      "house": 2
+    },
+    "Rahu": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 12.1464,
+      "lon_abs": 102.1464,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 10
+    },
+    "Ketu": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 12.1464,
+      "lon_abs": 282.1464,
+      "nak": "Shravana",
+      "nak_idx": 21,
+      "nak_lord": "Moon",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 4
+    }
+  },
+  "janma_nakshatra": "Ashlesha",
+  "janma_nakshatra_lord": "Mercury",
+  "moon_rasi": "Cancer",
+  "moon_pada": 4,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 7:33 AM Porbandar LMT (longitude 69.6\u00b0E) \u2014 well documented in his autobiography",
+  "known_events": [
+    {
+      "date": "1883-05-13",
+      "event": "Married Kasturba (Kasturbai Makhanji) at age 13 (arranged child marriage)"
+    },
+    {
+      "date": "1885-11-16",
+      "event": "Father Karamchand Gandhi died \u2014 Gandhi was 16"
+    },
+    {
+      "date": "1888-09-04",
+      "event": "Sailed to London to study law at Inner Temple"
+    },
+    {
+      "date": "1893-05-23",
+      "event": "Arrived in South Africa for legal work \u2014 thrown off train at Pietermaritzburg June 7"
+    },
+    {
+      "date": "1915-01-09",
+      "event": "Returned to India from South Africa after 21 years"
+    },
+    {
+      "date": "1919-04-13",
+      "event": "Jallianwala Bagh massacre triggered first all-India non-cooperation movement"
+    },
+    {
+      "date": "1930-03-12",
+      "event": "Began 24-day Salt March (Dandi March) from Sabarmati Ashram"
+    },
+    {
+      "date": "1942-08-08",
+      "event": "Launched Quit India Movement \u2014 arrested next day"
+    },
+    {
+      "date": "1944-02-22",
+      "event": "Wife Kasturba died at Aga Khan Palace prison \u2014 widowhood at age 74"
+    },
+    {
+      "date": "1947-08-15",
+      "event": "India gained independence (Gandhi did not attend Delhi celebrations \u2014 fasted in Calcutta)"
+    },
+    {
+      "date": "1948-01-30",
+      "event": "Assassinated by Nathuram Godse in New Delhi \u2014 age 78"
+    }
+  ]
+}

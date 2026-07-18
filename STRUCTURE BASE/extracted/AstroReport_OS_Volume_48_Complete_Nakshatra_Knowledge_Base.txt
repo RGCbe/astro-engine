@@ -1,0 +1,48 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 48 – Complete Nakshatra Knowledge Base
+Purpose
+This manual defines how the Nakshatra Database is populated with detailed interpretation records.
+Every Nakshatra and each of its four Padas becomes a reusable knowledge source for reasoning,
+timeline generation and report composition.
+Knowledge Set
+Coverage
+Target Records
+Nakshatra Profiles
+27 master records
+27+
+Pada Profiles
+27 × 4 Padas
+108+
+Personality
+Traits & behavior
+1000+
+Career
+Professional tendencies
+1000+
+Relationships
+Marriage & family
+1000+
+Health & Lifestyle
+General themes
+500+
+Dasha Behaviour
+Timing records
+1000+
+Narrative Blocks
+Reusable paragraphs
+5000+
+Evidence Objects
+Validation rules
+Unlimited
+Knowledge Record Template
+Each record should contain: Knowledge ID, Nakshatra, Pada, ruling planet, symbolism, personality,
+emotions, life domains, timeline effects, Dasha interaction, child explanation, professional
+explanation, narrative blocks, confidence score and cross references.
+Population Strategy
+Create atomic records for each Nakshatra concept so the report engine can assemble personalized
+interpretations instead of relying on static text.
+Developer Specification
+Support multilingual content, semantic search, embeddings, graph relationships, immutable IDs,
+version history and API-ready retrieval.
+Next Volume
+Volume 49 – Complete Rashi Knowledge Base.

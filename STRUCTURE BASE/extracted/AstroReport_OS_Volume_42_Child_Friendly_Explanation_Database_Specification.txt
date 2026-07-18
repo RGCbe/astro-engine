@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 42 – Complete Child-Friendly Explanation
+Database Specification
+Purpose
+This manual defines the structured language database that converts complex astrological ideas into
+explanations that children, beginners and families can easily understand while preserving the
+original meaning.
+Entity
+Purpose
+Example Fields
+Vocabulary
+Simple words
+Level, Synonyms
+Analogy
+Everyday examples
+Topic, Age
+Story Block
+Mini stories
+Theme, Lesson
+Glossary
+Simple definitions
+Term, Meaning
+Timeline Block
+Age explanations
+Stage, Text
+Visual Hint
+Illustration metadata
+Icon, Diagram
+Parent Notes
+Adult explanation
+Expanded text
+Localization
+Languages
+Locale, Labels
+Validation
+Readability
+Grade Level
+Knowledge Graph
+Cross-links
+Related IDs
+Database Schema
+Store age bands, reading levels, simple vocabulary, analogies, stories, glossary entries, visual
+hints, multilingual content and reusable report paragraphs.
+Recommended Fields
+Content ID, reading level, target age, concept, simple explanation, analogy, example, parent note,
+language, confidence and version history.
+Developer Specification
+Support readability scoring, semantic search, multilingual APIs, immutable IDs and versioned
+content.
+Next Volume
+Volume 43 – Complete Professional Astrologer Explanation Database Specification.

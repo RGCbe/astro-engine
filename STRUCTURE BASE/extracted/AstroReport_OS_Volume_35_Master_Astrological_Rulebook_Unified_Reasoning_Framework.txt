@@ -1,0 +1,53 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 35 – Master Astrological Rulebook &
+Unified Reasoning Framework
+Purpose
+This manual defines the master reasoning framework that unifies every interpretation rule used
+throughout AstroReport OS. It specifies how evidence is prioritized, combined, validated and
+transformed into a consistent timeline-based report.
+Rule Layer
+Description
+Output
+Birth Chart
+Primary foundation
+Base interpretation
+Planet & House Rules
+Core meanings
+Life domains
+Signs & Nakshatras
+Context modifiers
+Behavior profile
+Varga Charts
+Specialized confirmation
+Evidence refinement
+Yogas & Doshas
+Combination analysis
+Supporting evidence
+Dasha & Transit
+Time activation
+Timeline events
+Jaimini Layer
+Advanced confirmation
+Alternative evidence
+Confidence Engine
+Evidence weighting
+Confidence score
+Narrative Engine
+Unified explanation
+Final report
+Master Rule Hierarchy
+Always interpret the birth chart first. Use divisional charts, yogas, timing systems and advanced
+techniques to confirm, refine or qualify conclusions. Avoid conclusions based on a single indicator.
+Unified Reasoning Workflow
+Collect evidence → assign weights → resolve conflicts → determine timing → calculate confidence
+→ build timeline → generate narrative → validate consistency → render final report.
+Knowledge Graph
+Every rule should reference related planets, houses, signs, Nakshatras, Vargas, yogas, Dashas,
+questions, timeline chapters and report templates through a shared knowledge graph.
+Developer Specification
+Maintain versioned rule IDs, precedence matrices, confidence formulas, validation checks,
+reasoning traces and audit logs for every interpretation.
+Completion
+Volume 35 completes Version 3 and establishes the master rulebook governing all AstroReport OS
+reasoning and report generation.

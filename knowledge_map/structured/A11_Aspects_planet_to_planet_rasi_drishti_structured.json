@@ -1,0 +1,325 @@
+{
+  "item_code": "A11",
+  "item_name": "Aspects — planet-to-planet + rasi drishti",
+  "books_covering": [
+    "BPHS_Vol1",
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Jataka_Parijata",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1",
+    "Aryabhatiya_v2",
+    "Vedanga_Jyotisa",
+    "Uttara_Kalamrita",
+    "Laghu_Parashari",
+    "Prashna_Marga",
+    "Jaimini_Sutras",
+    "Yavanajataka_2",
+    "Unknown_6945"
+  ],
+  "total_passages": 202,
+  "formulas_found": [
+    {
+      "book": "BPHS_Vol1",
+      "score": 8,
+      "context": "with others than these be treated as stated earlier. Notes : Throughout this chapter and others related to calculation of strengths of planets and houses, the term ..Virupa' Chapter 26 2s7 has been used which denotes 'Shashtiamsas' or 'Kalas'. 60 such units make onq Rupa. The planet that aspects is Drishti Graba or the aspector. The planet that is aspected is known as Drisya Graha or the aspected. The longitude of 'the aspected' .is to be deducted from that of the aspector. If the longitude of the aspected is lesser than that of the aspector, increase the longi- tude of 'the aspected' by 360 to facilitate deduction, which will yield the aspectual or Drishti angle. After finding out the'Drishti angles, the various quantities will have to be processed as under with the relevant principles : ",
+      "position": 401292
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 8,
+      "context": "n conformity with others than these be treated as stated earlier. Notes: Throughout this chapter and others related to calculation of strengths of planets and houses, the term Virupa' has been used which denotes 'Shashtiamsas' or 'Kalas'. 60 such units make one Rupa. The planet that aspects is Drishti Graha or the aspector. The planet that is aspected is known as Drisya Graha or the aspected. The longitude of the aspected is to be deducted from that of the aspector. If the longitude of the aspected is lesser than that of the aspector, increase the longitude of 'the aspected' by 360 to facilitate deduction, which will yield the aspectual or Drishti angle. After finding out the\" Drishti angles, the various quantities will have to be processed as under with the relevant principles: Rule",
+      "position": 421628
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "200 6-8. ASPECTUAL EVALUATIONS: Deduct the longitude of the aspected planet (or house) from that of the aspecting planet. If the sum exceeds six signs (or 180 deg.) deduct the sum again from 10 signs (or 300 deg.). Convert the latest sum into degrees and divide by two. The resultant product is Drishti Kona or aspectual angle. If the difference (between aspector and aspected) is in excess of 5 signs, ignore signs and multiply the degrees etc. by 2 which is the aspectual value. If the difference is in excess of 4 signs deduct it from 5 signs (or 150 deg.) and the resultant degree etc. become Drishti value. If the difference is in excess of 3 signs deduct it from 4 signs (or 120 degrees) and halve the product to be increased by 30 o get Drishti value. If the difference is above 2 signs ig",
+      "position": 418889
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "i Kona or aspectual angle. If the difference (between aspector and aspected) is in excess of 5 signs, ignore signs and multiply the degrees etc. by 2 which is the aspectual value. If the difference is in excess of 4 signs deduct it from 5 signs (or 150 deg.) and the resultant degree etc. become Drishti value. If the difference is in excess of 3 signs deduct it from 4 signs (or 120 degrees) and halve the product to be increased by 30 o get Drishti value. If the difference is above 2 signs ignore signs and add 15 to the degrees etc. to get Drishti value. If it is in excess of one sign, ignore Rāśhis and divide the degrees etc. by 2 to get drishti value. रूिात्तधके विना रालशं भागा द्वयाप्ताश्च दृग् भिेत्। एिं राश्यादिके शेषे शनौ द्रिरर भो दद्वज॥९॥ एकभे निभे भागा भुता भोग्या दद्वसंगुणाः।",
+      "position": 419195
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "150 deg.) and the resultant degree etc. become Drishti value. If the difference is in excess of 3 signs deduct it from 4 signs (or 120 degrees) and halve the product to be increased by 30 o get Drishti value. If the difference is above 2 signs ignore signs and add 15 to the degrees etc. to get Drishti value. If it is in excess of one sign, ignore Rāśhis and divide the degrees etc. by 2 to get drishti value. रूिात्तधके विना रालशं भागा द्वयाप्ताश्च दृग् भिेत्। एिं राश्यादिके शेषे शनौ द्रिरर भो दद्वज॥९॥ एकभे निभे भागा भुता भोग्या दद्वसंगुणाः। दद्वभेंऽशाधोवनताः षपिरिभे खाक्ग्नयुग् लिाः॥१०॥ 9-10. SPECIAL CONSIDERATION FOR SATURN'S ASPECTS: O Brahmin, if Saturn is the aspecting planet find out the difference between him and the aspected planet; if the sum is above I sign, multiply the degr",
+      "position": 419446
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "ed is known as Drisya Graha or the aspected. The longitude of the aspected is to be deducted from that of the aspector. If the longitude of the aspected is lesser than that of the aspector, increase the longitude of 'the aspected' by 360 to facilitate deduction, which will yield the aspectual or Drishti angle. After finding out the\" Drishti angles, the various quantities will have to be processed as under with the relevant principles: Rule 1. When aspectual angle is between 30 and 60 degrees, reduce 30 degrees from the resultant aspectual angle and divide by 2 to get aspectual value. Rule 2. If the aspectual angle is above 60 but below 90 degrees, reduce 60 from the aspectual angle and add 15 to get aspectual value. Rule 3. In case the aspectual angle is above 90 but less than 120 degre",
+      "position": 421985
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 6,
+      "context": "n theaspect anglc is 120-t50 degrees or ' .240-270 degrees incrcase the speculum valuc by 30 ' Virupas. C) Saturn : When the aspect angle is 6G90 degrees or 270-300 degrebs and 45 Virupas to the value obtained from the speculum. Without undergoing these ordeals, tbe student can eaeily find out the Drishti values on the above lines from the Speculum of Aspectual Values given below : Spccdum of Aspetual Vdues (Conrputerlzed) Deg:Mn Vlrup. Deg:Mn Yirupa Deg:l\\,In Virupl 30: 0 .00 30:30 .25 3l: 0 '.50 3l:30 .75 '32: 0 1.00 9223O 1.25 33: 0 1.50 33:il0 1.75 34: 0 2.00 34:30 2.25 35: 0 2.5A 35:30 ?.7s 36: 0 3.00 36:30 3.25 77t 0 3.50 lt:to 3.7s 38: 0 4.00 38:30 4.25 39: 0 4.50 39:30 4.75 4ft 0 5.00 40:30 5.25 4l: 0 5.50 4l:30 5.75 42: 0 6.00 42230 6.25 43: O . 6.50 43:30 6.75 44t O 7.",
+      "position": 403453
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 6,
+      "context": "en the aspect angle is 120-150 degrees or 240-270 degrees increase the speculum value by 30 Virupas. C) Saturn: When the aspect angle is 60-90 degrees or 270-300 degrees and 45 Virupas to the value obtained from the speculum. Without undergoing these ordeals, the student can easily find out the Drishti values on the above lines from the Speculum of Aspectual Values given below: Speculum or Aspetual Values (Computerized) Deg:Mn Virupa Deg:Mn Virupa Deg:Mn Virupa 30:00 0.00 47:00 8.50 64:00 19.00 Evaluation of Planetary Aspects Page 202 30:30 0.25 47:30 8.75 64:30 19.50 31:00 0.50 48:00 9.00 65:00 20.00 31:30 0.15 48:30 9.25 65:30 20.50 32:00 1.00 49:00 9.50 66:00 21.00 32:30 1.25 49:30 9.15 66:30 21.50 33:00 1.50 50:00 10.00 67:00 22.00 33",
+      "position": 423767
+    },
+    {
+      "book": "Phaladeepika",
+      "score": 6,
+      "context": "rJTRT7^7 rr^^wwig-jTTf ? i q-frr iiRyil^ .43 SI. 1 JTfW ^»il5V5qrw: i Sloka 24.- -In the case of the Lagna and other Bha- vas, add one Rupa to the. strength of the lord of the Bhava concerned. Supplement this by the Directional strength (fe^^^-Digbala) due to that Bhava and also by the strength of aspect (^T5r^)-Drigbala) of that Bhava. The aggregate sum - total is the Bhavabala required. For more details about the several kinds of strength of planets, please see Adhyayas II and III of my edition of Sripatipaddhati. Thus ends the 4th Adhyaya on ''Determination of the Shadbalas of Planets\" in the work Phaladeepika composed by Mantreswara. 4iHji vah»-» II II 3T?T?fH srrqr^Tfr: f^?nTT«i^jr5r%;rf frff5r^?r5rhn:T%qr^5TT§^T% iilii ADHYAYA V. SJoka 1 .—One ought to declare the acquisitipn of weal",
+      "position": 88990
+    },
+    {
+      "book": "BPHS_Vol1",
+      "score": 5,
+      "context": "rr uqtl 68. ASPECTUAL EVALUATIONS .. Deduct the longi- tude of tbe aspected planet (or house) from that of the aspecting planet. Ifthe sum exceeds six signs (or I80 deg) deduct the sumagain from l0 signs (br 300 deg). Con,,,ert the latest sum into degrees and divide by two. The resultant product is Drishti Kona or aspectual angle. If the difference (between aspector and aspected) is in excess of 5 signs, ignore. signs and multiply the degrees etc. .by 2 which is the aspectual value. If the difference is in excess of 4 signs deduct it from 5 signs (or 150 deg) and the resultant degree etc. beeome Drishti value. If the difference is in excess of 3 signs deduct it from 4 sigps (or 120 degress) and halve the product to be increased by 30 to get Drishti value. If the diference is above 2 signs ",
+      "position": 398542
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 11,
+      "context": "an even sign, if it is strong and in its own navarp.sa, produces a female; or, ifit is in its exaltation, it produces a female, though it may produce a male. because of an excess of strength. 25. A masculine planet which is strong, is in its exaltation in the ascendent, and is under the strong aspect of a masculine planet, is said to cause the birth of a male; a feminine planet in the same configuration produces a female. 26. If Saturn and Mercury are in their own navarp.sas or in cardines of the ascendent or in navarp.sas of the ascendent and the sign in which the Moon is or if they are aspec"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 8,
+      "context": "Rupa has to be allotted to it; if it be Vrischika, the bala is I ; if it be any other sign, the strength is The strength of the Lagna is equal to that of its lord and is very powerful when the lord occupies an Upachaya (3rd, 6th, 10th or 11th) house. The same is also th® case when it is occupied or aspected by its lord, Jupiter or Mercury, when it is associated with Venus and is at the same time without the conjunction or aspect*of any other planet. The day-signs possess strength in day- births, while night-signs are declared powerful in night-births. Brcrr?^ <TfT^qr i #t5r ^r^r^rionq^ii^u Shk"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 8,
+      "context": "ct of a masculine planet, is said to cause the birth of a male; a feminine planet in the same configuration produces a female. 26. If Saturn and Mercury are in their own navarp.sas or in cardines of the ascendent or in navarp.sas of the ascendent and the sign in which the Moon is or if they are aspected by them, then they produce neuters. 27. If they are in masculine places, they give birth to a neuter with a male form; if in feminine places, to one whose behavior and actions are a woman's and who is like a female. 28. If a neuter planet is in conjunction with the Moon or the ascendent or is i"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 8,
+      "context": "they produce neuters. 27. If they are in masculine places, they give birth to a neuter with a male form; if in feminine places, to one whose behavior and actions are a woman's and who is like a female. 28. If a neuter planet is in conjunction with the Moon or the ascendent or is in a navarp.sa aspected by neuter planets, know that (the native) is neuter and has the form of a neuter. (These configurations are effective) at conception, during pregnancy, or at birth. 29. If a navarp.sa of Mercury in a two-natured sign is strong and in a cardine and if a navarp.sa of a two-natured sign is in the a"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 8,
+      "context": "regnancy, or at birth. 29. If a navarp.sa of Mercury in a two-natured sign is strong and in a cardine and if a navarp.sa of a two-natured sign is in the ascendent or the sign in which the Moon is, they say that twins are conceived. 23 . THE YAVANAJATAKA 30. If a strong planet in the ascendent aspects a two-natured sign or the navarpsa of a two-natured sign, and if Mercury is in a varga of the Moon, it inevitably causes the birth of twins. 31. If Mercury is in the ascendent in the navarpsa of a two-natured sign and is not aspected, it produces twins; even with respect to the rules for deter- mi"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 7,
+      "context": "kness of the planets. In exaltation, the planets reveal effects in a pronounded manner due to (good) Avasthas. Notes: If a planet is in good Avastha and is in Cheshta (sub state), the good effects will be full. If the sub state is Vicheshta, the good effects are neutralised. If the sub state is Drishti; good effects will be feebly felt. A planet in exaltation will give the good effects due to a particular Avastha in a fuller measure. If a plane, is in bad Avastha with Cheshta as sub state, the evil effects will be less. With Drishti, evil effects will be visibly felt. If Vicheshta is sub state"
+    },
+    {
+      "book": "Jataka_Parijata",
+      "rule_words": 7,
+      "context": "ो मदाघन+ ॥ ७२ ॥ चार्मिकः स्पूछक्षिश्नः स्यादियाशिलवयशोन्विता । राजपज़्यो wagdt वेबयासक्तों घनी सुखी ॥ ७४ ॥ Stotas 43-44 When the Lagma is aipected by the Sun snd-other planets, te effect forthe several cases oft The felace berm is given inorder ia the aloka-quarters: inicTicllow! \"It the Sum be the aspecting plane, ehe --- Page 105 --- 726: आतकपारिशाि ~ ^ (गाः person born will serve a King and inherit wealth from Bis fachers ithe Moon, he will engage in seaboroc trade and be opulent; if Mars, he will be vireuous and ig membrum virile if Mercuty, he will have earning, artistic skill and fame; i"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 7,
+      "context": "Sun are in vargas of the Sun and are strong, a male is born; if Mars, Venus, and the Moon are in vargas of the Moon, and the Moon is weak, they cause the birth of a female. 23. One masculine (planet), if it is in an odd sign or in a masculine navarp.sa, strong, in conjunction with the Moon, and aspected by a masculine planet, or in its exaltation or a cardine, gives birth to a male. 24. But even one planet in the first navarp.sa in an even sign, if it is strong and in its own navarp.sa, produces a female; or, ifit is in its exaltation, it produces a female, though it may produce a male. becaus"
+    },
+    {
+      "book": "Yavanajataka_2",
+      "rule_words": 7,
+      "context": "3 . THE YAVANAJATAKA 30. If a strong planet in the ascendent aspects a two-natured sign or the navarpsa of a two-natured sign, and if Mercury is in a varga of the Moon, it inevitably causes the birth of twins. 31. If Mercury is in the ascendent in the navarpsa of a two-natured sign and is not aspected, it produces twins; even with respect to the rules for deter- mining whether the native is male or female, if navarpsas of two-natured signs are involved, the womb is said to contain twins. 32. If Jupiter is in a navarpsa of Mercury in a two-natured sign or is strong and in conjunction with Mercu"
+    },
+    {
+      "book": "BPHS_Vol1",
+      "rule_words": 6,
+      "context": "eakness of the planets. In exaltation, the planets reveal effects in a pronounded manner due to (good) avasthas. Notes : If a planet is in good Avastha and is in Cheshta (sub state), the good effects will be full. If the sub state is Vicheshta, the good cffects are neutralised. lf the sub state is Drishti, good effects will be feebly felt. A planet in exaltarion will give the good effects due to a particular Avastha in a fuller measure. If a planer is in bad Avastha with Chesbta as sub state, the evil effects will be less. With Drishti, evil effects will be visibly felt. If Vichesbta is sub st"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 6,
+      "context": "gn) by 2 to get Drishti value. If the sum is above nine sings, the degrees to elapse be doubled to get aspectual value. If the sum is above 2 signs, the degrees etc. (in excess of 2 signs) be halved and deducted from 60. If the sum exceeds 8 signs, add to the degrees etc., a figure of 30 to get Drishti value. In other cases, the sums be processed as explained earlier, पिसप्तभे तु भौमय षपिरि लिोवनता। साधांशास्तस्तत्तथसंयुता दद्वभे रूिं सिाऽङ्गभे॥११॥ 11. SPECIAL CONSIDERATION FOR MARS ASPECTS: Deduct the longitude of Mars from that of the planet aspected (by Mars). If the sum is 3 Rāśhis & c or "
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "anywhere else, she will endow the native with such qualities as belong to the planet owning the house occupied by her. Planets that are in their own Trimsamsas will do all that have been ascribed to them as Karakas. If there be at least one planet in his own or exaltation house and at the same time aspected by or associated with a friendly planet, the native will become a king endow- ed with riches. ar^HJ 5%cT: I Herts# ii^-iii Slokc is. ~A planet is blazing when he is in his exaltation ; he is happy in his Moolatrikona ; he is confident in his own house; he is delighted in a friend's house; c"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "a is strong, there will be acquisition of wealth without any exertion. If it should be weak, very little wealth ac- crues. The country of acquisition will be that signified by the sign representing the 10th house or the Navamsa occupied by the lord of the 10th house. But if this sign be occupied or aspected by its lord, he will earn in his own country. The same will be the result if the Navamsa occupied by the lord of the 10th house be an immoveable Rasi. And if the said sign be occupied or aspected by planets other than its lord, the native will earn in a place other than his own native count"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "is called (Subhamala). But if they should be posited in the 8th, 6th and 12th houses, it is called (Asubhamala). If the lord of the 9th and Venus be posited in their own or exaltation houses identical with a Trikona or a Kendra, the resulting Yoga is ^Lakshmi). If the Moon in the above position be aspected by Jupiter, the Yoga is (Gauri). Sloka 22 .—The person born in a (Sumala) Yoga will be a governor (or director), will be extolled by Kings and will be devoted to enjoyment. He will be liberal in gifts, helpful to others in getting their work done, and will love his relations. He will be bles"
+    },
+    {
+      "book": "Hora_Sara",
+      "rule_words": 6,
+      "context": "on Monday, in her o w n decanate, and Navamsa, at the end of a Rasi, when aspected by benefics, in the 4th house in the case of a night birth, and in her southerly course. The Full Moon, if not occupying any kind of Sandhis (i.e. Rasi Sandhi, Nakshatra Sandhi, Lagna Sandhi etc.), be strong and aspected by other planets, makes the native a king. •wm^ ^ ^cw^ TJ^ ^ mm-. ^ : 11 7 11 ^ ^ 1 ^ •^tRPI yMWd^tl ? f ^ : 11 8 11 tfcFTHTtrcRTA T[«2fclrT^ f g ^ : 119 11 Mars is strong when he wins a planetary war, while in retro- grade motion, when brilliant (i.e. not combust), when in Capri- corn, Aquarius"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "degrees",
+      "value": 60.0,
+      "context": " When aspectual angle is between 30 and 60 degrees, reduce 30 degrees from the resultant a"
+    },
+    {
+      "type": "degrees",
+      "value": 30.0,
+      "context": "le is between 30 and 60 degrees, reduce 30 degrees from the resultant aspectual angle and "
+    },
+    {
+      "type": "degrees",
+      "value": 90.0,
+      "context": "e aspectudl angle is above 60 but below 90 degrees, reduce 60 from the aspectual angle and"
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "pectual angle is above 90 but less than 120 degrees th"
+    },
+    {
+      "type": "degrees",
+      "value": 270.0,
+      "context": "pect anglc is 120-t50 degrees or ' .240-270 degrees incrcase the speculum valuc by 30 ' Vir"
+    },
+    {
+      "type": "bala_value",
+      "value": 45,
+      "unit": "virupas",
+      "context": " is 6G90 degrees or 270-300 degrebs and 45 Virupas to the value obtained from the speculum"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": ". Illustrative Table Sign Libra !\"-;asa 7 Years Taurus 8 Leo 8 Aquarius Scorpio Caprico"
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "s of 3 signs deduct it from 4 signs (or 120 degrees) and halve the product to be increased "
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "s of 3 signs deduct it from 4 signs (or 120 degrees) and halve the product to be increased "
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": "s of 3 signs deduct it from 4 signs (or 120 degrees) and halve the product to be increased "
+    },
+    {
+      "type": "degrees",
+      "value": 60.0,
+      "context": " When aspectual angle is between 30 and 60 degrees, reduce 30 degrees from the resultant a"
+    },
+    {
+      "type": "degrees",
+      "value": 30.0,
+      "context": "le is between 30 and 60 degrees, reduce 30 degrees from the resultant aspectual angle and "
+    },
+    {
+      "type": "degrees",
+      "value": 90.0,
+      "context": "e aspectual angle is above 60 but below 90 degrees, reduce 60 from the aspectual angle and"
+    },
+    {
+      "type": "degrees",
+      "value": 150.0,
+      "context": "en the aspect angle is 120-150 degrees or 240-270 degrees increase the speculu"
+    },
+    {
+      "type": "degrees",
+      "value": 270.0,
+      "context": " aspect angle is 120-150 degrees or 240-270 degrees increase the speculum value by 30 Virup"
+    },
+    {
+      "type": "degrees",
+      "value": 90.0,
+      "context": " C) Saturn: When the aspect angle is 60-90 degrees or 270-300 degrees and 45 Virupas to th"
+    },
+    {
+      "type": "degrees",
+      "value": 300.0,
+      "context": "he aspect angle is 60-90 degrees or 270-300 degrees and 45 Virupas to the value obtained fr"
+    },
+    {
+      "type": "bala_value",
+      "value": 30,
+      "unit": "virupas",
+      "context": " degrees increase the speculum value by 30 Virupas. C) Saturn: When the aspect angle is 60"
+    },
+    {
+      "type": "bala_value",
+      "value": 45,
+      "unit": "virupas",
+      "context": "is 60-90 degrees or 270-300 degrees and 45 Virupas to the value obtained from the speculum"
+    },
+    {
+      "type": "period",
+      "value": 90,
+      "unit": "years",
+      "context": "rson born will be happy after the Firat 90 years of his life A रच्पादिसंचे पाददाः फलबच्य"
+    },
+    {
+      "type": "degrees",
+      "value": 150.0,
+      "context": "e the special aspects of Guru (120 0 to 150°, and 24<>: to 270°), Shani (60 0 to 900"
+    },
+    {
+      "type": "degrees",
+      "value": 270.0,
+      "context": "ts of Guru (120 0 to 150°, and 24<>: to 270°), Shani (60 0 to 900 , am 270° to 300°)"
+    },
+    {
+      "type": "degrees",
+      "value": 270.0,
+      "context": "24<>: to 270°), Shani (60 0 to 900 , am 270° to 300°) and KuJa (90° 0/ to 120°, and "
+    },
+    {
+      "type": "degrees",
+      "value": 300.0,
+      "context": " 270°), Shani (60 0 to 900 , am 270° to 300°) and KuJa (90° 0/ to 120°, and 210 0 to"
+    },
+    {
+      "type": "degrees",
+      "value": 90.0,
+      "context": "0 0 to 900 , am 270° to 300°) and KuJa (90° 0/ to 120°, and 210 0 to 240 0 ) . Wher"
+    },
+    {
+      "type": "degrees",
+      "value": 120.0,
+      "context": " , am 270° to 300°) and KuJa (90° 0/ to 120°, and 210 0 to 240 0 ) . Where these spe"
+    },
+    {
+      "type": "degrees",
+      "value": 60.0,
+      "context": "d Parallel, on the third it is sextile (60°) or semi square (45°) and on the sixth "
+    },
+    {
+      "type": "degrees",
+      "value": 45.0,
+      "context": "ird it is sextile (60°) or semi square (45°) and on the sixth it is quincunx (150°)"
+    },
+    {
+      "type": "degrees",
+      "value": 150.0,
+      "context": " (45°) and on the sixth it is quincunx (150°). This is the view of Western astrologe"
+    },
+    {
+      "type": "degrees",
+      "value": 30.0,
+      "context": "to consideration only the distance from 30° to 300° between the aspectmg and the as"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "panchanga/drik.py",
+    "function": "get_ayanamsa"
+  }
+}

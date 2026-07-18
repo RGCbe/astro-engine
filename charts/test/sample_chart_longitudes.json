@@ -1,0 +1,26 @@
+{
+  "name": "Test Native (precise)",
+  "lagna": "Aries",
+  "planets": {
+    "Sun": 1,
+    "Moon": 2,
+    "Mars": 6,
+    "Mercury": 2,
+    "Jupiter": 9,
+    "Venus": 1,
+    "Saturn": 10,
+    "Rahu": 3,
+    "Ketu": 9
+  },
+  "longitudes": {
+    "Sun":     8.5,
+    "Moon":   42.3,
+    "Mars":  163.7,
+    "Mercury": 35.1,
+    "Jupiter":252.4,
+    "Venus":   2.9,
+    "Saturn": 291.8,
+    "Rahu":   75.6,
+    "Ketu":  255.6
+  }
+}

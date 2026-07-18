@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 41 – Complete Timeline Experience
+Database Specification
+Purpose
+This manual defines the master database for human life experiences from birth through legacy. It
+links life stages, emotions, milestones, Dasha periods and narrative fragments into a structured
+timeline that the report engine can query.
+Entity
+Purpose
+Example Fields
+Life Stage
+Age grouping
+Birth, Childhood, Adult
+Experience
+Life event pattern
+Learning, Growth
+Emotion
+Inner journey
+Hope, Fear, Confidence
+Milestone
+Major transition
+Education, Marriage
+Timeline Node
+Chronological point
+Age, Period
+Dasha Link
+Timing connection
+Mahadasha ID
+Narrative Block
+Reusable story
+Paragraph ID
+Question Link
+User concerns
+Question IDs
+Knowledge Graph
+Relationships
+Related Objects
+Version
+Lifecycle
+Revision, Status
+Database Schema
+Store age ranges, life-stage themes, common experiences, emotional patterns, Dasha mappings,
+event sequences, narrative templates and multilingual metadata.
+Recommended Fields
+Timeline ID, start/end age, stage, experience type, emotion tags, life domains, Dasha references,
+event links, paragraph IDs, confidence, graph edges and version history.
+Developer Specification
+Support chronological queries, semantic search, graph traversal, timeline APIs, immutable IDs and
+audit-ready versioning.
+Next Volume
+Volume 42 – Complete Child-Friendly Explanation Database Specification.

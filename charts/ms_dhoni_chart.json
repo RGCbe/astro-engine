@@ -1,0 +1,179 @@
+{
+  "name": "MS Dhoni",
+  "birth": {
+    "year": 1981,
+    "month": 7,
+    "day": 7,
+    "hour": 5,
+    "min": 10,
+    "lat": 23.3441,
+    "lon": 85.3096,
+    "place": "Ranchi, Jharkhand, India",
+    "tz": 5.5,
+    "weekday": "Tuesday"
+  },
+  "lagna": "Gemini",
+  "lagna_idx": 2,
+  "lagna_deg": 20.731,
+  "lagna_lord": "Mercury",
+  "ayanamsa": 23.598855,
+  "positions": {
+    "Sun": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 21.1852,
+      "lon_abs": 81.1852,
+      "nak": "Punarvasu",
+      "nak_idx": 6,
+      "nak_lord": "Jupiter",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.9535,
+      "house": 1
+    },
+    "Moon": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 26.9958,
+      "lon_abs": 146.9958,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 12.64,
+      "house": 3
+    },
+    "Mars": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 28.6509,
+      "lon_abs": 58.6509,
+      "nak": "Mrigashira",
+      "nak_idx": 4,
+      "nak_lord": "Mars",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.6862,
+      "house": 12
+    },
+    "Mercury": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 3.2302,
+      "lon_abs": 63.2302,
+      "nak": "Mrigashira",
+      "nak_idx": 4,
+      "nak_lord": "Mars",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.2877,
+      "house": 1
+    },
+    "Jupiter": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 9.1512,
+      "lon_abs": 159.1512,
+      "nak": "Uttara Phalguni",
+      "nak_idx": 11,
+      "nak_lord": "Sun",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.1091,
+      "house": 4
+    },
+    "Venus": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 15.0878,
+      "lon_abs": 105.0878,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 1.2149,
+      "house": 2
+    },
+    "Saturn": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 10.2429,
+      "lon_abs": 160.2429,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.0516,
+      "house": 4
+    },
+    "Rahu": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 9.0168,
+      "lon_abs": 99.0168,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 2,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 2
+    },
+    "Ketu": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 9.0168,
+      "lon_abs": 279.0168,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 8
+    }
+  },
+  "janma_nakshatra": "Uttara Phalguni",
+  "janma_nakshatra_lord": "Sun",
+  "moon_rasi": "Leo",
+  "moon_pada": 1,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 5:10 AM from Dhoni family confirmation via astrodatabank researcher Seth, 2017",
+  "known_events": [
+    {
+      "date": "2004-12-23",
+      "event": "ODI debut vs Bangladesh, Chittagong"
+    },
+    {
+      "date": "2005-10-31",
+      "event": "Scored 183* vs Sri Lanka, Jaipur \u2014 highest ODI score by wicketkeeper"
+    },
+    {
+      "date": "2007-09-24",
+      "event": "Captained India to inaugural ICC T20 World Cup title vs Pakistan"
+    },
+    {
+      "date": "2010-07-04",
+      "event": "Married Sakshi Singh Rawat in Dehradun"
+    },
+    {
+      "date": "2011-04-02",
+      "event": "Captained India to ICC Cricket World Cup 2011 \u2014 scored 91* and hit winning six"
+    },
+    {
+      "date": "2013-06-23",
+      "event": "Won ICC Champions Trophy \u2014 first captain to win all 3 ICC white-ball trophies"
+    },
+    {
+      "date": "2014-12-30",
+      "event": "Retired from Test cricket mid-series in Melbourne"
+    },
+    {
+      "date": "2020-08-15",
+      "event": "Announced retirement from all international cricket via Instagram"
+    }
+  ]
+}

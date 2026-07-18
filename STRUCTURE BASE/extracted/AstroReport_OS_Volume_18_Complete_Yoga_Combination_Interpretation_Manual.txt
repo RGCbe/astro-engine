@@ -1,0 +1,50 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 18 – Complete Yoga & Combination
+Interpretation Manual
+Purpose
+This manual defines a consistent framework for interpreting yogas and planetary combinations. It
+explains how combinations are validated, weighted, activated through time, and translated into
+reader-friendly narratives.
+Category
+Examples
+Primary Effect
+Prosperity Yogas
+Dhana Yoga, Lakshmi Yoga
+Resources & wealth
+Leadership Yogas
+Raja Yoga, Pancha Mahapurusha
+Status & authority
+Learning Yogas
+Gaja Kesari
+Wisdom & growth
+Exchange Yogas
+Parivartana Yoga
+Mutual reinforcement
+Cancellation Yogas
+Neecha Bhanga
+Recovery & resilience
+Challenge Yogas
+Vipareeta Raja
+Growth through difficulty
+Planetary Combinations
+Chandra-Mangala, Budha-Aditya
+Specialized themes
+Doshas
+Selected chart-specific afflictions
+Areas requiring balance
+Activation
+Mahadasha/Bhukti
+Timeline trigger
+Evaluation Sequence
+Identify the yoga, validate required conditions, measure planetary strength, confirm with house
+lords and divisional charts, determine Dasha activation, assign confidence and generate a
+timeline-aware interpretation.
+Narrative Rules
+Describe how the yoga may influence life experiences before explaining the astrological
+combination. Integrate multiple yogas into one coherent life story rather than listing them
+separately.
+Developer Specification
+Each yoga object should include prerequisites, validation rules, life domains, confidence modifiers,
+activation logic, related questions, narrative templates and conflict-resolution rules.
+Next Volume
+Volume 19 – Complete Dasha, Bhukti & Timeline Interpretation Manual.

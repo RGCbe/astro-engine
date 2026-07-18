@@ -1,0 +1,1579 @@
+{
+  "nakshatras": [
+    {
+      "index": 1,
+      "name_hi": "अश्विनी",
+      "name_en": "Ashwini",
+      "start_deg": 0.0,
+      "end_deg": 13.3333,
+      "dasha_lord": "Ketu",
+      "devata": "Ashwini Kumaras",
+      "charan_aksharas": [
+        "चू",
+        "चे",
+        "चो",
+        "ला"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "चू",
+          "start_deg": 0.0,
+          "end_deg": 3.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "चे",
+          "start_deg": 3.3333,
+          "end_deg": 6.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "चो",
+          "start_deg": 6.6667,
+          "end_deg": 10.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "ला",
+          "start_deg": 10.0,
+          "end_deg": 13.3333
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 2,
+      "name_hi": "भरणी",
+      "name_en": "Bharani",
+      "start_deg": 13.333,
+      "end_deg": 26.6663,
+      "dasha_lord": "Venus",
+      "devata": "Yama",
+      "charan_aksharas": [
+        "ली",
+        "लू",
+        "ले",
+        "लो"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "ली",
+          "start_deg": 13.333,
+          "end_deg": 16.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "लू",
+          "start_deg": 16.6663,
+          "end_deg": 19.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "ले",
+          "start_deg": 19.9997,
+          "end_deg": 23.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "लो",
+          "start_deg": 23.333,
+          "end_deg": 26.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 3,
+      "name_hi": "कृत्तिका",
+      "name_en": "Krittika",
+      "start_deg": 26.667,
+      "end_deg": 40.0003,
+      "dasha_lord": "Sun",
+      "devata": "Agni",
+      "charan_aksharas": [
+        "अ",
+        "ई",
+        "उ",
+        "ए"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "अ",
+          "start_deg": 26.667,
+          "end_deg": 30.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Mesha",
+          "rashi_index": 1,
+          "akshara": "ई",
+          "start_deg": 30.0003,
+          "end_deg": 33.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "उ",
+          "start_deg": 33.3337,
+          "end_deg": 36.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "ए",
+          "start_deg": 36.667,
+          "end_deg": 40.0003
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 4,
+      "name_hi": "रोहिणी",
+      "name_en": "Rohini",
+      "start_deg": 40.0,
+      "end_deg": 53.3333,
+      "dasha_lord": "Moon",
+      "devata": "Brahma/Prajapati",
+      "charan_aksharas": [
+        "ओ",
+        "वा",
+        "वी",
+        "वु"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "ओ",
+          "start_deg": 40.0,
+          "end_deg": 43.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "वा",
+          "start_deg": 43.3333,
+          "end_deg": 46.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "वी",
+          "start_deg": 46.6667,
+          "end_deg": 50.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "वु",
+          "start_deg": 50.0,
+          "end_deg": 53.3333
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 5,
+      "name_hi": "मृगशिरा",
+      "name_en": "Mrigashira",
+      "start_deg": 53.333,
+      "end_deg": 66.6663,
+      "dasha_lord": "Mars",
+      "devata": "Soma/Chandra",
+      "charan_aksharas": [
+        "वे",
+        "वो",
+        "का",
+        "की"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "वे",
+          "start_deg": 53.333,
+          "end_deg": 56.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "वो",
+          "start_deg": 56.6663,
+          "end_deg": 59.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Vrishabha",
+          "rashi_index": 2,
+          "akshara": "का",
+          "start_deg": 59.9997,
+          "end_deg": 63.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "की",
+          "start_deg": 63.333,
+          "end_deg": 66.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 6,
+      "name_hi": "आर्द्रा",
+      "name_en": "Ardra",
+      "start_deg": 66.667,
+      "end_deg": 80.0003,
+      "dasha_lord": "Rahu",
+      "devata": "Rudra",
+      "charan_aksharas": [
+        "कु",
+        "घ",
+        "ङ",
+        "छ"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "कु",
+          "start_deg": 66.667,
+          "end_deg": 70.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "घ",
+          "start_deg": 70.0003,
+          "end_deg": 73.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "ङ",
+          "start_deg": 73.3337,
+          "end_deg": 76.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "छ",
+          "start_deg": 76.667,
+          "end_deg": 80.0003
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 7,
+      "name_hi": "पुनर्वसु",
+      "name_en": "Punarvasu",
+      "start_deg": 80.0,
+      "end_deg": 93.3333,
+      "dasha_lord": "Jupiter",
+      "devata": "Aditi",
+      "charan_aksharas": [
+        "के",
+        "को",
+        "हा",
+        "ही"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "के",
+          "start_deg": 80.0,
+          "end_deg": 83.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "को",
+          "start_deg": 83.3333,
+          "end_deg": 86.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "हा",
+          "start_deg": 86.6667,
+          "end_deg": 90.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Mithuna",
+          "rashi_index": 3,
+          "akshara": "ही",
+          "start_deg": 90.0,
+          "end_deg": 93.3333
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 8,
+      "name_hi": "पुष्य",
+      "name_en": "Pushya",
+      "start_deg": 93.333,
+      "end_deg": 106.6663,
+      "dasha_lord": "Saturn",
+      "devata": "Brihaspati",
+      "charan_aksharas": [
+        "हु",
+        "हे",
+        "हो",
+        "डा"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "हु",
+          "start_deg": 93.333,
+          "end_deg": 96.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "हे",
+          "start_deg": 96.6663,
+          "end_deg": 99.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "हो",
+          "start_deg": 99.9997,
+          "end_deg": 103.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "डा",
+          "start_deg": 103.333,
+          "end_deg": 106.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 9,
+      "name_hi": "अश्लेषा",
+      "name_en": "Ashlesha",
+      "start_deg": 106.667,
+      "end_deg": 120.0003,
+      "dasha_lord": "Mercury",
+      "devata": "Sarpa/Nagas",
+      "charan_aksharas": [
+        "डी",
+        "डू",
+        "डे",
+        "डो"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "डी",
+          "start_deg": 106.667,
+          "end_deg": 110.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "डू",
+          "start_deg": 110.0003,
+          "end_deg": 113.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "डे",
+          "start_deg": 113.3337,
+          "end_deg": 116.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "डो",
+          "start_deg": 116.667,
+          "end_deg": 120.0003
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 10,
+      "name_hi": "मघा",
+      "name_en": "Magha",
+      "start_deg": 120.0,
+      "end_deg": 133.3333,
+      "dasha_lord": "Ketu",
+      "devata": "Pitris",
+      "charan_aksharas": [
+        "मा",
+        "मी",
+        "मू",
+        "मे"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Karka",
+          "rashi_index": 4,
+          "akshara": "मा",
+          "start_deg": 120.0,
+          "end_deg": 123.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "मी",
+          "start_deg": 123.3333,
+          "end_deg": 126.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "मू",
+          "start_deg": 126.6667,
+          "end_deg": 130.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "मे",
+          "start_deg": 130.0,
+          "end_deg": 133.3333
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 11,
+      "name_hi": "पूर्वा फाल्गुनी",
+      "name_en": "Purva Phalguni",
+      "start_deg": 133.333,
+      "end_deg": 146.6663,
+      "dasha_lord": "Venus",
+      "devata": "Bhaga/Aryaman",
+      "charan_aksharas": [
+        "मो",
+        "टा",
+        "टी",
+        "टू"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "मो",
+          "start_deg": 133.333,
+          "end_deg": 136.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "टा",
+          "start_deg": 136.6663,
+          "end_deg": 139.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "टी",
+          "start_deg": 139.9997,
+          "end_deg": 143.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "टू",
+          "start_deg": 143.333,
+          "end_deg": 146.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 12,
+      "name_hi": "उत्तरा फाल्गुनी",
+      "name_en": "Uttara Phalguni",
+      "start_deg": 146.667,
+      "end_deg": 160.0003,
+      "dasha_lord": "Sun",
+      "devata": "Aryaman",
+      "charan_aksharas": [
+        "टे",
+        "टो",
+        "पा",
+        "पी"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "टे",
+          "start_deg": 146.667,
+          "end_deg": 150.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Simha",
+          "rashi_index": 5,
+          "akshara": "टो",
+          "start_deg": 150.0003,
+          "end_deg": 153.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "पा",
+          "start_deg": 153.3337,
+          "end_deg": 156.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "पी",
+          "start_deg": 156.667,
+          "end_deg": 160.0003
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 13,
+      "name_hi": "हस्त",
+      "name_en": "Hasta",
+      "start_deg": 160.0,
+      "end_deg": 173.3333,
+      "dasha_lord": "Moon",
+      "devata": "Savitar",
+      "charan_aksharas": [
+        "पू",
+        "ष",
+        "ण",
+        "ठ"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "पू",
+          "start_deg": 160.0,
+          "end_deg": 163.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "ष",
+          "start_deg": 163.3333,
+          "end_deg": 166.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "ण",
+          "start_deg": 166.6667,
+          "end_deg": 170.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "ठ",
+          "start_deg": 170.0,
+          "end_deg": 173.3333
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 14,
+      "name_hi": "चित्रा",
+      "name_en": "Chitra",
+      "start_deg": 173.333,
+      "end_deg": 186.6663,
+      "dasha_lord": "Mars",
+      "devata": "Vishvakarma",
+      "charan_aksharas": [
+        "पे",
+        "पो",
+        "रा",
+        "री"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "पे",
+          "start_deg": 173.333,
+          "end_deg": 176.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "पो",
+          "start_deg": 176.6663,
+          "end_deg": 179.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Kanya",
+          "rashi_index": 6,
+          "akshara": "रा",
+          "start_deg": 179.9997,
+          "end_deg": 183.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "री",
+          "start_deg": 183.333,
+          "end_deg": 186.6663
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 15,
+      "name_hi": "स्वाति",
+      "name_en": "Swati",
+      "start_deg": 186.667,
+      "end_deg": 200.0003,
+      "dasha_lord": "Rahu",
+      "devata": "Vayu",
+      "charan_aksharas": [
+        "रू",
+        "रे",
+        "रो",
+        "ता"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "रू",
+          "start_deg": 186.667,
+          "end_deg": 190.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "रे",
+          "start_deg": 190.0003,
+          "end_deg": 193.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "रो",
+          "start_deg": 193.3337,
+          "end_deg": 196.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "ता",
+          "start_deg": 196.667,
+          "end_deg": 200.0003
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 16,
+      "name_hi": "विशाखा",
+      "name_en": "Vishakha",
+      "start_deg": 200.0,
+      "end_deg": 213.3333,
+      "dasha_lord": "Jupiter",
+      "devata": "Indragni",
+      "charan_aksharas": [
+        "ती",
+        "तू",
+        "ते",
+        "तो"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "ती",
+          "start_deg": 200.0,
+          "end_deg": 203.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "तू",
+          "start_deg": 203.3333,
+          "end_deg": 206.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "ते",
+          "start_deg": 206.6667,
+          "end_deg": 210.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Tula",
+          "rashi_index": 7,
+          "akshara": "तो",
+          "start_deg": 210.0,
+          "end_deg": 213.3333
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 17,
+      "name_hi": "अनुराधा",
+      "name_en": "Anuradha",
+      "start_deg": 213.333,
+      "end_deg": 226.6663,
+      "dasha_lord": "Saturn",
+      "devata": "Mitra",
+      "charan_aksharas": [
+        "ना",
+        "नी",
+        "नू",
+        "ने"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "ना",
+          "start_deg": 213.333,
+          "end_deg": 216.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "नी",
+          "start_deg": 216.6663,
+          "end_deg": 219.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "नू",
+          "start_deg": 219.9997,
+          "end_deg": 223.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "ने",
+          "start_deg": 223.333,
+          "end_deg": 226.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 18,
+      "name_hi": "ज्येष्ठा",
+      "name_en": "Jyeshtha",
+      "start_deg": 226.667,
+      "end_deg": 240.0003,
+      "dasha_lord": "Mercury",
+      "devata": "Indra",
+      "charan_aksharas": [
+        "नो",
+        "या",
+        "यी",
+        "यू"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "नो",
+          "start_deg": 226.667,
+          "end_deg": 230.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "या",
+          "start_deg": 230.0003,
+          "end_deg": 233.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "यी",
+          "start_deg": 233.3337,
+          "end_deg": 236.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "यू",
+          "start_deg": 236.667,
+          "end_deg": 240.0003
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 19,
+      "name_hi": "मूल",
+      "name_en": "Mula",
+      "start_deg": 240.0,
+      "end_deg": 253.3333,
+      "dasha_lord": "Ketu",
+      "devata": "Nirriti",
+      "charan_aksharas": [
+        "ये",
+        "यो",
+        "भा",
+        "भी"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Vrishchika",
+          "rashi_index": 8,
+          "akshara": "ये",
+          "start_deg": 240.0,
+          "end_deg": 243.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "यो",
+          "start_deg": 243.3333,
+          "end_deg": 246.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "भा",
+          "start_deg": 246.6667,
+          "end_deg": 250.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "भी",
+          "start_deg": 250.0,
+          "end_deg": 253.3333
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 20,
+      "name_hi": "पूर्वाषाढ़ा",
+      "name_en": "Purva Ashadha",
+      "start_deg": 253.333,
+      "end_deg": 266.6663,
+      "dasha_lord": "Venus",
+      "devata": "Apas",
+      "charan_aksharas": [
+        "भू",
+        "धा",
+        "फा",
+        "ढा"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "भू",
+          "start_deg": 253.333,
+          "end_deg": 256.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "धा",
+          "start_deg": 256.6663,
+          "end_deg": 259.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "फा",
+          "start_deg": 259.9997,
+          "end_deg": 263.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "ढा",
+          "start_deg": 263.333,
+          "end_deg": 266.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 21,
+      "name_hi": "उत्तराषाढ़ा",
+      "name_en": "Uttara Ashadha",
+      "start_deg": 266.667,
+      "end_deg": 280.0003,
+      "dasha_lord": "Sun",
+      "devata": "Vishvedevas",
+      "charan_aksharas": [
+        "भे",
+        "भो",
+        "जा",
+        "जी"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "भे",
+          "start_deg": 266.667,
+          "end_deg": 270.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Dhanu",
+          "rashi_index": 9,
+          "akshara": "भो",
+          "start_deg": 270.0003,
+          "end_deg": 273.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "जा",
+          "start_deg": 273.3337,
+          "end_deg": 276.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "जी",
+          "start_deg": 276.667,
+          "end_deg": 280.0003
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 22,
+      "name_hi": "श्रवण",
+      "name_en": "Shravana",
+      "start_deg": 280.0,
+      "end_deg": 293.3333,
+      "dasha_lord": "Moon",
+      "devata": "Vishnu",
+      "charan_aksharas": [
+        "खी",
+        "खू",
+        "खे",
+        "खो"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "खी",
+          "start_deg": 280.0,
+          "end_deg": 283.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "खू",
+          "start_deg": 283.3333,
+          "end_deg": 286.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "खे",
+          "start_deg": 286.6667,
+          "end_deg": 290.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "खो",
+          "start_deg": 290.0,
+          "end_deg": 293.3333
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 23,
+      "name_hi": "धनिष्ठा",
+      "name_en": "Dhanishtha",
+      "start_deg": 293.333,
+      "end_deg": 306.6663,
+      "dasha_lord": "Mars",
+      "devata": "Vasus",
+      "charan_aksharas": [
+        "गा",
+        "गी",
+        "गू",
+        "गे"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "गा",
+          "start_deg": 293.333,
+          "end_deg": 296.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "गी",
+          "start_deg": 296.6663,
+          "end_deg": 299.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Makara",
+          "rashi_index": 10,
+          "akshara": "गू",
+          "start_deg": 299.9997,
+          "end_deg": 303.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "गे",
+          "start_deg": 303.333,
+          "end_deg": 306.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 24,
+      "name_hi": "शतभिषा",
+      "name_en": "Shatabhisha",
+      "start_deg": 306.667,
+      "end_deg": 320.0003,
+      "dasha_lord": "Rahu",
+      "devata": "Varuna",
+      "charan_aksharas": [
+        "गो",
+        "सा",
+        "सी",
+        "सू"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "गो",
+          "start_deg": 306.667,
+          "end_deg": 310.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "सा",
+          "start_deg": 310.0003,
+          "end_deg": 313.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "सी",
+          "start_deg": 313.3337,
+          "end_deg": 316.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "सू",
+          "start_deg": 316.667,
+          "end_deg": 320.0003
+        }
+      ],
+      "book_confirmed": false
+    },
+    {
+      "index": 25,
+      "name_hi": "पूर्वाभाद्रपद",
+      "name_en": "Purva Bhadrapada",
+      "start_deg": 320.0,
+      "end_deg": 333.3333,
+      "dasha_lord": "Jupiter",
+      "devata": "Aja Ekapada",
+      "charan_aksharas": [
+        "से",
+        "सो",
+        "दा",
+        "दी"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "से",
+          "start_deg": 320.0,
+          "end_deg": 323.3333
+        },
+        {
+          "pada": 2,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "सो",
+          "start_deg": 323.3333,
+          "end_deg": 326.6667
+        },
+        {
+          "pada": 3,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "दा",
+          "start_deg": 326.6667,
+          "end_deg": 330.0
+        },
+        {
+          "pada": 4,
+          "rashi": "Kumbha",
+          "rashi_index": 11,
+          "akshara": "दी",
+          "start_deg": 330.0,
+          "end_deg": 333.3333
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 26,
+      "name_hi": "उत्तराभाद्रपद",
+      "name_en": "Uttara Bhadrapada",
+      "start_deg": 333.333,
+      "end_deg": 346.6663,
+      "dasha_lord": "Saturn",
+      "devata": "Ahir Budhnya",
+      "charan_aksharas": [
+        "दू",
+        "थ",
+        "झ",
+        "ञ"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "दू",
+          "start_deg": 333.333,
+          "end_deg": 336.6663
+        },
+        {
+          "pada": 2,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "थ",
+          "start_deg": 336.6663,
+          "end_deg": 339.9997
+        },
+        {
+          "pada": 3,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "झ",
+          "start_deg": 339.9997,
+          "end_deg": 343.333
+        },
+        {
+          "pada": 4,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "ञ",
+          "start_deg": 343.333,
+          "end_deg": 346.6663
+        }
+      ],
+      "book_confirmed": true
+    },
+    {
+      "index": 27,
+      "name_hi": "रेवती",
+      "name_en": "Revati",
+      "start_deg": 346.667,
+      "end_deg": 360.0003,
+      "dasha_lord": "Mercury",
+      "devata": "Pushan",
+      "charan_aksharas": [
+        "दे",
+        "दो",
+        "च",
+        "ची"
+      ],
+      "padas": [
+        {
+          "pada": 1,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "दे",
+          "start_deg": 346.667,
+          "end_deg": 350.0003
+        },
+        {
+          "pada": 2,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "दो",
+          "start_deg": 350.0003,
+          "end_deg": 353.3337
+        },
+        {
+          "pada": 3,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "च",
+          "start_deg": 353.3337,
+          "end_deg": 356.667
+        },
+        {
+          "pada": 4,
+          "rashi": "Meena",
+          "rashi_index": 12,
+          "akshara": "ची",
+          "start_deg": 356.667,
+          "end_deg": 360.0003
+        }
+      ],
+      "book_confirmed": false
+    }
+  ],
+  "abhijit": {
+    "index": 28,
+    "name_hi": "अभिजित्",
+    "name_en": "Abhijit",
+    "devata": "Brahma",
+    "dasha_lord": null,
+    "note": "Intercalary nakshatra; spans last 15 ghatis of Uttara-Ashadha + first 4 ghatis of Shravana"
+  },
+  "book_quotes": {
+    "definition": {
+      "pos": 15154,
+      "text": "नक्षत्र\n\nज्योत्तिषियों ने सम्पूणं वाकाश-मण्डल को २७ ध्यागों में fee कर, ae\nभाग को एक-एक “नक्षत्र को at दी है। अर्थात्‌ जिस were पृथ्वी पर स्थान vt\nडूरी को किक्षोमीटर बादि में नापा जातः है, उसी अकार आकाश में एफ थ्यानसे\nदूसरे हथान की टूरी को मर्तो के माध्यम से नापा जाता है"
+    },
+    "lords_intro": {
+      "pos": 16366,
+      "text": "नक्षत्रों के स्वामी\n\nधूर्वोक्त २८ नक्षेत्रों के स्वामी २८ विभिन्‍न देवता मानि गये हैं। जिस देवता\nका जो स्वभाव है, उसी के सनुरूप नक्षत्र तथा उस नक्षत्र में जन्म लेने' वाले जातक\nको स्वभावं भी मानां जाता है। भिभिन्‍न नक्षत्रों के स्वामी निम्नानुसार हैं"
+    },
+    "charan_intro": {
+      "pos": 16876,
+      "text": "नक्षत्रों के चरणाक्षर\n\nऊपर बताया था चुका है कि ध्रत्येक नक्षत्र को ४ चरण तथा ६० वणो थे\nविभाजित किया मया है । ज्योतिषि्यो के प्रत्येक aera के were err का एक-एक\n‘gare’ भी निर्धारित किया है ॥ जिस नक्षत्र के जिस चरण के लिए जों अक्षर निश्चित\nहै, उसका उल्लेख ate क्रियः गया है 1 जो मनुष्य जिस sae के जिम चरण के\nभोग-कांत में जन्म लेता ई, उसका नाम उसी चरणाक्षर के आधार पर रखा जाता\nहैं। उदाहुरण के लिए यदि किसी व्यक्ति का जन्म अध्विनो नक्षव के tay शरणमे\nBar हो तो उसका नाम का आदि अक्षर 'चो' होगा और उसी के आधार परः उनका\nनाम चोवर्सिह, aga’ आदि रखा जाएगा |\n\nकिस नेक्षत के किस चरण के लिए कौनसा अक्षर नियते है, इसे निरनानुमार\n\nसमझ ल"
+    }
+  },
+  "book_name_confirmations": [
+    {
+      "index": 1,
+      "name_hi": "अश्विनी",
+      "name_en": "Ashwini",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 2,
+      "name_hi": "भरणी",
+      "name_en": "Bharani",
+      "confirmed_in_book": true,
+      "matched_text": "भरणी"
+    },
+    {
+      "index": 3,
+      "name_hi": "कृत्तिका",
+      "name_en": "Krittika",
+      "confirmed_in_book": true,
+      "matched_text": "कृत्तिका"
+    },
+    {
+      "index": 4,
+      "name_hi": "रोहिणी",
+      "name_en": "Rohini",
+      "confirmed_in_book": true,
+      "matched_text": "रोह"
+    },
+    {
+      "index": 5,
+      "name_hi": "मृगशिरा",
+      "name_en": "Mrigashira",
+      "confirmed_in_book": true,
+      "matched_text": "मृगशिरा"
+    },
+    {
+      "index": 6,
+      "name_hi": "आर्द्रा",
+      "name_en": "Ardra",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 7,
+      "name_hi": "पुनर्वसु",
+      "name_en": "Punarvasu",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 8,
+      "name_hi": "पुष्य",
+      "name_en": "Pushya",
+      "confirmed_in_book": true,
+      "matched_text": "पुष्य"
+    },
+    {
+      "index": 9,
+      "name_hi": "अश्लेषा",
+      "name_en": "Ashlesha",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 10,
+      "name_hi": "मघा",
+      "name_en": "Magha",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 11,
+      "name_hi": "पूर्वा फाल्गुनी",
+      "name_en": "Purva Phalguni",
+      "confirmed_in_book": true,
+      "matched_text": "पूर"
+    },
+    {
+      "index": 12,
+      "name_hi": "उत्तरा फाल्गुनी",
+      "name_en": "Uttara Phalguni",
+      "confirmed_in_book": true,
+      "matched_text": "उत्"
+    },
+    {
+      "index": 13,
+      "name_hi": "हस्त",
+      "name_en": "Hasta",
+      "confirmed_in_book": true,
+      "matched_text": "हस्त"
+    },
+    {
+      "index": 14,
+      "name_hi": "चित्रा",
+      "name_en": "Chitra",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 15,
+      "name_hi": "स्वाति",
+      "name_en": "Swati",
+      "confirmed_in_book": true,
+      "matched_text": "स्वाति"
+    },
+    {
+      "index": 16,
+      "name_hi": "विशाखा",
+      "name_en": "Vishakha",
+      "confirmed_in_book": true,
+      "matched_text": "विशाखा"
+    },
+    {
+      "index": 17,
+      "name_hi": "अनुराधा",
+      "name_en": "Anuradha",
+      "confirmed_in_book": true,
+      "matched_text": "अनुराधा"
+    },
+    {
+      "index": 18,
+      "name_hi": "ज्येष्ठा",
+      "name_en": "Jyeshtha",
+      "confirmed_in_book": true,
+      "matched_text": "ज्येष्ठा"
+    },
+    {
+      "index": 19,
+      "name_hi": "मूल",
+      "name_en": "Mula",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 20,
+      "name_hi": "पूर्वाषाढ़ा",
+      "name_en": "Purva Ashadha",
+      "confirmed_in_book": true,
+      "matched_text": "पूर"
+    },
+    {
+      "index": 21,
+      "name_hi": "उत्तराषाढ़ा",
+      "name_en": "Uttara Ashadha",
+      "confirmed_in_book": true,
+      "matched_text": "उत्तराषाढ़ा"
+    },
+    {
+      "index": 22,
+      "name_hi": "श्रवण",
+      "name_en": "Shravana",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 23,
+      "name_hi": "धनिष्ठा",
+      "name_en": "Dhanishtha",
+      "confirmed_in_book": true,
+      "matched_text": "धनिष्ठा"
+    },
+    {
+      "index": 24,
+      "name_hi": "शतभिषा",
+      "name_en": "Shatabhisha",
+      "confirmed_in_book": false,
+      "matched_text": null
+    },
+    {
+      "index": 25,
+      "name_hi": "पूर्वाभाद्रपद",
+      "name_en": "Purva Bhadrapada",
+      "confirmed_in_book": true,
+      "matched_text": "पूर"
+    },
+    {
+      "index": 26,
+      "name_hi": "उत्तराभाद्रपद",
+      "name_en": "Uttara Bhadrapada",
+      "confirmed_in_book": true,
+      "matched_text": "उत्तराभाद्रपद"
+    },
+    {
+      "index": 27,
+      "name_hi": "रेवती",
+      "name_en": "Revati",
+      "confirmed_in_book": false,
+      "matched_text": null
+    }
+  ],
+  "canonical_reference_note": "Nakshatra names, dasha-lords, devatas, and charan-aksharas are well-known classical Vedic-astrology data. This file merges the canonical table with whatever fragments the book's OCR could supply.",
+  "vimshottari_years": {
+    "Ketu": 7,
+    "Venus": 20,
+    "Sun": 6,
+    "Moon": 10,
+    "Mars": 7,
+    "Rahu": 18,
+    "Jupiter": 16,
+    "Saturn": 19,
+    "Mercury": 17
+  }
+}

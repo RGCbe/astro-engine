@@ -1,0 +1,37 @@
+{
+  "item": "E6_Karaka Kendradi Dasha",
+  "books_covering": [
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2"
+  ],
+  "per_book_passages": {
+    "BPHS_Vol2": [
+      {
+        "position": 100285,
+        "match_text": "karaka Kendradi",
+        "context": "years of Dasds of planets c;runting is done from the planet to his own sign. Tlre years of l)asas would be the number arrived at by countirlg up to the sign of the planet vhich is stronger or more in number. Note: Under this system Dasas are of two kinds-namely, Lagna Kendradi (err *rarfa) and Atmakaraka Kendradi (enew- $r<*'*r-srfe). There are also Kendtadi Rasi Dasa (*;arf< <rfu ?fi) or Kendradi.Graha Dasa (f;arfe r€ srtr) in both thc Dasa system mentioned abave. t Example : See the birth chart given earlier. Amongst the Ascendant Aquarius and the 7th Leo, the Ascendant is stronger Therefore, the first Dasa will be of the Ascendant and there- ,after of its kendra signs-Taurus, Leo and Scorpio' In the order of the comparative strength the Dasas will be of Taurus, 'Scoprio and'L,eo. ln the Panaphara ho",
+        "pattern_hit": "karaka kendradi"
+      }
+    ],
+    "Brihat_Parashara_v2": [
+      {
+        "position": 910746,
+        "match_text": "karaka Kendradi",
+        "context": "Dasha of planets counting is done from the planet to his own sign. The years of Dasha would be the number arrived at by counting up to the sign of the planet which is stronger or more in number. Note: Under this system Dasha are of two kinds - namely, Lagna Kendradi (लग्न केन्द्राद्वद) and Atmakaraka Kendradi (आत्म कारक केन्द्राद्वद). There are also Kendradi Rashi Dasha (केन्द्राद्वद राशश दशा) or Kendradi Graha Dasha (केन्द्राद्वद रह दशा) in both the Dasha system mentioned above. Example: See the birth chart given earlier. Amongst the Ascendant Aquarius and the 7th Leo, the Ascendant is stronger Therefore, the first Dasha will be of the Ascendant and thereafter of its Kendra signs - Taurus, Leo and Scorpio. In the order of the comparative strength the Dasha will be of Taurus, Scorpio and Leo.",
+        "pattern_hit": "karaka kendradi"
+      },
+      {
+        "position": 912584,
+        "match_text": "karaka Kendradi",
+        "context": "uently, at first there will be Dasha of Capricorn etc. Kendra signs in the order of their strength. Thereafter by going in the reverse order there will be Dasha of Apoklima signs. After that will come the Dasha of Scorpio and other Panaphara signs in the order of their strength. Example of Atmakaraka Kendradi Graha Dasha The Atmakaraka is the Sun in Capricorn. Capricorn is an even sign. Consequently, the planets occupying Kendra. Apoklima and Panaphara houses will have their Dasha in the reverse order according to their strength. Capricorn is occupied by the Sun only, the first Dasha will, therefore, be of the Sun There are no planets in Kendras to him (signs 7, 4, 1). In Apoklima (signs 9, 3) are the Moon, Rahu and Ketu. Amongst them in the order of strength, the Dasha lords will be Rahu, Ket",
+        "pattern_hit": "karaka kendradi"
+      },
+      {
+        "position": 909642,
+        "match_text": "Kendradi Dasha",
+        "context": "of 1 +9). The Dasha of the remaining signs may be worked out in the same manner. Page 443 Illustrative Table Sign Aquarius Pisces Aries Taurus Gemini Cancer Dasha Years 8 5 4 8½ 8½ 4 Sign Leo Virgo Libra Scorpio Sagittarius Capricorn Dasha Years 8 8 5½ 7 5½ 4½ Kendradi Dasha (केन्द्रादि िशा) लग्नसप्तमयोमवध्ये यो िासशबवलर्ान् भर्ेि् । ििाः केन्द्राद्वदसंिानां िाशीनाञ्च बलक्रमाि् ॥ १७५॥ कािकादष्टप िाशीनां खेटानां चैर्मेर् द्वह । दशाब्दाििर्ज्ज्ञेयााः खेटानां च स्वभार्थध ॥ १७६॥ 175-176. In this system, there are Dasha of fixed signs in the Kendra etc. from the Ascendant or the 7th house, whichever is stronger. If the Ascendant or the 7th with strength be in an odd sign the Kendra etc. are counted in the onward order. If it be in an even sign the counting will",
+        "pattern_hit": "kendradi dasha"
+      }
+    ]
+  }
+}

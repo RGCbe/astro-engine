@@ -1,0 +1,42 @@
+AstroReport OS Specification
+Volume 4 – Astrology Interpretation Engine (AIE)
+Purpose
+The Astrology Interpretation Engine converts validated astrological data into meaningful life
+interpretations. It never performs chart calculations; it explains what the calculated indicators
+collectively mean.
+Design Principle
+Interpret before writing. The engine should combine planets, houses, yogas, divisional charts,
+Dasha, Bhukti and transits into unified life themes instead of isolated statements.
+Input
+Receive structured chart data from the calculation engine, including planetary strengths, house
+activations, yogas, doshas, divisional charts, Dasha timeline, transits and confidence scores.
+Interpretation Pipeline
+Collect evidence → Rank evidence → Resolve conflicts → Determine dominant life themes → Map
+to life domains → Produce structured interpretation.
+Evidence Ranking
+Give higher priority to repeated indications confirmed by multiple techniques. Do not base important
+conclusions on a single weak indicator.
+Conflict Resolution
+When indicators disagree, explain the balance. Example: 'Strong career potential exists, but
+progress may require persistence because supportive and restrictive influences operate together.'
+Theme Generation
+Generate themes such as growth, responsibility, relationships, leadership, learning, wealth building
+and service instead of isolated event predictions.
+Life Domain Mapping
+Map every interpretation into relevant domains: identity, family, education, career, business, wealth,
+health, relationships, spirituality, purpose and legacy.
+Confidence Engine
+Attach a confidence level (High/Medium/Low) based on the quantity and quality of supporting
+astrological evidence.
+Narrative Output
+Return structured narrative blocks for the Report Engine instead of final prose. The Story Engine
+will convert these into reader-friendly chapters.
+Writing Rules
+Avoid deterministic language. Explain patterns, possibilities, reasons and practical guidance.
+Translate technical astrology into simple human language.
+Validation
+Check for contradictions, unsupported claims, missing life domains and timeline consistency before
+passing data to the Story Engine.
+Mission Statement
+The AIE acts like an experienced astrologer thinking behind the scenes. It understands the chart
+deeply but speaks through clear, compassionate, evidence-based interpretations.

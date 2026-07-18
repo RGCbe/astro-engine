@@ -1,0 +1,252 @@
+{
+  "methods": [
+    {
+      "name": "Classical Yogas",
+      "type": "Yoga Engine",
+      "categories": [
+        "yoga",
+        "general",
+        "fame",
+        "wealth",
+        "career",
+        "marriage",
+        "progeny"
+      ],
+      "rules": [
+        "Gaja Kesari Yoga",
+        "Ruchaka Yoga (Pancha Mahapurusha)",
+        "Bhadra Yoga (Pancha Mahapurusha)",
+        "Hamsa Yoga (Pancha Mahapurusha)",
+        "Malavya Yoga (Pancha Mahapurusha)",
+        "Sasa Yoga (Pancha Mahapurusha)",
+        "Harsha Vipareeta Raja Yoga",
+        "Sarala Vipareeta Raja Yoga",
+        "Vimala Vipareeta Raja Yoga"
+      ],
+      "description": "Predicts life milestones via classical combinations from BPHS, Phaladeepika, and Saravali."
+    },
+    {
+      "name": "Book-Based Rules",
+      "type": "Declarative Rules Engine",
+      "categories": [
+        "general",
+        "wealth",
+        "health",
+        "career",
+        "marriage",
+        "travel",
+        "siblings",
+        "children",
+        "father",
+        "mother",
+        "property",
+        "education"
+      ],
+      "rules": [
+        "Planet in House Placements",
+        "Planet in Sign Placements",
+        "Lagna Lord Placements"
+      ],
+      "description": "Evaluates raw house and sign placement effects directly from textbook translations."
+    },
+    {
+      "name": "Deep AI-Extracted Rules",
+      "type": "Semantic Extraction Engine",
+      "categories": [
+        "general",
+        "wealth",
+        "health",
+        "career",
+        "marriage",
+        "travel",
+        "siblings",
+        "children",
+        "father",
+        "mother",
+        "property",
+        "education",
+        "spirituality"
+      ],
+      "rules": [
+        "Verse-Precise Placement Rules",
+        "Deep Scriptural Citations"
+      ],
+      "description": "Surfaces verse-precise predictions using over 14,795 AI-structured extractions."
+    },
+    {
+      "name": "Lal Kitab System",
+      "type": "Alternative Urdu/Punjabi Engine",
+      "categories": [
+        "remedies",
+        "health",
+        "wealth",
+        "property",
+        "siblings",
+        "progeny",
+        "father",
+        "mother"
+      ],
+      "rules": [
+        "Pakka Ghar Rules",
+        "Lal Kitab Aspects",
+        "Closed/Asleep House Rules",
+        "7 Karmic Debts (Rins)",
+        "Lal Kitab Upayas (Remedies)"
+      ],
+      "description": "Computes Pakka Ghar aspects, sleeping planets, and suggests specific karmic remedies."
+    },
+    {
+      "name": "KP Stellar System",
+      "type": "Stellar Astrology Engine",
+      "categories": [
+        "career",
+        "marriage",
+        "health",
+        "wealth",
+        "travel",
+        "children",
+        "education"
+      ],
+      "rules": [
+        "Cuspal Sublord Significators",
+        "Star Lord Activations",
+        "1-12 Cuspal Placements"
+      ],
+      "description": "Calculates event significators based on Cuspal Sublord and Star Lord relationships."
+    },
+    {
+      "name": "Tajik Solar Return",
+      "type": "Annual Horoscopy Engine",
+      "categories": [
+        "career",
+        "wealth",
+        "health",
+        "travel",
+        "general"
+      ],
+      "rules": [
+        "Muntha Placement Rule",
+        "Tajik Yogas (16 classical yogas)",
+        "Year Lord Strength (Pancha Vargiya Bala)"
+      ],
+      "description": "Annual predictions based on Solar Return charts, Tajik aspects, and Muntha progressions."
+    },
+    {
+      "name": "Prashna Horary",
+      "type": "Question-Based Engine",
+      "categories": [
+        "general",
+        "marriage",
+        "career",
+        "wealth",
+        "health",
+        "travel"
+      ],
+      "rules": [
+        "Momentary Lagna Sign",
+        "Query Time Planetary Aspects",
+        "Query Lord Strength"
+      ],
+      "description": "Predicts YES/NO/MAYBE outcomes for specific questions based on the moment of the query."
+    },
+    {
+      "name": "Bhrigu Samhita Rules",
+      "type": "Nadi/Placements Engine",
+      "categories": [
+        "general",
+        "career",
+        "wealth",
+        "marriage",
+        "children"
+      ],
+      "rules": [
+        "Bhrigu House Progression Rules",
+        "Natal Planetary Degrees"
+      ],
+      "description": "Applies Bhrigu Samhita rules using planetary degrees and house progressions."
+    },
+    {
+      "name": "Nadi Jyotish",
+      "type": "Trinal Aspect Engine",
+      "categories": [
+        "spirituality",
+        "career",
+        "marriage",
+        "general"
+      ],
+      "rules": [
+        "Trinal Planetary Conjunctions (1-5-9)",
+        "Soul Mission (Atmakaraka) Direction"
+      ],
+      "description": "Trinal transit and aspect analysis following Nadi principles (Chandra Kala Nadi, etc.)."
+    },
+    {
+      "name": "Numerology & Tamil Numerology",
+      "type": "Vibrational/Numerology Engine",
+      "categories": [
+        "general",
+        "compatibility",
+        "remedies"
+      ],
+      "rules": [
+        "Janma/Vidhi (Birth/Destiny) Numbers",
+        "Name Number vibrations",
+        "Friendly/Hostile number pairs",
+        "Gemstone & Direction remedies"
+      ],
+      "description": "Vedic numerology analyzing birth dates, name spelling vibrations, and friendly numbers."
+    },
+    {
+      "name": "Western Tropical System",
+      "type": "Aspects & Placements Engine",
+      "categories": [
+        "general",
+        "personality"
+      ],
+      "rules": [
+        "Tropical House Placements",
+        "Western Aspects (Trine, Square, Opposition, Sextile, Conjunction)"
+      ],
+      "description": "Tropical zodiac placements and aspects to provide personality and behavioral readings."
+    },
+    {
+      "name": "Alternate Cultural Systems",
+      "type": "Calendar/Zodiac Engine",
+      "categories": [
+        "general",
+        "personality"
+      ],
+      "rules": [
+        "Chinese Stem & Branch Clashes",
+        "Chinese Zodiac Animal Sign",
+        "Mayan Tzolk'in Day Sign"
+      ],
+      "description": "Integrates BaZi (Four Pillars) clashes and Mayan Tzolk'in calendar calculations."
+    },
+    {
+      "name": "Ensemble & Transit Calibration",
+      "type": "Data-Driven Calibration Engine",
+      "categories": [
+        "general",
+        "wealth",
+        "health",
+        "career",
+        "marriage",
+        "travel",
+        "siblings",
+        "children",
+        "father",
+        "mother",
+        "property",
+        "education"
+      ],
+      "rules": [
+        "Calibrated Likelihood Ratios (LRs)",
+        "Learned Transit OR-Conjunctions",
+        "V2 Probabilistic Meta-Reasoning",
+        "Maraka Dasha Rule"
+      ],
+      "description": "Fuses classical rules, transit triggers, and dasha periods with empirical likelihood ratios."
+    }
+  ]
+}

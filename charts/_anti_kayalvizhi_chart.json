@@ -1,0 +1,101 @@
+{
+  "birth": {
+    "year": 1997,
+    "month": 6,
+    "day": 26,
+    "hour": 4,
+    "min": 7,
+    "lat": 10.4851135,
+    "lon": 77.7460054,
+    "tz_hours": 5.5
+  },
+  "ayanamsa": 23.6792,
+  "ayanamsa_mode": "thirukanitham",
+  "ayanamsa_name": "Thirukanitham (திருக்கணிதம்)",
+  "lagna_idx": 1,
+  "positions": {
+    "Sun": {
+      "deg": 10.703400000000002,
+      "rasi_idx": 2,
+      "rasi": "Mithunam",
+      "lon": 70.7034,
+      "longitude": 70.7034,
+      "house": 2
+    },
+    "Moon": {
+      "deg": 19.750099999999975,
+      "rasi_idx": 10,
+      "rasi": "Kumbam",
+      "lon": 319.7501,
+      "longitude": 319.7501,
+      "house": 10
+    },
+    "Mars": {
+      "deg": 9.28139999999999,
+      "rasi_idx": 5,
+      "rasi": "Kanni",
+      "lon": 159.2814,
+      "longitude": 159.2814,
+      "house": 5
+    },
+    "Mercury": {
+      "deg": 10.877499999999998,
+      "rasi_idx": 2,
+      "rasi": "Mithunam",
+      "lon": 70.8775,
+      "longitude": 70.8775,
+      "house": 2
+    },
+    "Jupiter": {
+      "deg": 27.86070000000001,
+      "rasi_idx": 9,
+      "rasi": "Makaram",
+      "lon": 297.8607,
+      "longitude": 297.8607,
+      "house": 9
+    },
+    "Venus": {
+      "deg": 2.8751000000000033,
+      "rasi_idx": 3,
+      "rasi": "Kadagam",
+      "lon": 92.8751,
+      "longitude": 92.8751,
+      "house": 3
+    },
+    "Saturn": {
+      "deg": 25.550999999999988,
+      "rasi_idx": 11,
+      "rasi": "Meenam",
+      "lon": 355.551,
+      "longitude": 355.551,
+      "house": 11
+    },
+    "Rahu": {
+      "deg": 0.05940000000001078,
+      "rasi_idx": 5,
+      "rasi": "Kanni",
+      "lon": 150.0594,
+      "longitude": 150.0594,
+      "house": 5
+    },
+    "Ketu": {
+      "deg": 0.059399999999982356,
+      "rasi_idx": 11,
+      "rasi": "Meenam",
+      "lon": 330.0594,
+      "longitude": 330.0594,
+      "house": 11
+    },
+    "Lagna": {
+      "deg": 13.418100000000003,
+      "rasi_idx": 1,
+      "rasi": "Rishabam",
+      "lon": 43.4181,
+      "longitude": 43.4181,
+      "house": 1
+    }
+  },
+  "name": "N. Kayalvizhi",
+  "moon_rasi": "Kumbam",
+  "janma_nakshatra": "Shatabhisha"
+}

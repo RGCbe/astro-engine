@@ -1,0 +1,53 @@
+{
+  "hierarchy": {
+    "Parashari": {
+      "weight": 1.0,
+      "books": [
+        "BPHS1", "BPHS2", "BPHS_Sharma_Vol1", "BPHS_Vol1", "BPHS_Vol2", 
+        "Brihat_Parashara_v2", "Brihat_Parashara", "Laghu_Parashari", 
+        "Jataka_Parijata", "Phaladeepika", "Saravali", "Hora_Sara", 
+        "Brihat_Jataka", "Uttara_Kalamrita"
+      ],
+      "description": "The supreme foundational authority for natal astrology (Jathagam)."
+    },
+    "Siddhanta": {
+      "weight": 0.95,
+      "books": [
+        "Surya_Siddhanta", "Aryabhatiya", "Vedanga_Jyotisa", "Pancha-siddhantika"
+      ],
+      "description": "Mathematical and astronomical authority."
+    },
+    "Jaimini": {
+      "weight": 0.9,
+      "books": [
+        "Jaimini-Sutras", "Jaimini"
+      ],
+      "description": "High authority, particularly for Dasha rules and Karakamsha."
+    },
+    "Bhrigu_Naadi": {
+      "weight": 0.85,
+      "books": [
+        "bhrigu samhita", "bhrigu", "Bhrigu_Nadi", "Nandi_Naadi"
+      ],
+      "description": "Anecdotal and observational but highly accurate point predictions."
+    },
+    "Prashna": {
+      "weight": 0.8,
+      "books": [
+        "Prashna_Marga"
+      ],
+      "description": "Authority for horary/question-based astrology, heavily caveated for natal."
+    },
+    "Modern_Specialized": {
+      "weight": 0.6,
+      "books": [
+        "Lal_Kitab", "Lal_Kitab_Original", "Raman_300Combinations", "Rath_Crux"
+      ],
+      "description": "Modern interpretations and remedies. Defers to classical texts in conflicts."
+    }
+  },
+  "resolution_rules": {
+    "conflict_resolution": "In case of contradictory effects for the same trigger, calculate the sum of weights of the citing books. The rule with the highest total weight becomes the primary canonical rule.",
+    "tie_breaker": "If weights are equal, prioritize the rule citing a Parashari text."
+  }
+}

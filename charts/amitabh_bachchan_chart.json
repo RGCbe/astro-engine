@@ -1,0 +1,183 @@
+{
+  "name": "Amitabh Bachchan",
+  "birth": {
+    "year": 1942,
+    "month": 10,
+    "day": 11,
+    "hour": 3,
+    "min": 30,
+    "lat": 25.4358,
+    "lon": 81.8463,
+    "place": "Allahabad (Prayagraj), India",
+    "tz": 5.5,
+    "weekday": "Sunday"
+  },
+  "lagna": "Leo",
+  "lagna_idx": 4,
+  "lagna_deg": 19.5642,
+  "lagna_lord": "Sun",
+  "ayanamsa": 23.057818,
+  "positions": {
+    "Sun": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 23.9072,
+      "lon_abs": 173.9072,
+      "nak": "Chitra",
+      "nak_idx": 13,
+      "nak_lord": "Mars",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.9892,
+      "house": 2
+    },
+    "Moon": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 3.5614,
+      "lon_abs": 183.5614,
+      "nak": "Chitra",
+      "nak_idx": 13,
+      "nak_lord": "Mars",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 14.0408,
+      "house": 3
+    },
+    "Mars": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 22.2874,
+      "lon_abs": 172.2874,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.6594,
+      "house": 2
+    },
+    "Mercury": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 24.2267,
+      "lon_abs": 174.2267,
+      "nak": "Chitra",
+      "nak_idx": 13,
+      "nak_lord": "Mars",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -1.1925,
+      "house": 2
+    },
+    "Jupiter": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 0.4899,
+      "lon_abs": 90.4899,
+      "nak": "Punarvasu",
+      "nak_idx": 6,
+      "nak_lord": "Jupiter",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.0997,
+      "house": 12
+    },
+    "Venus": {
+      "rasi": "Virgo",
+      "rasi_idx": 5,
+      "deg": 14.5909,
+      "lon_abs": 164.5909,
+      "nak": "Hasta",
+      "nak_idx": 12,
+      "nak_lord": "Moon",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 1.2491,
+      "house": 2
+    },
+    "Saturn": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 19.2449,
+      "lon_abs": 49.2449,
+      "nak": "Rohini",
+      "nak_idx": 3,
+      "nak_lord": "Moon",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.0283,
+      "house": 10
+    },
+    "Rahu": {
+      "rasi": "Leo",
+      "rasi_idx": 4,
+      "deg": 8.805,
+      "lon_abs": 128.805,
+      "nak": "Magha",
+      "nak_idx": 9,
+      "nak_lord": "Ketu",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 1
+    },
+    "Ketu": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 8.805,
+      "lon_abs": 308.805,
+      "nak": "Shatabhisha",
+      "nak_idx": 23,
+      "nak_lord": "Rahu",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 7
+    }
+  },
+  "janma_nakshatra": "Chitra",
+  "janma_nakshatra_lord": "Mars",
+  "moon_rasi": "Libra",
+  "moon_pada": 4,
+  "rodden_rating": "DD",
+  "birth_time_note": "Birth time disputed: 3:30 AM from his autobiography vs ~15:00 from father's autobiography",
+  "known_events": [
+    {
+      "date": "1973-06-03",
+      "event": "Married actress Jaya Bhaduri in Mumbai"
+    },
+    {
+      "date": "1973-10-01",
+      "event": "Breakthrough in Zanjeer — launched 'Angry Young Man' era"
+    },
+    {
+      "date": "1975-08-15",
+      "event": "Sholay released — highest-grossing Indian film for decades"
+    },
+    {
+      "date": "1982-07-26",
+      "event": "Near-fatal accident on Coolie sets — splenic rupture, briefly clinically dead"
+    },
+    {
+      "date": "1984-12-01",
+      "event": "Elected to Lok Sabha (MP for Allahabad) on Congress ticket"
+    },
+    {
+      "date": "1999-07-09",
+      "event": "ABCL declared bankrupt — 55 legal cases, Rs 90 crore debt"
+    },
+    {
+      "date": "2000-07-03",
+      "event": "Career comeback: hosted Kaun Banega Crorepati Season 1 — record ratings"
+    },
+    {
+      "date": "2018-10-11",
+      "event": "Received Dadasaheb Phalke Award — India's highest film honour"
+    },
+    {
+      "date": "2020-07-11",
+      "event": "Hospitalised with COVID-19 at Nanavati Hospital, Mumbai"
+    }
+  ]
+}

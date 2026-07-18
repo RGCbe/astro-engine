@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AstroVeda | Sacred Tools — Match · Muhurta · Prashna</title>
+    <meta name="description" content="Advanced Vedic tools: 36-point Kundali Matching, Muhurta electional astrology, and Prashna horary chart analysis powered by the AstroVeda engine.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #05070a;
+            --card-bg: rgba(20, 25, 35, 0.75);
+            --gold: #d4af37;
+            --gold-light: #fceabb;
+            --gold-gradient: linear-gradient(135deg, #fceabb 0%, #f8b500 50%, #fceabb 100%);
+            --white: #ffffff;
+            --text-muted: #a0a8b5;
+            --accent: #3a86ff;
+            --glass-border: rgba(255,255,255,0.1);
+            --success: #22c55e;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --purple: #8b5cf6;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body {
+            background: var(--bg-dark);
+            color: var(--white);
+            font-family: 'Outfit', sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        h1,h2,h3 { font-family: 'Playfair Display', serif; }
+
+        /* Cosmos background */
+        .cosmos-bg {
+            position: fixed; inset: 0;
+            background: radial-gradient(ellipse at 30% 20%, #1a1f3c 0%, #0a0d1a 50%, #05070a 100%);
+            z-index: -2;
+        }
+        .stars {
+            position: fixed; inset: 0;
+            background-image: radial-gradient(2px 2px at 20px 30px, rgba(255,255,255,0.3), transparent),
+                              radial-gradient(1px 1px at 40px 70px, rgba(255,255,255,0.2), transparent),
+                              radial-gradient(1.5px 1.5px at 100px 10px, rgba(255,255,255,0.25), transparent),
+                              radial-gradient(1px 1px at 130px 90px, rgba(212,175,55,0.3), transparent);
+            background-size: 200px 200px;
+            animation: drift 120s linear infinite;
+            z-index: -1;
+        }
+        @keyframes drift { from{background-position:0 0;} to{background-position:2000px 2000px;} }
+
+        /* Header */
+        header {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 1rem 2rem;
+            border-bottom: 1px solid var(--glass-border);
+            backdrop-filter: blur(10px);
+            position: sticky; top: 0; z-index: 100;
+        }
+        .logo .gold { color: var(--gold); font-weight: 800; font-size: 1.5rem; letter-spacing: 2px; }
+        .logo .white { color: var(--white); font-weight: 300; font-size: 1.5rem; letter-spacing: 2px; }
+        .nav-links { display: flex; gap: 1rem; }
+        .nav-links a {
+            color: var(--text-muted); text-decoration: none; font-size: 0.9rem;
+            padding: 0.5rem 1rem; border-radius: 8px; transition: all 0.3s;
+        }
+        .nav-links a:hover, .nav-links a.active {
+            color: var(--gold); background: rgba(212,175,55,0.1);
+        }
+
+        /* Tab Navigation */
+        .tab-nav {
+            display: flex; justify-content: center; gap: 0.5rem;
+            padding: 2rem 1rem 1rem;
+            flex-wrap: wrap;
+        }
+        .tab-btn {
+            padding: 0.8rem 2rem;
+            border: 1px solid var(--glass-border);
+            border-radius: 50px;
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            color: var(--text-muted);
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .tab-btn::before {
+            content: '';
+            position: absolute; inset: 0;
+            background: var(--gold-gradient);
+            opacity: 0;
+            transition: opacity 0.4s;
+        }
+        .tab-btn:hover { border-color: rgba(212,175,55,0.3); color: var(--white); transform: translateY(-2px); }
+        .tab-btn.active {
+            border-color: var(--gold);
+            color: var(--bg-dark);
+            font-weight: 700;
+            box-shadow: 0 0 25px rgba(212,175,55,0.3);
+        }
+        .tab-btn.active::before { opacity: 1; }
+        .tab-btn span { position: relative; z-index: 1; }
+        .tab-btn .emoji { font-size: 1.2rem; margin-right: 0.5rem; }
+
+        /* Tab Content */
+        .tab-content { display: none; animation: fadeIn 0.5s ease; }
+        .tab-content.active { display: block; }
+        @keyframes fadeIn { from{opacity:0;transform:translateY(20px);} to{opacity:1;transform:translateY(0);} }
+
+        main { max-width: 1000px; margin: 0 auto; padding: 1rem 1.5rem 4rem; }
+
+        /* Glass Card */
+        .glass-card {
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .glass-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.6);
+        }
+
+        /* Form Styles */
+        .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+        .form-group { display: flex; flex-direction: column; gap: 0.4rem; }
+        .form-group label {
+            font-size: 0.8rem; color: var(--text-muted);
+            text-transform: uppercase; letter-spacing: 1px; font-weight: 600;
+        }
+        .form-group input, .form-group select {
+            padding: 0.75rem 1rem;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            color: var(--white);
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.95rem;
+            transition: border 0.3s;
+        }
+        .form-group input:focus, .form-group select:focus {
+            outline: none;
+            border-color: var(--gold);
+            box-shadow: 0 0 12px rgba(212,175,55,0.15);
+        }
+        .form-group select option { background: #1a1f3c; color: var(--white); }
+        .form-section-title {
+            font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;
+            color: var(--gold); margin: 1.5rem 0 0.5rem; font-weight: 700;
+        }
+        .full-span { grid-column: 1 / -1; }
+
+        /* Submit Button */
+        .btn-submit {
+            width: 100%;
+            padding: 1rem;
+            border: none;
+            border-radius: 14px;
+            background: var(--gold-gradient);
+            color: var(--bg-dark);
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: 1.5rem;
+            transition: all 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+        .btn-submit:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(212,175,55,0.4); }
+        .btn-submit:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+        /* Loading spinner */
+        .spinner {
+            display: inline-block; width: 20px; height: 20px;
+            border: 2px solid transparent; border-top: 2px solid var(--bg-dark);
+            border-radius: 50%; animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* Results Sections */
+        .result-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .result-header h2 {
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+        .gold-text { color: var(--gold); }
+
+        /* ── Kuta Ring Chart ── */
+        .kuta-ring-container {
+            display: flex; justify-content: center; align-items: center;
+            margin: 2rem 0;
+        }
+        .kuta-ring {
+            position: relative; width: 220px; height: 220px;
+        }
+        .kuta-ring svg { transform: rotate(-90deg); }
+        .kuta-ring .ring-track {
+            fill: none; stroke: rgba(255,255,255,0.08); stroke-width: 18;
+        }
+        .kuta-ring .ring-fill {
+            fill: none; stroke-width: 18; stroke-linecap: round;
+            transition: stroke-dashoffset 1.5s ease;
+        }
+        .kuta-ring .center-score {
+            position: absolute; inset: 0;
+            display: flex; flex-direction: column;
+            align-items: center; justify-content: center;
+        }
+        .center-score .score-big {
+            font-size: 3rem; font-weight: 800; line-height: 1;
+        }
+        .center-score .score-label {
+            font-size: 0.85rem; color: var(--text-muted);
+        }
+
+        /* Kuta breakdown */
+        .kuta-grid {
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem; margin-top: 1.5rem;
+        }
+        .kuta-item {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 14px;
+            padding: 1rem;
+            display: flex; justify-content: space-between; align-items: center;
+            transition: all 0.3s;
+        }
+        .kuta-item:hover { background: rgba(212,175,55,0.05); border-color: rgba(212,175,55,0.2); }
+        .kuta-item .kuta-name { font-weight: 600; font-size: 0.95rem; }
+        .kuta-item .kuta-desc { font-size: 0.7rem; color: var(--text-muted); margin-top: 2px; }
+        .kuta-item .kuta-score {
+            font-size: 1.3rem; font-weight: 700;
+            min-width: 50px; text-align: right;
+        }
+        .kuta-item .kuta-max { font-size: 0.75rem; color: var(--text-muted); }
+
+        /* Verdict Badge */
+        .verdict-badge {
+            display: inline-block;
+            padding: 0.5rem 1.5rem;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .verdict-excellent { background: rgba(34,197,94,0.15); color: var(--success); border: 1px solid rgba(34,197,94,0.3); }
+        .verdict-good { background: rgba(59,130,246,0.15); color: var(--accent); border: 1px solid rgba(59,130,246,0.3); }
+        .verdict-acceptable { background: rgba(245,158,11,0.15); color: var(--warning); border: 1px solid rgba(245,158,11,0.3); }
+        .verdict-poor { background: rgba(239,68,68,0.15); color: var(--danger); border: 1px solid rgba(239,68,68,0.3); }
+
+        /* Dosha warnings */
+        .dosha-alerts { margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.75rem; }
+        .dosha-alert {
+            padding: 1rem 1.25rem;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            display: flex; align-items: center; gap: 0.75rem;
+        }
+        .dosha-alert.warning {
+            background: rgba(245,158,11,0.1);
+            border: 1px solid rgba(245,158,11,0.3);
+            color: var(--warning);
+        }
+        .dosha-alert.danger {
+            background: rgba(239,68,68,0.1);
+            border: 1px solid rgba(239,68,68,0.3);
+            color: var(--danger);
+        }
+        .dosha-alert.success {
+            background: rgba(34,197,94,0.1);
+            border: 1px solid rgba(34,197,94,0.3);
+            color: var(--success);
+        }
+
+        /* Partner cards */
+        .partner-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1.5rem; }
+        .partner-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 14px;
+            padding: 1.25rem;
+            text-align: center;
+        }
+        .partner-card h4 { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1.5px; color: var(--gold); margin-bottom: 0.75rem; }
+        .partner-card .moon-sign { font-size: 1.4rem; font-weight: 700; }
+        .partner-card .nakshatra { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.25rem; }
+
+        /* ── Muhurta Results ── */
+        .muhurta-list { display: flex; flex-direction: column; gap: 1rem; margin-top: 1.5rem; }
+        .muhurta-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1.25rem;
+            display: grid;
+            grid-template-columns: 80px 1fr auto;
+            gap: 1rem;
+            align-items: center;
+            transition: all 0.3s;
+        }
+        .muhurta-card:hover { border-color: rgba(212,175,55,0.3); transform: translateX(4px); }
+        .muhurta-score-circle {
+            width: 65px; height: 65px;
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.4rem; font-weight: 800;
+        }
+        .score-excellent { background: rgba(34,197,94,0.15); color: var(--success); border: 2px solid var(--success); }
+        .score-good { background: rgba(59,130,246,0.15); color: var(--accent); border: 2px solid var(--accent); }
+        .score-acceptable { background: rgba(245,158,11,0.15); color: var(--warning); border: 2px solid var(--warning); }
+        .muhurta-details h4 { font-size: 1rem; font-weight: 600; }
+        .muhurta-details .muhurta-panchanga { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.3rem; }
+        .muhurta-details .muhurta-factors {
+            display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem;
+        }
+        .factor-chip {
+            padding: 0.2rem 0.6rem; border-radius: 6px;
+            font-size: 0.7rem; font-weight: 600;
+            background: rgba(34,197,94,0.1); color: var(--success);
+            border: 1px solid rgba(34,197,94,0.2);
+        }
+        .muhurta-verdict-tag {
+            font-size: 0.75rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 1px;
+            padding: 0.4rem 1rem; border-radius: 8px;
+        }
+
+        /* ── Prashna Results ── */
+        .prashna-result {
+            text-align: center;
+            margin-top: 1.5rem;
+        }
+        .prashna-verdict-large {
+            font-size: 3rem; font-weight: 800;
+            margin: 1rem 0;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+        .prashna-verdict-large.yes { color: var(--success); text-shadow: 0 0 30px rgba(34,197,94,0.3); }
+        .prashna-verdict-large.no { color: var(--danger); text-shadow: 0 0 30px rgba(239,68,68,0.3); }
+        .prashna-verdict-large.weak { color: var(--warning); text-shadow: 0 0 30px rgba(245,158,11,0.3); }
+        .prashna-verdict-large.strong { color: var(--success); text-shadow: 0 0 40px rgba(34,197,94,0.4); }
+        .prashna-meta {
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: 1rem; margin-top: 2rem; text-align: left;
+        }
+        .prashna-meta-item {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            padding: 1rem;
+        }
+        .prashna-meta-item .meta-label {
+            font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;
+            color: var(--text-muted); margin-bottom: 0.3rem;
+        }
+        .prashna-meta-item .meta-value { font-size: 1.1rem; font-weight: 600; }
+        .prashna-reason {
+            margin-top: 1.5rem; padding: 1.25rem;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 14px;
+            font-size: 0.95rem; color: var(--text-muted);
+            line-height: 1.6;
+        }
+        .prashna-reason strong { color: var(--white); }
+
+        .significator-chain {
+            display: flex; flex-direction: column; gap: 0.5rem;
+            margin-top: 1rem;
+        }
+        .sig-layer {
+            display: flex; align-items: center; gap: 0.75rem;
+            padding: 0.6rem 1rem;
+            background: rgba(255,255,255,0.02);
+            border-radius: 10px;
+        }
+        .sig-label {
+            font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;
+            color: var(--gold); min-width: 100px; font-weight: 600;
+        }
+        .sig-planets { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+        .sig-planet {
+            padding: 0.25rem 0.7rem; border-radius: 6px;
+            background: rgba(139,92,246,0.1); color: var(--purple);
+            border: 1px solid rgba(139,92,246,0.2);
+            font-size: 0.8rem; font-weight: 600;
+        }
+
+        /* Ruling planets */
+        .ruling-planets {
+            display: flex; justify-content: center; gap: 0.6rem;
+            flex-wrap: wrap; margin-top: 1.5rem;
+        }
+        .ruling-planet {
+            padding: 0.5rem 1.2rem; border-radius: 50px;
+            background: rgba(212,175,55,0.1);
+            border: 1px solid rgba(212,175,55,0.3);
+            color: var(--gold); font-weight: 600; font-size: 0.9rem;
+        }
+
+        /* Hidden */
+        .hidden { display: none !important; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .form-grid { grid-template-columns: 1fr; }
+            .partner-cards { grid-template-columns: 1fr; }
+            .tab-btn { padding: 0.6rem 1.2rem; font-size: 0.85rem; }
+            .muhurta-card { grid-template-columns: 60px 1fr; }
+            .muhurta-card .muhurta-verdict-tag { display: none; }
+            .prashna-meta { grid-template-columns: 1fr 1fr; }
+            main { padding: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="cosmos-bg"></div>
+    <div class="stars"></div>
+
+    <header>
+        <div class="logo">
+            <span class="gold">ASTRO</span><span class="white">VEDA</span>
+        </div>
+        <div style="display: flex; gap: 0.5rem; align-items: center; background: rgba(255,255,255,0.05); padding: 0.4rem 0.8rem; border-radius: 50px; border: 1px solid var(--glass-border); box-shadow: 0 0 15px rgba(212,175,55,0.05);">
+            <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--gold); padding-right: 0.2rem; letter-spacing: 1px;">Plan:</span>
+            <select id="user-tier-selector" style="background: transparent; border: none; color: var(--white); font-family: 'Outfit', sans-serif; font-size: 0.85rem; font-weight: 700; cursor: pointer; outline: none;">
+                <option value="free" style="background: #101523; color: var(--white);">🆓 Free</option>
+                <option value="premium" style="background: #101523; color: var(--white);">💎 Premium (dev key)</option>
+                <option value="professional" style="background: #101523; color: var(--white);">👑 Pro (dev key)</option>
+            </select>
+            <input type="password" id="tools-api-key" placeholder="API key" style="background: transparent; border: none; border-left: 1px solid var(--glass-border); color: var(--white); font-size: 0.8rem; width: 120px; padding-left: 0.5rem; outline: none;">
+        </div>
+        <div class="nav-links">
+            <a href="/">Birth Chart</a>
+            <a href="/tools" class="active">Sacred Tools</a>
+        </div>
+    </header>
+
+    <!-- Tab Navigation -->
+    <div class="tab-nav">
+        <button class="tab-btn active" data-tab="match" id="tab-match">
+            <span><span class="emoji">💍</span> Kundali Match</span>
+        </button>
+        <button class="tab-btn" data-tab="muhurta" id="tab-muhurta">
+            <span><span class="emoji">🕉️</span> Muhurta Finder</span>
+        </button>
+        <button class="tab-btn" data-tab="prashna" id="tab-prashna">
+            <span><span class="emoji">🔮</span> Prashna Kundali</span>
+        </button>
+    </div>
+
+    <main>
+        <!-- ═══════════ TAB 1: KUNDALI MATCH ═══════════ -->
+        <div class="tab-content active" id="content-match">
+            <div class="glass-card">
+                <h2 style="text-align:center;margin-bottom:0.5rem;">Ashta-Kuta <span class="gold-text">Compatibility</span></h2>
+                <p style="text-align:center;color:var(--text-muted);margin-bottom:1.5rem;">36-Point Guna Milan · Mangal Dosha · Nadi Dosha Analysis</p>
+
+                <form id="match-form">
+                    <p class="form-section-title">♂ Groom's Birth Details</p>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Birth Date</label>
+                            <input type="date" id="boy-dob" required value="1992-06-15">
+                        </div>
+                        <div class="form-group">
+                            <label>Birth Time</label>
+                            <input type="time" id="boy-tob" required value="08:30">
+                        </div>
+                        <div class="form-group">
+                            <label>Latitude</label>
+                            <input type="number" id="boy-lat" step="0.0001" value="13.0827" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Longitude</label>
+                            <input type="number" id="boy-lon" step="0.0001" value="80.2707" required>
+                        </div>
+                    </div>
+
+                    <p class="form-section-title">♀ Bride's Birth Details</p>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Birth Date</label>
+                            <input type="date" id="girl-dob" required value="1994-03-22">
+                        </div>
+                        <div class="form-group">
+                            <label>Birth Time</label>
+                            <input type="time" id="girl-tob" required value="14:15">
+                        </div>
+                        <div class="form-group">
+                            <label>Latitude</label>
+                            <input type="number" id="girl-lat" step="0.0001" value="13.0827" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Longitude</label>
+                            <input type="number" id="girl-lon" step="0.0001" value="80.2707" required>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-submit" id="match-submit">💍 Analyze Compatibility</button>
+                </form>
+            </div>
+            <div id="match-result" class="hidden" style="margin-top:1.5rem;"></div>
+        </div>
+
+        <!-- ═══════════ TAB 2: MUHURTA FINDER ═══════════ -->
+        <div class="tab-content" id="content-muhurta">
+            <div class="glass-card">
+                <h2 style="text-align:center;margin-bottom:0.5rem;">Muhurta <span class="gold-text">Finder</span></h2>
+                <p style="text-align:center;color:var(--text-muted);margin-bottom:1.5rem;">Find the most auspicious moments for your life events</p>
+
+                <form id="muhurta-form">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Start Date</label>
+                            <input type="date" id="muh-start" required>
+                        </div>
+                        <div class="form-group">
+                            <label>End Date</label>
+                            <input type="date" id="muh-end" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Latitude</label>
+                            <input type="number" id="muh-lat" step="0.0001" value="13.0827" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Longitude</label>
+                            <input type="number" id="muh-lon" step="0.0001" value="80.2707" required>
+                        </div>
+                        <div class="form-group full-span">
+                            <label>Activity</label>
+                            <select id="muh-activity">
+                                <option value="marriage">💍 Marriage</option>
+                                <option value="business_start">💼 Business Start</option>
+                                <option value="travel">✈️ Travel</option>
+                                <option value="naming_ceremony">👶 Naming Ceremony</option>
+                                <option value="education_start">📚 Education Start</option>
+                                <option value="general" selected>🕉️ General Auspicious</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-submit" id="muhurta-submit">🕉️ Find Auspicious Times</button>
+                </form>
+            </div>
+            <div id="muhurta-result" class="hidden" style="margin-top:1.5rem;"></div>
+        </div>
+
+        <!-- ═══════════ TAB 3: PRASHNA KUNDALI ═══════════ -->
+        <div class="tab-content" id="content-prashna">
+            <div class="glass-card">
+                <h2 style="text-align:center;margin-bottom:0.5rem;">Prashna <span class="gold-text">Kundali</span></h2>
+                <p style="text-align:center;color:var(--text-muted);margin-bottom:1.5rem;">Ask any question — the chart cast at this exact moment reveals the answer</p>
+
+                <form id="prashna-form">
+                    <div class="form-grid">
+                        <div class="form-group full-span">
+                            <label>Your Question Topic</label>
+                            <select id="prashna-topic">
+                                <option value="career">💼 Career / Promotion</option>
+                                <option value="marriage">💍 Marriage / Spouse</option>
+                                <option value="health">🏥 Health / Vitality</option>
+                                <option value="wealth">💰 Wealth / Savings</option>
+                                <option value="children">👶 Children</option>
+                                <option value="education">📚 Education</option>
+                                <option value="property">🏠 Home / Property</option>
+                                <option value="litigation">⚖️ Litigation / Legal</option>
+                                <option value="travel">✈️ Travel / Foreign</option>
+                                <option value="gains">📈 Gains / Income</option>
+                                <option value="longevity">⏳ Longevity</option>
+                                <option value="fortune">🍀 Fortune / Dharma</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Your Latitude</label>
+                            <input type="number" id="prashna-lat" step="0.0001" value="13.0827" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Your Longitude</label>
+                            <input type="number" id="prashna-lon" step="0.0001" value="80.2707" required>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-submit" id="prashna-submit">🔮 Cast Prashna Chart Now</button>
+                </form>
+            </div>
+            <div id="prashna-result" class="hidden" style="margin-top:1.5rem;"></div>
+        </div>
+    </main>
+
+    <script>
+        const API = window.location.origin;
+        const TIER_DEV_KEYS = {
+            free: '',
+            premium: 'atro_premium_dev_key',
+            professional: 'atro_pro_dev_key',
+        };
+
+        function requestApiKey() {
+            const custom = document.getElementById('tools-api-key')?.value?.trim();
+            if (custom) return custom;
+            const tier = document.getElementById('user-tier-selector').value;
+            return TIER_DEV_KEYS[tier] || '';
+        }
+
+        function authPayload(base) {
+            const key = requestApiKey();
+            if (key) base.api_key = key;
+            return base;
+        }
+
+        const toolsKeyEl = document.getElementById('tools-api-key');
+        if (toolsKeyEl) {
+            const saved = sessionStorage.getItem('atro_api_key');
+            if (saved) toolsKeyEl.value = saved;
+            toolsKeyEl.addEventListener('change', () => {
+                const v = toolsKeyEl.value.trim();
+                if (v) sessionStorage.setItem('atro_api_key', v);
+                else sessionStorage.removeItem('atro_api_key');
+            });
+        }
+
+        // ─── Tab Switching ──────────────────────────────
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                btn.classList.add('active');
+                document.getElementById('content-' + btn.dataset.tab).classList.add('active');
+            });
+        });
+
+        // ─── Muhurta date defaults ──────────────────────
+        const today = new Date();
+        const fmt = d => d.toISOString().split('T')[0];
+        document.getElementById('muh-start').value = fmt(today);
+        const end = new Date(today); end.setDate(end.getDate() + 7);
+        document.getElementById('muh-end').value = fmt(end);
+
+        // ─── Utility: Color for score ───────────────────
+        function getScoreColor(score, max) {
+            const pct = score / max;
+            if (pct >= 0.7) return 'var(--success)';
+            if (pct >= 0.4) return 'var(--warning)';
+            return 'var(--danger)';
+        }
+
+        function verdictClass(v) {
+            v = v.toLowerCase();
+            if (v.includes('excellent')) return 'verdict-excellent';
+            if (v.includes('good')) return 'verdict-good';
+            if (v.includes('acceptable')) return 'verdict-acceptable';
+            return 'verdict-poor';
+        }
+
+        // ═══════════ MATCH ═══════════
+        document.getElementById('match-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const btn = document.getElementById('match-submit');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner"></span> Analyzing...';
+
+            const [by, bm, bd] = document.getElementById('boy-dob').value.split('-').map(Number);
+            const [gy, gm, gd] = document.getElementById('girl-dob').value.split('-').map(Number);
+
+            try {
+                const res = await fetch(`${API}/api/astrology/match`, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(authPayload({
+                        boy_year: by, boy_month: bm, boy_day: bd,
+                        boy_time: document.getElementById('boy-tob').value,
+                        boy_lat: parseFloat(document.getElementById('boy-lat').value),
+                        boy_lon: parseFloat(document.getElementById('boy-lon').value),
+                        girl_year: gy, girl_month: gm, girl_day: gd,
+                        girl_time: document.getElementById('girl-tob').value,
+                        girl_lat: parseFloat(document.getElementById('girl-lat').value),
+                        girl_lon: parseFloat(document.getElementById('girl-lon').value),
+                    }))
+                });
+
+                const data = await res.json();
+                renderMatch(data);
+            } catch (err) {
+                alert('Error: ' + err.message);
+            } finally {
+                btn.disabled = false;
+                btn.textContent = '💍 Analyze Compatibility';
+            }
+        });
+
+        function renderMatch(data) {
+            const k = data.kuta;
+            const total = k.total.score;
+            const max = k.total.max;
+            const pct = total / max;
+            const circ = 2 * Math.PI * 90;
+            const offset = circ * (1 - pct);
+            const ringColor = pct >= 0.67 ? 'var(--success)' : pct >= 0.5 ? 'var(--warning)' : 'var(--danger)';
+
+            const KUTA_DESCRIPTIONS = {
+                varna: 'Spiritual class', vasya: 'Mutual control', tara: 'Fortune/lifespan',
+                yoni: 'Sexual compatibility', graha_maitri: 'Planetary friendship',
+                gana: 'Temperament', bhakoot: 'Finance & family', nadi: 'Physiology'
+            };
+
+            let html = `<div class="glass-card">
+                <div class="result-header">
+                    <h2>Compatibility <span class="gold-text">Report</span></h2>
+                </div>
+                <div class="partner-cards">
+                    <div class="partner-card">
+                        <h4>♂ Groom</h4>
+                        <div class="moon-sign">${k.boy_moon_sign}</div>
+                        <div class="nakshatra">☆ ${k.boy_nakshatra}</div>
+                    </div>
+                    <div class="partner-card">
+                        <h4>♀ Bride</h4>
+                        <div class="moon-sign">${k.girl_moon_sign}</div>
+                        <div class="nakshatra">☆ ${k.girl_nakshatra}</div>
+                    </div>
+                </div>
+                <div class="kuta-ring-container">
+                    <div class="kuta-ring">
+                        <svg viewBox="0 0 200 200" width="220" height="220">
+                            <circle cx="100" cy="100" r="90" class="ring-track"/>
+                            <circle cx="100" cy="100" r="90" class="ring-fill"
+                                stroke="${ringColor}"
+                                stroke-dasharray="${circ}"
+                                stroke-dashoffset="${offset}"/>
+                        </svg>
+                        <div class="center-score">
+                            <span class="score-big" style="color:${ringColor}">${total}</span>
+                            <span class="score-label">out of ${max}</span>
+                        </div>
+                    </div>
+                </div>
+                <div style="text-align:center;margin:1rem 0;">
+                    <span class="verdict-badge ${verdictClass(k.verdict)}">${k.verdict}</span>
+                </div>
+                <div class="kuta-grid">`;
+
+            for (const [key, s] of Object.entries(k.scores)) {
+                html += `<div class="kuta-item">
+                    <div>
+                        <div class="kuta-name">${key.charAt(0).toUpperCase() + key.slice(1).replace('_',' ')}</div>
+                        <div class="kuta-desc">${KUTA_DESCRIPTIONS[key] || ''}</div>
+                    </div>
+                    <div>
+                        <span class="kuta-score" style="color:${getScoreColor(s.score, s.max)}">${s.score}</span>
+                        <span class="kuta-max">/ ${s.max}</span>
+                    </div>
+                </div>`;
+            }
+            html += `</div>`;
+
+            // Dosha alerts
+            html += `<div class="dosha-alerts">`;
+            if (k.nadi_dosha) html += `<div class="dosha-alert danger">⚠️ <strong>Nadi Dosha</strong> — Same physiological constitution. Traditional texts strongly advise against this match without specific remedies.</div>`;
+            else html += `<div class="dosha-alert success">✅ No Nadi Dosha — Physiological compatibility confirmed.</div>`;
+
+            if (k.bhakoot_dosha) html += `<div class="dosha-alert warning">⚠️ <strong>Bhakoot Dosha</strong> — Adverse Moon-sign distance. May affect finances and family harmony.</div>`;
+
+            if (data.boy_mangal_dosha.is_mangalik) html += `<div class="dosha-alert warning">♂ <strong>Groom is Mangalik</strong> — Mars in ${data.boy_mangal_dosha.from.join(' & ')}</div>`;
+            if (data.girl_mangal_dosha.is_mangalik) html += `<div class="dosha-alert warning">♀ <strong>Bride is Mangalik</strong> — Mars in ${data.girl_mangal_dosha.from.join(' & ')}</div>`;
+
+            if (k.notes.length) {
+                k.notes.forEach(n => { html += `<div class="dosha-alert warning">${n}</div>`; });
+            }
+            html += `</div></div>`;
+
+            const el = document.getElementById('match-result');
+            el.innerHTML = html;
+            el.classList.remove('hidden');
+            el.scrollIntoView({behavior:'smooth', block:'start'});
+        }
+
+        // ═══════════ MUHURTA ═══════════
+        document.getElementById('muhurta-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const btn = document.getElementById('muhurta-submit');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner"></span> Scanning...';
+
+            try {
+                const res = await fetch(`${API}/api/astrology/muhurta`, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(authPayload({
+                        start_date: document.getElementById('muh-start').value,
+                        end_date: document.getElementById('muh-end').value,
+                        lat: parseFloat(document.getElementById('muh-lat').value),
+                        lon: parseFloat(document.getElementById('muh-lon').value),
+                        activity: document.getElementById('muh-activity').value,
+                        top_n: 10,
+                    }))
+                });
+
+                const data = await res.json();
+                renderMuhurta(data);
+            } catch(err) {
+                alert('Error: ' + err.message);
+            } finally {
+                btn.disabled = false;
+                btn.textContent = '🕉️ Find Auspicious Times';
+            }
+        });
+
+        function renderMuhurta(data) {
+            if (!data.windows || !data.windows.length) {
+                document.getElementById('muhurta-result').innerHTML = '<div class="glass-card" style="text-align:center;padding:3rem;"><h3>No suitable muhurta found</h3><p style="color:var(--text-muted);margin-top:0.5rem;">Try expanding your date range or changing the activity.</p></div>';
+                document.getElementById('muhurta-result').classList.remove('hidden');
+                return;
+            }
+
+            let html = `<div class="glass-card">
+                <div class="result-header">
+                    <h2>Top Auspicious <span class="gold-text">Moments</span></h2>
+                    <p style="color:var(--text-muted);">${data.activity.replace('_',' ')} · ${data.date_range.start} → ${data.date_range.end}</p>
+                </div>
+                <div class="muhurta-list">`;
+
+            data.windows.forEach((w, i) => {
+                const dt = new Date(w.datetime);
+                const dateStr = dt.toLocaleDateString('en-IN', {weekday:'short', year:'numeric', month:'short', day:'numeric'});
+                const timeStr = dt.toLocaleTimeString('en-IN', {hour:'2-digit', minute:'2-digit'});
+                const scoreClass = w.score >= 75 ? 'score-excellent' : w.score >= 60 ? 'score-good' : 'score-acceptable';
+                const verdCls = verdictClass(w.verdict);
+
+                html += `<div class="muhurta-card">
+                    <div class="muhurta-score-circle ${scoreClass}">${w.score}</div>
+                    <div class="muhurta-details">
+                        <h4>${dateStr} · ${timeStr}</h4>
+                        <div class="muhurta-panchanga">
+                            ${w.breakdown.nakshatra} · ${w.breakdown.tithi} · ${w.breakdown.vara} · ${w.breakdown.yoga}
+                        </div>
+                        <div class="muhurta-factors">
+                            ${w.accepted_factors.map(f => `<span class="factor-chip">✓ ${f}</span>`).join('')}
+                        </div>
+                    </div>
+                    <span class="muhurta-verdict-tag ${verdCls}">${w.verdict}</span>
+                </div>`;
+            });
+
+            html += `</div></div>`;
+
+            const el = document.getElementById('muhurta-result');
+            el.innerHTML = html;
+            el.classList.remove('hidden');
+            el.scrollIntoView({behavior:'smooth', block:'start'});
+        }
+
+        // ═══════════ PRASHNA ═══════════
+        document.getElementById('prashna-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const btn = document.getElementById('prashna-submit');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spinner"></span> Casting chart...';
+
+            try {
+                const res = await fetch(`${API}/api/astrology/prashna`, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(authPayload({
+                        topic: document.getElementById('prashna-topic').value,
+                        lat: parseFloat(document.getElementById('prashna-lat').value),
+                        lon: parseFloat(document.getElementById('prashna-lon').value),
+                    }))
+                });
+                
+                if (res.status === 403) {
+                    const data = await res.json();
+                    handlePremiumUpgrade('prashna-result', data.detail);
+                    return;
+                }
+                
+                const data = await res.json();
+                renderPrashna(data);
+            } catch(err) {
+                alert('Error: ' + err.message);
+            } finally {
+                btn.disabled = false;
+                btn.textContent = '🔮 Cast Prashna Chart Now';
+            }
+        });
+
+
+        function renderPrashna(data) {
+            const p = data.prashna;
+            const v = p.kp_verdict;
+            let verdictLower = v.verdict.toLowerCase();
+            let verdictColorClass = 'weak';
+            if (verdictLower === 'strong yes') verdictColorClass = 'strong';
+            else if (verdictLower === 'yes') verdictColorClass = 'yes';
+            else if (verdictLower === 'no') verdictColorClass = 'no';
+
+            let html = `<div class="glass-card">
+                <div class="result-header">
+                    <h2>Prashna <span class="gold-text">Verdict</span></h2>
+                    <p style="color:var(--text-muted);">Chart cast at ${p.question_moment} · House ${p.house_questioned}</p>
+                </div>
+                <div class="prashna-result">
+                    <div class="prashna-verdict-large ${verdictColorClass}">${v.verdict}</div>
+                </div>
+
+                <div class="prashna-meta">
+                    <div class="prashna-meta-item">
+                        <div class="meta-label">Lagna</div>
+                        <div class="meta-value">${p.lagna}</div>
+                    </div>
+                    <div class="prashna-meta-item">
+                        <div class="meta-label">Cusp Sub-Lord</div>
+                        <div class="meta-value gold-text">${v.cusp_sublord}</div>
+                    </div>
+                    <div class="prashna-meta-item">
+                        <div class="meta-label">Sub-Lord House</div>
+                        <div class="meta-value">H${v.sublord_in_house || '—'}</div>
+                    </div>
+                    <div class="prashna-meta-item">
+                        <div class="meta-label">Moon Sub-Lord</div>
+                        <div class="meta-value">${p.moon_sublord}</div>
+                    </div>
+                </div>
+
+                <div class="prashna-reason">
+                    <strong>Reasoning:</strong> ${v.reason}
+                </div>
+
+                <h3 style="margin-top:2rem;font-size:1rem;color:var(--gold);">Krishneeyam Significator Chain</h3>
+                <div class="significator-chain">`;
+
+            const layerNames = { L1_occupants: 'Occupants', L2_house_lord: 'House Lord', L3_aspecting: 'Aspecting' };
+            p.krishneeyam_significators.forEach(s => {
+                html += `<div class="sig-layer">
+                    <span class="sig-label">${layerNames[s.layer] || s.layer}</span>
+                    <div class="sig-planets">
+                        ${s.planets.length ? s.planets.map(p => `<span class="sig-planet">${p}</span>`).join('') : '<span style="color:var(--text-muted);font-size:0.8rem;">None</span>'}
+                    </div>
+                </div>`;
+            });
+
+            html += `</div>
+                <h3 style="margin-top:1.5rem;font-size:1rem;color:var(--gold);">Ruling Planets at Question Moment</h3>
+                <div class="ruling-planets">
+                    ${p.ruling_planets.map(r => `<span class="ruling-planet">${r}</span>`).join('')}
+                </div>
+            </div>`;
+
+            const el = document.getElementById('prashna-result');
+            el.innerHTML = html;
+            el.classList.remove('hidden');
+            el.scrollIntoView({behavior:'smooth', block:'start'});
+        }
+
+        function showPricingModal() {
+            document.getElementById('pricing-modal').style.display = 'flex';
+        }
+        
+        function closePricingModal() {
+            document.getElementById('pricing-modal').style.display = 'none';
+        }
+        
+        function simulateStripeCheckout() {
+            alert("💳 Simulating Stripe Secure Checkout Session...\nPlan: Professional Pro ($29.99/mo)\n\nSuccess! Dev API key applied for this session.");
+            closePricingModal();
+            document.getElementById('user-tier-selector').value = 'professional';
+            const keyEl = document.getElementById('tools-api-key');
+            if (keyEl) {
+                keyEl.value = TIER_DEV_KEYS.professional;
+                sessionStorage.setItem('atro_api_key', keyEl.value);
+            }
+        }
+        
+        function handlePremiumUpgrade(elementId, message) {
+            const el = document.getElementById(elementId);
+            el.innerHTML = `
+                <div class="glass-card" style="text-align: center; padding: 3rem 2rem; border: 1px dashed var(--gold); background: rgba(212,175,55,0.03); box-shadow: 0 0 30px rgba(212,175,55,0.15); border-radius: 20px; transition: transform 0.3s ease;">
+                    <div style="font-size: 3rem; margin-bottom: 1rem;">👑</div>
+                    <h3 style="font-family: 'Playfair Display', serif; font-size: 1.6rem; color: var(--gold); margin-bottom: 0.5rem;">Professional Tier Feature</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; max-width: 500px; margin: 0 auto 1.5rem; line-height: 1.6;">
+                        ${message || 'Upgrade your subscription plan to Professional Pro to unlock unlimited horary chart readings, 16 divisional charts, Placidus house systems, and verbatim scriptural citations.'}
+                    </p>
+                    <button onclick="showPricingModal()" style="padding: 0.8rem 2rem; border: none; border-radius: 50px; background: var(--gold-gradient); color: var(--bg-dark); font-family: 'Outfit', sans-serif; font-weight: 700; cursor: pointer; font-size: 0.95rem; box-shadow: 0 0 15px rgba(212,175,55,0.3); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='none'">
+                        💎 Upgrade to Pro Now
+                    </button>
+                </div>
+            `;
+            el.classList.remove('hidden');
+            el.scrollIntoView({behavior: 'smooth', block: 'start'});
+        }
+    </script>
+
+    <!-- Pricing Modal -->
+    <div id="pricing-modal" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85); backdrop-filter: blur(8px); z-index: 1000; align-items: center; justify-content: center; padding: 1.5rem;">
+        <div class="glass-card" style="position: relative; max-width: 500px; width: 100%; border-color: var(--gold); box-shadow: 0 0 40px rgba(212,175,55,0.25); text-align: center; padding: 2.5rem 2rem;">
+            <button onclick="closePricingModal()" style="position: absolute; top: 15px; right: 20px; background: transparent; border: none; color: var(--text-muted); font-size: 1.5rem; cursor: pointer; transition: color 0.3s;" onmouseover="this.style.color='var(--white)'" onmouseout="this.style.color='var(--text-muted)'">&times;</button>
+            <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">👑</div>
+            <h2 style="font-family: 'Playfair Display', serif; font-size: 1.8rem; color: var(--gold); margin-bottom: 1.5rem;">Go Professional Pro</h2>
+            
+            <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--glass-border); border-radius: 12px; padding: 1.25rem; margin-bottom: 1.5rem; text-align: left;">
+                <div style="display: flex; justify-content: space-between; font-weight: 700; font-size: 1.1rem; color: var(--white); margin-bottom: 0.5rem;">
+                    <span>Professional Plan</span>
+                    <span style="color: var(--gold); font-size: 1.2rem;">$29.99<span style="font-size: 0.8rem; font-weight: normal; color: var(--text-muted);">/mo</span></span>
+                </div>
+                <ul style="color: var(--text-muted); font-size: 0.85rem; padding-left: 1.2rem; margin-top: 0.5rem; line-height: 1.6;">
+                    <li>✓ Complete Ashta Koota matchmaking details & Kuja Dosha</li>
+                    <li>✓ 10+ timed Muhurta windows with custom activity scores</li>
+                    <li>✓ Unlimited Prashna Horary readings & KP Signification</li>
+                    <li>✓ Verbatim scripture citations & 12-page PDF report downloads</li>
+                </ul>
+            </div>
+            
+            <!-- Sleek Mock Checkout Button -->
+            <button onclick="simulateStripeCheckout()" style="width: 100%; padding: 1rem; border: none; border-radius: 12px; background: var(--gold-gradient); color: var(--bg-dark); font-family: 'Outfit', sans-serif; font-weight: 800; font-size: 1.1rem; cursor: pointer; transition: all 0.3s; box-shadow: 0 0 20px rgba(212,175,55,0.3);" onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='none'">
+                ⚡ Proceed to Checkout
+            </button>
+            <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.75rem;">Secured by Stripe &bullet; Cancel anytime</div>
+        </div>
+    </div>
+</body>
+</html>
+

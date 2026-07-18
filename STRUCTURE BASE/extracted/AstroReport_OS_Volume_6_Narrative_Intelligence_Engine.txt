@@ -1,0 +1,45 @@
+AstroReport OS Specification
+Volume 6 – Narrative Intelligence Engine (NIE)
+1. Purpose
+The Narrative Intelligence Engine converts structured astrological interpretations into a continuous,
+emotionally engaging life biography. It never calculates astrology; it communicates it.
+2. Core Philosophy
+Readers remember stories, not isolated predictions. Every chapter must read like a chapter from a
+personal autobiography.
+3. Inputs
+Timeline data, Mahadasha/Bhukti, life-domain priorities, interpretation summaries, evidence,
+confidence scores, and practical guidance from previous engines.
+4. Narrative Pipeline
+Interpretation → Chapter Theme → Story Analogy → Life Experience → Domain Explanations →
+Guidance → Transition.
+5. Opening Rules
+Every chapter starts with a relatable analogy such as planting a seed, climbing a mountain, learning
+to ride a bicycle, or building a home.
+6. Story Structure
+Each chapter follows: Beginning, Change, Challenge, Growth, Lesson, Opportunity, Transition.
+7. Child-Friendly Language
+Write so a 10-year-old can understand. Replace technical astrology with everyday language, while
+preserving accuracy.
+8. Emotional Design
+Balance realism with hope. Never create fear. Every challenge must include perspective and
+practical guidance.
+9. Continuity Engine
+Remember previous chapters. Show how earlier experiences become later strengths,
+responsibilities, and wisdom.
+10. Technical Translation
+Explain the astrological reason in simple language after describing the human experience.
+Technical notes may appear in a separate section.
+11. Practical Guidance
+Every chapter ends with clear actions, habits, and mindset suggestions appropriate to that life
+stage.
+12. Chapter Transition
+Conclude by explaining what the reader is carrying into the next chapter and how life is evolving.
+13. Quality Rules
+Avoid repetition, deterministic language, contradictions, and disconnected sections. Maintain one
+continuous narrative voice.
+14. Output Specification
+Return complete book-quality chapters with titles, age range, life theme, story, life experiences,
+domain summaries, guidance, astrology explanation, and transition.
+15. Mission Statement
+The Narrative Intelligence Engine makes the report feel like a personalized life companion rather
+than software output.

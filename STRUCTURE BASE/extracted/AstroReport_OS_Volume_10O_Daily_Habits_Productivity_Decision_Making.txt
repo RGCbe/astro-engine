@@ -1,0 +1,67 @@
+AstroReport OS Specification
+Volume 10O – Daily Habits, Productivity & Decision
+Making Knowledge Base
+Purpose
+Define structured question records for everyday habits, productivity, discipline, decision making and
+personal effectiveness. These records help the report engine explain how small daily actions shape
+long-term life outcomes.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0141
+What daily habits help me succeed?
+Habits
+Whole Life
+Timeline
+Q0142
+How do I make important decisions?
+Decision Making
+Whole Life
+Timeline
+Q0143
+How can I improve my discipline?
+Self Management
+Whole Life
+Timeline
+Q0144
+What reduces my productivity?
+Productivity
+Adult
+Timeline
+Q0145
+How do I stay focused on goals?
+Focus
+Whole Life
+Summary
+Q0146
+What routines build long-term success?
+Lifestyle
+Whole Life
+Timeline
+Q0147
+How do I manage time effectively?
+Time Management Adult
+Timeline
+Q0148
+How do I recover after setbacks?
+Resilience
+Whole Life
+Timeline
+Q0149
+Which habits should I avoid?
+Habits
+Whole Life
+Summary
+Q0150
+How do daily choices shape my destiny?
+Purpose
+Whole Life
+Legacy
+Implementation Rules
+Treat habits as evolving behaviours. Show how repeated daily actions influence education, career,
+relationships, health and purpose over time. Emphasize practical improvement rather than fixed
+personality labels.
+Next Volume
+Volume 10P – Cross-Reference, Validation & Knowledge Graph Rules.

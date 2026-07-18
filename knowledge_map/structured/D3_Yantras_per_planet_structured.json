@@ -1,0 +1,35 @@
+{
+  "item_code": "D3",
+  "item_name": "Yantras per planet",
+  "books_covering": [
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1"
+  ],
+  "total_passages": 11,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 7,
+      "context": "a result of malevolence of planets at birth, he will be blessed with a son if he undertakes the following remedial measures- (1) Worshipping lord Shiva if the harm is as a result of the malevolence of Mercury and Venus, (2) Reciting of Santan Gopal mantra, wearing and worshipping appropriate yantra and taking suitable medicines, if the childlessness is a result of the malevolence of Jupiter and the Moon, (3) Kanyadana if the childlessness is due to malevolence of Rahu, (4) Worshipping of lord Vishnu if it is due to malevolence of the Sun, (5) Rudriya Japa if it is due to the malevolence of Mar"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 5,
+      "context": "as a resurt of malevolence of planets at birth, he wilr be blessect with a son if he undertakes tlre following remedial measures- (l) worshipping rord shivaif the harm is as a resurt of the malevolence of Mercury and Venus, . (2) reciting of Santan Gopal mantra, wearing and worshF pping appropriate yantra and taking suitable medtines, if thc childlessness is a result of thc malevolence of Jupiter and the Moon, 1002 Brihu Parasara lIora Sastra (3) Kanya dana if the childlessness is due to of Rahu, - - (4) worshipping of lord Vishnu if it is due to malevolence of the Sun, - -(5) Rudriyalapa if i"
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "rule_words": 4,
+      "context": "ossible. The word which, upon the authority of the commentator, we have rendered \" water,\" in verse 16, is amrtasr&va, literally \"having an im- mortal flow\": perhaps the phrase should be translated rather, \"by managing a constant current of water.\" 19. ... So also, one should construct instruments (yantra) in order to the ascertainment of time. 20. When quite alone, one should apply quicksilver to the wonder-causing instrument. By the gnomon (ganku), staff (yashti), arc (dhanus), wheel (cakra), instruments for taking the shadow, of various kinds, 21. According to the instruction of the precept"
+    }
+  ],
+  "constants_extracted": [],
+  "pyjhora_reference": {
+    "module": "panchanga/drik.py",
+    "function": "planet_positions"
+  }
+}

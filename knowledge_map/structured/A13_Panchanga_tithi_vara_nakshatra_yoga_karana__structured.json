@@ -1,0 +1,305 @@
+{
+  "item_code": "A13",
+  "item_name": "Panchanga (tithi/vara/nakshatra/yoga/karana)",
+  "books_covering": [
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Phaladeepika",
+    "Saravali",
+    "Hora_Sara",
+    "Surya_Siddhanta",
+    "Aryabhatiya_v1",
+    "Aryabhatiya_v2",
+    "Vedanga_Jyotisa",
+    "Uttara_Kalamrita",
+    "Laghu_Parashari",
+    "Prashna_Marga",
+    "Yavanajataka_1",
+    "Yavanajataka_2",
+    "Sarvartha_Chintamani",
+    "Bhrigu_Samhita"
+  ],
+  "total_passages": 160,
+  "formulas_found": [
+    {
+      "book": "Brihat_Parashara_v2",
+      "score": 7,
+      "context": "s divided by 3571 will give the expired period of Dasha as 6/10/6/22/5 (6 years, 10 months, 6 day, 22 Ghatikas and 5 palas). By deducting from the 7 years, we will get the balance of Dasha at birth as 0/1/23/37/55 (1 month, 23 days, 37 Ghatikas and 55 palas). Notes: The above method is based on Panchanga. Modern researchers in Astrology have devised a much simpler method to calculate the balance of Dasha at birth based on the longitude of the Moon and to know the Janma Nakshatras. For this purpose, it is imperative to give detailed information about Nakshatras (Constellations) first, even at the cost of occupation of valuable space. As has already been mentioned in Vol. I of this book, there are 27 Nakshatras. One Nakshatra measures 13°-20' of arc and consists of four Padas (quarters) of",
+      "position": 833097
+    },
+    {
+      "book": "Vedanga_Jyotisa",
+      "score": 7,
+      "context": "ract one. Multiply this by 6. The parvas gone are got. Halve this number. The tithi at the end of which the visuva occurs is got. (R-VJ 31) Take the ordinal number of the visuva and multiply by 2 Subtract one. Multiply by 6. What has been obtained are the number of parvas gone. Half of this 1s the tithi at the end of which the visuva occurs. (Y-VJ 23) The visuva is declared to occur in the bright fortnight, at the end of the tithis Trtiya, Navami, Full Moon, and in the dark fortnight, at Sasthi and Dvadasi. This is repeated once again. (R-VJ 33) Note 1. The visuvas, being equinoxes, occur at the middle of each of the ten ayanas. The interval between the visuvas 1s 124/10 parvas=12 parvas and 6 tithis. So, the time gone at the nth visuva=(n—4) (12? 64)=(2n—1) (6 3*)=(2n—1)x6 parvas and half",
+      "position": 90853
+    },
+    {
+      "book": "Vedanga_Jyotisa",
+      "score": 5,
+      "context": "ah|| ¥-VJ 23 trtiyam navamim caiva paurnamasim trayodasim (? masim athasite)| sasthim ca visuvan proktah dvadasyam (%dasim) ca samam bhavet||R-VJ 33 Double the ordinal number of the visuva (or equinoctial point) and subtract one. Multiply this by 6. The parvas gone are got. Halve this number. The tithi at the end of which the visuva occurs is got. (R-VJ 31) Take the ordinal number of the visuva and multiply by 2 Subtract one. Multiply by 6. What has been obtained are the number of parvas gone. Half of this 1s the tithi at the end of which the visuva occurs. (Y-VJ 23) The visuva is declared to occur in the bright fortnight, at the end of the tithis Trtiya, Navami, Full Moon, and in the dark fortnight, at Sasthi and Dvadasi. This is repeated once again. (R-VJ 33) Note 1. The visuvas, being e",
+      "position": 90631
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "score": 4,
+      "context": "n artificial counterpart to the lunar day, which is the subject of the next verse; being derived from the sum, as the other from the difference, of the longitudes of the sun and moon. 66. From the number of minutes in the longitude of the moon diminished by that of the sun are found the lunar days (tithi), by dividing the difference by the portion (hhoga) of a lunar day. Multiply the minutes past and to come of the current lunar day by sixty, and divide by the difference of the daily motions of the two planets : the result is the time in nadis. The iithi, or lunar clay, is (see i. 13) one thirtieth of a lunar month, or of the time during which the moon gains in longitude upon the sun a whole revolution, or 360° : it is, therefore, the period during which the difference of the increment of ",
+      "position": 360322
+    }
+  ],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 11,
+      "context": "n after performing remedial measures. If the tithi is earlier than the 6th of dark half, birth of the issue will be delayed. If after the tenth, the event will happen early. Stanza 124. If the delay is due to tithi falling in bright half Lord Vishnu should be propitiated. If the delay is due to tithi falling in the dark half Lord Siva should be worshipped. If the tithi are the 7th, the 8th, the 9th and the 10th (dark half), then an issue will be born to the 2nd wife after the 2nd marriage. Even after remarriage Brahmins should be worshipped and fed on New Moon days and Sravana days. Stanza 125"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 10,
+      "context": "l the asterisms, vowels, con- sonants, Rasis and Tithis in that direction should be deemed as 'set'. When an asterism is set and there is Vedha, sick- ness will be the result. When a consonant is set, there is loss. When a vowel is set, there is sorrow. When a Rasi is set, there is obstacle; when a Tithi is set and there is Vedha, fear will arise. When all the five are in the 'set' direction and there is Vedha, death will surely result. Towards the direction deemed as 'set,' journey, ^ight, discussion, fixing of a new door or gate for a palace and upper storeys should not be undertaken. Any ot"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 10,
+      "context": "in the notes. Stanza 123. The progeny tithi is obtained by deducting the longitude of the progeny Sun from the longitude of the progeny Moon. If this tithi falls in the bright half, the issue will be born. If it is the dark half the issue will be born after performing remedial measures. If the tithi is earlier than the 6th of dark half, birth of the issue will be delayed. If after the tenth, the event will happen early. Stanza 124. If the delay is due to tithi falling in bright half Lord Vishnu should be propitiated. If the delay is due to tithi falling in the dark half Lord Siva should be wor"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 10,
+      "context": "Subrahmanya should be worshipped; on the 4th, Ganapati should be invoked; on the 9th, Durga should be worshipped; on the 12th, worship the Sun; on the 8th, worship Serpent god; on New Moon days, worship Pitris. NOTES All these are the remedial measures to be adopted when the santana tithi falls in the dark half. Stanza 127. The santhana tithi falling on the 4th, the 9th or the 14th lunar day of any paksha denies the birth of an issue because of abhichara. The remedy is reading the Puranas. If the Santana tithi falls on the 4th lunar day, the remedies should be done by high class people; if on "
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 9,
+      "context": "rcury, intelli- gence; in that of Jupiter, an all round good effect. When the planet causing the Vedha is retrograde, the effect is two-fold ; it is thrice when he is in exaltation ; when his motion is rapid (direct), the usual (natural) effect ; and when in depression, the effect is only half. Any Tithi, Rasi or Amsa or Nakshatra hit by a malefic should be scrupulously avoided in all auspicious undertakings. A marriage celebrated during a Vedha will not be happy and any journey undertaken will xxot prove prosperous ; any treatment given to a patierit will not end in cuie ; and any bu siness s"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 9,
+      "context": "t particular quarter. In the case of an asterism situated in any of the other. 'risen' directions, if there should be a Vedha, there will be growth. If the Vedha be with a consonant, gain will be the result ; if with a vowel, there will be happiness; if with a Rasi, there will be success; if with a Tithi, there is lustre ; if with all the five, a posi- tion is secured. When there are Vedhas caused by malefics on both the right and left sides with consonants, Tithis, vowels, Rasis and Asterisms at any time, the person concerned will surely meet with his death. When at the time of a malefic Vedh"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 9,
+      "context": "s myself, and hence I am unable to give my opinion. One Astrologer Panicker a close associate of late Mr. K. K. Kurup whom I met at Trichur in 1958, said that the method given in the stanza should be accepted in preference to the cumbersome method explained in the notes. Stanza 123. The progeny tithi is obtained by deducting the longitude of the progeny Sun from the longitude of the progeny Moon. If this tithi falls in the bright half, the issue will be born. If it is the dark half the issue will be born after performing remedial measures. If the tithi is earlier than the 6th of dark half, bir"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 9,
+      "context": "k half Lord Siva should be worshipped. If the tithi are the 7th, the 8th, the 9th and the 10th (dark half), then an issue will be born to the 2nd wife after the 2nd marriage. Even after remarriage Brahmins should be worshipped and fed on New Moon days and Sravana days. Stanza 125. If the santana tithi (or progeny lunar day) happens to be the 11th to 14th, the native will have an adopted child. If it falls on a New Moon or Full Moon day, there will be no issue, not even an adopted child. Childlessness will be due to the dissatisfaction of the Pitris. Ceremonies should be performed on parva days"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 9,
+      "context": "s the birth of an issue because of abhichara. The remedy is reading the Puranas. If the Santana tithi falls on the 4th lunar day, the remedies should be done by high class people; if on the 9th, low class persons should perform the remedies. The cause of childlessness is a serpent god if santana tithi falls in Vishtikarana. If it happens to be bright half, the curse is recent; if it is dark half, the curse is very old. Stanza 128. In the bright half, Vishtikarana falls on the 4th (chaturthi), 8th (ashtami), 11th (ekadasi) and full Moon; in the dark half Vishtikarana falls on 3rd (triteeya), 7t"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 8,
+      "context": "there is a Shraddha on the marriage day. Second Kanda 235 How should sthalipaka be done? Divide the duration of the night by thirty. Omit the last two parts. Just before the last two parts. in the 28th part the sthalipaka homa should be performed. if it is not an amavasya (new moon night, the 30th tithi). If the day is an amavasya and if the woman has no child. the Darsa homa should be gone through and also on the day of the solar ingress. Note8 No one in his senses can fix the day of the marriage of his daughter or son on the day he has to perform a Shraddha. ,-on,oeft(i'Ujdli'C4\": ~\"RtfitQ4I"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 8,
+      "context": "fflictions are present, we can prognosticate that no child will be born. If however only some of these afflictions are found, children will be born after suitable remedial measures. NOTES Anishta Bhavas are the 6th, the 8th and the 12th houses. The lunar day on which the query is put is Santhana Tithi. If all the factors are afflicted there will be no progeny. If some are afflicted, remedial measures may be resorted to. As per this stanza, factors favouring no birth of children, are (a) Jupiter, the lord of the 5th and Yamakantaka should be afflicted. (b) They should occupy the 6th, the 8th an"
+    },
+    {
+      "book": "Prashna_Marga",
+      "rule_words": 8,
+      "context": "TES All these are the remedial measures to be adopted when the santana tithi falls in the dark half. Stanza 127. The santhana tithi falling on the 4th, the 9th or the 14th lunar day of any paksha denies the birth of an issue because of abhichara. The remedy is reading the Puranas. If the Santana tithi falls on the 4th lunar day, the remedies should be done by high class people; if on the 9th, low class persons should perform the remedies. The cause of childlessness is a serpent god if santana tithi falls in Vishtikarana. If it happens to be bright half, the curse is recent; if it is dark half,"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 7,
+      "context": "hould however the result happen to be one of the (Chhidra) Tithis, the fVishti,'- Karana, or a (Stthirakarana, alluded to in the last sentence of the previous Sloka), one ought to wor- ship God Krishna by means of the (Purusha Sukta) Mantras to ward off the barrenness threatening the family. If the Tithi disclosed be t^ljl (Shashti), he ought to worship God Subrahmanya ; if it be =5rgscrf <Chatutthi, he ought to propitiate the lord of serpents; if it be (Navarai), he ought to arrange for the reading of nSfW’iT (Ramayana) and hear that story ; if it be (Ashtami), he ought to observe the «rer»>T"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 7,
+      "context": ";;rft 'tmI\" ~ ~ ~lc4i$II:WftIM~ft ~~~~~~II 't~ II When ekadashi (the eleventh lunar day of the bright halfof the month) does not fall on two days. Dvadashi (12th tlthi) should be observed on the next day. But when it falls on two days, ascetics and widows should observe it on the second day. A dual tithi does not exist on the second day. Still it is called such. Only the first day will dominate. If there is an unvitiated 12th tithi, that alone is the best. Notes A fast is undertaken on the eleventh lunar tithi and it Is broken on the next day. ftr.l:r ~Ft:iljqFi:16Q If<<fT ~i$I«~ft ~ ~ ~141&:i"
+    },
+    {
+      "book": "Phaladeepika",
+      "rule_words": 6,
+      "context": "these five are:—agitation or excitement from the first, fear from the second, loss from the third, disease from the fourth and death from the fifthr When the (Vedha) is with an asterism, there is confusion ; when with a letter, loss ; with a vowel, sickness ; and a very great obstacle, when with a Tithi or Rasi. When there are five Vedhas simultaneouslv, the individual will not live. A single (Vedha) will engender fear in battle ; two Vedhs, loss of money; three, some obstacle; and four, death. Just as malefics produce evil, benefics cause good. Benefics associated with malefics produce only e"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 6,
+      "unit": "years",
+      "context": " expired period of Dasa as 61rc16,22,5 (6 years, 10 rnonths, 6 day,22 ghatikas and 5 pa"
+    },
+    {
+      "type": "period",
+      "value": 6,
+      "unit": "day",
+      "context": "sa as 61rc16,22,5 (6 years, 10 rnonths, 6 day,22 ghatikas and 5 palas). By dcducting "
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": "as and 5 palas). By dcducting this from 7 years, we will get the balancc of Dasa at bir"
+    },
+    {
+      "type": "period",
+      "value": 1,
+      "unit": "month",
+      "context": "lancc of Dasa at birth as 0 1!23i37155 (1 month,23 days,3Tghatis and 55 palas). Notes :"
+    },
+    {
+      "type": "period",
+      "value": 23,
+      "unit": "days",
+      "context": " Dasa at birth as 0 1!23i37155 (1 month,23 days,3Tghatis and 55 palas). Notes : The abo"
+    },
+    {
+      "type": "period",
+      "value": 28,
+      "unit": "years",
+      "context": "rth of thc querist was in the Samvatsar 28 years before the tine and date of thc guery. "
+    },
+    {
+      "type": "degrees",
+      "value": 13.0,
+      "context": "e 27 Nakshatras. One Nakshatra measures 13°-20' of arc and consists of four Padas ("
+    },
+    {
+      "type": "period",
+      "value": 6,
+      "unit": "years",
+      "context": "expired period of Dasha as 6/10/6/22/5 (6 years, 10 months, 6 day, 22 Ghatikas and 5 pa"
+    },
+    {
+      "type": "period",
+      "value": 10,
+      "unit": "months",
+      "context": "eriod of Dasha as 6/10/6/22/5 (6 years, 10 months, 6 day, 22 Ghatikas and 5 palas). By de"
+    },
+    {
+      "type": "period",
+      "value": 6,
+      "unit": "day",
+      "context": "sha as 6/10/6/22/5 (6 years, 10 months, 6 day, 22 Ghatikas and 5 palas). By deducting"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "years",
+      "context": "kas and 5 palas). By deducting from the 7 years, we will get the balance of Dasha at bi"
+    },
+    {
+      "type": "period",
+      "value": 1,
+      "unit": "month",
+      "context": "ance of Dasha at birth as 0/1/23/37/55 (1 month, 23 days, 37 Ghatikas and 55 palas). No"
+    },
+    {
+      "type": "period",
+      "value": 23,
+      "unit": "days",
+      "context": "asha at birth as 0/1/23/37/55 (1 month, 23 days, 37 Ghatikas and 55 palas). Notes: The "
+    },
+    {
+      "type": "period",
+      "value": 28,
+      "unit": "years",
+      "context": "rth of the querist was in the Samvatsar 28 years before the time and date of the query. "
+    },
+    {
+      "type": "degrees",
+      "value": 12.0,
+      "context": "TA tithi, i.e., in which the moon gains 12° of longitude over the sun. From this ti"
+    },
+    {
+      "type": "degrees",
+      "value": 13.0,
+      "context": "e ecliptic occupied by each asterism is 13° 20, or BOCK. In order to find, accordin"
+    },
+    {
+      "type": "degrees",
+      "value": 360.0,
+      "context": "ude upon the sun a whole revolution, or 360° : it is, therefore, the period during w"
+    },
+    {
+      "type": "degrees",
+      "value": 85.0,
+      "context": ", or modern Patna (long. 25737 N., lat. 85°13 E.) in Bihar State. 1. सिद्ान्तपञ्चकव"
+    },
+    {
+      "type": "degrees",
+      "value": 11.0,
+      "context": "ified with Gangai-konda-Colapuram (lat. 11° 13’ N., 1, Suryadeva writes : विश्वेशमि"
+    },
+    {
+      "type": "period",
+      "value": 360,
+      "unit": "years",
+      "context": "3.1, 5 दिव्यवर्ष (divine year, equal to 360 years of men), 3.7, 8 बुष्पमा (designation of"
+    },
+    {
+      "type": "period",
+      "value": 28,
+      "unit": "years",
+      "context": "ll a student. If we presume that he was 28 years of age at that time, his date of birth "
+    },
+    {
+      "type": "period",
+      "value": 478,
+      "unit": "days",
+      "context": "a, the commentator writes : “When 16,68,478 days had elapsed since the beginning of Kali"
+    },
+    {
+      "type": "period",
+      "value": 272,
+      "unit": "days",
+      "context": "otal eclipse of the Sun; and when 16,81,272 days had elapsed,"
+    },
+    {
+      "type": "degrees",
+      "value": 90.0,
+      "context": " and SMT, ch. on lunar eclipse, where M+90° is replaced by M—90°. KR, iii. 14(c-d)-"
+    },
+    {
+      "type": "degrees",
+      "value": 90.0,
+      "context": "r eclipse, where M+90° is replaced by M—90°. KR, iii. 14(c-d)-15(a-b) gives a mixed"
+    },
+    {
+      "type": "period",
+      "value": 7,
+      "unit": "month",
+      "context": ". 1 Modern calendar, corrections to, 1v 7 Month, solar, in a yuga, पा. 1 Months, Vedic,"
+    },
+    {
+      "type": "period",
+      "value": 1,
+      "unit": "months",
+      "context": "s to, 1v 7 Month, solar, in a yuga, पा. 1 Months, Vedic, Intro § 1 Moon, tisings in a yu"
+    },
+    {
+      "type": "period",
+      "value": 15,
+      "unit": "days",
+      "context": "h parva=days in the yuga divided by 124=15 days minus 30 parts. This mehs 2 parts less "
+    },
+    {
+      "type": "period",
+      "value": 120,
+      "unit": "years",
+      "context": "ngevity of humarr bcing is cotrsiclcred 120 years as the Sun and the Moon come to thc sam"
+    },
+    {
+      "type": "period",
+      "value": 116,
+      "unit": "years",
+      "context": "asa is of 108 yei.lrs, Sotl.tsottari of 116 years, Dwadasottari of LL2 years and all thc:"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "panchanga/drik.py",
+    "function": "get_ayanamsa"
+  }
+}

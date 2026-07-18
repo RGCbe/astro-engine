@@ -1,0 +1,472 @@
+{
+  "subject": "Manoj 25/5/1996 20:25 IST Coimbatore",
+  "compute_parity": [
+    {
+      "planet": "Sun",
+      "manoj_chart_rasi": "Taurus",
+      "manoj_chart_deg": 10.86,
+      "manoj_chart_lon": 40.86,
+      "jyotishganit_rasi": "Taurus",
+      "jyotishganit_deg": 10.871,
+      "jyotishganit_lon": 40.871,
+      "swiss_lahiri_rasi": "Taurus",
+      "swiss_lahiri_deg": 10.86,
+      "swiss_lahiri_lon": 40.86,
+      "swiss_chitra_rasi": "Taurus",
+      "swiss_chitra_deg": 10.871,
+      "swiss_chitra_lon": 40.871,
+      "spread_deg": 0.011,
+      "agree": true
+    },
+    {
+      "planet": "Moon",
+      "manoj_chart_rasi": "Leo",
+      "manoj_chart_deg": 11.184,
+      "manoj_chart_lon": 131.185,
+      "jyotishganit_rasi": "Leo",
+      "jyotishganit_deg": 11.196,
+      "jyotishganit_lon": 131.196,
+      "swiss_lahiri_rasi": "Leo",
+      "swiss_lahiri_deg": 11.184,
+      "swiss_lahiri_lon": 131.184,
+      "swiss_chitra_rasi": "Leo",
+      "swiss_chitra_deg": 11.196,
+      "swiss_chitra_lon": 131.196,
+      "spread_deg": 0.011,
+      "agree": true
+    },
+    {
+      "planet": "Mars",
+      "manoj_chart_rasi": "Aries",
+      "manoj_chart_deg": 23.166,
+      "manoj_chart_lon": 23.166,
+      "jyotishganit_rasi": "Aries",
+      "jyotishganit_deg": 23.178,
+      "jyotishganit_lon": 23.178,
+      "swiss_lahiri_rasi": "Aries",
+      "swiss_lahiri_deg": 23.166,
+      "swiss_lahiri_lon": 23.166,
+      "swiss_chitra_rasi": "Aries",
+      "swiss_chitra_deg": 23.178,
+      "swiss_chitra_lon": 23.178,
+      "spread_deg": 0.011,
+      "agree": true
+    },
+    {
+      "planet": "Mercury",
+      "manoj_chart_rasi": "Aries",
+      "manoj_chart_deg": 26.014,
+      "manoj_chart_lon": 26.014,
+      "jyotishganit_rasi": "Aries",
+      "jyotishganit_deg": 26.026,
+      "jyotishganit_lon": 26.026,
+      "swiss_lahiri_rasi": "Aries",
+      "swiss_lahiri_deg": 26.014,
+      "swiss_lahiri_lon": 26.014,
+      "swiss_chitra_rasi": "Aries",
+      "swiss_chitra_deg": 26.026,
+      "swiss_chitra_lon": 26.026,
+      "spread_deg": 0.011,
+      "agree": true
+    },
+    {
+      "planet": "Jupiter",
+      "manoj_chart_rasi": "Sagittarius",
+      "manoj_chart_deg": 23.165,
+      "manoj_chart_lon": 263.164,
+      "jyotishganit_rasi": "Sagittarius",
+      "jyotishganit_deg": 23.176,
+      "jyotishganit_lon": 263.176,
+      "swiss_lahiri_rasi": "Sagittarius",
+      "swiss_lahiri_deg": 23.164,
+      "swiss_lahiri_lon": 263.164,
+      "swiss_chitra_rasi": "Sagittarius",
+      "swiss_chitra_deg": 23.176,
+      "swiss_chitra_lon": 263.176,
+      "spread_deg": 0.011,
+      "agree": true
+    },
+    {
+      "planet": "Venus",
+      "manoj_chart_rasi": "Gemini",
+      "manoj_chart_deg": 3.913,
+      "manoj_chart_lon": 63.913,
+      "jyotishganit_rasi": "Gemini",
+      "jyotishganit_deg": 3.925,
+      "jyotishganit_lon": 63.925,
+      "swiss_lahiri_rasi": "Gemini",
+      "swiss_lahiri_deg": 3.913,
+      "swiss_lahiri_lon": 63.913,
+      "swiss_chitra_rasi": "Gemini",
+      "swiss_chitra_deg": 3.925,
+      "swiss_chitra_lon": 63.925,
+      "spread_deg": 0.012,
+      "agree": true
+    },
+    {
+      "planet": "Saturn",
+      "manoj_chart_rasi": "Pisces",
+      "manoj_chart_deg": 11.234,
+      "manoj_chart_lon": 341.234,
+      "jyotishganit_rasi": "Pisces",
+      "jyotishganit_deg": 11.245,
+      "jyotishganit_lon": 341.245,
+      "swiss_lahiri_rasi": "Pisces",
+      "swiss_lahiri_deg": 11.234,
+      "swiss_lahiri_lon": 341.234,
+      "swiss_chitra_rasi": "Pisces",
+      "swiss_chitra_deg": 11.245,
+      "swiss_chitra_lon": 341.245,
+      "spread_deg": 0.011,
+      "agree": true
+    },
+    {
+      "planet": "Rahu",
+      "manoj_chart_rasi": "Virgo",
+      "manoj_chart_deg": 20.919,
+      "manoj_chart_lon": 170.918,
+      "jyotishganit_rasi": "Virgo",
+      "jyotishganit_deg": 20.88,
+      "jyotishganit_lon": 170.88,
+      "swiss_lahiri_rasi": "Virgo",
+      "swiss_lahiri_deg": 20.918,
+      "swiss_lahiri_lon": 170.918,
+      "swiss_chitra_rasi": "Virgo",
+      "swiss_chitra_deg": 20.93,
+      "swiss_chitra_lon": 170.93,
+      "spread_deg": 0.05,
+      "agree": true
+    },
+    {
+      "planet": "Ketu",
+      "manoj_chart_rasi": "Pisces",
+      "manoj_chart_deg": 20.919,
+      "manoj_chart_lon": 350.918,
+      "jyotishganit_rasi": "Pisces",
+      "jyotishganit_deg": 20.88,
+      "jyotishganit_lon": 350.88,
+      "swiss_lahiri_rasi": "Pisces",
+      "swiss_lahiri_deg": 20.918,
+      "swiss_lahiri_lon": 350.918,
+      "swiss_chitra_rasi": "Pisces",
+      "swiss_chitra_deg": 20.93,
+      "swiss_chitra_lon": 350.93,
+      "spread_deg": 0.05,
+      "agree": true
+    }
+  ],
+  "engine_consensus": [
+    {
+      "fact": "lagna",
+      "status": "AGREE",
+      "value": "Sagittarius",
+      "engines": [
+        "manoj_chart",
+        "jyotishganit"
+      ]
+    },
+    {
+      "fact": "janma_nak",
+      "status": "AGREE",
+      "value": "Magha",
+      "engines": [
+        "manoj_chart",
+        "jyotishganit"
+      ]
+    },
+    {
+      "fact": "yogas",
+      "status": "AGREE",
+      "common": [
+        "Hamsa",
+        "Kemadruma"
+      ],
+      "extras_per_engine": {
+        "match_chart_to_rules": [],
+        "dna_matcher": []
+      }
+    },
+    {
+      "fact": "house_lords",
+      "status": "AGREE",
+      "mismatches": []
+    },
+    {
+      "fact": "atmakaraka",
+      "status": "no_data",
+      "values": {
+        "ultimate": null
+      }
+    },
+    {
+      "fact": "conjunctions",
+      "status": "AGREE",
+      "common": [
+        [
+          "Aries",
+          "Mars",
+          "Mercury"
+        ],
+        [
+          "Ketu",
+          "Pisces",
+          "Saturn"
+        ]
+      ],
+      "extras": {
+        "combinations": [],
+        "dna_matcher": []
+      }
+    }
+  ],
+  "book_confluence_top": [
+    {
+      "category": "planet_in_house",
+      "topic": "Mars_in_H5",
+      "books": [
+        "BPHS_Vol1",
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Laghu_Parashari",
+        "Phaladeepika",
+        "Prashna_Marga",
+        "Saravali",
+        "Uttara_Kalamrita"
+      ],
+      "n_books": 8,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "dignity",
+      "topic": "Mars_own",
+      "books": [
+        "BPHS_Vol1",
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Laghu_Parashari",
+        "Prashna_Marga",
+        "Saravali",
+        "Uttara_Kalamrita"
+      ],
+      "n_books": 7,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Jupiter_in_H1",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Laghu_Parashari",
+        "Phaladeepika",
+        "Prashna_Marga"
+      ],
+      "n_books": 6,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "yogas",
+      "topic": "general",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Phaladeepika",
+        "Saravali",
+        "Uttara_Kalamrita"
+      ],
+      "n_books": 6,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Sun_in_Taurus",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Saravali",
+        "Yavanajataka_2"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Moon_in_Leo",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Prashna_Marga",
+        "Saravali"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Mars_in_Aries",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_2"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Venus_in_H7",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Phaladeepika",
+        "Prashna_Marga"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Mercury_in_H5",
+      "books": [
+        "BPHS_Vol1",
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Prashna_Marga"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Sun_in_H6",
+      "books": [
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_2"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "dignity",
+      "topic": "Jupiter_own",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Laghu_Parashari",
+        "Saravali"
+      ],
+      "n_books": 5,
+      "confidence": "CANONICAL"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Saturn_in_H4",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Laghu_Parashari",
+        "Prashna_Marga"
+      ],
+      "n_books": 4,
+      "confidence": "STRONG"
+    },
+    {
+      "category": "dasha_effects",
+      "topic": "general",
+      "books": [
+        "BPHS_Vol2",
+        "Laghu_Parashari",
+        "Phaladeepika"
+      ],
+      "n_books": 3,
+      "confidence": "STRONG"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Saturn_in_Pisces",
+      "books": [
+        "Phaladeepika",
+        "Yavanajataka_2"
+      ],
+      "n_books": 2,
+      "confidence": "MODERATE"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Jupiter_in_Sagittarius",
+      "books": [
+        "Prashna_Marga",
+        "Yavanajataka_2"
+      ],
+      "n_books": 2,
+      "confidence": "MODERATE"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Venus_in_Gemini",
+      "books": [
+        "Saravali",
+        "Yavanajataka_2"
+      ],
+      "n_books": 2,
+      "confidence": "MODERATE"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Mercury_in_Aries",
+      "books": [
+        "Saravali",
+        "Yavanajataka_2"
+      ],
+      "n_books": 2,
+      "confidence": "MODERATE"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Rahu_in_H10",
+      "books": [
+        "Brihat_Parashara_v2",
+        "Phaladeepika"
+      ],
+      "n_books": 2,
+      "confidence": "MODERATE"
+    },
+    {
+      "category": "planet_in_house",
+      "topic": "Moon_in_H9",
+      "books": [
+        "Hora_Sara",
+        "Uttara_Kalamrita"
+      ],
+      "n_books": 2,
+      "confidence": "MODERATE"
+    },
+    {
+      "category": "planet_in_rasi",
+      "topic": "Ketu_in_Pisces",
+      "books": [
+        "Phaladeepika"
+      ],
+      "n_books": 1,
+      "confidence": "ANECDOTAL"
+    }
+  ],
+  "confluence_counts": {
+    "CANONICAL": 11,
+    "STRONG": 2,
+    "MODERATE": 6,
+    "ANECDOTAL": 1
+  }
+}

@@ -1,0 +1,68 @@
+AstroReport OS Specification
+Volume 10C – Family, Parents & Childhood
+Knowledge Base
+Purpose
+This volume defines structured question records related to family, parents, childhood and the home
+environment. These records are used by the report engine to explain early-life experiences within
+the timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0021
+What kind of family environment shaped me?
+Family
+Birth
+Foundation
+Q0022
+How does my mother influence my life?
+Mother
+Birth
+Foundation
+Q0023
+How does my father influence my life?
+Father
+Birth
+Foundation
+Q0024
+What is my relationship with siblings?
+Siblings
+Childhood
+Timeline
+Q0025
+Did childhood build confidence or caution?
+Childhood
+School
+Timeline
+Q0026
+What lessons come from my family?
+Family
+Whole Life
+Timeline
+Q0027
+What emotional patterns began at home?
+Emotions
+Childhood
+Timeline
+Q0028
+How do family values shape decisions?
+Family
+Teen
+Timeline
+Q0029
+What responsibilities toward family are indicated?
+Family
+Adult
+Timeline
+Q0030
+How does family prepare me for future relationships?
+Relationships
+Young Adult
+Transition
+Implementation Rules
+Family questions appear primarily during birth and childhood chapters but continue to evolve
+through adulthood. The report should show how early family experiences influence confidence,
+relationships, career choices and emotional maturity over time.
+Next Volume
+Volume 10D – Education, Learning, Intelligence & Skills Knowledge Base.

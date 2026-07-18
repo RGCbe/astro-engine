@@ -1,0 +1,91 @@
+{
+  "name": "Test User",
+  "lagna": "Kanya",
+  "planets": {
+    "Sun": 9,
+    "Moon": 5,
+    "Mars": 6,
+    "Mercury": 8,
+    "Jupiter": 10,
+    "Venus": 7,
+    "Saturn": 5,
+    "Rahu": 5,
+    "Ketu": 11
+  },
+  "meta": {
+    "dt_local": "1990-05-15T14:30:00",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "tz_offset": 5.5,
+    "ayanamsha": "lahiri",
+    "ayan_deg": 23.7225,
+    "asc_sidereal_deg": 151.9079,
+    "jd_ut": 2448026.875,
+    "system": "whole-sign"
+  },
+  "positions": {
+    "Sun": {
+      "longitude": 30.5498,
+      "sign": "Vrishabha",
+      "deg_in_sign": 0.5498,
+      "house": 9,
+      "retrograde": false
+    },
+    "Moon": {
+      "longitude": 271.8935,
+      "sign": "Makara",
+      "deg_in_sign": 1.8935,
+      "house": 5,
+      "retrograde": false
+    },
+    "Mars": {
+      "longitude": 324.5152,
+      "sign": "Kumbha",
+      "deg_in_sign": 24.5152,
+      "house": 6,
+      "retrograde": false
+    },
+    "Mercury": {
+      "longitude": 14.3023,
+      "sign": "Mesha",
+      "deg_in_sign": 14.3023,
+      "house": 8,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "longitude": 75.7923,
+      "sign": "Mithuna",
+      "deg_in_sign": 15.7923,
+      "house": 10,
+      "retrograde": false
+    },
+    "Venus": {
+      "longitude": 348.9499,
+      "sign": "Meena",
+      "deg_in_sign": 18.9499,
+      "house": 7,
+      "retrograde": false
+    },
+    "Saturn": {
+      "longitude": 271.5257,
+      "sign": "Makara",
+      "deg_in_sign": 1.5257,
+      "house": 5,
+      "retrograde": false
+    },
+    "Rahu": {
+      "longitude": 287.62,
+      "sign": "Makara",
+      "deg_in_sign": 17.62,
+      "house": 5,
+      "retrograde": true
+    },
+    "Ketu": {
+      "longitude": 107.62,
+      "sign": "Karka",
+      "deg_in_sign": 17.62,
+      "house": 11,
+      "retrograde": true
+    }
+  }
+}

@@ -1,0 +1,1622 @@
+{
+  "inventory": {
+    "A. CALCULATIONS (math/algorithms)": {
+      "A1": [
+        "Ayanamsa calculation",
+        [
+          "ayanamsa",
+          "precession",
+          "sayana",
+          "nirayana"
+        ]
+      ],
+      "A2": [
+        "Planet longitude (sphuta)",
+        [
+          "\\bsphuta\\b",
+          "planet longitude",
+          "sidereal longitude"
+        ]
+      ],
+      "A3": [
+        "House cusps / Bhava sphuta",
+        [
+          "bhava sphuta",
+          "house cusp",
+          "sripati",
+          "placidus"
+        ]
+      ],
+      "A4": [
+        "Divisional charts (D1-D60)",
+        [
+          "navamsa",
+          "dasamsa",
+          "trimsamsa",
+          "shashtiamsa"
+        ]
+      ],
+      "A5": [
+        "Dasha calculations (multiple systems)",
+        [
+          "vimshottari",
+          "ashtottari",
+          "yogini",
+          "kala chakra",
+          "narayana dasa"
+        ]
+      ],
+      "A6": [
+        "Shadbala — 6 strengths per planet",
+        [
+          "shad[- ]?bala",
+          "sthana bala",
+          "dig bala",
+          "kala bala",
+          "cheshta bala",
+          "naisargika bala",
+          "drik bala"
+        ]
+      ],
+      "A7": [
+        "Bhava Bala (house strength)",
+        [
+          "bhava bala",
+          "house strength"
+        ]
+      ],
+      "A8": [
+        "Ashtakavarga (BAV + SAV)",
+        [
+          "bhinnashtakavarga",
+          "sarvashtakavarga",
+          "ashtakavarga",
+          "bindu",
+          "virupa"
+        ]
+      ],
+      "A9": [
+        "Ishta/Kashta Phala",
+        [
+          "ishta phala",
+          "kashta phala"
+        ]
+      ],
+      "A10": [
+        "Longevity — 4+ methods",
+        [
+          "pindayu",
+          "amshayu",
+          "nishargayu",
+          "jaimini.*longevity",
+          "triangle method"
+        ]
+      ],
+      "A11": [
+        "Aspects — planet-to-planet + rasi drishti",
+        [
+          "drishti",
+          "aspect",
+          "parashari aspect",
+          "rasi drishti"
+        ]
+      ],
+      "A12": [
+        "Sphutas of Upagrahas",
+        [
+          "gulika",
+          "mandi",
+          "dhooma",
+          "vyatipata",
+          "parivesha",
+          "chapa",
+          "upaketu",
+          "yamakantaka"
+        ]
+      ],
+      "A13": [
+        "Panchanga (tithi/vara/nakshatra/yoga/karana)",
+        [
+          "panchanga",
+          "\\btithi\\b",
+          "\\bvara\\b",
+          "\\bkarana\\b"
+        ]
+      ],
+      "A14": [
+        "Transit (gochara)",
+        [
+          "gochara",
+          "transit",
+          "sade sati",
+          "ashtama shani"
+        ]
+      ],
+      "A15": [
+        "Sudarshan Chakra (triple-overlay)",
+        [
+          "sudarshan",
+          "tripataki"
+        ]
+      ]
+    },
+    "B. PREDICTIVE RULES": {
+      "B1": [
+        "Planet in Rasi (108 base rules)",
+        [
+          "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)"
+        ]
+      ],
+      "B2": [
+        "Planet in House (108 base rules)",
+        [
+          "(?:sun|moon|mars|mercury|jupiter|venus|saturn)\\s+in\\s+(?:the\\s+)?(?:1st|2nd|3rd|[4-9]th|10th|11th|12th|ascendant|lagna)"
+        ]
+      ],
+      "B3": [
+        "Planet in Nakshatra (243 rules)",
+        [
+          "(?:sun|moon|mars).{0,30}(?:ashwini|bharani|krittika|rohini|mrigashira|ardra|punarvasu|pushya)"
+        ]
+      ],
+      "B4": [
+        "Planet in Pada (972 rules)",
+        [
+          "pada\\s+\\d",
+          "\\d\\s+pada"
+        ]
+      ],
+      "B5": [
+        "Dignity rules (exalt/debil/own/friend/enemy)",
+        [
+          "exaltation",
+          "debilit",
+          "own\\s+sign",
+          "uchcha",
+          "neecha",
+          "mooltrikona"
+        ]
+      ],
+      "B6": [
+        "Aspect-effect rules",
+        [
+          "aspected by",
+          "when aspected"
+        ]
+      ],
+      "B7": [
+        "Conjunction effects",
+        [
+          "conjunction",
+          "conjunct",
+          "joined with"
+        ]
+      ],
+      "B8": [
+        "Yoga definitions + effects",
+        [
+          "yoga"
+        ]
+      ],
+      "B9": [
+        "Dasha-specific predictions",
+        [
+          "dasa of",
+          "'s dasa",
+          "mahadasha"
+        ]
+      ],
+      "B10": [
+        "Antardasha combinations (81 pairs)",
+        [
+          "antardasa",
+          "sub-period",
+          "bhukti"
+        ]
+      ],
+      "B11": [
+        "Transit-to-house effects",
+        [
+          "transit.*house",
+          "gochara.*house"
+        ]
+      ],
+      "B12": [
+        "Marriage indicators",
+        [
+          "marriage",
+          "spouse",
+          "wife",
+          "husband"
+        ]
+      ],
+      "B13": [
+        "Children indicators",
+        [
+          "child",
+          "progeny",
+          "son",
+          "daughter",
+          "santana"
+        ]
+      ],
+      "B14": [
+        "Career indicators",
+        [
+          "profession",
+          "occupation",
+          "career",
+          "livelihood",
+          "vocation"
+        ]
+      ],
+      "B15": [
+        "Wealth indicators",
+        [
+          "wealth",
+          "dhana",
+          "riches"
+        ]
+      ],
+      "B16": [
+        "Health/disease indicators",
+        [
+          "disease",
+          "health",
+          "illness",
+          "roga"
+        ]
+      ],
+      "B17": [
+        "Longevity indicators",
+        [
+          "longevity",
+          "lifespan",
+          "ayush"
+        ]
+      ],
+      "B18": [
+        "Death timing",
+        [
+          "death",
+          "maraka",
+          "time of death"
+        ]
+      ]
+    },
+    "C. CLASSIFICATIONS": {
+      "C1": [
+        "Planet-planet relationships (natural + temporary)",
+        [
+          "natural (?:friend|enemy|neutral)",
+          "temporary (?:friend|enemy)",
+          "mitra",
+          "satru",
+          "sama"
+        ]
+      ],
+      "C2": [
+        "House types (kendra/trikona/dusthana/etc)",
+        [
+          "kendra",
+          "trikona",
+          "dusthana",
+          "panapara",
+          "apoklima",
+          "maraka",
+          "upachaya",
+          "trishadaya"
+        ]
+      ],
+      "C3": [
+        "Planet benefic/malefic (natural + functional)",
+        [
+          "benefic",
+          "malefic",
+          "shubha",
+          "papa",
+          "functional benefic",
+          "functional malefic"
+        ]
+      ],
+      "C4": [
+        "Rasi classifications",
+        [
+          "movable sign",
+          "fixed sign",
+          "dual sign",
+          "chara sign",
+          "sthira",
+          "dvisvabhava",
+          "male sign",
+          "female sign",
+          "human sign",
+          "quadruped",
+          "aquatic",
+          "watery"
+        ]
+      ],
+      "C5": [
+        "Nakshatra classifications",
+        [
+          "deva gana",
+          "manushya gana",
+          "rakshasa gana",
+          "adi nadi",
+          "madhya nadi",
+          "antya nadi",
+          "vashya",
+          "yoni"
+        ]
+      ],
+      "C6": [
+        "Tithi/Karana/Yoga classifications",
+        [
+          "nanda tithi",
+          "bhadra tithi",
+          "jaya tithi",
+          "rikta tithi",
+          "purna tithi"
+        ]
+      ]
+    },
+    "D. REMEDIES": {
+      "D1": [
+        "Gemstones per planet",
+        [
+          "gemstone",
+          "\\bruby\\b",
+          "\\bpearl\\b",
+          "coral",
+          "emerald",
+          "sapphire",
+          "topaz",
+          "diamond",
+          "hessonite",
+          "cat'?s\\s?eye"
+        ]
+      ],
+      "D2": [
+        "Mantras per planet",
+        [
+          "om\\s+\\w+aya\\s+namah",
+          "\\bmantra\\b",
+          "beej mantra"
+        ]
+      ],
+      "D3": [
+        "Yantras per planet",
+        [
+          "\\byantra\\b"
+        ]
+      ],
+      "D4": [
+        "Fasting/upavasa days",
+        [
+          "fast(?:ing)? on\\s+(?:sunday|monday|tuesday|wednesday|thursday|friday|saturday)",
+          "upavasa"
+        ]
+      ],
+      "D5": [
+        "Donations (daan)",
+        [
+          "\\bdaan\\b",
+          "charity",
+          "donat"
+        ]
+      ],
+      "D6": [
+        "Temple worship",
+        [
+          "temple",
+          "mandir",
+          "pooja"
+        ]
+      ],
+      "D7": [
+        "Rudraksha types",
+        [
+          "rudraksha",
+          "mukhi"
+        ]
+      ],
+      "D8": [
+        "Colors to wear",
+        [
+          "wear\\s+(?:red|yellow|white|blue|green|black)"
+        ]
+      ],
+      "D9": [
+        "Ishta/Kula Devata identification",
+        [
+          "ishta\\s?devata",
+          "kula\\s?devata"
+        ]
+      ]
+    },
+    "E. JAIMINI SYSTEM": {
+      "E1": [
+        "Chara Karakas (7 or 8)",
+        [
+          "chara[- ]?karaka",
+          "atmakaraka",
+          "amatyakaraka",
+          "bhratrukaraka",
+          "matrukaraka",
+          "putrakaraka",
+          "gnatikaraka",
+          "darakaraka"
+        ]
+      ],
+      "E2": [
+        "Arudha padas (12)",
+        [
+          "arudha",
+          "arudha lagna"
+        ]
+      ],
+      "E3": [
+        "Upapada",
+        [
+          "upapada"
+        ]
+      ],
+      "E4": [
+        "Rasi Drishti (sign aspects)",
+        [
+          "rasi drishti",
+          "sign aspect"
+        ]
+      ],
+      "E5": [
+        "Chara Dasha",
+        [
+          "chara dasha",
+          "chara dasa"
+        ]
+      ],
+      "E6": [
+        "Karaka Kendradi Dasha",
+        [
+          "karaka kendradi",
+          "kendradi dasha"
+        ]
+      ],
+      "E7": [
+        "Narayana Dasha",
+        [
+          "narayana dasha"
+        ]
+      ],
+      "E8": [
+        "Shoola Dasha",
+        [
+          "shoola dasha"
+        ]
+      ]
+    },
+    "F. KP (KRISHNAMURTI)": {
+      "F1": [
+        "Sub-lord theory",
+        [
+          "sub[- ]?lord"
+        ]
+      ],
+      "F2": [
+        "Cuspal sub-lords",
+        [
+          "cuspal sub",
+          "cusp sub[- ]?lord"
+        ]
+      ],
+      "F3": [
+        "Ruling Planets",
+        [
+          "ruling planet"
+        ]
+      ],
+      "F4": [
+        "Significators hierarchy",
+        [
+          "significator"
+        ]
+      ],
+      "F5": [
+        "Fruitful/Barren planets",
+        [
+          "fruitful planet",
+          "barren planet"
+        ]
+      ]
+    },
+    "G. TAJIKA / VARSHAPHALA": {
+      "G1": [
+        "Annual chart (Varshaphala)",
+        [
+          "varshaphala",
+          "annual chart",
+          "solar return"
+        ]
+      ],
+      "G2": [
+        "Muntha progression",
+        [
+          "muntha"
+        ]
+      ],
+      "G3": [
+        "Sahams (Arabic Parts)",
+        [
+          "\\bsaham\\b",
+          "punya saham",
+          "yasas saham"
+        ]
+      ],
+      "G4": [
+        "Tajika yogas (Ithasala/Isaraphah/Nakta/Yamaya)",
+        [
+          "ithasala",
+          "isaraphah",
+          "\\bnakta\\b",
+          "yamaya"
+        ]
+      ],
+      "G5": [
+        "Mudda dasha (annual)",
+        [
+          "mudda dasa",
+          "mudda dasha"
+        ]
+      ],
+      "G6": [
+        "Harsha Bala (Tajik strength)",
+        [
+          "harsha bala"
+        ]
+      ]
+    },
+    "H. MUHURTA / PANCHANGA": {
+      "H1": [
+        "Muhurta selection (auspicious moments)",
+        [
+          "muhurta",
+          "muhurat"
+        ]
+      ],
+      "H2": [
+        "Tithi selection",
+        [
+          "auspicious tithi",
+          "tithi"
+        ]
+      ],
+      "H3": [
+        "Nakshatra selection",
+        [
+          "auspicious nakshatra"
+        ]
+      ],
+      "H4": [
+        "Yoga selection",
+        [
+          "siddhi yoga",
+          "shubha yoga",
+          "vyatipata yoga"
+        ]
+      ],
+      "H5": [
+        "Karana selection",
+        [
+          "karana"
+        ]
+      ],
+      "H6": [
+        "Rahu-kaal, Gulika-kaal",
+        [
+          "rahu[- ]?kaal",
+          "gulika[- ]?kaal",
+          "yama[- ]?ghantam"
+        ]
+      ],
+      "H7": [
+        "Abhijit muhurta",
+        [
+          "abhijit"
+        ]
+      ],
+      "H8": [
+        "Chandra bala (Moon strength for day)",
+        [
+          "chandra bala"
+        ]
+      ],
+      "H9": [
+        "Tarabala",
+        [
+          "tara bala",
+          "tarabala"
+        ]
+      ],
+      "H10": [
+        "Electional rules by activity",
+        [
+          "marriage muhurta",
+          "travel muhurta",
+          "education muhurta"
+        ]
+      ]
+    }
+  },
+  "total_books": 23,
+  "total_items": 64,
+  "per_book_summary": {
+    "BPHS_Vol1": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A6",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D5",
+        "D6",
+        "D7"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F3",
+        "F4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H5"
+      ]
+    },
+    "BPHS_Vol2": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A4",
+        "A5",
+        "A8",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D3",
+        "D5",
+        "D6"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E1",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Brihat_Parashara_v2": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C6"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D3",
+        "D5",
+        "D6",
+        "D7"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E8"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F3",
+        "F4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H4",
+        "H5",
+        "H7"
+      ]
+    },
+    "Phaladeepika": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A3",
+        "A4",
+        "A6",
+        "A8",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B2",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D6",
+        "D7"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Saravali": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A8",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D5",
+        "D6",
+        "D8"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E4"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5"
+      ]
+    },
+    "Hora_Sara": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B3",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D5",
+        "D6"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H4"
+      ]
+    },
+    "Jataka_Parijata": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A3",
+        "A4",
+        "A8",
+        "A11",
+        "A12",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B2",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D5",
+        "D6"
+      ]
+    },
+    "Surya_Siddhanta": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B4",
+        "B7",
+        "B8",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C4",
+        "C5"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D3",
+        "D6",
+        "D7"
+      ],
+      "G. TAJIKA / VARSHAPHALA": [
+        "G4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Aryabhatiya_v1": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A3",
+        "A11",
+        "A12",
+        "A13"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B4",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D3",
+        "D6"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5"
+      ]
+    },
+    "Aryabhatiya_v2": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A3",
+        "A8",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B7",
+        "B8",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2"
+      ],
+      "D. REMEDIES": [
+        "D5",
+        "D6"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5"
+      ]
+    },
+    "Vedanga_Jyotisa": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A11",
+        "A12",
+        "A13"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B4",
+        "B8",
+        "B10",
+        "B13",
+        "B15",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1"
+      ],
+      "D. REMEDIES": [
+        "D4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Pancha_Siddhantika": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A12"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B8",
+        "B13",
+        "B15",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1"
+      ]
+    },
+    "Uttara_Kalamrita": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D5",
+        "D6"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F4"
+      ],
+      "G. TAJIKA / VARSHAPHALA": [
+        "G1"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Laghu_Parashari": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A3",
+        "A4",
+        "A5",
+        "A11",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D2",
+        "D6"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F3",
+        "F4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H2",
+        "H7"
+      ]
+    },
+    "Prashna_Marga": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A4",
+        "A7",
+        "A8",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B2",
+        "B3",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D5",
+        "D6"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E2",
+        "E4"
+      ],
+      "F. KP (KRISHNAMURTI)": [
+        "F1"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Jaimini_Sutras": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A4",
+        "A10",
+        "A11",
+        "A12",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B17",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "D. REMEDIES": [
+        "D5",
+        "D6"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H5",
+        "H7"
+      ]
+    },
+    "Yavanajataka_1": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A3",
+        "A8",
+        "A13"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C5"
+      ],
+      "D. REMEDIES": [
+        "D5",
+        "D6"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H2"
+      ]
+    },
+    "Yavanajataka_2": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A8",
+        "A11",
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B1",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6"
+      ],
+      "D. REMEDIES": [
+        "D1",
+        "D2",
+        "D5",
+        "D6"
+      ],
+      "E. JAIMINI SYSTEM": [
+        "E4"
+      ],
+      "H. MUHURTA / PANCHANGA": [
+        "H1",
+        "H2",
+        "H5",
+        "H7"
+      ]
+    },
+    "Brihat_Jataka": {},
+    "Sarvartha_Chintamani": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A13"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B13"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1"
+      ]
+    },
+    "Muhurtha_Chintamani": {
+      "B. PREDICTIVE RULES": [
+        "B18"
+      ]
+    },
+    "Unknown_6945": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A3",
+        "A4",
+        "A6",
+        "A8",
+        "A11",
+        "A12",
+        "A14"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B5",
+        "B8",
+        "B10",
+        "B12",
+        "B13",
+        "B14",
+        "B15",
+        "B16",
+        "B18"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ]
+    },
+    "Bhrigu_Samhita": {
+      "A. CALCULATIONS (math/algorithms)": [
+        "A13"
+      ],
+      "B. PREDICTIVE RULES": [
+        "B12",
+        "B13",
+        "B14"
+      ],
+      "C. CLASSIFICATIONS": [
+        "C1"
+      ],
+      "D. REMEDIES": [
+        "D1"
+      ]
+    }
+  },
+  "per_item_book_coverage": {
+    "A1_Ayanamsa calculation": 13,
+    "A2_Planet longitude (sphuta)": 8,
+    "A3_House cusps / Bhava sphuta": 12,
+    "A4_Divisional charts (D1-D60)": 13,
+    "A6_Shadbala — 6 strengths per planet": 7,
+    "A8_Ashtakavarga (BAV + SAV)": 13,
+    "A9_Ishta/Kashta Phala": 2,
+    "A10_Longevity — 4+ methods": 6,
+    "A11_Aspects — planet-to-planet + rasi drishti": 17,
+    "A12_Sphutas of Upagrahas": 17,
+    "A14_Transit (gochara)": 15,
+    "B1_Planet in Rasi (108 base rules)": 8,
+    "B2_Planet in House (108 base rules)": 9,
+    "B3_Planet in Nakshatra (243 rules)": 5,
+    "B4_Planet in Pada (972 rules)": 10,
+    "B5_Dignity rules (exalt/debil/own/friend/enemy)": 13,
+    "B6_Aspect-effect rules": 12,
+    "B7_Conjunction effects": 15,
+    "B8_Yoga definitions + effects": 19,
+    "B9_Dasha-specific predictions": 14,
+    "B10_Antardasha combinations (81 pairs)": 17,
+    "B12_Marriage indicators": 18,
+    "B13_Children indicators": 21,
+    "B14_Career indicators": 18,
+    "B15_Wealth indicators": 19,
+    "B16_Health/disease indicators": 15,
+    "B17_Longevity indicators": 12,
+    "B18_Death timing": 19,
+    "C1_Planet-planet relationships (natural + temporary)": 21,
+    "C2_House types (kendra/trikona/dusthana/etc)": 16,
+    "C3_Planet benefic/malefic (natural + functional)": 13,
+    "C4_Rasi classifications": 15,
+    "D1_Gemstones per planet": 12,
+    "D2_Mantras per planet": 8,
+    "D5_Donations (daan)": 12,
+    "D6_Temple worship": 16,
+    "D7_Rudraksha types": 4,
+    "E1_Chara Karakas (7 or 8)": 6,
+    "E2_Arudha padas (12)": 6,
+    "E3_Upapada": 5,
+    "E4_Rasi Drishti (sign aspects)": 7,
+    "F3_Ruling Planets": 3,
+    "F4_Significators hierarchy": 6,
+    "H1_Muhurta selection (auspicious moments)": 12,
+    "H5_Karana selection": 13,
+    "A5_Dasha calculations (multiple systems)": 6,
+    "A13_Panchanga (tithi/vara/nakshatra/yoga/karana)": 16,
+    "A15_Sudarshan Chakra (triple-overlay)": 2,
+    "B11_Transit-to-house effects": 6,
+    "D3_Yantras per planet": 4,
+    "E5_Chara Dasha": 3,
+    "E6_Karaka Kendradi Dasha": 2,
+    "H2_Tithi selection": 14,
+    "H7_Abhijit muhurta": 10,
+    "A7_Bhava Bala (house strength)": 4,
+    "C6_Tithi/Karana/Yoga classifications": 3,
+    "E8_Shoola Dasha": 1,
+    "H4_Yoga selection": 2,
+    "C5_Nakshatra classifications": 5,
+    "D8_Colors to wear": 1,
+    "G4_Tajika yogas (Ithasala/Isaraphah/Nakta/Yamaya)": 1,
+    "D4_Fasting/upavasa days": 1,
+    "G1_Annual chart (Varshaphala)": 1,
+    "F1_Sub-lord theory": 1
+  }
+}

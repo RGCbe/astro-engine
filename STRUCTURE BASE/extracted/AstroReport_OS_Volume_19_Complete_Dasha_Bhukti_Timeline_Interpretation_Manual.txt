@@ -1,0 +1,46 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 19 – Complete Dasha, Bhukti & Timeline
+Interpretation Manual
+Purpose
+This manual defines how planetary periods are transformed into a continuous life story. It
+standardizes Mahadasha, Bhukti and timeline interpretation for the report engine.
+Layer
+Purpose
+Output
+Birth Chart
+Foundation
+Life potential
+Mahadasha
+Major life chapter
+Primary theme
+Bhukti
+Sub-period
+Focused experiences
+Antardasha
+Fine timing
+Short-term emphasis
+Transit
+Current influence
+Context
+Life Stage
+Age alignment
+Human experience
+Narrative
+Story generation
+Timeline chapter
+Validation
+Consistency
+Final report
+Interpretation Sequence
+Determine the active Mahadasha, evaluate the Bhukti, confirm with the birth chart, review relevant
+divisional charts, consider supporting transits, align with the person's age and life stage, then
+generate the timeline narrative.
+Timeline Rules
+Every Dasha begins a new life chapter only if it creates a meaningful shift in experience. Connect
+each chapter to the previous one so the report reads like a biography instead of isolated
+predictions.
+Developer Specification
+Store timing rules, activation logic, narrative templates, confidence modifiers, chapter boundaries,
+validation rules and transition logic for every Dasha period.
+Next Volume
+Volume 20 – Complete Timeline Storytelling & Life Journey Manual.

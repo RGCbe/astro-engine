@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atro | Deep Cosmos Vedic Engine</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Tamil:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+<body class="dark-theme">
+    <div id="cosmos-bg"></div>
+    <div id="stars"></div>
+    
+    <header>
+        <div class="logo">
+            <span class="gold">ATRO</span><span class="white">VEDA</span>
+        </div>
+        <nav style="display: flex; gap: 1rem; align-items: center;">
+            <div class="lang-selector-container">
+                <select id="lang-select" class="glass-select">
+                    <option value="en">English</option>
+                    <option value="ta">தமிழ் (Tamil)</option>
+                    <option value="hi">हिन्दी (Hindi)</option>
+                </select>
+            </div>
+            <button id="new-reading-btn" class="btn-primary" data-ui="new_chart_btn">New Chart</button>
+        </nav>
+    </header>
+
+    <main id="app-container">
+        <!-- Input Form -->
+        <section id="input-section" class="active">
+            <div class="glass-card main-form">
+                <h1 data-ui="title">Calculate Your <span class="gold-gradient">Destiny</span></h1>
+                <p class="subtitle" data-ui="subtitle">Enter your birth details for a high-fidelity multi-book analysis.</p>
+                <p class="subtitle" id="truth-notice" style="font-size:0.85rem;opacity:0.75;margin-top:0.75rem;">
+                    Chart positions are calculated (Swiss Ephemeris). Interpretations cite classical texts.
+                    Summaries are guides — not guarantees of future events. Use exact birth time when possible.
+                </p>
+                
+                <form id="birth-form">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label data-ui="dob">Birth Date</label>
+                            <input type="date" id="dob" required value="1990-01-01">
+                        </div>
+                        <div class="form-group">
+                            <label data-ui="tob">Birth Time</label>
+                            <input type="time" id="tob" required value="12:00">
+                        </div>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label data-ui="lat">Latitude</label>
+                            <input type="number" id="lat" step="0.0001" value="13.0827" required>
+                        </div>
+                        <div class="form-group">
+                            <label data-ui="lon">Longitude</label>
+                            <input type="number" id="lon" step="0.0001" value="80.2707" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="api-key">API Key <span style="font-weight:400;opacity:0.7;">(optional — Pro PDF &amp; full analysis)</span></label>
+                        <input type="password" id="api-key" name="api-key" autocomplete="off" placeholder="Professional API key">
+                    </div>
+
+                    <div class="form-group">
+                        <label data-ui="focus">Focus Area</label>
+                        <select id="focus">
+                            <option value="general" data-ui="focus_general">General Life</option>
+                            <option value="career" data-ui="focus_career">Career & Success</option>
+                            <option value="relationship" data-ui="focus_relationship">Marriage & Love</option>
+                            <option value="health" data-ui="focus_health">Health & Vitality</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn-submit">
+                        <span data-ui="init_btn">Initialize Engine</span>
+                        <div class="shimmer"></div>
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <!-- Loading State -->
+        <section id="loading-section">
+            <div class="loader-container">
+                <div class="spinner"></div>
+                <p>Synthesizing 13,025 classical rules...</p>
+                <div class="progress-bar">
+                    <div class="progress-fill"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Dashboard Result -->
+        <section id="result-section">
+            <div class="dashboard-grid">
+                
+                <!-- Sidebar: Identity & Panchangam -->
+                <aside class="side-panel">
+                    <div class="glass-card identity-card">
+                        <div class="avatar-circle">
+                            <span id="lagna-initial">?</span>
+                        </div>
+                        <h2 id="lagna-name">Lagna</h2>
+                        <p id="nakshatra-name" class="gold">Nakshatra</p>
+                    </div>
+
+                    <div class="glass-card panchangam-card">
+                        <h3 data-ui="panchangam">Panchangam</h3>
+                        <ul class="panchang-list">
+                            <li><span data-ui="lbl_tithi">Tithi</span> <b id="tithi-val">-</b></li>
+                            <li><span data-ui="lbl_vara">Vara</span> <b id="vara-val">-</b></li>
+                            <li><span data-ui="lbl_paksha">Paksha</span> <b id="paksha-val">-</b></li>
+                        </ul>
+                    </div>
+
+                    <div class="glass-card dasha-card">
+                        <h3 data-ui="current_dasha">Current Dasha</h3>
+                        <div class="dasha-highlight">
+                            <span id="curr-maha" class="maha">-</span>
+                            <span class="separator">/</span>
+                            <span id="curr-antar" class="antar">-</span>
+                        </div>
+                        <p class="dasha-end">Ends: <span id="dasha-end-val">-</span></p>
+                    </div>
+                </aside>
+
+                <!-- Main Content -->
+                <div class="main-panel">
+                    <!-- Synthesis Forecast -->
+                    <div class="glass-card synthesis-card gold-border">
+                        <div class="badge gold" data-ui="badge_ai">AI SYNTHESIS</div>
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+                            <h2 style="margin-bottom: 0;" data-ui="executive_summary">Executive Summary</h2>
+                            <button id="download-pdf-btn" class="btn-secondary">
+                                <span data-ui="download_btn">📥 Download PDF Report</span>
+                            </button>
+                        </div>
+                        <p id="synthesis-text">Calculating your life path summary...</p>
+                        <div class="action-advice">
+                            <i class="icon-info"></i>
+                            <span id="advice-text">-</span>
+                        </div>
+                    </div>
+
+                    <!-- Yoga Carousel -->
+                    <div class="yoga-section">
+                        <h3 data-ui="yogas">Detected Yogas</h3>
+                        <div id="yoga-container" class="yoga-list">
+                            <!-- Yogas injected here -->
+                        </div>
+                    </div>
+
+                    <!-- Rule Feed -->
+                    <div class="rules-section">
+                        <h3 data-ui="rules">Planetary Interpretations</h3>
+                        <div id="rules-feed">
+                            <!-- Rules injected here -->
+                        </div>
+                    </div>
+
+                    <!-- 120-Year Council of Masters Timeline -->
+                    <div class="timeline-section">
+                        <h3 data-ui="timeline">120-Year Council of Masters Timeline</h3>
+                        <div id="timeline-feed" class="timeline-container">
+                            <!-- Timeline injected here -->
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal for Detailed Corpus Rules -->
+    <div id="corpus-modal" class="modal">
+        <div class="modal-content glass-card">
+            <span class="close-modal">&times;</span>
+            <h2 id="modal-title">Classical Rule</h2>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="static/js/app.js"></script>
+</body>
+</html>

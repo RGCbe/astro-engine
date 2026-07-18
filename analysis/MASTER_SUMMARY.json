@@ -1,0 +1,142 @@
+{
+  "BPHS_Vol1": {
+    "unique_words_sampled": 100,
+    "calculations_found": 120,
+    "planet_house_connections": 67,
+    "planet_rasi_connections": 89,
+    "yoga_mentions": 14,
+    "nakshatra_mentions": 9,
+    "dasha_mentions": 0,
+    "chapters_detected": 180
+  },
+  "BPHS_Vol2": {
+    "unique_words_sampled": 100,
+    "calculations_found": 164,
+    "planet_house_connections": 40,
+    "planet_rasi_connections": 70,
+    "yoga_mentions": 16,
+    "nakshatra_mentions": 11,
+    "dasha_mentions": 3,
+    "chapters_detected": 145
+  },
+  "Yavanajataka_1": {
+    "unique_words_sampled": 100,
+    "calculations_found": 66,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 2,
+    "nakshatra_mentions": 1,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Yavanajataka_2": {
+    "unique_words_sampled": 100,
+    "calculations_found": 173,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 85,
+    "yoga_mentions": 6,
+    "nakshatra_mentions": 7,
+    "dasha_mentions": 0,
+    "chapters_detected": 150
+  },
+  "Jataka_Parijata": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Jaimini_Sutras": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Aryabhatiya_v1": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Aryabhatiya_v2": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Pancha_Siddhantika": {
+    "unique_words_sampled": 100,
+    "calculations_found": 58,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 1,
+    "yoga_mentions": 2,
+    "nakshatra_mentions": 1,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Vedanga_Jyotisa": {
+    "unique_words_sampled": 2,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Bhrigu_Samhita": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Saravali": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  },
+  "Surya_Siddhanta": {
+    "unique_words_sampled": 100,
+    "calculations_found": 200,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 12,
+    "yoga_mentions": 6,
+    "nakshatra_mentions": 11,
+    "dasha_mentions": 0,
+    "chapters_detected": 7
+  },
+  "Unknown_6945": {
+    "unique_words_sampled": 0,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  }
+}

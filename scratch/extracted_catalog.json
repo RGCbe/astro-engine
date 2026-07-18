@@ -1,0 +1,2651 @@
+{
+  "event_acting_career": {
+    "name": "Acting / film / theatre milestone",
+    "bhava": 5,
+    "karakas": [
+      "Venus",
+      "Rahu"
+    ],
+    "age_guard": [
+      8,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+Venus+Rahu (Saravali)"
+  },
+  "event_adoption": {
+    "name": "Adoption/foster parenting",
+    "bhava": 5,
+    "karakas": [
+      "Rahu",
+      "Jupiter"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+Rahu+Jupiter (Saravali)"
+  },
+  "event_ancestral_inheritance": {
+    "name": "Ancestral inheritance/family fortune",
+    "bhava": 4,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "4L+8L+Jupiter (BPHS Ch.36)"
+  },
+  "event_astral_travel": {
+    "name": "Astral travel / OBE / lucid spiritual experience",
+    "bhava": 12,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Ketu (Hora Sara)"
+  },
+  "event_atonement_phase": {
+    "name": "Atonement / prayaschittam / karmic clearing phase",
+    "bhava": 12,
+    "karakas": [
+      "Saturn",
+      "Jupiter"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Saturn+Jupiter (BPHS)"
+  },
+  "event_award_nomination": {
+    "name": "Award nomination / honor candidacy",
+    "bhava": 11,
+    "karakas": [
+      "Sun",
+      "Jupiter"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": true,
+    "source": "11L + Sun + Jupiter (Phaladeepika Ch.6)"
+  },
+  "event_betrayal_friend": {
+    "name": "Friend betrayal/network shock",
+    "bhava": 11,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "11L+12L+Ketu (BPHS Ch.45)"
+  },
+  "event_birth_circumstances": {
+    "name": "Birth circumstances — premature/C-section/unusual",
+    "bhava": null,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Rahu"
+    ],
+    "age_guard": [
+      0,
+      99
+    ],
+    "auspicious": true,
+    "source": "1H+8H natal malefics (BPHS Ch.4)"
+  },
+  "event_blessing_received": {
+    "name": "Major blessing received (from elder/saint)",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+11L+Jupiter (Saravali)"
+  },
+  "event_board_role": {
+    "name": "Board / advisory appointment",
+    "bhava": 10,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      40,
+      99
+    ],
+    "auspicious": true,
+    "source": "10L+11L+Jupiter (BPHS Ch.25)"
+  },
+  "event_bonus_windfall": {
+    "name": "Bonus/windfall",
+    "bhava": 11,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      22,
+      70
+    ],
+    "auspicious": true,
+    "source": "11L+Jupiter (Phaladeepika)"
+  },
+  "event_book_dharma": {
+    "name": "Dharma / philosophical book / scripture work",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter (Saravali Ch.30)"
+  },
+  "event_book_publication": {
+    "name": "Book publication / authored work release",
+    "bhava": 3,
+    "karakas": [
+      "Mercury",
+      "Jupiter"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "Mercury + 3L + 9L + Jupiter (Saravali Ch.30)"
+  },
+  "event_brand_endorsement": {
+    "name": "Brand endorsement / sponsorship / advertising deal",
+    "bhava": 2,
+    "karakas": [
+      "Venus",
+      "Rahu",
+      "Mercury"
+    ],
+    "age_guard": [
+      18,
+      70
+    ],
+    "auspicious": true,
+    "source": "11L + 2L + Venus + Rahu (modern Phaladeepika ext.)"
+  },
+  "event_business_closure": {
+    "name": "Business closure/shutdown",
+    "bhava": 10,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "10L+12L+Ketu (BPHS Ch.40)"
+  },
+  "event_business_expansion": {
+    "name": "Business expansion",
+    "bhava": 10,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      70
+    ],
+    "auspicious": true,
+    "source": "10L+11L+Jupiter (BPHS Ch.25)"
+  },
+  "event_business_partner_betrayal": {
+    "name": "Business partner betrayal/fraud",
+    "bhava": 7,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": false,
+    "source": "7L+12L+Rahu (BPHS Ch.13)"
+  },
+  "event_business_partner_death": {
+    "name": "Business partner death",
+    "bhava": 7,
+    "karakas": [],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": false,
+    "source": "7L+2L (BPHS Ch.80)"
+  },
+  "event_business_start": {
+    "name": "Business launch / self-employment start",
+    "bhava": 10,
+    "karakas": [
+      "Mercury",
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      65
+    ],
+    "auspicious": true,
+    "source": "10L + 11L + Mercury (BPHS Ch.25 Karma)"
+  },
+  "event_career_breakthrough": {
+    "name": "Career breakthrough / promotion / public recognition / award",
+    "bhava": 10,
+    "karakas": [
+      "Sun",
+      "Rahu",
+      "Saturn",
+      "Mercury",
+      "Jupiter",
+      "Mars",
+      "Ketu"
+    ],
+    "age_guard": [
+      8,
+      75
+    ],
+    "auspicious": false,
+    "source": "BPHS Ch.25-30 (10L/11L) + D10 Dashamsa dasha + Modern career rules"
+  },
+  "event_ceo_role": {
+    "name": "CEO appointment / chief executive role",
+    "bhava": 10,
+    "karakas": [
+      "Sun",
+      "Saturn"
+    ],
+    "age_guard": [
+      40,
+      99
+    ],
+    "auspicious": false,
+    "source": "10L+Sun+Saturn (Saravali)"
+  },
+  "event_chant_completion": {
+    "name": "Mantra/chant completion (anusthana fulfilled)",
+    "bhava": 5,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+Jupiter (Saravali)"
+  },
+  "event_charisma_peak": {
+    "name": "Charisma/personal magnetism peak",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Venus",
+      "Jupiter"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "Lagna+Moon+Venus (BPHS Ch.4)"
+  },
+  "event_charity_donation": {
+    "name": "Major charitable donation / philanthropy / foundation",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter + 9L + 12L (BPHS Ch.40 Daana)"
+  },
+  "event_child_birth": {
+    "name": "Child birth / pregnancy / family expansion",
+    "bhava": 5,
+    "karakas": [
+      "Jupiter",
+      "Moon",
+      "Rahu",
+      "Mercury",
+      "Sun",
+      "Mars",
+      "Venus",
+      "Saturn"
+    ],
+    "age_guard": [
+      18,
+      55
+    ],
+    "auspicious": true,
+    "source": "5L + Jupiter + dispositor + Rahu-5H rules (BPHS Ch.80 Putra Bhava)"
+  },
+  "event_civil_service": {
+    "name": "Civil service / bureaucratic career",
+    "bhava": 10,
+    "karakas": [
+      "Saturn",
+      "Sun"
+    ],
+    "age_guard": [
+      22,
+      65
+    ],
+    "auspicious": true,
+    "source": "10L+Sun+Saturn (Saravali)"
+  },
+  "event_co_worker_event": {
+    "name": "Co-worker/colleague significant event",
+    "bhava": 6,
+    "karakas": [
+      "Mercury",
+      "Saturn"
+    ],
+    "age_guard": [
+      18,
+      65
+    ],
+    "auspicious": true,
+    "source": "6L (BPHS Ch.7)"
+  },
+  "event_consultant_phase": {
+    "name": "Consultant / freelance phase begins",
+    "bhava": 10,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "Mercury+10L (BPHS Ch.25)"
+  },
+  "event_corporate_scandal": {
+    "name": "Corporate scandal / fraud expose",
+    "bhava": 10,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": false,
+    "source": "10L+12L+Rahu (BPHS Ch.40)"
+  },
+  "event_cousin_event": {
+    "name": "Cousin event (marriage/birth/death)",
+    "bhava": 11,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      10,
+      99
+    ],
+    "auspicious": false,
+    "source": "3L+11L (BPHS Ch.13)"
+  },
+  "event_creative_breakthrough": {
+    "name": "Creative breakthrough — art/design/composition",
+    "bhava": 5,
+    "karakas": [
+      "Venus",
+      "Mercury"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": false,
+    "source": "5L+Venus+Mercury (Saravali)"
+  },
+  "event_crypto_gain": {
+    "name": "Crypto/Defi/digital asset gain",
+    "bhava": 5,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "Rahu+5L+11L (modern)"
+  },
+  "event_crypto_loss": {
+    "name": "Crypto/Defi loss",
+    "bhava": 5,
+    "karakas": [
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "Rahu+Ketu+5L+12L (modern)"
+  },
+  "event_curse_lifted": {
+    "name": "Curse / dosha lifted / karmic resolution",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+Ketu (Lal Kitab)"
+  },
+  "event_dancing_career": {
+    "name": "Dance career milestone",
+    "bhava": null,
+    "karakas": [
+      "Venus",
+      "Moon"
+    ],
+    "age_guard": [
+      8,
+      99
+    ],
+    "auspicious": true,
+    "source": "Venus+Moon (Saravali)"
+  },
+  "event_debt_freedom": {
+    "name": "Debt freedom/loans paid off",
+    "bhava": 2,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+2L+11L (Saravali)"
+  },
+  "event_dental_event": {
+    "name": "Dental event — tooth loss/extraction/RCT/surgery",
+    "bhava": 2,
+    "karakas": [
+      "Mars",
+      "Saturn"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": false,
+    "source": "2L+Mars (BPHS Ch.40)"
+  },
+  "event_devotion_intensify": {
+    "name": "Devotion/bhakti intensification",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Ketu",
+      "Moon"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+Ketu+Moon (Saravali)"
+  },
+  "event_diet_change": {
+    "name": "Diet shift — fasting/vegetarian/allergy",
+    "bhava": 2,
+    "karakas": [
+      "Ketu",
+      "Jupiter"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+Jupiter+Ketu (Hora Sara)"
+  },
+  "event_diksha_received": {
+    "name": "Diksha / formal spiritual initiation",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+Ketu (Hora Sara)"
+  },
+  "event_diplomatic_role": {
+    "name": "Diplomatic / ambassador role",
+    "bhava": 7,
+    "karakas": [],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "7L+9L (BPHS Ch.13)"
+  },
+  "event_distant_relative_death": {
+    "name": "Distant relative death",
+    "bhava": 3,
+    "karakas": [],
+    "age_guard": [
+      15,
+      99
+    ],
+    "auspicious": false,
+    "source": "3L+8L (BPHS Ch.13)"
+  },
+  "event_divine_call": {
+    "name": "Divine call / vocation revelation",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter+Ketu (Hora Sara)"
+  },
+  "event_divine_intervention": {
+    "name": "Divine intervention / lucky break / grace moment",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": false,
+    "source": "9L+Jupiter (BPHS Ch.32)"
+  },
+  "event_divorce": {
+    "name": "Divorce/legal marriage dissolution",
+    "bhava": 7,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      22,
+      75
+    ],
+    "auspicious": true,
+    "source": "7L+12L (BPHS Ch.80)"
+  },
+  "event_dream_significant": {
+    "name": "Significant prophetic dream / vision",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Ketu"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": true,
+    "source": "Moon+Ketu (Hora Sara)"
+  },
+  "event_eclipse_impact": {
+    "name": "Eclipse impact — major life inflection / hidden revelation",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Sun",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "Eclipse over natal sensitive points (Phaladeepika Ch.27)"
+  },
+  "event_education_milestone": {
+    "name": "Education milestone / exam result / new course / qualification",
+    "bhava": null,
+    "karakas": [
+      "Mercury",
+      "Jupiter",
+      "Venus"
+    ],
+    "age_guard": [
+      5,
+      25
+    ],
+    "auspicious": true,
+    "source": "Mercury-Jupiter dasha rules (BPHS Ch. 47)"
+  },
+  "event_elder_sibling_birth": {
+    "name": "Elder sibling birth (or natal indication)",
+    "bhava": null,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      0,
+      99
+    ],
+    "auspicious": true,
+    "source": "11H+Jupiter (BPHS Ch.13)"
+  },
+  "event_elder_sibling_death": {
+    "name": "Elder sibling death",
+    "bhava": 11,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L+malefic (BPHS Ch.45)"
+  },
+  "event_elder_sibling_marriage": {
+    "name": "Elder sibling marriage",
+    "bhava": 11,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      10,
+      99
+    ],
+    "auspicious": true,
+    "source": "11L+Venus (BPHS Ch.13)"
+  },
+  "event_engagement": {
+    "name": "Engagement / formal commitment to marry",
+    "bhava": 7,
+    "karakas": [
+      "Venus",
+      "Jupiter"
+    ],
+    "age_guard": [
+      14,
+      60
+    ],
+    "auspicious": true,
+    "source": "Venus + 7L + Jupiter (BPHS Ch.80 — pre-marriage signal)"
+  },
+  "event_engagement_break": {
+    "name": "Engagement break / called-off wedding",
+    "bhava": 7,
+    "karakas": [
+      "Saturn",
+      "Venus"
+    ],
+    "age_guard": [
+      16,
+      60
+    ],
+    "auspicious": false,
+    "source": "7L+Saturn+12L (BPHS Ch.80)"
+  },
+  "event_engineering_career": {
+    "name": "Engineering / technical career milestone",
+    "bhava": null,
+    "karakas": [
+      "Mercury",
+      "Saturn",
+      "Mars"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "Mercury+Saturn+Mars (modern)"
+  },
+  "event_extramarital_affair": {
+    "name": "Extramarital affair / scandal",
+    "bhava": 5,
+    "karakas": [
+      "Rahu",
+      "Venus"
+    ],
+    "age_guard": [
+      22,
+      70
+    ],
+    "auspicious": false,
+    "source": "5L+7L+Rahu (BPHS Ch.13)"
+  },
+  "event_eye_problem": {
+    "name": "Eye/vision issue — surgery/cataract",
+    "bhava": 2,
+    "karakas": [
+      "Saturn",
+      "Sun",
+      "Moon"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+12L+Sun+Moon (BPHS Ch.40)"
+  },
+  "event_fame_loss": {
+    "name": "Fame loss / scandal / cancellation",
+    "bhava": 10,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": false,
+    "source": "10L+12L+Ketu (BPHS Ch.40)"
+  },
+  "event_fame_peak": {
+    "name": "Fame peak / mass public appeal",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Sun",
+      "Jupiter"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "1H+10H+Moon (BPHS Ch.4)"
+  },
+  "event_father": {
+    "name": "Father — health / career / life event",
+    "bhava": 9,
+    "karakas": [
+      "Sun",
+      "Jupiter",
+      "Ketu",
+      "Saturn",
+      "Mars",
+      "Rahu",
+      "Venus"
+    ],
+    "age_guard": [
+      15,
+      40
+    ],
+    "auspicious": true,
+    "source": "Sun + 9L + Saturn transits (BPHS Shapit Yogas + Phaladeepika Ch.13)"
+  },
+  "event_father_in_law_event": {
+    "name": "Father-in-law event (illness/death/career)",
+    "bhava": 7,
+    "karakas": [
+      "Sun",
+      "Saturn"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": false,
+    "source": "7L+3L (Phaladeepika)"
+  },
+  "event_finance_career": {
+    "name": "Finance / banking / trading career milestone",
+    "bhava": 2,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+11L+Mercury (BPHS Ch.13)"
+  },
+  "event_first_job": {
+    "name": "First job / career launch",
+    "bhava": 10,
+    "karakas": [],
+    "age_guard": [
+      16,
+      35
+    ],
+    "auspicious": true,
+    "source": "10L initial (BPHS Ch.25)"
+  },
+  "event_first_love": {
+    "name": "First love/infatuation",
+    "bhava": null,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      14,
+      28
+    ],
+    "auspicious": true,
+    "source": "Venus first (Hora Sara)"
+  },
+  "event_foreign_travel": {
+    "name": "Foreign travel / overseas opportunity / relocation",
+    "bhava": 9,
+    "karakas": [
+      "Rahu",
+      "Mercury",
+      "Moon",
+      "Saturn",
+      "Venus"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": true,
+    "source": "Rahu + 9L/12L/3L + Mercury timing (Hora Sara + BPHS travel rules)"
+  },
+  "event_fortune_loss": {
+    "name": "Fortune loss/dharma test",
+    "bhava": 9,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": false,
+    "source": "9L+12L+Ketu (BPHS Ch.32)"
+  },
+  "event_founder_role": {
+    "name": "Founder / startup CEO role",
+    "bhava": 5,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      25,
+      65
+    ],
+    "auspicious": true,
+    "source": "5L+10L+Mercury (BPHS Ch.25)"
+  },
+  "event_franchise_open": {
+    "name": "Franchise/chain business open",
+    "bhava": 10,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      28,
+      65
+    ],
+    "auspicious": true,
+    "source": "10L+11L+Rahu (modern)"
+  },
+  "event_friend_acquisition": {
+    "name": "New friend group/network expansion",
+    "bhava": 11,
+    "karakas": [
+      "Mercury",
+      "Jupiter",
+      "Venus"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "11L+Venus/Jupiter (BPHS Ch.6)"
+  },
+  "event_friend_loss": {
+    "name": "Loss of friends / network contraction",
+    "bhava": 11,
+    "karakas": [
+      "Ketu",
+      "Saturn"
+    ],
+    "age_guard": [
+      18,
+      80
+    ],
+    "auspicious": false,
+    "source": "12L + 11L Ketu Saturn (BPHS Ch.45)"
+  },
+  "event_government_position": {
+    "name": "Government position / public office",
+    "bhava": 10,
+    "karakas": [
+      "Sun",
+      "Saturn"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "10L+Sun+Saturn (Saravali)"
+  },
+  "event_grandchild_marriage": {
+    "name": "Grandchild marriage",
+    "bhava": 9,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      55,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Venus (BPHS Ch.80)"
+  },
+  "event_grandchildren_birth": {
+    "name": "Grandchildren birth / 3rd-generation arrival",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      40,
+      90
+    ],
+    "auspicious": true,
+    "source": "9L (5H from 5H) + Jupiter (BPHS Ch.80)"
+  },
+  "event_great_grandparent_death": {
+    "name": "Great-grandparent death",
+    "bhava": 5,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": false,
+    "source": "Extended lineage (BPHS Ch.45)"
+  },
+  "event_guru_initiation": {
+    "name": "Guru initiation / diksha received",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+Ketu (Hora Sara Ch.25)"
+  },
+  "event_hand_arm_injury": {
+    "name": "Hand/arm/wrist injury",
+    "bhava": null,
+    "karakas": [
+      "Mars",
+      "Saturn"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "Mars+3H (BPHS Ch.4)"
+  },
+  "event_health_self": {
+    "name": "Personal health crisis — chronic flare / hospitalization / surgery",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Saturn",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": false,
+    "source": "Roga Yoga + Sade Sati rules"
+  },
+  "event_hearing_issue": {
+    "name": "Hearing issue — tinnitus/deafness/ear surgery",
+    "bhava": 3,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "3L+11L+Saturn (BPHS Ch.4)"
+  },
+  "event_home_renovation": {
+    "name": "Home renovation/interior refurbishment",
+    "bhava": 4,
+    "karakas": [
+      "Mars",
+      "Venus"
+    ],
+    "age_guard": [
+      22,
+      80
+    ],
+    "auspicious": true,
+    "source": "4L+Mars+Venus (BPHS Ch.23)"
+  },
+  "event_honor_recognition": {
+    "name": "Award / honor / public recognition (Padma, Filmfare, Doctorate, Bharat Ratna)",
+    "bhava": 10,
+    "karakas": [
+      "Sun",
+      "Jupiter",
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      16,
+      85
+    ],
+    "auspicious": true,
+    "source": "Sun karaka + Jupiter transit + Mahapurusha/Raja Yoga maturation"
+  },
+  "event_house_construction": {
+    "name": "House construction / land development",
+    "bhava": 4,
+    "karakas": [
+      "Mars",
+      "Saturn"
+    ],
+    "age_guard": [
+      22,
+      75
+    ],
+    "auspicious": true,
+    "source": "4L + Mars + Saturn (BPHS Ch.23)"
+  },
+  "event_in_law_event": {
+    "name": "In-law family event — birth / death / wedding / dispute",
+    "bhava": 2,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      18,
+      80
+    ],
+    "auspicious": false,
+    "source": "2L + 7L (Phaladeepika Ch.13)"
+  },
+  "event_income_breakthrough": {
+    "name": "Income breakthrough",
+    "bhava": 2,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      18,
+      75
+    ],
+    "auspicious": false,
+    "source": "2L+11L+Jupiter (Phaladeepika Ch.14)"
+  },
+  "event_inheritance": {
+    "name": "Inheritance / insurance / sudden gain",
+    "bhava": 8,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      80
+    ],
+    "auspicious": true,
+    "source": "8L + 11L + Jupiter (BPHS Ch.36 Sudden Gains)"
+  },
+  "event_inheritance_land": {
+    "name": "Inheritance of ancestral land",
+    "bhava": 4,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      85
+    ],
+    "auspicious": true,
+    "source": "4L+8L+Jupiter (BPHS Ch.23)"
+  },
+  "event_insurance_claim": {
+    "name": "Insurance claim/settlement",
+    "bhava": 8,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "8L+11L+Saturn (BPHS Ch.36)"
+  },
+  "event_jail_confinement": {
+    "name": "Jail / institutional confinement / detention / forced isolation",
+    "bhava": 6,
+    "karakas": [
+      "Saturn",
+      "Rahu",
+      "Mars",
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "12L + 6L + Saturn + Rahu (BPHS Ch.45)"
+  },
+  "event_job_change": {
+    "name": "Job change / employer switch",
+    "bhava": 10,
+    "karakas": [
+      "Mercury",
+      "Rahu"
+    ],
+    "age_guard": [
+      22,
+      65
+    ],
+    "auspicious": true,
+    "source": "10L+Mercury (BPHS Ch.25)"
+  },
+  "event_judicial_role": {
+    "name": "Judicial / legal career milestone",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      28,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter (BPHS Ch.32)"
+  },
+  "event_jupiter_return": {
+    "name": "Jupiter return — expansion / wisdom / opportunity cycle",
+    "bhava": null,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      11,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter"
+  },
+  "event_karma_purification": {
+    "name": "Deep karma purification phase",
+    "bhava": 12,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      28,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Saturn+Ketu (Hora Sara)"
+  },
+  "event_kundalini_awakening": {
+    "name": "Kundalini awakening / deep energetic shift",
+    "bhava": null,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "Saturn+Ketu (Tantra)"
+  },
+  "event_land_acquisition": {
+    "name": "Land acquisition",
+    "bhava": 4,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      75
+    ],
+    "auspicious": true,
+    "source": "4L+11L+Jupiter (BPHS Ch.23)"
+  },
+  "event_landlord_dispute": {
+    "name": "Landlord/tenant dispute",
+    "bhava": 4,
+    "karakas": [],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": false,
+    "source": "4L+6L (BPHS Ch.23)"
+  },
+  "event_law_career": {
+    "name": "Law / advocate career milestone",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter",
+      "Mercury"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter+Mercury (BPHS Ch.32)"
+  },
+  "event_lawsuit_lost": {
+    "name": "Lawsuit/dispute lost",
+    "bhava": 6,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L+Saturn (BPHS Ch.40)"
+  },
+  "event_lawsuit_won": {
+    "name": "Lawsuit/dispute won",
+    "bhava": 6,
+    "karakas": [
+      "Jupiter",
+      "Mars"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "Jupiter+6L (BPHS Ch.40)"
+  },
+  "event_legal_dispute": {
+    "name": "Legal dispute / IT raid / court case / debt crisis",
+    "bhava": 6,
+    "karakas": [
+      "Rahu",
+      "Saturn",
+      "Sun",
+      "Mars"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L + Mars-Saturn (BPHS Ch.40 Roga + 6H rules)"
+  },
+  "event_loan_approval": {
+    "name": "Loan/credit approval",
+    "bhava": 6,
+    "karakas": [
+      "Jupiter",
+      "Venus"
+    ],
+    "age_guard": [
+      22,
+      75
+    ],
+    "auspicious": true,
+    "source": "6L+Venus+Jupiter (Phaladeepika)"
+  },
+  "event_loan_default": {
+    "name": "Loan default/debt crisis",
+    "bhava": 6,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L+12L+Saturn (BPHS Ch.40)"
+  },
+  "event_lottery_loss": {
+    "name": "Lottery/gambling loss",
+    "bhava": 5,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "5L+12L+Rahu (BPHS Ch.40)"
+  },
+  "event_lottery_win": {
+    "name": "Lottery/gambling sudden win",
+    "bhava": 5,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+11L+Rahu (BPHS Ch.36)"
+  },
+  "event_loved_one_death": {
+    "name": "Death of close loved one (uncle/aunt/mentor)",
+    "bhava": 8,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      15,
+      99
+    ],
+    "auspicious": false,
+    "source": "8L+Maraka (BPHS Ch.45)"
+  },
+  "event_mantra_initiation": {
+    "name": "Mantra initiation / personal bija given",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+Ketu (Hora Sara)"
+  },
+  "event_mantra_siddhi": {
+    "name": "Mantra siddhi/spiritual breakthrough",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": false,
+    "source": "Jupiter+Ketu (Hora Sara Ch.25)"
+  },
+  "event_marriage": {
+    "name": "Marriage / engagement / serious committed relationship",
+    "bhava": 7,
+    "karakas": [
+      "Venus",
+      "Jupiter",
+      "Rahu",
+      "Ketu",
+      "Moon",
+      "Sun",
+      "Mercury",
+      "Saturn"
+    ],
+    "age_guard": [
+      12,
+      75
+    ],
+    "auspicious": true,
+    "source": "7L + Venus + Jupiter timing + 3 classical gates (BPHS Ch. 80, Phaladeepika Ch. 13)"
+  },
+  "event_marriage_arranged": {
+    "name": "Marriage — arranged/formal alliance",
+    "bhava": 7,
+    "karakas": [
+      "Mercury",
+      "Saturn"
+    ],
+    "age_guard": [
+      14,
+      70
+    ],
+    "auspicious": true,
+    "source": "Mercury+Saturn+7L (BPHS Ch.80)"
+  },
+  "event_marriage_love": {
+    "name": "Marriage — love/inter-caste/unconventional",
+    "bhava": 5,
+    "karakas": [
+      "Venus",
+      "Rahu"
+    ],
+    "age_guard": [
+      16,
+      60
+    ],
+    "auspicious": true,
+    "source": "5L+7L+Venus+Rahu (BPHS Ch.80)"
+  },
+  "event_medical_career": {
+    "name": "Medical / healing career milestone",
+    "bhava": 8,
+    "karakas": [
+      "Sun",
+      "Mars",
+      "Saturn"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "8L+Sun (BPHS Ch.30)"
+  },
+  "event_meditation_breakthrough": {
+    "name": "Meditation / sadhana breakthrough",
+    "bhava": null,
+    "karakas": [
+      "Ketu",
+      "Moon"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "12L+Ketu+Moon (BPHS)"
+  },
+  "event_military_role": {
+    "name": "Military / police / security career milestone",
+    "bhava": 6,
+    "karakas": [
+      "Mars"
+    ],
+    "age_guard": [
+      18,
+      60
+    ],
+    "auspicious": true,
+    "source": "3L+6L+Mars (Saravali)"
+  },
+  "event_moksha_pursuit": {
+    "name": "Moksha pursuit / liberation-oriented phase",
+    "bhava": 12,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      35,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Ketu (Hora Sara)"
+  },
+  "event_monastic_phase": {
+    "name": "Monastic / ashram retreat phase",
+    "bhava": 12,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Ketu+Saturn (Hora Sara)"
+  },
+  "event_mortgage_finalize": {
+    "name": "Mortgage finalization/closing",
+    "bhava": 6,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+6L+Mercury (Phaladeepika)"
+  },
+  "event_mother": {
+    "name": "Mother health / wellbeing event",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Saturn"
+    ],
+    "age_guard": [
+      0,
+      99
+    ],
+    "auspicious": true,
+    "source": "Matra Dosha (BPHS Shapit Yogas) + Sade Sati activation"
+  },
+  "event_mother_in_law_event": {
+    "name": "Mother-in-law event",
+    "bhava": 7,
+    "karakas": [
+      "Moon",
+      "Saturn"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "7L+10L (Phaladeepika)"
+  },
+  "event_move_new_city": {
+    "name": "Relocation to new city/state",
+    "bhava": 4,
+    "karakas": [
+      "Rahu",
+      "Mercury"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": true,
+    "source": "4L+12L+Rahu (BPHS Ch.13)"
+  },
+  "event_neighbor_dispute": {
+    "name": "Neighbor/local dispute",
+    "bhava": 3,
+    "karakas": [],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "3L+6L (BPHS Ch.13)"
+  },
+  "event_oracle_consult": {
+    "name": "Oracle / astrologer consultation",
+    "bhava": null,
+    "karakas": [
+      "Jupiter",
+      "Mercury",
+      "Ketu"
+    ],
+    "age_guard": [
+      15,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter+Ketu (Hora Sara)"
+  },
+  "event_oracle_dream": {
+    "name": "Oracle / prophetic vision",
+    "bhava": null,
+    "karakas": [
+      "Mercury",
+      "Ketu",
+      "Moon"
+    ],
+    "age_guard": [
+      14,
+      99
+    ],
+    "auspicious": true,
+    "source": "Moon+Mercury+Ketu (Hora Sara)"
+  },
+  "event_partnership_break": {
+    "name": "Business partnership dissolution / split with partner",
+    "bhava": 7,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      22,
+      75
+    ],
+    "auspicious": false,
+    "source": "7L afflicted + Mars/Saturn (BPHS Ch.13)"
+  },
+  "event_partnership_formation": {
+    "name": "Business partnership / public contract / venture formation",
+    "bhava": 7,
+    "karakas": [
+      "Venus",
+      "Mercury"
+    ],
+    "age_guard": [
+      22,
+      65
+    ],
+    "auspicious": true,
+    "source": "7L + Venus + Mercury (BPHS Ch.13)"
+  },
+  "event_past_life_recall": {
+    "name": "Past-life recall / karmic memory surfacing",
+    "bhava": 12,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "Ketu+12L (Hora Sara)"
+  },
+  "event_patent_grant": {
+    "name": "Patent/IP/copyright grant",
+    "bhava": 5,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+11L+Mercury (modern)"
+  },
+  "event_personality_shift": {
+    "name": "Major personality/identity reinvention",
+    "bhava": null,
+    "karakas": [
+      "Rahu",
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "Lagna lord + Saturn/Rahu (BPHS Ch.4)"
+  },
+  "event_pet_acquisition": {
+    "name": "Pet acquisition / animal companion",
+    "bhava": 6,
+    "karakas": [
+      "Mercury",
+      "Ketu",
+      "Venus"
+    ],
+    "age_guard": [
+      5,
+      80
+    ],
+    "auspicious": true,
+    "source": "6L + Mercury + Ketu (BPHS Ch.45)"
+  },
+  "event_pet_death": {
+    "name": "Pet death/separation",
+    "bhava": 6,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L+8L+Ketu (BPHS)"
+  },
+  "event_pilgrimage": {
+    "name": "Pilgrimage to holy site",
+    "bhava": 9,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+12L+Ketu (Hora Sara Ch.25)"
+  },
+  "event_plot_sale": {
+    "name": "Plot/property sale",
+    "bhava": 2,
+    "karakas": [],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+4L (BPHS Ch.23)"
+  },
+  "event_political_office": {
+    "name": "Elected to public / political office",
+    "bhava": 10,
+    "karakas": [
+      "Sun",
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      90
+    ],
+    "auspicious": true,
+    "source": "10L + Sun + Jupiter (BPHS Ch.25 + Saravali on Raja Yogas)"
+  },
+  "event_pregnancy": {
+    "name": "Pregnancy / conception",
+    "bhava": 5,
+    "karakas": [
+      "Jupiter",
+      "Moon"
+    ],
+    "age_guard": [
+      18,
+      50
+    ],
+    "auspicious": true,
+    "source": "5L + Jupiter + Moon (BPHS Ch.80 Putra Bhava)"
+  },
+  "event_profession_switch": {
+    "name": "Profession switch (entire career pivot)",
+    "bhava": 9,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+10L+Rahu (BPHS Ch.25)"
+  },
+  "event_promotion": {
+    "name": "Career promotion / authority increase",
+    "bhava": 10,
+    "karakas": [
+      "Sun",
+      "Jupiter"
+    ],
+    "age_guard": [
+      22,
+      65
+    ],
+    "auspicious": true,
+    "source": "10L + 11L combination + Sun authority (Phaladeepika Ch.7)"
+  },
+  "event_promotion_executive": {
+    "name": "Promotion to executive / VP / SVP",
+    "bhava": 10,
+    "karakas": [
+      "Sun"
+    ],
+    "age_guard": [
+      35,
+      99
+    ],
+    "auspicious": false,
+    "source": "10L+11L+Sun (Saravali)"
+  },
+  "event_property": {
+    "name": "Property / vehicle / major asset acquisition",
+    "bhava": 4,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Venus",
+      "Jupiter",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      22,
+      70
+    ],
+    "auspicious": true,
+    "source": "4L + 2L + Venus comfort + Rahu-Venus luxury (BPHS Ch.23 + Phaladeepika Ch.10)"
+  },
+  "event_property_loss": {
+    "name": "Property loss/forced sale",
+    "bhava": 4,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "4L+12L+Saturn (BPHS Ch.40)"
+  },
+  "event_prophetic_vision": {
+    "name": "Prophetic vision / revelation",
+    "bhava": null,
+    "karakas": [
+      "Moon",
+      "Ketu"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "Moon+Ketu (Hora Sara)"
+  },
+  "event_psychic_experience": {
+    "name": "Psychic / paranormal experience",
+    "bhava": null,
+    "karakas": [
+      "Ketu",
+      "Rahu",
+      "Moon"
+    ],
+    "age_guard": [
+      10,
+      99
+    ],
+    "auspicious": true,
+    "source": "Ketu+Rahu+Moon (BPHS)"
+  },
+  "event_real_estate_dispute": {
+    "name": "Real estate/land/property dispute",
+    "bhava": 4,
+    "karakas": [
+      "Mars"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "4L+6L+Mars (BPHS Ch.23)"
+  },
+  "event_relationship_break": {
+    "name": "Relationship break / emotional rupture / partner-related stress",
+    "bhava": 7,
+    "karakas": [
+      "Saturn",
+      "Venus",
+      "Ketu",
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      75
+    ],
+    "auspicious": false,
+    "source": "7L + Ketu/Saturn afflicting Venus"
+  },
+  "event_religious_conversion": {
+    "name": "Religious conversion / faith change",
+    "bhava": null,
+    "karakas": [
+      "Rahu",
+      "Jupiter",
+      "Ketu"
+    ],
+    "age_guard": [
+      15,
+      99
+    ],
+    "auspicious": true,
+    "source": "Jupiter+Rahu+Ketu (Hora Sara)"
+  },
+  "event_religious_persecution": {
+    "name": "Religious / ideological persecution",
+    "bhava": 6,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L+12L+Saturn (BPHS Ch.40)"
+  },
+  "event_renunciation": {
+    "name": "Renunciation / sannyasa / monastic vow",
+    "bhava": 12,
+    "karakas": [
+      "Ketu",
+      "Saturn"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Ketu+Saturn (Hora Sara)"
+  },
+  "event_research_role": {
+    "name": "Research / academic / investigation role",
+    "bhava": 8,
+    "karakas": [
+      "Saturn",
+      "Mercury"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "8L+Mercury+Saturn (BPHS Ch.30)"
+  },
+  "event_retirement": {
+    "name": "Retirement / career step-down / exit from public life",
+    "bhava": 10,
+    "karakas": [
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      50,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L + 10L + Saturn + Ketu (BPHS Ch.25)"
+  },
+  "event_romance_affair": {
+    "name": "Romantic affair/love relationship",
+    "bhava": 5,
+    "karakas": [
+      "Venus",
+      "Rahu"
+    ],
+    "age_guard": [
+      14,
+      70
+    ],
+    "auspicious": true,
+    "source": "5L+Venus+Rahu (BPHS Ch.13)"
+  },
+  "event_royalty_payment": {
+    "name": "Royalty/recurring IP income",
+    "bhava": 5,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+11L+Mercury (modern)"
+  },
+  "event_salary_cut": {
+    "name": "Salary cut/pay reduction",
+    "bhava": 10,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "10L+12L+Saturn (BPHS Ch.40)"
+  },
+  "event_salary_raise": {
+    "name": "Salary raise/pay hike",
+    "bhava": 2,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      22,
+      70
+    ],
+    "auspicious": true,
+    "source": "10L+2L (BPHS Ch.25)"
+  },
+  "event_saturn_return": {
+    "name": "Saturn return — major maturity / responsibility inflection",
+    "bhava": null,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      0,
+      99
+    ],
+    "auspicious": true,
+    "source": "Saturn"
+  },
+  "event_second_marriage": {
+    "name": "Second marriage/remarriage",
+    "bhava": 7,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      28,
+      75
+    ],
+    "auspicious": true,
+    "source": "7L second+2L (BPHS Ch.80)"
+  },
+  "event_self_accident": {
+    "name": "Personal accident / injury / surgery / serious illness / hospitalization",
+    "bhava": 8,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Ketu",
+      "Rahu",
+      "Moon",
+      "Sun",
+      "Mercury",
+      "Venus"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": false,
+    "source": "Mars/Saturn/Ketu/Rahu activation + 6L/8L + Mars/Saturn transit (BPHS Ch.36 Roga Yogas)"
+  },
+  "event_self_death": {
+    "name": "Critical health crisis / terminal-phase indicator / Maraka period",
+    "bhava": 2,
+    "karakas": [
+      "Saturn",
+      "Sun",
+      "Mars",
+      "Moon",
+      "Mercury",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      30,
+      99
+    ],
+    "auspicious": false,
+    "source": "Maraka 2L/7L + 8L Ayur + node-induced exit (BPHS Ch.45-46 Ayurdaya)"
+  },
+  "event_servant_event": {
+    "name": "Servant/household-staff event",
+    "bhava": 6,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "6L+Saturn (BPHS Ch.13)"
+  },
+  "event_share_purchase": {
+    "name": "Share / stock purchase or major equity investment",
+    "bhava": 5,
+    "karakas": [
+      "Mercury",
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      75
+    ],
+    "auspicious": true,
+    "source": "5L + 11L + Mercury (Hora Sara Ch.20)"
+  },
+  "event_sibling_death": {
+    "name": "Sibling death/illness",
+    "bhava": 3,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": false,
+    "source": "10L+Mars (BPHS Ch.45)"
+  },
+  "event_sibling_marriage": {
+    "name": "Sibling marriage",
+    "bhava": 3,
+    "karakas": [
+      "Venus",
+      "Mars"
+    ],
+    "age_guard": [
+      10,
+      75
+    ],
+    "auspicious": true,
+    "source": "3L+Mars+Venus (BPHS Ch.13)"
+  },
+  "event_siblings": {
+    "name": "Sibling event — birth / marriage / health / death",
+    "bhava": 3,
+    "karakas": [
+      "Mars"
+    ],
+    "age_guard": [
+      5,
+      75
+    ],
+    "auspicious": false,
+    "source": "3L + Mars karaka (BPHS Ch.13, Phaladeepika)"
+  },
+  "event_singing_career": {
+    "name": "Singing career milestone",
+    "bhava": 2,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      10,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+Venus (BPHS Ch.13)"
+  },
+  "event_speculation_gain": {
+    "name": "Speculation / lottery / stock-market gain",
+    "bhava": 5,
+    "karakas": [
+      "Jupiter",
+      "Rahu"
+    ],
+    "age_guard": [
+      18,
+      70
+    ],
+    "auspicious": true,
+    "source": "5L + 11L + Rahu (BPHS Ch.20)"
+  },
+  "event_speculation_loss": {
+    "name": "Speculation / investment loss / market crash hit",
+    "bhava": 5,
+    "karakas": [
+      "Rahu",
+      "Saturn"
+    ],
+    "age_guard": [
+      18,
+      70
+    ],
+    "auspicious": false,
+    "source": "5L + 8L + 12L + Rahu (BPHS Ch.40 Loss Yogas)"
+  },
+  "event_spiritual": {
+    "name": "Spiritual deepening / religious shift / conversion / pilgrimage",
+    "bhava": 9,
+    "karakas": [
+      "Ketu",
+      "Jupiter",
+      "Rahu",
+      "Saturn",
+      "Venus",
+      "Mercury"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": true,
+    "source": "Ketu/Jupiter/Rahu dasha pairs (Hora Sara Ch.25 + BPHS dharma yogas)"
+  },
+  "event_sponsorship_deal": {
+    "name": "Sponsorship deal",
+    "bhava": 11,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "11L+Venus (modern)"
+  },
+  "event_sports_milestone": {
+    "name": "Sports/athletic milestone",
+    "bhava": null,
+    "karakas": [
+      "Mars",
+      "Sun"
+    ],
+    "age_guard": [
+      8,
+      50
+    ],
+    "auspicious": true,
+    "source": "Mars+Sun+3H (Saravali)"
+  },
+  "event_spouse_health_crisis": {
+    "name": "Spouse health crisis",
+    "bhava": 7,
+    "karakas": [
+      "Mars",
+      "Saturn",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      22,
+      80
+    ],
+    "auspicious": false,
+    "source": "7L+2L (BPHS Ch.80)"
+  },
+  "event_step_family_event": {
+    "name": "Step-family event (parent remarriage etc.)",
+    "bhava": 2,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+Rahu (BPHS Ch.13)"
+  },
+  "event_stock_crash_hit": {
+    "name": "Stock-market crash hit",
+    "bhava": 5,
+    "karakas": [
+      "Saturn"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": false,
+    "source": "5L+Saturn (BPHS Ch.40)"
+  },
+  "event_subscriber_milestone": {
+    "name": "Subscriber/follower milestone",
+    "bhava": 11,
+    "karakas": [
+      "Rahu"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": true,
+    "source": "11L+Rahu (modern)"
+  },
+  "event_surgery_major": {
+    "name": "Major surgery/operation",
+    "bhava": 6,
+    "karakas": [
+      "Mars"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "6L+8L+Mars (BPHS Ch.40)"
+  },
+  "event_synchronicity_peak": {
+    "name": "Synchronicity peak / spiritual alignment",
+    "bhava": null,
+    "karakas": [
+      "Ketu"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "Ketu strong (Hora Sara)"
+  },
+  "event_tax_dispute": {
+    "name": "Tax dispute / IT raid / government financial inquiry",
+    "bhava": 6,
+    "karakas": [
+      "Saturn",
+      "Rahu"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": false,
+    "source": "6L + 2L + Saturn + Rahu (modern govt ext.)"
+  },
+  "event_tax_refund": {
+    "name": "Tax refund/government payment",
+    "bhava": 2,
+    "karakas": [
+      "Mercury"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "2L+Mercury (BPHS Ch.6)"
+  },
+  "event_teaching_role": {
+    "name": "Teaching career / professor / mentor role",
+    "bhava": 5,
+    "karakas": [
+      "Jupiter",
+      "Mercury"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "5L+Jupiter (BPHS Ch.13)"
+  },
+  "event_tech_career": {
+    "name": "Tech / IT / digital career milestone",
+    "bhava": 11,
+    "karakas": [
+      "Rahu",
+      "Mercury"
+    ],
+    "age_guard": [
+      20,
+      99
+    ],
+    "auspicious": true,
+    "source": "Mercury+Rahu+11L (modern)"
+  },
+  "event_temple_donation": {
+    "name": "Major temple / charity donation",
+    "bhava": 12,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "12L+Jupiter (Saravali)"
+  },
+  "event_temple_visit_major": {
+    "name": "Major temple / shrine visit",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter (Saravali)"
+  },
+  "event_tenant_event": {
+    "name": "Tenant rental income/eviction",
+    "bhava": 4,
+    "karakas": [],
+    "age_guard": [
+      25,
+      99
+    ],
+    "auspicious": true,
+    "source": "4L+11L (BPHS Ch.23)"
+  },
+  "event_uncle_aunt_event": {
+    "name": "Uncle/aunt event (general)",
+    "bhava": 3,
+    "karakas": [
+      "Mercury",
+      "Jupiter"
+    ],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "3L+11L (BPHS Ch.13)"
+  },
+  "event_uncle_maternal_event": {
+    "name": "Maternal uncle/aunt event",
+    "bhava": 4,
+    "karakas": [],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "4L+6L (BPHS Ch.13)"
+  },
+  "event_uncle_paternal_event": {
+    "name": "Paternal uncle event",
+    "bhava": 9,
+    "karakas": [],
+    "age_guard": [
+      5,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+11L (BPHS Ch.13)"
+  },
+  "event_vehicle_purchase": {
+    "name": "Vehicle / luxury asset purchase",
+    "bhava": 4,
+    "karakas": [
+      "Venus",
+      "Mars"
+    ],
+    "age_guard": [
+      18,
+      70
+    ],
+    "auspicious": true,
+    "source": "4L + Venus karaka (BPHS Ch.23 + Phaladeepika)"
+  },
+  "event_visa_grant": {
+    "name": "Visa / passport / immigration approval",
+    "bhava": 9,
+    "karakas": [
+      "Rahu",
+      "Mercury"
+    ],
+    "age_guard": [
+      16,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L + 12L + Rahu (BPHS Ch.13)"
+  },
+  "event_voice_career": {
+    "name": "Voice career milestone — singing, dubbing, anchor, oratory",
+    "bhava": 2,
+    "karakas": [
+      "Venus",
+      "Mercury"
+    ],
+    "age_guard": [
+      12,
+      80
+    ],
+    "auspicious": true,
+    "source": "2L + Venus + Mercury (BPHS Ch.13)"
+  },
+  "event_voice_loss": {
+    "name": "Voice/throat issue — laryngitis/surgery",
+    "bhava": 2,
+    "karakas": [
+      "Venus",
+      "Mars",
+      "Saturn",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      12,
+      99
+    ],
+    "auspicious": false,
+    "source": "2L+Venus+Saturn (BPHS Ch.13)"
+  },
+  "event_wealth_loss": {
+    "name": "Wealth setback / bankruptcy / loss / financial scandal",
+    "bhava": 2,
+    "karakas": [
+      "Rahu",
+      "Saturn",
+      "Jupiter",
+      "Mars",
+      "Ketu"
+    ],
+    "age_guard": [
+      22,
+      80
+    ],
+    "auspicious": false,
+    "source": "12L/6L/8L periods + Saturn-Jupiter affliction (BPHS Ch.40 Dhanahara)"
+  },
+  "event_wealth_peak": {
+    "name": "Wealth peak / income increase / investment gain / property",
+    "bhava": 2,
+    "karakas": [
+      "Jupiter",
+      "Venus"
+    ],
+    "age_guard": [
+      22,
+      65
+    ],
+    "auspicious": true,
+    "source": "Dhana Yoga + 2L/11L periods (Phaladeepika Ch. 14)"
+  },
+  "event_widowhood": {
+    "name": "Spouse-related crisis / loss / separation / widowhood",
+    "bhava": 7,
+    "karakas": [
+      "Saturn",
+      "Venus",
+      "Mars",
+      "Rahu",
+      "Ketu"
+    ],
+    "age_guard": [
+      20,
+      85
+    ],
+    "auspicious": false,
+    "source": "7L+8L+2L Marakas + Saturn/Mars transit to Venus (BPHS Ch.80, Phaladeepika Ch.13)"
+  },
+  "event_widowhood_remarriage": {
+    "name": "Remarriage after widowhood",
+    "bhava": 7,
+    "karakas": [
+      "Venus"
+    ],
+    "age_guard": [
+      35,
+      99
+    ],
+    "auspicious": true,
+    "source": "7L second activation (BPHS)"
+  },
+  "event_workplace_conflict": {
+    "name": "Workplace conflict/office politics",
+    "bhava": 6,
+    "karakas": [
+      "Mars"
+    ],
+    "age_guard": [
+      18,
+      65
+    ],
+    "auspicious": false,
+    "source": "6L+10L+Mars (Phaladeepika)"
+  },
+  "event_writing_career": {
+    "name": "Writing career milestone",
+    "bhava": null,
+    "karakas": [
+      "Mercury",
+      "Jupiter"
+    ],
+    "age_guard": [
+      18,
+      99
+    ],
+    "auspicious": true,
+    "source": "Mercury+3H+Jupiter (Saravali)"
+  },
+  "event_yagna_performance": {
+    "name": "Yagna / homa / fire ritual performance",
+    "bhava": 9,
+    "karakas": [
+      "Jupiter"
+    ],
+    "age_guard": [
+      22,
+      99
+    ],
+    "auspicious": true,
+    "source": "9L+Jupiter+5L (Hora Sara)"
+  }
+}

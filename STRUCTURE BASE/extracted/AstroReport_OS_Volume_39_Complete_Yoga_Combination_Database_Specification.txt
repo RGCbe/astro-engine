@@ -1,0 +1,47 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 39 – Complete Yoga & Combination
+Database Specification
+Purpose
+Defines the master structured database for all yogas and planetary combinations. Every yoga is
+represented as a reusable knowledge object that can be queried, validated and linked to timeline
+narratives.
+Entity
+Purpose
+Example Fields
+Yoga
+Master record
+ID, Name, Category
+Prerequisites
+Formation rules
+Planets, Houses, Signs
+Strength
+Evaluation
+Score, Weight
+Activation
+Timing
+Dasha, Transit
+Life Domains
+Impact
+Career, Wealth, Marriage
+Narrative
+Reusable text
+Template IDs
+Evidence
+Validation
+Rule IDs
+Knowledge Graph
+Cross-links
+Related Objects
+Versioning
+Lifecycle
+Revision, Status
+Database Schema
+Store yoga classification, formation conditions, supporting evidence, confidence modifiers, timeline
+triggers, report fragments and multilingual metadata.
+Recommended Fields
+Yoga ID, aliases, category, prerequisites, exceptions, strength rules, balancing factors, activation
+logic, related questions, paragraph IDs, graph edges and version history.
+Developer Specification
+Use immutable IDs, semantic indexing, graph relationships, API-ready schemas and audit trails.
+Next Volume
+Volume 40 – Complete Dasha Interpretation Database Specification.

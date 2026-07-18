@@ -1,0 +1,16 @@
+{
+  "item_code": "G4",
+  "item_name": "Tajika yogas (Ithasala/Isaraphah/Nakta/Yamaya)",
+  "books_covering": [
+    "Surya_Siddhanta"
+  ],
+  "total_passages": 1,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [],
+  "constants_extracted": [],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/yoga.py",
+    "function": "all_yoga_details"
+  }
+}

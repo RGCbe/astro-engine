@@ -1,0 +1,51 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 22 – Master Report Templates & Layout
+System
+Purpose
+This manual defines the presentation layer for AstroReport OS. It standardizes every report page,
+section, layout, typography and visual component so all generated reports have a consistent
+professional appearance.
+Template
+Purpose
+Contents
+Cover Page
+First impression
+Name, chart, branding
+Executive Summary
+Quick overview
+Key themes & timeline
+Birth Foundation
+Identity
+Chart overview
+Timeline Chapter
+Life story
+Dasha, events, guidance
+Planet Profile
+Planet analysis
+Strengths & effects
+House Profile
+House analysis
+Life domains
+Question Answers
+Deep insights
+Client questions
+Summary
+Life review
+Key lessons
+Appendix
+Reference
+Glossary & methods
+Layout Standards
+Define page margins, fonts, spacing, colors, icons, timelines, tables, charts and callout boxes.
+Every page should remain readable in print, web and mobile formats.
+Component Library
+Create reusable components for alerts, guidance cards, timeline strips, confidence indicators,
+evidence panels, illustrations and comparison tables.
+Rendering Rules
+Support PDF, HTML and mobile rendering using the same content model while preserving
+pagination, headings and navigation.
+Developer Specification
+Store template IDs, layout metadata, page rules, responsive settings, branding options and
+rendering constraints.
+Next Volume
+Volume 23 – Testing, Validation & Quality Assurance Manual.

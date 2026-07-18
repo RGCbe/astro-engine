@@ -1,0 +1,45 @@
+AstroReport OS – Version 6 Enterprise Platform
+Volume 57 – Chart Calculation & Ephemeris Engine
+Purpose
+This manual defines the computational engine that transforms validated birth data into astrological
+charts. It covers astronomical calculations, chart generation, timing systems and validation
+requirements for production-grade accuracy.
+Module
+Purpose
+Output
+Ephemeris Engine
+Planetary positions
+Longitude & speed
+Ayanamsa
+Sidereal adjustment
+Corrected positions
+Ascendant
+Lagna calculation
+Ascendant degree
+House Engine
+12-house computation
+House cusps
+Varga Engine
+Divisional charts
+D2–D60 charts
+Dasha Engine
+Timing systems
+Mahadasha/Bhukti
+Transit Engine
+Current positions
+Forecast dataset
+Validation
+Cross-check calculations
+Accuracy report
+Performance
+Caching & optimization
+Fast computation
+Calculation Workflow
+Validate birth data, resolve timezone, compute planetary positions, calculate houses, generate
+divisional charts, compute Dashas and transits, validate results and expose them through internal
+APIs.
+Developer Specification
+Support multiple ayanamsas, configurable house systems, high-precision ephemerides,
+deterministic outputs, API-ready services, audit logs and benchmark tests.
+Next Volume
+Volume 58 – Explainable AI & Reasoning Trace Engine.

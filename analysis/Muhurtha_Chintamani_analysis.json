@@ -1,0 +1,47 @@
+{
+  "book_key": "Muhurtha_Chintamani",
+  "filename": "Muhurtha_Chintamani.pdf",
+  "total_pages": 96,
+  "total_words": 768,
+  "total_chars": 6622,
+  "is_scanned": true,
+  "top_100_words": [
+    {
+      "word": "digitized",
+      "count": 96
+    },
+    {
+      "word": "egangotri",
+      "count": 96
+    },
+    {
+      "word": "kamalakar",
+      "count": 96
+    },
+    {
+      "word": "mishra",
+      "count": 96
+    },
+    {
+      "word": "collection",
+      "count": 96
+    },
+    {
+      "word": "varanasi",
+      "count": 96
+    }
+  ],
+  "calculations": [],
+  "connections": {},
+  "chapters_found": [],
+  "summary": {
+    "unique_words_sampled": 6,
+    "calculations_found": 0,
+    "planet_house_connections": 0,
+    "planet_rasi_connections": 0,
+    "yoga_mentions": 0,
+    "nakshatra_mentions": 0,
+    "dasha_mentions": 0,
+    "chapters_detected": 0
+  }
+}

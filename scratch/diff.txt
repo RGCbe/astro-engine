@@ -1,0 +1,95 @@
+--- original
++++ current
+@@ -32,6 +32,19 @@
+ import json, sys, math, argparse
+ from pathlib import Path
+ import datetime as dt
++import os as _os
++
++# Robust import bootstrap: guarantee both the project root (for `engine.*`) and
++# this runtime/ dir (for flat modules like `vedic_core`) are importable, no matter
++# what CWD or invocation style is used. Without this, `from engine.shadbala import ...`
++# below only resolves by accidental side-effect of an earlier import mutating sys.path.
++_HERE = _os.path.dirname(_os.path.abspath(__file__))
++_ROOT = _os.path.dirname(_HERE)
++for _p in (_ROOT, _HERE):
++    if _p not in sys.path:
++        sys.path.insert(0, _p)
++
++from vedic_core import RASIS, RASI_LORDS, DIGNITIES
+ 
+ sys.stdout.reconfigure(encoding="utf-8")
+ 
+@@ -91,27 +104,15 @@
+               "Mars":"♂","Rahu":"☊","Jupiter":"♃","Saturn":"♄"}
+ PLANET_SHORT={"Sun":"Su","Moon":"Mo","Mars":"Ma","Mercury":"Me","Jupiter":"Ju",
+               "Venus":"Ve","Saturn":"Sa","Rahu":"Ra","Ketu":"Ke"}
+-RASIS=["Aries","Taurus","Gemini","Cancer","Leo","Virgo","Libra","Scorpio",
+-       "Sagittarius","Capricorn","Aquarius","Pisces"]
++
+ RASI_SHORT=["Ari","Tau","Gem","Can","Leo","Vir","Lib","Sco","Sag","Cap","Aqu","Pis"]
+-RASI_LORDS={"Aries":"Mars","Taurus":"Venus","Gemini":"Mercury","Cancer":"Moon",
+-            "Leo":"Sun","Virgo":"Mercury","Libra":"Venus","Scorpio":"Mars",
+-            "Sagittarius":"Jupiter","Capricorn":"Saturn","Aquarius":"Saturn",
+-            "Pisces":"Jupiter"}
++
+ ICON={"career":"♛","wealth":"❖","health":"❣","marriage":"❀","family":"✦",
+       "spirit":"☸","ok":"✓","warn":"!","star":"★","starlt":"☆",
+       "self":"☥","education":"📖","children":"⚭","travel":"✈",
+       "property":"⌂","status":"⚜","talent":"♪","past":"☯",
+       "annual":"⊙","muhurta":"⌛","prashna":"?"}
+-DIGNITIES={
+-    ("Sun","Aries"):"Exalted",("Sun","Libra"):"Debil",("Sun","Leo"):"Own",
+-    ("Moon","Taurus"):"Exalted",("Moon","Scorpio"):"Debil",("Moon","Cancer"):"Own",
+-    ("Mars","Capricorn"):"Exalted",("Mars","Cancer"):"Debil",("Mars","Aries"):"Own",("Mars","Scorpio"):"Own",
+-    ("Mercury","Virgo"):"Exalted/Own",("Mercury","Pisces"):"Debil",("Mercury","Gemini"):"Own",
+-    ("Jupiter","Cancer"):"Exalted",("Jupiter","Capricorn"):"Debil",("Jupiter","Sagittarius"):"Own",("Jupiter","Pisces"):"Own",
+-    ("Venus","Pisces"):"Exalted",("Venus","Virgo"):"Debil",("Venus","Taurus"):"Own",("Venus","Libra"):"Own",
+-    ("Saturn","Libra"):"Exalted",("Saturn","Aries"):"Debil",("Saturn","Capricorn"):"Own",("Saturn","Aquarius"):"Own",
+-}
++
+ VIMSHOTTARI_YEARS={"Ketu":7,"Venus":20,"Sun":6,"Moon":10,"Mars":7,"Rahu":18,"Jupiter":16,"Saturn":19,"Mercury":17}
+ VIMSHOTTARI_ORDER=["Ketu","Venus","Sun","Moon","Mars","Rahu","Jupiter","Saturn","Mercury"]
+ NAK_LORDS_27=["Ketu","Venus","Sun","Moon","Mars","Rahu","Jupiter","Saturn","Mercury"]*3
+@@ -1494,6 +1495,14 @@
+     ]
+ 
+     return pred
++
++
++
++
++
++
++
++
+ 
+ 
+ 
+@@ -2554,7 +2563,7 @@
+ 
+     # ─── SHADBALA + JAIMINI + LONGEVITY + MEDICAL + LAL KITAB + NADI ───
+     try:
+-        from shadbala import compute_shadbala
++        from engine.shadbala import compute_shadbala
+         sb=compute_shadbala(chart)
+         flow.append(to_para("SHADBALA — PLANETARY STRENGTHS",h1))
+         flow.append(to_para("Six-fold classical strength calculation per BPHS Ch. 27",h1_sub))
+@@ -2660,7 +2669,7 @@
+         print(f"[medical] WARNING: {exc}")
+ 
+     try:
+-        from lal_kitab import lal_kitab_summary
++        from engine.lal_kitab import lal_kitab_summary
+         lk=lal_kitab_summary(chart)
+         flow.append(to_para("LAL KITAB — Karz Analysis & Asleep Planets",h1))
+         flow.append(to_para("Lal Kitab tradition — 7 karmic debt patterns",h1_sub))
+@@ -3779,7 +3788,7 @@
+ 
+     # ─── ASHTAKAVARGA — Bhinna + Sarva point scores ───
+     try:
+-        from ashtakavarga import compute_bhinna_ashtakavarga
++        from engine.ashtakavarga import compute_bhinna_ashtakavarga
+         bav = compute_bhinna_ashtakavarga(chart)
+         flow.append(to_para("ASHTAKAVARGA — EIGHT-SOURCE STRENGTH MATRIX",h1))
+         flow.append(to_para("Bindus per house for each planet — classical strength grid from BPHS Ch. 66-68",h1_sub))

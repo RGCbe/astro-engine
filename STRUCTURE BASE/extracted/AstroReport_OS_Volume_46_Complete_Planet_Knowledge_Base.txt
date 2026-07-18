@@ -1,0 +1,48 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 46 – Complete Planet Knowledge Base
+Purpose
+This manual defines how the Planet Database is populated with complete interpretation records.
+Instead of schemas, this volume specifies the content model for thousands of reusable planetary
+knowledge entries.
+Knowledge Set
+Coverage
+Target Records
+Core Meanings
+Natural significations
+500+
+Planet in Signs
+9 × 12 combinations
+108+
+Planet in Houses
+9 × 12 combinations
+108+
+Planet Aspects
+Aspect interpretations
+500+
+Planet + Nakshatra
+Planet in 27 Nakshatras
+243+
+Planet + Dasha
+Timeline behaviors
+1000+
+Planet + Yoga
+Combination effects
+1000+
+Narrative Blocks
+Reusable paragraphs
+5000+
+Evidence Objects
+Structured rules
+Unlimited
+Knowledge Record Template
+Every record should contain: unique ID, title, astrological conditions, life domains, timeline impact,
+Dasha interaction, supporting evidence, confidence score, child explanation, expert explanation,
+reusable narrative blocks and cross references.
+Population Strategy
+Create atomic knowledge records rather than long articles. The report engine combines multiple
+records into personalized chapters based on the user's chart and timeline.
+Developer Specification
+Support multilingual content, semantic search, embeddings, version history, source attribution,
+validation status and AI-ready retrieval metadata.
+Next Volume
+Volume 47 – Complete House Knowledge Base.

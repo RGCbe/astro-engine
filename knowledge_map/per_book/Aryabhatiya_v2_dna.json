@@ -1,0 +1,1084 @@
+{
+  "book": "Aryabhatiya_v2",
+  "total_chars": 836007,
+  "by_category": {
+    "A. CALCULATIONS (math/algorithms)": {
+      "A1": {
+        "name": "Ayanamsa calculation",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 204116,
+            "match_text": "Precession",
+            "context": "iddhanta-dipika, His date and place have already been discussed In this commentary, he mentions Navaksetra and the village ASvattha to which he belonged.* He gives also the latitude and longitude of that place.‘ In the commentary on verse 16 of the second chapter, Parames- vara gives the amount of Precession of the equinoxes for the Saka year 1330. This Saka year corresponds to 1408 A.D, and indicates the time of writing the commentary, 1. For details see K.S. Shukla, ‘Acirya Jayadeva, the mathe- matician’, Ganita, vol. 5, no. 1, 1954. 2 In the comm. on A, ii. 17 (०-०१). 3. Comm. on 2.80, i. 33 and iii. 2-3. 4. Comm. on LBA, iii. 2-3, --- Page 109 --- SCHOLIASTS OF BHASKARA wv The commentary under consideration is the earliest composition of Paramegvara! and was written when he was yet a stud",
+            "pattern_hit": "precession"
+          }
+        ]
+      },
+      "A2": {
+        "name": "Planet longitude (sphuta)",
+        "passage_count": 20,
+        "passages": [
+          {
+            "position": 27629,
+            "match_text": "sphuta",
+            "context": "me of writing the commentary =1986123730—198612C000 years +=3730 years. The year when 3730 years of Kaliyuga had elapsed was the year 629 of the Christian era. Bhaskara I’s commentary on the Aryabhativa was, therefore, written in 629 A.D., i.e., exactly one year after Brahmagupta wrote his Brahma-sphuta-siddhanta2 2-1. Datta’s conjecture In a transcript of the Laghu-Bhaskariya procured by B. Datta from the Government Oriental Manuscripts Library, Madras,® there occurs, in the first chapter, between verses 17 and 18, a verse containing the so-called Sakabda correction.t The epoch used in that verse is the year 444 of the Saka era, which corresponds to 522 A.D. On the basis of that-verse, Datta* supposed that the Laghu-Bhaskariya was 1. कल्पादेरब्दनिरोधात्‌ गतकाल: खाग्न्यद्रिरा माकं रसवसुरनघ्",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 37448,
+            "match_text": "sphuta",
+            "context": "ryabhatiya and has interpreted the text with reference to them also, he is quite silent regarding the reading “‘pranenaiti kalam bhah’’ which was criticised by his contemporary Brahmagupta (A.D. 628) and which has been mentioned at least twice by Prthidaka (A.D. 860) in his commentary on the Brahma-sphuta-siddhanta' and also by Udayadivakara (A. D. 1073) in his commentary on the Laghu-Bhaskariya (i. 32-33). This shows that Bhaskara I lived long after Aryabhata 1 when the above reading was discarded in his school and replaced by “pranenaiti kalam bham” under the pressure of Varahamihira’s criticism of the theory of the Earth’s rotation advocated by Aryabhata I. 3. BHASKARA’S PLACE Bhaskara I does not mention the name of the place where he was born, brought up and educated, or of the place where",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 41369,
+            "match_text": "sphuta",
+            "context": "ryabhatiya and has interpreted the text with reference to them also, he is quite silent regarding the reading “‘pranenaiti kalam bhah’’ which was criticised by his contemporary Brahmagupta (A.D. 628) and which has been mentioned at least twice by Prthidaka (A.D. 860) in his commentary on the Brahma-sphuta-siddhanta' and also by Udayadivakara (A. D. 1073) in his commentary on the Laghu-Bhaskariya (i. 32-33). This shows that Bhaskara I lived long after Aryabhata 1 when the above reading was discarded in his school and replaced by “pranenaiti kalam bham” under the pressure of Varahamihira’s criticism of the theory of the Earth’s rotation advocated by Aryabhata I. 3. BHASKARA’S PLACE Bhaskara I does not mention the name of the place where he was born, brought up and educated, or of the place where",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 58845,
+            "match_text": "sphuta",
+            "context": "ing, not to say of the whole.” The study of Bhaskara I’s commentary on the Aryabhatiya did not remain confined to South India. There are reasons to believe that it was popular in North India also at an earlier age. PrthUdaka, who lived at Kannauj in Uttara Pradesh, in his commentary on the Brahma- sphuta-siddhanta of Brahmagupta, refers to Bhaskara I and his inter- pretations of the rules of Aryabhata I as many as four times. 5. MAHA-BHASKARIYA The Meha-Bhaskariya is, as explained, the earliest work of Bhaskara I. The author asserts that it is “a compendium of the astronomical processes based on the teachings of Aryabhata I.” Hence the commentators of the work have called it a एवां (‘an exposition in verse’) of the Aryabhatiya. Thus Govinda-svami says : “Acarya Aryabhata gave in his Aryabhat",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 68733,
+            "match_text": "sphuta",
+            "context": "have been criticised and emphasis laid on the methods taught by the disciples of Aryabhata I. It is worthy of note that one of the incorrect rules for the longitude of a place, which is said to have been already criticised by the pupils of Aryabhata I, actually occurs as the only rule in the Brahma-sphuta- siddhanta (i. 37-38) of Brahmagupta. It seems that, in spite of the criti- cism made by the disciples of Aryabhata I, these rules went on being used. This probably accounts for the great stress laid on the subject by the author of the Maha-Bhaskariya. But even this had little effect and so when Bhaskara I wrote his smaller work, the Laghu-Bhaskariya, he treated this subject in greater detail. The insertion of Ch. iii, dealing with the determination of the directions, place and time on the bas",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 76300,
+            "match_text": "sphuta",
+            "context": "herefore, missed the exact significance of Aryabhata I’s tule, although his interpretation is mathematically correct. Statement of an approximate formula for calculating the sine (or cosine) of a given arc (or angle) without the use of a table. (MBA, vii. 17-19). This formula occurs in the Brahma-sphuta-siddhanta of his contemporary Brahmagupta also and seems to have been well known in the time of Bhaskara I. Calculation of the mean longitudes of the planets by the method of the pratyabda-suddhi. (MBh, i. 21-39). Discussion of planetary motion with the help of both epicyclic and eccentric theories. (MBh, ch. v.). The Maha-Bhaskariya is the only available work on Hindu astronomy which explains in detail the motion of the planets with the help of the epicyclic theory and also with the help of",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 79916,
+            "match_text": "sphuta",
+            "context": "istance.’” 1. See E. Burgess, Translation of the Strya-siddhanta, notes on SaSi, x. 9. --- Page 49 --- BHASKaRA’S WORKS lv The rules prescribed by Bhaskara I are correct and do not call for any criticism. 9. Discussion of planetary conjunction in longitude. (MBh, vi. 5-7, 49-54). In the Brahma-sphuta-siddhanta and other later works, study is made of planetary conjunction along the secondary 10 the prime vertical (samaprotiya-vrtta). Bhaskara I deals with the conjunction of a planet with another planet or of a planet with a star, in celestial longitude. It is interesting to note in this connection that Brahmagupta! criticises Aryabhata I for making a study of planetary conjunction in celestial longitude, although there is no reference to it in the Aryabhatiyz. 10. Statement of the differing",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 86015,
+            "match_text": "sphuta",
+            "context": "umber x—y = 9 square number xy+1 = 9 square number. The problem set in verse 18 involves the knowledge of the integral Solution of the under mentioned simultaneous equations : 8x+1 = $ 7४941 = य --- Page 52 --- alviii INTRODUCTION Similar problems are found to occur also in Brahmagupta’s Brahma-sphuta-siddh¢nta, which was written about the same time. Brahmagupta has stated the general solution of the above multiple equations and also a method for solving the equation Nxt+1 = ३४. The occurrence of the above-mentioned problems in the two works written independently about the same time gives us an idea of the development of Hindu algebra in the first half of the seventh century A.D. 63. Popularity of LBh The Laghu-Bhaskariya proved to be an excellent text-book for beginners in astronomy on",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 111320,
+            "match_text": "sphuta",
+            "context": "used the term savana (‘civil’) in the sense of saura (‘solar’) and vice versa? The pratyabda-§uddhi method of finding the mean longi- tudes of the planets is a contribution of the Romaka- siddhanta, or the followers of the Ronaka-siddhanta. Such a method occurs as an additional method in the Brahma-sphuta-siddhanta, the Sisya-dhi-vrddhida and other later works. If Bhaskara I is correct, then the method is due to the Romaka-sidahanta or its followers. Brahmagupta criticises the Romaka-siddhanta for not using the system of kalpa, manvantara, and yuga, etc. It may be that the pratyabda-suddhi method was meant to avoid these big time-divisions. Unfortunately, Bhaskara I does not give the details of the pratyabda-suddhi method actually used by the followers of the Romaka-siddhanta. If Varahamihira i",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 117749,
+            "match_text": "sphuta",
+            "context": "rrent yuga, at that time twenty- three years had elapsed since my birth). This very thing was told to Panduranga-svami, Latadeva, and Niéanku, etc., by Acarya Aryabhata, while lecturing on the sastra (i.e., Aryabhatiya).”* Latadeva is mentioned in the Pafica-siddhantika (i. 3 ; xv. 18), the Brahma-sphuta-siddhanta (xi. 46, 48), PrthUdaka’s commentary on the Brahma-sphuta-siddhanta (xxi. 3, 5, 6, 8), the Siddhanta-Sekhara (ii. 10), Udayadivakara’s commentary on the Laghu-Bhaskariya (v. 12), and in Makkibhatta’s commentary on the Siddhanta-Sekhara ii. 10). Var@hamihira (व. 587 A.D.) ascribes to him the authorship of two commentaries, one on the Romaka-siddhanta and the other on the Pauliga-siddhania2 “According to the teachings of Latacarya,” says Varahamihira, “the ahargana is to be reckoned fro",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 120212,
+            "match_text": "sphuta",
+            "context": "ध्यं परित्यजते ॥। भित्वा क्षितितलमुत्तिष्ठतीव मेघः प्रकृष्टदेशस्यः । रेखाविषये तिष्ठत्युपरि ज्योतिगंणोऽप्येवम्‌ 117 The verses ascribed to Latadeva by Bhaskara I, too, are in the aryd metre. It is probable that they are quoted from the same work of Latadeva as cited by Prthidaka. From the Brahma-sphuta-siddhanta,? we learn that the work of Latadeva was utilized by both Srisena and Visnucandra in preparing their recasts of the Romaka-siddhanta and the Vasistha-siddhanta, respectively. Bhaskara I, however, does not throw much light on the works of Latadeva, 1. See India, 1, ए. 153. According to 5.8. Diksita (Bharatiya- Jyotisa-Sastra, p. 233), Latadeva’s SuSi was different from that summarized by Varahamihira. Lagha is the Prakrta form of Lata. Quoted under BrSpSi, xxi. 3. Quoted under BrSpSi",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 144501,
+            "match_text": "sphuta",
+            "context": "as also been stated by Narayana in his Ganita-kaumudi.* Moreover, some of the problems set by Narayana are based on ladder- like figures ; and in the solutions supplied to those problems, Narayana has actually drawn such figures. Prthtdaka also makes a similar remark in his commentary on the Brahma-sphuta-siddhanta. 1. For details, see K.S. Shukla, Patiganita, English translation, Pp. 66-68. 2. GK, Part II, rule 73-74, pp. 85-86. --- Page 80 --- Inrvi INTRODUCTION He writes : “The sankalita (i.e., ‘the sum of a series’), which has been exhibited by Acarya Skandasena on the analogy of a ladder, is meant to demonstrate it by means of a ण. The ladder-like figure representing a series had a smaller base and a larger top, so it looked like a drinking glass. $ridhara has, therefore, compared a s",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 146247,
+            "match_text": "sphuta",
+            "context": "e ‘method of solving cubic equations’, and the visama-bija is the ‘method of solving equations with more than one unknown’. The above nomenclature of four bijas has not been found in any other known work on Hindu mathematics. In an anonymous commentary on the Kuttakadhyaya (a chapter of the Brahma-sphuta- siddhanta)® the quartet of the four bijas is said to consist of (i) the theory of solving simple equations (ekayarna-samikarana), (ii) the Quoted by Prthtidaka in his comm. on BrSpSi, xii. 2. PG, English translation, p. 66. See Bhaskara I’s comm. on A, i. 1, 9. 7. . Cf. ए. Datta and A.N. Singh, History of Hindu Mathe- matics, Part Il, p. 6. हे ७ क ^ 5. A photostat copy of this comm. is in our collection. --- Page 81 --- ARYABHATIYA. BHASYA Ixxvii elimination of the middle term (madhyamah",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 148217,
+            "match_text": "sphuta",
+            "context": "hat word may mean ‘to mix’ or ‘to separate’ (Nyu+ghait). If these are the possible meanings of the word yava, how is it that Bhaskara I takes yavakarana as a synonym of varga (or squaring)? The word yavakarana owes for its origin to algebraic symbolism. In the commentary of Prthtidaka on the Brahma-sphuta- siddhanta, the equation 10x—8 =x? +1 is written as yava 0 yalo re 8 yava 1 ya 0 rl This is the standard Hindu symbolism, and was always used in analysis. It occurs in all Hindu works on algebra, especially, the commentaries on algebraical works. In this symbolism, ya is used as an abbreviation of yavattavat (‘the unknown quantity’, j.e., x), and yava as an abbreviation of yavattavadvarga (‘the square of the unknown quantity’, i.e. x2) ; ra stands for rapa (‘absolute term’). Thus we see that,",
+            "pattern_hit": "\\bsphuta\\b"
+          },
+          {
+            "position": 158459,
+            "match_text": "sphuta",
+            "context": "India. A copy of this commentary 1, See Appendix I, Ex. 122. 2. For these tables, see Appendix II, --- Page 87 --- ARYABHATIYA-BHASYA lxxxiii was available to Prthtidaka (860 A.D.), the well-known commentator of Brahmagupta (628 A.D.), who belonged to North India. In his commentary on the Brahma-sphuta-siddhanta, written in 860 A.D. at Kannauj' in Uttar Pradesh, he has referred to Bhaskara I and his commentary on more than one occasion. He has also extracted a number of examples from Bhaskara I’s commentary. The bamboo problem, the lotus problem and the cat and mouse problem which occur in Prthtidaka’s commentary are undoubtedly taken from Bhaskara I’s commentary. In the case of the first two, even the data supplied by Prthtdaka is the same as given by BhaskaraI. In South India, the earliest",
+            "pattern_hit": "\\bsphuta\\b"
+          }
+        ]
+      },
+      "A3": {
+        "name": "House cusps / Bhava sphuta",
+        "passage_count": 7,
+        "passages": [
+          {
+            "position": 19913,
+            "match_text": "Sripati",
+            "context": "F ABBREVIATIONS Aryabhatiya of Aryabhata I \\ Bhaskara 1705 Bijaganita of Varahamihira Brhat-jataka of Varahamihira Brhat-samhita of Varahamihira Brahma-s phuta-siddhanta of Brahmagupta Graha-cara-nibandhana of Haridatta Ganita-sara-sangraha of Mahavira Ganita-Kaumudi of Narayana Ganita-tilaka of Sripati Indian Historical Quarterly Indian Journal of History of Science Lilavati of Bhaskara II Laghu-Bhaskariya of Bhaskara I Laghu-manasa of Maiijula (Mufijala) Maha-Bhaskariya of Bhaskara I Patiganita of Sridhara Paiica-siddhantika of Varahamihira Sisya-dhi-vrddhida of Lalla Siddhanta-sekhara of Sripati Siddhanta-siromani of Bhaskara I Surya-siddhanta Trisatika of Sridhara xvi --- Page 21 --- INTRODUCTION The present volume, which forms Part II of our edition of the Aryabhatiya, contains the",
+            "pattern_hit": "sripati"
+          },
+          {
+            "position": 20216,
+            "match_text": "Sripati",
+            "context": "pati Indian Historical Quarterly Indian Journal of History of Science Lilavati of Bhaskara II Laghu-Bhaskariya of Bhaskara I Laghu-manasa of Maiijula (Mufijala) Maha-Bhaskariya of Bhaskara I Patiganita of Sridhara Paiica-siddhantika of Varahamihira Sisya-dhi-vrddhida of Lalla Siddhanta-sekhara of Sripati Siddhanta-siromani of Bhaskara I Surya-siddhanta Trisatika of Sridhara xvi --- Page 21 --- INTRODUCTION The present volume, which forms Part II of our edition of the Aryabhatiya, contains the Sanskrit text of the Aryabhatiya along with its commentary in Sanskrit by Bhaskara who was considered to be the greatest authority on Aryabhata I and who, in the words of his scholiast Govinda of the ninth century A.D., “stimulated and glorified the teachings of Aryabhata I”. This Bhaskara isa differe",
+            "pattern_hit": "sripati"
+          },
+          {
+            "position": 67950,
+            "match_text": "Sripati",
+            "context": "--- BHASKARA’S WORKS ist Ch, 7. Astronomical parameters. Ch. 8. Examples. Like Aryabhata I, the author of the Maha-Bhaskariya gives the astronomical parameters in a separate chapter. The same method has been followed in the Siddhanta-Sekhara of Stipati (८. 1039 A. D.). But whereas Aryabhata I and Sripati have chosen to introduce those parameters in the opening chapters of their works in the usual Hindu fashion, Bhaskara I has put themin the end, in the modern style. The assigning of a separate chapter (Ch. ii) to the discussion of the methods for finding the longitude of a place and the corresponding correction to the planets shows how important that subject was considered by the author of the Maha-Bhaskariya. This is the only chapter where rules of the earlier writers have been criticised and",
+            "pattern_hit": "sripati"
+          },
+          {
+            "position": 118406,
+            "match_text": "Sripati",
+            "context": "a-siddhanta and the other on the Pauliga-siddhania2 “According to the teachings of Latacarya,” says Varahamihira, “the ahargana is to be reckoned from sunset at Yavanapura (Alexandria) (PSi, xv. 18). Here Varahamihira is probably referring to Latadeva’s edition of the Romaka-siddhanta. According to Sripati (1039 A.D.),2 Latadeva was also the author of at least one more work on astronomy, which was a tantra (or siddhdnta) and in which the day was reckoned from midnight. Al-Birtini ascribes to 1. The last sentence, in the manuscripts is defective, and can be interpreted also to mean : “This very thing was told to Latadeva and Nisanku, etc., by Panduranga-svami, while lecturing on the Aryabhata-Sastra (ie., Aryabhatiya),” or “This very thing was told to Niganku, etc., by Panduranga-svami Latadeva,",
+            "pattern_hit": "sripati"
+          },
+          {
+            "position": 174327,
+            "match_text": "Sripati",
+            "context": "ion of the Aryabhatiya-sastra under the title Bhata-prakasa. There- after I briefly explained the Maha-yatra (Yoga-yatra) of Varaha- mihira. Then I explained in detail this (Laghu) manasa-karana, with a view to providing both mula-vasana and samksepa-vasana. At present I am writing an exposition of Sripati’s Jataka- paddhati, 1am sure it will be brought to a successful finish by the grace of Goddess Sarasvati.” Datta was of the opinion that the commentary on the Maha- Bhaskariya which bears the name Prayoga-racana was by SUryadeva.* But this conjecture has so far not been proved to be correct. 3. The Prayoga-racana This commentary begins with the verses : soma शिवमनिशं तं घं ब्रह्म ब्रह्मवादिनः प्राहुः । यस्य च विभरुतिरेषा क्षित्यादीनां प्रकाज्ञाख्या ॥ क्रियते प्रयोगरचना गृरुप्रसादेन भास्कर",
+            "pattern_hit": "sripati"
+          },
+          {
+            "position": 177354,
+            "match_text": "Sripati",
+            "context": "er MBA, i. 52 ; and A, ii. 4, quoted under MBA, ii. 10. 3. Tris, Rule 24 (a-b), quoted under MBh, i. 20. 4 Comprising 2.50, i. 22, 19, 20 and 21. --- Page 96 --- xgii INTRODUCTION 4. Makkibhatta’s commentary About three and a half chapters of Makkibhatta’s commentary on the Siddhanta-sekhara of Sripati have been published by the Calcutta University (1932 A. D.). In that printed portion Makkibhatta has referred to his commentary on the Mcha-Fhaskariya for detailed explanations on six occasions. The references are as follows : 1. “The remaining exposition of this verse has been given by me inthe commentary on the Brhad-Bhaskariya, entitled Ganita-vilasa. So 1 stop here” 2. ‘This stanza has several meanings. All of them have been discussed by me in the Ganita-vilasa, by way of explaining anoth",
+            "pattern_hit": "sripati"
+          },
+          {
+            "position": 215606,
+            "match_text": "Sripati",
+            "context": "hern Gujarat situated to the south-east of Sidhpur (lat. 23°45 N, long. 72°39 E). Anandapura was a great seat of Sanskrit learning. Astronomer VateSvara (b. 880 A.D.), the celebrated author of the Vatesyara-siddhanta and the Karanasara, and Mahadeva (1263 A.D.), the commentator of the Ratna-mala of Sripati (c. 1039 A.D.), belonged to this very 1. लल्लोत्पलसोमेश्वरविरचितभाष्याणि तत्त्वतो बुध्वा ॥ एकीकृत्य aed सुखाय संक्षेपतो वक्ष्ये ॥ 2. चैत्रमासस्य पञ्चम्यां सितायां गुरुवासरे । खनवाष्टमिते arm कृतेयं विवृतिर्मया ॥ See Amaraja’s commentary, 9. 20. 4. This is evident from Amaraja’s references to Anandapura. See pp. 94 and 87 of his commentary. 5. See The ancient geography of India, ए. 416. 6. See The geographical dictionary of ancient and mediaeval India, 9. 6, --- Page 115 --- PRESENT EDITIO",
+            "pattern_hit": "sripati"
+          }
+        ]
+      },
+      "A8": {
+        "name": "Ashtakavarga (BAV + SAV)",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 778413,
+            "match_text": "bindu",
+            "context": "root Terms used : dvigatamala, pada, mala, vargamuala. 7. Cube Terms used : ghana, trigata, vrnda, sady$atrayabhyasa, 8, Cube root Terms used : ghanamula, trigatamala. --- Page 466 --- APPENDIX IV AUTHORITIES CITED BY BHASKARA IN THE ARYABHATIYA-BHASYA [ Note: Numbers refer to pages. ] Amrtabindu-upanisad, 2, 4 Anye (Other scholars), 5, 9, 60, 87, 139, 172, 212, 214, 259. See also : Kecit. Apastamba-srauta-stitra, 16 Arthasastra, 5, 45, 206 Aryabhata, 1, 5, 126, 189, 201, 202. See also under ASmaka. Aryabhatiyam : See Asmakasya ganitam, Aimakiyam, Bhata- $astra, Bhatatantra, Gitika, Svatantrantara Aryabhatiyah (=followers of Aryabhata 1), 88 ASmaka (Aryabhata 1), 148, 155 Asmakasya genitam, 138 Asmakiya (=follower of Arya- bhata 1), 146 Asmakiyam ( = Aryabhatiyam), 140, 147,",
+            "pattern_hit": "bindu"
+          }
+        ]
+      },
+      "A11": {
+        "name": "Aspects — planet-to-planet + rasi drishti",
+        "passage_count": 3,
+        "passages": [
+          {
+            "position": 84011,
+            "match_text": "aspect",
+            "context": "first degree, the --- Page 51 --- BHASKARA'S WORKS alvii eccentric theory of planetary motion, and several alternative rules and processes occurring in the Maha-Bhaskariya, whose inclusion in a smallar work like the Laghu-Bhaskariya was unnecessary, have been omitted. There are, however, certain aspects of fundamental impor- tance which have been specially emphasised in the Laghu-Bhaskariya. For example, more than necessary space has been allotted to the longitude correction and to the determination of the local longitude. Some of the methods given in the Maha-Bhaskariya have been adopted in the Laghu-Bhaskariya after revision and simplification. For example, the rule given in MBA, iii. 37-38, which is defective, has been correctly stated in LBA, iii. 21-23. Similarly, the method of ten Rsine",
+            "pattern_hit": "aspect"
+          },
+          {
+            "position": 92911,
+            "match_text": "aspect",
+            "context": "y raising questions and cross-questions and giving appropriate answers and providing illustrative examples, where necessary. Earlier scholars are quoted either to substantiate the views expressed in the text or to reject their views. Whatever topic is touched upon is discussed thoroughly in all its aspects. 1, See Sankaranarayana’s comm. on LBA, viii. 19. --- Page 55 --- ARYABHATIYA-BHASY A 1 We give below some extracts from the commentary which will give some idea of the style of the commentary. The topics have been selected so as to be of interest to the reader. (1) Sphericity of the Earth and the planets. (p. 250) “Question : How are these planets etc. proved to be spherical in shape. Others consider the Earth to be like a cart! or like a circular mirror? Answer: This isnot so. The Eart",
+            "pattern_hit": "aspect"
+          },
+          {
+            "position": 163000,
+            "match_text": "aspect",
+            "context": "aghu-Bhaskariya in Malayalam. 8. Anonymous : (i) the authors of commentaries on the Laghu-Bhaskariya in Malayalam, and (ii) the author of a commentary on the Laghu-Bhaskariya in old Malayalam. The details of the above-mentioned commentaries, and the light thrown by them on their authors and other aspects of historical interest are furnished in the following sections. 8:1. Commentaries on the Maha-Bhaskariya 1. Govinda-syami’s commentary This commentary along with Parameévara’s super-commentary (entitled Siddhanta-dipika) has been critically edited by T.S. Kuppanna Sastri and published in 1957 in Madras Govt. Or. Series (No. cxxx). A manuscript of this commentary exists in the Lucknow University Library. Its beginning and end are as follows : Title : भास्करीय-भाष्यम्‌ Beginning : गावो यस्य",
+            "pattern_hit": "aspect"
+          }
+        ]
+      },
+      "A12": {
+        "name": "Sphutas of Upagrahas",
+        "passage_count": 6,
+        "passages": [
+          {
+            "position": 138432,
+            "match_text": "gulika",
+            "context": "itten as + 2 or x 2. --- Page 77 --- ARYABHATIYA-BHASYA lexi gunakara), and division by ha (from hara). Similar abbreviations are found to be used in the Bakhshali Manuscript also. Symbols for unknowns. Quantities of unknown value are called yavattavat (meaning ‘as many as’, or ‘as much as’), or gulika. The latter term was used earlier by Aryabhata I, and is interpreted by Bhiskara I as follows : “By the term gulika is expressed a thing of unknown value,” Gulika and yavattavat are used as synonyms, Bhaskara I writes : “These very gulikas of unknown value are called yavattavat.’”* In arithmetical problems the unknown or missing quantities have been denoted by the zero symbol, as in the Bakhshali Manuscript and other Hindu works on arithmetic. 2. Classification of mathematics First Classif",
+            "pattern_hit": "gulika"
+          },
+          {
+            "position": 138673,
+            "match_text": "gulika",
+            "context": "led yavattavat (meaning ‘as many as’, or ‘as much as’), or gulika. The latter term was used earlier by Aryabhata I, and is interpreted by Bhiskara I as follows : “By the term gulika is expressed a thing of unknown value,” Gulika and yavattavat are used as synonyms, Bhaskara I writes : “These very gulikas of unknown value are called yavattavat.’”* In arithmetical problems the unknown or missing quantities have been denoted by the zero symbol, as in the Bakhshali Manuscript and other Hindu works on arithmetic. 2. Classification of mathematics First Classification. Bhaskara I writes : “This mathematics (ganita) is (fundamentally) of two kinds which permeate the four (fundamental operations). These two kinds are increase and decrease. Addition is increase, and subtraction is decrease. These tw",
+            "pattern_hit": "gulika"
+          },
+          {
+            "position": 147200,
+            "match_text": "gulika",
+            "context": "and (iv) the theory of solving equations of the type axy=bx + cy +d (called bhayita). This quartet of the four bijas is mentioned also by Bhaskara वी. 4. Symbolic algebra earlier to Bhaskara I ‘We have seen above that Bhaskara I in his commentary makes use of the unknown quantities yavatiavat and gulika. The commentary due to its limited scope does not throw much light on the contemporary algebra, but there are reasons to believe that symbolic algebra had very much developed by that time. In this connection, we will draw the attention of historians of mathematics to a very significant term men- tioned by Bhaskara I. This is y@vakarana. Bhaskara I writes : कलव, karani, krti, vargana, and yavakarana are synonyms.”? We thus see that, according to Bhaskara I, the word yavakarana means ‘squaring’.",
+            "pattern_hit": "gulika"
+          },
+          {
+            "position": 725051,
+            "match_text": "gulika",
+            "context": "ch). If the two persons have bought the saffron at the same rate per pala, I want to know the price of one pala (of saffron) and also the equal wealth with the two. [Page 127-28, Ex. 2] 90. 7 yavattavat+7 rapaka==2 yavattavat+-12 rapaka, What is the value of 1 yavattavat ? [Page 128, Ex. 3] 91. 9 gulika+ 7 rapaka=3 gulika+-13 rupaka. What is the price of 1 gulika? [Page 128, Ex. 4] 92. 9 gulika—24 mpaka==2 gulika+-18 rapaka. Say what the price of 1 gulika is, [Page 128, Ex. 5] 48. Meeting of two travellers 93. One (man) goes from Valabhi at the speed of 1} yojanas a day ; another (man) comes (along the same route) from Harukaccha at the speed of 1} yojanas a day. The distance between the two 1. If xy) ऋ, 29, च, जैक Xe and x, are the numbers of the various animals and s their sum, then we ha",
+            "pattern_hit": "gulika"
+          },
+          {
+            "position": 11431,
+            "match_text": "Vyatipata",
+            "context": "र्यापक्रमस्य (For Sun’s declination) ae अधिमासस्य (For Intercalary months) ct कालक्रियापादः (SECTION ON RECKONING OF TIME) मड्भलाचरणम्‌ (Invocation) - *** कालविभाग: क्षेत्रविभागश्च (Time-divisions and circular divisions) *** द्वियोगपरिज्ञानम्‌ (Conjunctions of Planets) नि युगे व्यतीपातसंब्या (Vyatipatas in a Yuga) git प्रहोच्चनी चभगणा: (Anomalistic and Synodic revolutions of planets in a Yuga) . AMARA Yasar: (Jovian years, Asvayuj etc, ) सौरचान्द्रसावननाक्षत्रमानानि (Solar, Lunar, Civil and Sidereal measures of time) अधिमासावमदिनानि (Intercalary months and Omitted days) सानुषपितृदेववर्षप्रमाणानि (Year measures of Men, Manes and Gods) = Page १५६ १५७ १५५ १६० १६१ १६३ १६४ १६५ ` १६७ १६८ १६९ १७० १७० १७० १७२ १७२ १७६ १७८ १७९ १८० १६१ १९१ १९६ --- Page 13 --- CONTENTS युगमानं बरह्मदिनप्र",
+            "pattern_hit": "vyatipata"
+          },
+          {
+            "position": 188532,
+            "match_text": "Vyatipata",
+            "context": "n astronomy written by Parameévara, mention may be made of the following : (9) Drgganita, (10) Grahana- mandana, (11) Grehanastaka, (12) Vakya-kerana, (13) Laghu-manasa- vyakhya, (14) Laghu-Bhaskariya-vyakhyana, (15) Surya-siddhanta- vivarana, (16) Lilavati-vivarana, (17) Goladipika-vytti, and (18) Vyatipatastaka-yytti. 82. Commentaries on the Laghu-Bhaskariya 1. Saikaranarayana’s commentary This commentary has been edited by P.K. Narayana Pillai and published in Trivandrum Sanskrit Series (No. 162). From the colophons at the ends of the chapters, we learn that the name of this commentary is Bhaskariya-viyarana and that its author is Sankaranarayana. In the commentary on verses 4-6 of the third chapter, the commentator gives the times of rising of the zodiacal signs for his local place, and also",
+            "pattern_hit": "vyatipata"
+          }
+        ]
+      },
+      "A13": {
+        "name": "Panchanga (tithi/vara/nakshatra/yoga/karana)",
+        "passage_count": 40,
+        "passages": [
+          {
+            "position": 13856,
+            "match_text": "tithi",
+            "context": "भूताराग्रहान्तरालम्‌ (Distance between the Earth and the planets) नि ताराग्रहाणां स्फुटयोजनक्णनियनम्‌ (Computation of the distance in yojana-s of the planets) ग्रहस्फूटीकरणे विशेष: (Specialities in planetary computation) *** तिथिप्रतिपच्छेदपरिज्ञानम्‌ (Computation of the beginning or end of the tithi) wee सूर्याचन्द्रमसोः समलिप्तोकरणम्‌ (Calculation of the Sun and Moon at conjunction or opposition) wee चन्द्रनक्षत्रप्रतिपच्छेदपरिज्ञानमू (Computation of the beginning or end of the Moon’s naksatra) ws गोलपाद: (SECTION ON THE CELESTIAL SPHERE) मड्भूलाचरणम्‌ (Invocation) tte गोलबन्ध: (Armillary sphere) ae भगोले अपकरममण्डलम्‌ (Ecliptic on the Sphere of asterisms) *** अपक्रममण्डलचारिणः (Celestial bodies moving along the ecliptic) one विक्षेपमण्डलचारिणः (Celestial bodies moving along planeta",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 48073,
+            "match_text": "tithi",
+            "context": "commentary. In connection with the difference prevailing amongst the various schools of Hindu astronomy and peoples of Bharatavarsa about the beginning of the year, month, etc , Bhaskara I observes : 1. “In Surastra the year, month, and day begin from Kartika- éukla-pratipad (i.e., from the first tithi of the light half of the month Kartika) and end on A§vayuja-krsna-paticadasi (i.e., on the fifteenth tithi of the dark half of the month Aévina) and in Magadha the year, month, and day begin from Asadha-krsna-pratipad (i.e., from the first tithi of the dark half of the month Asadha) and end on Asadha- sita-paricadasi (i.e., the fifteenth tithi_ of the light half of the month दत्ताय). 2. “There do exist countries which use months ending in dark fortnight. These are Surastra, ९०.7१ Of the vario",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 48319,
+            "match_text": "tithi",
+            "context": "in from Kartika- éukla-pratipad (i.e., from the first tithi of the light half of the month Kartika) and end on A§vayuja-krsna-paticadasi (i.e., on the fifteenth tithi of the dark half of the month Aévina) and in Magadha the year, month, and day begin from Asadha-krsna-pratipad (i.e., from the first tithi of the dark half of the month Asadha) and end on Asadha- sita-paricadasi (i.e., the fifteenth tithi_ of the light half of the month दत्ताय). 2. “There do exist countries which use months ending in dark fortnight. These are Surastra, ९०.7१ Of the various year-beginnings prevalent in Bharatavarsa,* is it a mere chance that he mentioned only the two current in Surastra and Magadha? Or, does it signify something more than that ? Magadha was the country which, in the near past, had the privilege o",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 75187,
+            "match_text": "tithi",
+            "context": "used for sa/aka (needle). This has been done deliberately to suit metrical requirements. It is interesting to note that the term vi, used to mean ‘celestial latitude’, is a tachygraphic abbreviation of the usual term viksepa. “ Numbers have been expressed exclusively by means of words. Two words, tithi and salin, used to denote 30 and 1, respectively, deserve special notice. The former is usually taken to denote 15, and the latter is used in that sense in the Maha-Bhaskariya only. The word jyau, used as a synonym of Jupiter, is probably derived from the Greek word Zeus. 54. Special features of MBh Amongst the important features of the Maha-Bhaskariya which deserve the special notice of the historian, mention may be made of the following : ॥ 1. Application of indeterminate equations of the",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 91696,
+            "match_text": "tithi",
+            "context": "to the longitude of the local place (desantara-sams- kara), (ii) correction for the equation of the centre due to the eccentricity of the ecliptic (bhujantara-sainskars), and (iii) correction due to the Sun’s ascensional difference (cara-samskara), and with the elements of the Hindu pujficaiga, the tithi and the naksatra. Similarly, in his commentary on the Gola-pada, he deals with the problems of the Moon, such as (i) the phases of the Moon, (ii) rising of the Moon, and (iii) graphical representation of the elevation of the Moon's horns. 72. Scope of A. Bhisya Bhaskara I’s commentary on the Aryabhatiya, as its name suggests, is of the vyakhya or bhasya type, and aims at a full exposition of the text and the contents of the Aryabhatiya, “Those who want to know everything written by Aryabhata",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 96343,
+            "match_text": "tithi",
+            "context": "diameter. (pp. 29-30) “The Earth’s diameter may also be obtained by calculation as follows: In a solar eclipse, the true fithi for the time of apparent con- junction of the Sun and Moon is indeed obtained in the eastern and > western halves of the celestial sphere. There (in order to get the true tithi for the time of sunrise or sunset) four ghatis' are added to or subtracted from the mean fithi (‘time of geocentric conjunction of the Sun and Moon’). At that time (of sunrise or sunset), the Rsine of the zenith distance (of the Sun or Moon) is equal to the radius (i.e., 3438’), the mean parallax of the Sun is 3’56\", and the mean parallax of the Moon is 52} minutes of arc. By the method of inversion, multiplying the distance of the Sun or Moon, in yojanas, by its own parallax and dividing by th",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 97432,
+            "match_text": "tithi",
+            "context": "es, and D = the distance of the Sun (Moon).” (4) Characteristic feature of the yuga (planetary cycle). (p. 200) “Now, what is the characteristic feature of a yuga? This is being explained. The time which a planet, starting from the junction of Pisces and Aries at half sunrise at Lanka on the first tithi in the light half of Caitra, takes in returning to the junction of Pisces and Aries at 1. One ghati = 24 minutes. --- Page 57 --- ARYABHATIYA-BHASYA lili half sunrise on the first tithi in the light half of Caitra is called its yuga (cycle). So has been said : ‘The yuga (cycle of a planet) is the time by which the planet, starting from (the junction of ) the first point of Aries and the last point of Pisces at half sunrise at the equator (i.e, Lanka) in the beginning of the light half of Cai",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 200628,
+            "match_text": "tithi",
+            "context": "b). --- Page 107 --- SCHOLIASTS OF BHASKARA elit ‘There is no reference in the commentary to the time or place of the commentator. At one 918०९, however, the commentator cites an example where he states the aharguna (‘the number of civil days elapsed since the beginning of Kaliyuga’) for the 10th tithi, Vaisakha, light half (Suk/a-paksa), Saka year 995. This epoch corresponds to Friday, April 19, 1073 A.D. It is usual to give the ahargana for the current date. So we infer that this commentary was written about the year 1073 of the Christian era. This commentary is of immense historical interest, as it is in this commentary that we, for the first time, come across the name of the well-known Hindu mathematician S$ridharacarya and quotations from his work on arithmetic and mensuration. Moreover",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 790347,
+            "match_text": "tithi",
+            "context": "angle), 98 --- Page 476 --- GLOSSARY OF TECHNICAL TERMS 355 अधंबिस्तर (radius), 280, 281 अरधर्यतचतुरधक्षेव्र॒ (_right-angled triangle), 279 अबगाहशर (arrow of intercepted arc), 104 अवनति (== नति), 261; (difference between the natis of the Sun and Moon), 275; (+--स्फुटविक्षेप), 275 अवम (omitted tithi), 185, 189, 191-95, 204 अवमरात्र (omitted tithi), 191 अवमशेष (residue of the omitted tithis), 195 अवर्गस्थान (even place), 9, 10, 19 अवलम्ब (1. the vertical side of a right-angled triangle), 90 ; (2, plumb), 87; (3. Rsine of co-latitude), 268 अवलम्बक (अवलम्ब), 55-57, 59, 63-65, 68, 79, 85, 87-90, 256, 268, 269 etc. अविशिष्ट (obtained by the process of iteration), 252, 253 अविशिष्टकर्ण (hypotenuse obtained by the process of iteration), 224 अविशेष (absence of difference ; same as अविशिष्ट",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 801952,
+            "match_text": "tithi",
+            "context": "on of Earth’s shadow- cone at the Moon’s dis- tance), 104 तारक (star), 262 तारकप्रह (= तारप्रह्‌), 196 ताराप्रह (star-planets, i.e, the planets Mars, Mercury, Jupiter, Venus and Saturn), 236, 283 --- Page 483 --- 362 APPENDIX VIII fafa (lunar date), 16, 29, 190 तिथिप्रलय ( --अवम, te, omitted tithi), 173 तिथ्यन्त (end of new moon tithi or full moon tithi), 283 TR (= उच्च), 200 तुला (sign Libra), 32, 241 तुलाधरनर (sign Libra), 144 तोलिन्‌ (sign Libra), 243 ब्रसरेणु (a unit of linear measure), 173 तरिच्छेदाग्र (€ number which yields the given remainders when divided by the three given divisors), 151 faqa (triangle), 48, 54, 55, 57, 68, 77, 78, 85, 99 तव्रिसमचतुरश्र (3 trapezium with three equal sides), 65 afe (a unit of time), 175 Gat (one of the four smaller yugas), 25, 197 त्र",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 811357,
+            "match_text": "tithi",
+            "context": "onal number), 132 मत्स्यविधान (the fish-method for drawing a perpendicular), 255 सत्स्यविधि (--मत्स्यविधान), 279 मध्चु (7070 of Caitra), 183 अध्यच्छाया (midday shadow), 254 मध्यज्या (meridian sine, i.e., Rsine of the zenith-distance of the meridian: ecliptic point), 268, 274-76 मध्यतिथि (mean tithi), 275 मध्य(घन) (middle term), 105 मध्यम (mean), 22, 193, 196, 211, 217, 222, 225, 226, 230-31, 233, 236 मध्यमगति (mean daily motion), 185, 198 मध्यमप्रह (mean planet), 211, 216, 224-26, 228, 232 मध्यमतिथि (mean tithi), 190 मध्यलग्न (meridian ecliptic point), 254, 268 मध्याह्नच्छाया (midday shadow), 261 मनु (8 period of time, equal to 72 yugas, according to Aryabhata 1), 24, 25 मन्द (slow, apogee of slow motion, मन्‍्दोच्च), 22 मन्दकणं (hypotenuse associated with मन्दोच्च), 236 मन्दकं",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 811579,
+            "match_text": "tithi",
+            "context": "zenith-distance of the meridian: ecliptic point), 268, 274-76 मध्यतिथि (mean tithi), 275 मध्य(घन) (middle term), 105 मध्यम (mean), 22, 193, 196, 211, 217, 222, 225, 226, 230-31, 233, 236 मध्यमगति (mean daily motion), 185, 198 मध्यमप्रह (mean planet), 211, 216, 224-26, 228, 232 मध्यमतिथि (mean tithi), 190 मध्यलग्न (meridian ecliptic point), 254, 268 मध्याह्नच्छाया (midday shadow), 261 मनु (8 period of time, equal to 72 yugas, according to Aryabhata 1), 24, 25 मन्द (slow, apogee of slow motion, मन्‍्दोच्च), 22 मन्दकणं (hypotenuse associated with मन्दोच्च), 236 मन्दकं (manda-operation), 40 मन्दकेनद्र (manda anomaly), 222, 228 मन्दकेनद्रफल (manda correction, equation of the centre), 228, 229 मन्दनीचोच्च(वृत्त) (manda epicycle), 234 --- Page 489 --- 368 APPENDIX VIIL मन्दर (Meru mo",
+            "pattern_hit": "\\btithi\\b"
+          },
+          {
+            "position": 18371,
+            "match_text": "vara",
+            "context": "an eclipse) oo अनादेश्यं रविग्रहणम्‌ (Sun’s eclipse not to be predicted) * अहसाधनोपायः (Method for determining planetary motions) ** ` खष्पबायसंस्मरणम्‌ (Mention of the School) ¦ अतिकञ्चुककारिणे दण्डविधानम्‌ (Punishment to the imitator) सोभेश्वरभाष्यस्य उपसंहारश्लोकः (Concluding verse of Somedé- vara’s commentary) १ भास्करभाष्यस्य उपसंहारश्लोकः (Concluding verse of Bhaskara’s commentary) vee APPENDICES I. Examples in the Aryabhatiya-Bhasya of Bhaskara प्र. Bhaskara’s Tables for the Constant Pulveriser ax—]= by eee गा, Bhaskara’s Terms for Mathematical operations IV. Authorities cited by Bhaskara in the Aryabhatiya- Bhasya vee xiii Page २७८ २७८ २७९ २७९ र्छ० २८० २८० रषर रष Rsk रए २८७ २४७ 289 335 340 345 --- Page 18 --- xiv ARYABHATIYA Page V. Quotations in the Aryabhati",
+            "pattern_hit": "\\bvara\\b"
+          },
+          {
+            "position": 21944,
+            "match_text": "vara",
+            "context": "of scholars to them in a paper entitled ‘The two Bhaskaras’ published in Indian Historical Quarterly The two original works of Bhaskara I, viz.,the Maha-Bhas- Kariya and the Laghu-Bhaskariya, have already been edited and published with commentaries in Sanskrit written by Govinda-svami and Parame- $vara (A.D. 1431), and English translations of both the works have also appeared along with detailed annotations and comments. Bhaskara I is thus no longer unknown to historians of science. His commentary on the Aryabhatiya, which may be described as an important historical document throwing light on mathematics and astronomy in the sixth and seventh centuries A.D. in India, has not been published so far and is seeing the light of day, now, for the first time. 1. Vol. VI, 1930, pp. 727-36. A. 8४. 3",
+            "pattern_hit": "\\bvara\\b"
+          },
+          {
+            "position": 32236,
+            "match_text": "vara",
+            "context": "tary mentions the names of Panduranga-svami, Latadeva, and Niganku amongst direct pupils of of Aryabhata I. These considerations led the earlier scholars, such 1. For the katapayadi notation, see B. Datta and A.N. Singh, History of Hindu Mathematics, Part I, Lahore, 1935, pp. 69-72. 2. See Parame$vara’s commentary on LBA, i. 37. 3. According to Paramegvara, there are two corrections bearing the name Bhatabda. The one is the same as stated in the verse considered above (i.e., the Sakabda correction with epoch at Saka 444) ; the other is probably the one ascribed to Lalla (with epoch at Saka 421). For the sake of convenience in calculation Lalla takes the epoch at Saka 420 instead of Saka 421. See Stiryadeva’s commentary on A, iii. 10. Also see Paramegvara’s commentary on the same verse. Refe",
+            "pattern_hit": "\\bvara\\b"
+          }
+        ]
+      },
+      "A14": {
+        "name": "Transit (gochara)",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 14823,
+            "match_text": "transit",
+            "context": "anets) oe चन्द्रस्य सितभाग: (Lighted part of the Moon) tee Page २३२ २३४ २३४ २३६ २३६ २३७ २३८ RRs २४० २४० RVR २४४ २४५ २४७ २५० २५१ --- Page 15 --- CONTENTS erry rata: (Elevation of the lunar horns) चन्द्रस्य दशनकालः (Time of visibility of the Moon) चन्द्रस्य याम्योत्तरप्रवेशः (Meridian transit of the Moon) चन्दश्ुङ्धोन्नतिपरिलेखनविधि (Method of drawing a diagram of the elevation of the lunar horns) गृहपटल विवायं श्यृद्धोन्नतिदशंनम्‌ (Observation of the elevation of the lunar horns from inside a room) कि अर्धोदिते चन्द्रे शृ्धोन्नतिकल्पना (Elevation of the horns of the _ half-risen Moon) oe sqemen सितासितहेतुः (Reason for the dark and light portions in the Moon) “ee भूगोलसंस्थानम्‌ (Situation of the Earth) [ Someévara’s commentary begins | श्रुयोलपृष्ठे प्राणिनां स्थितिः (Situation",
+            "pattern_hit": "transit"
+          }
+        ]
+      }
+    },
+    "B. PREDICTIVE RULES": {
+      "B7": {
+        "name": "Conjunction effects",
+        "passage_count": 13,
+        "passages": [
+          {
+            "position": 11381,
+            "match_text": "Conjunction",
+            "context": "alary days) अवमदिवसस्य (For Omitted days) tee सुर्यापक्रमस्य (For Sun’s declination) ae अधिमासस्य (For Intercalary months) ct कालक्रियापादः (SECTION ON RECKONING OF TIME) मड्भलाचरणम्‌ (Invocation) - *** कालविभाग: क्षेत्रविभागश्च (Time-divisions and circular divisions) *** द्वियोगपरिज्ञानम्‌ (Conjunctions of Planets) नि युगे व्यतीपातसंब्या (Vyatipatas in a Yuga) git प्रहोच्चनी चभगणा: (Anomalistic and Synodic revolutions of planets in a Yuga) . AMARA Yasar: (Jovian years, Asvayuj etc, ) सौरचान्द्रसावननाक्षत्रमानानि (Solar, Lunar, Civil and Sidereal measures of time) अधिमासावमदिनानि (Intercalary months and Omitted days) सानुषपितृदेववर्षप्रमाणानि (Year measures of Men, Manes and Gods) = Page १५६ १५७ १५५ १६० १६१ १६३ १६४ १६५ ` १६७ १६८ १६९ १७० १७० १७० १७२ १७२ १७६ १७८ १७९ १८० १६१ १९१ १९",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 13936,
+            "match_text": "conjunction",
+            "context": "णां स्फुटयोजनक्णनियनम्‌ (Computation of the distance in yojana-s of the planets) ग्रहस्फूटीकरणे विशेष: (Specialities in planetary computation) *** तिथिप्रतिपच्छेदपरिज्ञानम्‌ (Computation of the beginning or end of the tithi) wee सूर्याचन्द्रमसोः समलिप्तोकरणम्‌ (Calculation of the Sun and Moon at conjunction or opposition) wee चन्द्रनक्षत्रप्रतिपच्छेदपरिज्ञानमू (Computation of the beginning or end of the Moon’s naksatra) ws गोलपाद: (SECTION ON THE CELESTIAL SPHERE) मड्भूलाचरणम्‌ (Invocation) tte गोलबन्ध: (Armillary sphere) ae भगोले अपकरममण्डलम्‌ (Ecliptic on the Sphere of asterisms) *** अपक्रममण्डलचारिणः (Celestial bodies moving along the ecliptic) one विक्षेपमण्डलचारिणः (Celestial bodies moving along planetary orbits) 7 प्रहाणां कलांशाः (Degrees of time for visibility of the planets) oe भूग",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 61435,
+            "match_text": "conjunction",
+            "context": "f the planets, (2) True positions and true velocities of the planets and their applications, (3) Directions, time and place, (4) Computation and graphi- cal representation of the eclipses, (5) Heliacal and diurnal risings of the Moon and the elevation of the lunar horns, (6) Heliacal rising and the conjunction of the planets, and (7) Conjunction of a planet with a star. These are the main topics of an astronomical tantra, to which the Maha- Bhaskariya belongs. 1. This is the penultimate stanza of the commentary Siddhanta- dipika on Govindasvami's Mahabhaskariya-Bhasya. 2. For example, see MBh, i. 19; iii. 415 v. 1, 11, 12. Also see MBh, i. 9, where reference is made to the astronomical constants given in the Gitika-pada of the Aryabhatiya. 3. For example, see MBA, iii. 37-38, which is exactly the",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 67375,
+            "match_text": "Conjunction",
+            "context": "he Maha-Bhaskariya, Bhaskara I adopts the following order of treatment, which is remarkably different from the usual order found in the other Hindu works on astronomy : Ch. 1. Calculation of the mean longitude. Ch. 2. Prime meridian and the longitude correction. Ch. 3. Directions, place and time. Conjunction of a star with a planet. Occultation of certain stars by the Moon. Ch. 4. Calculation of the true longitudes. Ch. 5. Eclipses of the Sun and the Moon. Ch. 6. Moon’s rising and phases, heliacal rising of the planets, and conjunction of the planets, --- Page 43 --- BHASKARA’S WORKS ist Ch, 7. Astronomical parameters. Ch. 8. Examples. Like Aryabhata I, the author of the Maha-Bhaskariya gives the astronomical parameters in a separate chapter. The same method has been followed in the Siddhanta-",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 67609,
+            "match_text": "conjunction",
+            "context": "and the longitude correction. Ch. 3. Directions, place and time. Conjunction of a star with a planet. Occultation of certain stars by the Moon. Ch. 4. Calculation of the true longitudes. Ch. 5. Eclipses of the Sun and the Moon. Ch. 6. Moon’s rising and phases, heliacal rising of the planets, and conjunction of the planets, --- Page 43 --- BHASKARA’S WORKS ist Ch, 7. Astronomical parameters. Ch. 8. Examples. Like Aryabhata I, the author of the Maha-Bhaskariya gives the astronomical parameters in a separate chapter. The same method has been followed in the Siddhanta-Sekhara of Stipati (८. 1039 A. D.). But whereas Aryabhata I and Sripati have chosen to introduce those parameters in the opening chapters of their works in the usual Hindu fashion, Bhaskara I has put themin the end, in the modern styl",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 69625,
+            "match_text": "conjunction",
+            "context": "true longitudes and true daily motions of the planets, is an important deviation from the usual order of treatment. This is just the reverse of the order followed in other works on Hindu astronomy. Another noteworthy departure from the usual practice is the appendage of the verses dealing with the conjunction of the planets with the stars, at the end of the third chapter which deals with the determination of the directions, Place and time. It may be pointed out that the conjunction of the Planets with the stars is usually treated at the end in the other Hindu works including the author’s smaller work, Laghu-Bhaskariya, The topic of the lunar eclipse is usually taken up before the solar eclipse. But the author of the Maha-Bhaskariya, following Aryabhata I, has Teversed this order too. It seems that h",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 79852,
+            "match_text": "conjunction",
+            "context": "is seen projected, must vary rather as the versed sine of her distance.’” 1. See E. Burgess, Translation of the Strya-siddhanta, notes on SaSi, x. 9. --- Page 49 --- BHASKaRA’S WORKS lv The rules prescribed by Bhaskara I are correct and do not call for any criticism. 9. Discussion of planetary conjunction in longitude. (MBh, vi. 5-7, 49-54). In the Brahma-sphuta-siddhanta and other later works, study is made of planetary conjunction along the secondary 10 the prime vertical (samaprotiya-vrtta). Bhaskara I deals with the conjunction of a planet with another planet or of a planet with a star, in celestial longitude. It is interesting to note in this connection that Brahmagupta! criticises Aryabhata I for making a study of planetary conjunction in celestial longitude, although there is no referenc",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 80084,
+            "match_text": "conjunction",
+            "context": "rect and do not call for any criticism. 9. Discussion of planetary conjunction in longitude. (MBh, vi. 5-7, 49-54). In the Brahma-sphuta-siddhanta and other later works, study is made of planetary conjunction along the secondary 10 the prime vertical (samaprotiya-vrtta). Bhaskara I deals with the conjunction of a planet with another planet or of a planet with a star, in celestial longitude. It is interesting to note in this connection that Brahmagupta! criticises Aryabhata I for making a study of planetary conjunction in celestial longitude, although there is no reference to it in the Aryabhatiyz. 10. Statement of the differing parameters and methods of the “other tantra” of Aryabhata I which followed midnight day-reckoning. (MBh, vii. 21-35). 55. Popularity of MBh The Maha-Bhaskariya was regard",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 80298,
+            "match_text": "conjunction",
+            "context": "ng the secondary 10 the prime vertical (samaprotiya-vrtta). Bhaskara I deals with the conjunction of a planet with another planet or of a planet with a star, in celestial longitude. It is interesting to note in this connection that Brahmagupta! criticises Aryabhata I for making a study of planetary conjunction in celestial longitude, although there is no reference to it in the Aryabhatiyz. 10. Statement of the differing parameters and methods of the “other tantra” of Aryabhata I which followed midnight day-reckoning. (MBh, vii. 21-35). 55. Popularity of MBh The Maha-Bhaskariya was regarded as an authoritative work on Aryabhata I’s sunrise system of astronomy (taught in the Aryobhotiya) and was studied as a higher text-book on astronomy. A number of commentaries were written on this work. The earli",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 83295,
+            "match_text": "conjunction",
+            "context": "mean longitudes. Ch. 2. Calculation of the true longitudes. The paficanga. Ch. 3. Directions, place and time. Ch. 4. Eclipse of the Moon. Ch. 5. Eclipse of the Sun. Ch. 6. Heliacal visibility and phases of the Moon, elevation of the Moon’s horns, and moonrise. Ch. 7. - Heliacal visibility and conjunction, in longitude, of the star-planets (Mars, etc.). Ch. 8. Conjunction of planets with stars. The contents of the Laghu-Bhaskariya justify the claim of that work of being an abridged edition of the author’s larger work, the Maha-Bhaskariya. 11 would be more correct to call it a well-planned summary of the important rules and processes contained in the Maha- Bhaskariya. The indeterminate analysis of the first degree, the --- Page 51 --- BHASKARA'S WORKS alvii eccentric theory of planetary motio",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 96465,
+            "match_text": "conjunction",
+            "context": "fithi for the time of apparent con- junction of the Sun and Moon is indeed obtained in the eastern and > western halves of the celestial sphere. There (in order to get the true tithi for the time of sunrise or sunset) four ghatis' are added to or subtracted from the mean fithi (‘time of geocentric conjunction of the Sun and Moon’). At that time (of sunrise or sunset), the Rsine of the zenith distance (of the Sun or Moon) is equal to the radius (i.e., 3438’), the mean parallax of the Sun is 3’56\", and the mean parallax of the Moon is 52} minutes of arc. By the method of inversion, multiplying the distance of the Sun or Moon, in yojanas, by its own parallax and dividing by the Rsine of its zenith distance, which is equal to the radius (1.९., 3438’), is obtained the semi-diameter of the Earth. Twice of",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 799245,
+            "match_text": "conjunction",
+            "context": "wn value), 127-29 गृह (sign) गोल (1, sphere; 2. celestial sphere ; 3. circle), 1, 2, 5, 29, 42, 43, 45, 240, 243, 248, 255, 265, 269, 281 गोलक (== गोल), 77, 261 गोलयस्‍्त्र, 268 प्रहकुट्टाकार (planetary pulveriser), 136, 143, 144 प्रहदेह (९९ MBh, i. 29-30), 210 प्रहण (eclipse), 12 ग्रहयुति (conjunction of planets), 12 प्रहोपराग (eclipse), 214 wrt (measure of eclipse), 103, 104, 105, 280 WEF (eclipsing body), 104, 277, 279-282 प्राह्य (eclipsed body), 104, 279, 281, 282 APPENDIX vit घटिका (1. a unit of time equal to 24 minutes; 2. a vessel used for measuring time), 174, 266 ufemrara(instrument for knowing time in terms of ghatikas ete.), 285 घठी (=sfem), 13 घन (cube), 7, 44, 50, 51, 53, 54, 109 घनगणित(<- घनफल), 58, 61 घनगोलफल — (volume sphere), 61, 62 of solid घनचिति (a series of",
+            "pattern_hit": "conjunction"
+          },
+          {
+            "position": 814135,
+            "match_text": "conjunction",
+            "context": "quantity of unknown value, x), 128, 267 युग (a period of 43,20,000 years), 5, 24, 25, 27, 116, 184, 185, ` 199, 200, 205, 206, 209, 213; (a period of 5 years), 176 युगपाद (quarter yuga), 198, 201, 202 य्रुगाहुगंण (number of civil days in a yuga), 190 यूक (a unit of linear measure), 173 योग (conjunction of two planets), 176, 177 योजन (a unit of linear measure, equal to 80004 cubits), 26 रथरेणु (a unit of linear measure), 173 रविग्रहण (solar eclipse), 281, 282 रव्युदय (== भूदिवस), 186 राशि (sign), 26, 165 राशि ( व्यवहार ) (determinations pertaining to heaps of corn), 6, 7 राशिगणित (symbolical matics), 44 mathe आयं० Ate ४७ राश्युबयकाल (times of risings of the signs), 249 राश्युदयप्रमाण (--राश्युदयकाल), 249 राहु (1. Moon’s ascending node), 104, 185, 202; (2. Eclipser), 212 रिपु (desi",
+            "pattern_hit": "conjunction"
+          }
+        ]
+      },
+      "B8": {
+        "name": "Yoga definitions + effects",
+        "passage_count": 8,
+        "passages": [
+          {
+            "position": 4772,
+            "match_text": "yoga",
+            "context": "vii Ixviii Ixix Ixix Ixix xx Ixxi Ixxi Ixxiii Ixxvi Ixxvii xxviii Ixxx Ixxxi Ixxxii Ixxxii Ixxxii --- Page 7 --- CONTENTS iii Page 8. Scholiasts of Bhaskara I Ixxxiv 8.1. Commentaries on the Maha-Bhaskariya Ixxxv 1. Govinda-svami’s commentary Ixxxv 2. SUryadeva’s commentary xc 3. The Prayoga-racana xc 4, Makkibhatta’s commentary tee xcii 5. Paramegvara’s Siddhanta-dipika तला 6. Paramegvara’s Karma-dipika wee ज़्ट्ए 8.2. Commentaries on the Laghu-Bhaskariya te xevii 1. Sankarandrayana’s commentary xevii 2. Udayadivakara’s commentary, Sundari cii 3. Paramesvara’s commentary civ 4. Commentary Vivarana in Old Malayalam cv 5. Anonymous commentary in Malayalam wee evii 6. Balasankaram by Sankaran Nampitiri evil 7. Another anonymous commentary in Malayalam... cviii 9. Somegyar",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 154149,
+            "match_text": "yoga",
+            "context": "The usual term is yargasankalita. The usual term is ghanasankalita. The usual term is sankalita-sankalita. Cf. PG, definition 10; Tris, def. 5; Kautilya’s Arthasastra, ii, ch. xix; Abhidhanappadipika, gathas 479-80; GK, def. 5; L, def. 4; Raghunatha-raja’s comm. on A, ii. 2. 6. Cf. GT, def. 7; Anuyogadvarasutra. The latter is quoted by H.R. Kapadia in the introduction क. xxxvii) to his edition of the GT. 7. Vimsopaka really means ‘one-twentieth part’, So one- twentieth of any measure may be called a virnsopaka of that measure. „८ > ५ pr --- Page 85 --- ARYABHATIYA-BHASYA feaxi Other measures used by Bhaskara I are the same as stated by Aryabhata I. 7. Classification of the Pulveriser (Kuttakara) Bhaskara I is the first to classify mathematical problems based on the indeterminate equati",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 174137,
+            "match_text": "Yoga",
+            "context": "by me in the past. First of all I explained (Govinda-svami’s) commentary, entitled Govindasvamya, on the maha-tantra of Bhaskaracarya (i.e, the Maha-Bhaskariya). Then I wrote a brief exposition of the Aryabhatiya-sastra under the title Bhata-prakasa. There- after I briefly explained the Maha-yatra (Yoga-yatra) of Varaha- mihira. Then I explained in detail this (Laghu) manasa-karana, with a view to providing both mula-vasana and samksepa-vasana. At present I am writing an exposition of Sripati’s Jataka- paddhati, 1am sure it will be brought to a successful finish by the grace of Goddess Sarasvati.” Datta was of the opinion that the commentary on the Maha- Bhaskariya which bears the name Prayoga-racana was by SUryadeva.* But this conjecture has so far not been proved to be correct. 3. The Pra",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 174537,
+            "match_text": "yoga",
+            "context": "providing both mula-vasana and samksepa-vasana. At present I am writing an exposition of Sripati’s Jataka- paddhati, 1am sure it will be brought to a successful finish by the grace of Goddess Sarasvati.” Datta was of the opinion that the commentary on the Maha- Bhaskariya which bears the name Prayoga-racana was by SUryadeva.* But this conjecture has so far not been proved to be correct. 3. The Prayoga-racana This commentary begins with the verses : soma शिवमनिशं तं घं ब्रह्म ब्रह्मवादिनः प्राहुः । यस्य च विभरुतिरेषा क्षित्यादीनां प्रकाज्ञाख्या ॥ क्रियते प्रयोगरचना गृरुप्रसादेन भास्करीयस्य 1 येषा प्रदीपिकेव प्रकाशयित्रो च सूक्ष्मवस्तूनि ॥ अक्षरसंज्ञा ज्ञेया क्वचित्‌ ववचिद्‌ भूतसंज्ञका ज्ञेया । संख्यावस्तुनि यथा सुकरा्युपपादयितुं तथा वक्ष्ये ॥ 1. See B. Datta, ‘The two Bhaskaras’, IHQ,",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 721696,
+            "match_text": "yoga",
+            "context": "ould be applied to problems involving nine quantities or more.” This shows that the so-called rules of nine and eleven, etc. were well known in the time of Bhaskara I. 3. Ex, 79 reappears in Yallaya’s comm. on A, ii. 26. 4. Prasrti is a measure of grain, equivalent to one handful. According to Anuyogadvara-sttra, 2 prasrtis are equivalent to 1 setika. For setika, see above Introduction, ए. Ixxx. 5. Ex. 80 reappears in Yallaya’s comm. on A, ii. 26. 6. Ex. 81, in different words, is found to occur in Prthudaka’s comm. on BrSpSi, xii. 8. --- Page 428 --- EXAMPLES OF BHASKARA 307 82. What are the sums of 1/2, 1/6 and 1/3, and of 1/2, 1/6, 1/12, 1/20 and 1/5 ?! [Page 123, Ex. 2] 83. Calculate, O mathematicians, what the following sums amount to (when added together) : 1/2 minus 1/6 ; 1/5 min",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 772800,
+            "match_text": "yoga",
+            "context": "from the root pre : samparka, (ix) Forms derived from the root misr र misrita, sammisra, (x) Forms derived from the root vrdh : vardhate, vivardhate, vrddhi. (xi) Forms derived from the root yu : yuta, yuti, samnyuta, samyuti. (xii) Forms derived from the root yuj ; niyojya, yukta, yukti, yuktya, yoga, yojayitavyam, yojayet, yojita, yojyam, yojya, yojyate, yojyante, yojyah, viniyojya, samyukta, sarnyoga, samyojita, sanyojya, samyojyamana. (xiii) Other terms and forms : adhika, adhya (antonym of vihina), ektkrta, kalpa (addition), dhana (addition), udaya (addition). 2. Subtraction (—) The terms for the operation of subtraction are derived from the roots as (with prefix apa ; to throw away, to discard), i (with prefix apa; to leave, to omit), un (to lessen), r (to give up), ksi (to decay or",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 774612,
+            "match_text": "yoga",
+            "context": "s derived from the root tyaj : tyaktva, tyajet, tyajyante. Forms derived from the root ni : apanayana, apanayet, apanite, apaniya, apaniyate, apaniyante, samapaniya. Forms derived from the root pat : nipatita, nipatya, patita, patayitva, patita, patyate. Forms derived from the root yuj : viyukti, viyoga. Forms derived from the root rah : rahita, yirahita. Forms derived from the root vy : vivara, vivarakam. Forms derived from the root एं : varjita, vivarjita. Forms derived from the root sis : avasista, avasesa, visista, visisyate, visesa, visesana, visesita, viSegyate, Sista, sigyate, Sesa, Sesayet. Forms derived from the root sudh : parisuddha, parisodhya, pravisuddha, pravisodhayet, pravigodhya, visuddha, visodhayet, visodhita, visodhite, visodhyam, visodhya, visodhyate, visodhyante, visodhy",
+            "pattern_hit": "yoga"
+          },
+          {
+            "position": 810590,
+            "match_text": "yoga",
+            "context": "195, 211 भूदिवस (= भूदिन), 20, 26, 136, 139, 142, 144, 173, 185-87, 191- 194, 203 --- Page 488 --- GLOSSARY OF TECHNICAL TERMS 367 भूषरिधि (circumference of the Earth), 29 भूभगण (rotations of the Earth), 20, 21 भूश्रमण (Earth’s rotation), 260 भूमि (base), 63 भूमिसुत (Mars) भेद (a variety of yoga in.which a smaller —_ planet between the observer and the disc of a larger planet and appears to pierce or make a hole into the larger planet), 235 भोग (मुक्ति), 279 comes श्रम (--ककंटक, a pair of com- passes), 85 . मण्डल (circle, revolution), 78, 137- 141, 145, 148, 150, 177, 195, 199, 200, 211-14, 223, 238, 240, 241, 244 मण्डलकुट्टाकार (revolution pulve- riser), 138 मण्डलदेष (residue of the revo- lutions), 137, 139, 145, 146, 153, 154, 195 मति (optional number), 132 मत्स्यविधान (the f",
+            "pattern_hit": "yoga"
+          }
+        ]
+      },
+      "B12": {
+        "name": "Marriage indicators",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 212385,
+            "match_text": "wife",
+            "context": "िल्‌ एल्लाप्पोषुं ses ॥ --- Page 113 --- SOMESVARA लम उद्यक्कास्पिल्‌ निन्नणजञ्जिट्‌दु पुरप्पेट्टेड्डल्ड नाविलु । साधुक्क वकु सुखिप्पानाय्‌ कूत्ताट्‌क सरस्वती ॥ पोट्टिस्ट्टिनेयोटिच्चिटूरिविष्टे निलाविने। उछ्कलेड्डूं aaa गुरुति ड्‌ क विकड्डुक ।। कुरच्चिट्टु चमच्चुगढ्‌ भास्करीयत्तिलेप्पोरुक्‌ । भाष wifes चोत्लुननेन्‌ बालन्माक्कंरिवान्‌ नटे ॥ The commentary proper commences thus : अविटे भास्कराचार्यन्‌ चमप्पान्‌ उपक्रमिक्कप्पेट्टिरिक्कुन्न प्रग्थत्तिनु एतोरू विध्नं कूटाते चमच्चुकूटुवतिनाधिक्कोण्टु इष्टदेवतानमस्कारत्ते चेन्न्‌ । The manuscript is complete and closes with the colophon : इङ्डिनि एट्टां अध्यायं कषिञ्जु । The language smacks of mediaeval Malayalam and the work may be two or three hundred years old. 9. SOMESVARA Having thus noticed the life and works of Bhaskara I and his schol",
+            "pattern_hit": "wife"
+          }
+        ]
+      },
+      "B13": {
+        "name": "Children indicators",
+        "passage_count": 36,
+        "passages": [
+          {
+            "position": 14473,
+            "match_text": "son",
+            "context": "भगोले अपकरममण्डलम्‌ (Ecliptic on the Sphere of asterisms) *** अपक्रममण्डलचारिणः (Celestial bodies moving along the ecliptic) one विक्षेपमण्डलचारिणः (Celestial bodies moving along planetary orbits) 7 प्रहाणां कलांशाः (Degrees of time for visibility of the planets) oe भूग्रहादीनां प्रकाशहेतु: (Reason for the brightness of the Earth and of the planets) oe चन्द्रस्य सितभाग: (Lighted part of the Moon) tee Page २३२ २३४ २३४ २३६ २३६ २३७ २३८ RRs २४० २४० RVR २४४ २४५ २४७ २५० २५१ --- Page 15 --- CONTENTS erry rata: (Elevation of the lunar horns) चन्द्रस्य दशनकालः (Time of visibility of the Moon) चन्द्रस्य याम्योत्तरप्रवेशः (Meridian transit of the Moon) चन्दश्ुङ्धोन्नतिपरिलेखनविधि (Method of drawing a diagram of the elevation of the lunar horns) गृहपटल विवायं श्यृद्धोन्नतिदशंनम्‌ (",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 15159,
+            "match_text": "son",
+            "context": "िपरिलेखनविधि (Method of drawing a diagram of the elevation of the lunar horns) गृहपटल विवायं श्यृद्धोन्नतिदशंनम्‌ (Observation of the elevation of the lunar horns from inside a room) कि अर्धोदिते चन्द्रे शृ्धोन्नतिकल्पना (Elevation of the horns of the _ half-risen Moon) oe sqemen सितासितहेतुः (Reason for the dark and light portions in the Moon) “ee भूगोलसंस्थानम्‌ (Situation of the Earth) [ Someévara’s commentary begins | श्रुयोलपृष्ठे प्राणिनां स्थितिः (Situation of living beings on the surface of the Earth) vee ep बद्धघपचयो (Increase and decrease of the size of the Earth) oe शूस्रमणम्‌ (Earth’s rotation) ` आूर्क्‍मणकारणम्‌ (Cause of the rotation of the Earth) भेदबर्णनम्‌ (Description of Mt. Meru) We-avarqaat: स्थिती (Situation of Meru and Badavamukha)’** उदयादिव्यवस्था (Order of the r",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 19272,
+            "match_text": "SON",
+            "context": "VII, Word-numerals used by Bhaskara “ve 351 शा. Index-Glossary of Technical Terms used 10 the Aryabhatiya-Bhasya a 353 IX. Index of half-verses and key passages see 375 --- Page 19 --- ROMAN TRANSLITERATION OF DEVANAGARI VOWELS Short : अ इ उ ऋ लु Long : आ ई ऊषए ओ ऐ मौ Anusvara: * = m : h CONSONANTS Classified : क्‌ ख्‌ ग्‌ घ्‌ ङ्‌ k kh g gh n च॒ छू न्‌ HF न्‌ © ch j jh fi द द © द ण्‌ t th १ ५० q च्‌ q ध्‌ न्‌ t th d dh n प्‌ 8 ब्‌ म्‌ म्‌ [५ ph b bh 71) Un-classified : य्‌ र्‌ ल्‌ q श्‌ ष्‌ y Tt v $ | Compound: क्ष 4. ¢| ( | ~> ८ + ks tr av | a अ --- Page 20 --- MBh PG PSi SiDVr SiSe SiSi Sasi Tris LIST OF ABBREVIATIONS Aryabhatiya of Aryabhata I \\ Bhaskara 1705 Bijaganita of Varahamihira Brhat-jataka of Varahamihira Brhat-samhita of Varahamihira Brahma-s phuta",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 20729,
+            "match_text": "son",
+            "context": "text of the Aryabhatiya along with its commentary in Sanskrit by Bhaskara who was considered to be the greatest authority on Aryabhata I and who, in the words of his scholiast Govinda of the ninth century A.D., “stimulated and glorified the teachings of Aryabhata I”. This Bhaskara isa different person from his namesake of the twelfth century A.D., the celebrated author of the Li/avati and the Siddhanta-Siromani. He lived in the seventh century of the Christian era and was a contemporary of Brahmagupta (A.D. 628). To distinguish between the two, we designate the commentator of the Aryabhatiya as Bhaskara I and the author of the Lilayati as Bhaskara 1. Although Bhiaskara [ earned great nam2 and fame as a teacher (guru) of astronomy and his works continued to be studied in South ^ India up to",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 22579,
+            "match_text": "son",
+            "context": "ixth and seventh centuries A.D. in India, has not been published so far and is seeing the light of day, now, for the first time. 1. Vol. VI, 1930, pp. 727-36. A. 8४. 3 xvii --- Page 22 --- xviii INTRODUCTION 1, BHASKARA I Hindu writers generally do not give the details of their ancestors and personal history. The position as regards Hindu astronomers and mathematicians is not much better. Works on astronomy written before the sixth century A.D. have been declared by the later writers to have been of divine origin, containing knowledge imparted by one god or the other to his devotee. The Surya-siddhanta, for example, claims to contain the teachings imparted to the asura Maya by an agent of the Sun-god. The Aryabhatiya of Aryabhata I is the earliest work on mathematics and astronomy which b",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 23661,
+            "match_text": "son",
+            "context": "s regarding their time or place. It is Bhaskara II of the twelfth century who has given a more detailed information about his life, and some of the subsequent writers have followed him. Bhaskara I, an ardent follower of Aryabhatal as he is, has followed Aryabhata I in keeping the details of his personal and family history a close secret. Like Aryabhata I, he has mentioned his name in all his works and in his commentary on the Aryabhatiya he has given, in addition, the number of years elapsed since the beginning of the current Kalpa (2601), but nowhere in his writings has he mentioned the name of his father, mother or teacher or of the place where he was born, brought up or educated, or of the place where he settled in later life and wrote his works. In deciding his time and place we have to",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 38024,
+            "match_text": "son",
+            "context": "of Varahamihira’s criticism of the theory of the Earth’s rotation advocated by Aryabhata I. 3. BHASKARA’S PLACE Bhaskara I does not mention the name of the place where he was born, brought up and educated, or of the place where he settled in later life and wrote his works. There are, however, reasons to believe that he belonged to the ASmaka country but lived and taught at Valabhi in Surastra (modern Saurdstra or Kathiawar) where he wrote his commentary on the Aryabhatiya. 3.1. Asmaka Bhaskara I has referred to the country of Amaka at several places in more than one context : 1. “Given that 100 minutes of the eighth sign are to be traversed by the Sun, say quickly, after giving careful thought, 0 intelligent one, if the Ganita of Asmaka (asmakasya ganitam) is known to you, all the years",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 40111,
+            "match_text": "son",
+            "context": "I by the unusual name Aémaka, his Aryabhatiya by the names Asmaka- tantra and Aémakiya, and his followers by the designation Asmakiyah in preference to the usual names ? It seems that the astronomers of the Agmaka country, of whom Bhaskara I was one, were followers of Aryabhata I. For patriotic reasons, they called Aryabhata I by the name Agmaka (because he was an Agmaka, having originated from that country) and themselves as ‘followers of Agmaka’ (Asmakiyah). As Datta has observed, Bhaskara I was undoubtedly the most competent exponent of this school of astronomy (the Agmaka school). The Asmaka country (or ASmaka-janapada) is mentioned in Hindu, Buddhist and Jaina literatures, where it means either (1) a 1. See comm. on A, ii. 32-33, Ex. 18, 9. 147. 2. Ibid., Ex. 20, See ए. 148. --- Page",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 41945,
+            "match_text": "son",
+            "context": "of Varahamihira’s criticism of the theory of the Earth’s rotation advocated by Aryabhata I. 3. BHASKARA’S PLACE Bhaskara I does not mention the name of the place where he was born, brought up and educated, or of the place where he settled in later life and wrote his works. There are, however, reasons to believe that he belonged to the ASmaka country but lived and taught at Valabhi in Surastra (modern Saurdstra or Kathiawar) where he wrote his commentary on the Aryabhatiya. 3.1. Asmaka Bhaskara I has referred to the country of Amaka at several places in more than one context : 1. “Given that 100 minutes of the eighth sign are to be traversed by the Sun, say quickly, after giving careful thought, 0 intelligent one, if the Ganita of Asmaka (asmakasya ganitam) is known to you, all the years",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 47185,
+            "match_text": "son",
+            "context": "university seat of Buddhist learning. The country of Surastra was ruled for a long time by kings who were Buddhists. At the time of Yuan Chwang’s visit to India (October 630 A.D. to July 644 A.D.), it was ruled by a Ksatriya king Dhruvabhatta, a nephew of Siliditya, the former king of Malava, and a son-in-law of Siladitya reigning at Kanyakubja (Kannauja).t According to Yuan Chwang, Valabhi was a great seat of learning. It had a number of Buddhist monasteries and also a large number of Hindu temples. 1. Cf. T. Watters, On Yuan Chwang’s Travels in India, edited by T.W. Rhys Davids and S.W. Bushell, vol. 11, London, 1905, p. 246, --- Page 34 --- | 11 INTRODUCTION The king, though a Buddhist, encouraged Hindu sciences and culture. Bhaskara I might have been a court astronomer of Dhruvabhatta.",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 58686,
+            "match_text": "son",
+            "context": "s, written by Aryabhata, deal with matters beyond the reach of the senses. It is impossible for people like us to explain even one-hundredth part of their meaning, not to say of the whole.” The study of Bhaskara I’s commentary on the Aryabhatiya did not remain confined to South India. There are reasons to believe that it was popular in North India also at an earlier age. PrthUdaka, who lived at Kannauj in Uttara Pradesh, in his commentary on the Brahma- sphuta-siddhanta of Brahmagupta, refers to Bhaskara I and his inter- pretations of the rules of Aryabhata I as many as four times. 5. MAHA-BHASKARIYA The Meha-Bhaskariya is, as explained, the earliest work of Bhaskara I. The author asserts that it is “a compendium of the astronomical processes based on the teachings of Aryabhata I.” Hence t",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 86618,
+            "match_text": "son",
+            "context": "s an idea of the development of Hindu algebra in the first half of the seventh century A.D. 63. Popularity of LBh The Laghu-Bhaskariya proved to be an excellent text-book for beginners in astronomy on account of its conciseness, clear and simple expression and judicious arrangement. There are reasons to believe that it was a popular work in Kerala, Cola, and the neighbour- ing states including the Tamil-speaking ones. Numerous quotations of word-chronograms expressing astronomical parameters from this work found in the annotative works of Siryadeva (b. 1191 A.D.) indicate that he must have read this work in his school days. The commentator Paramegvara (1431 A D.) himself admits to have read it at the feet of his teacher. In the opening stanza of his commentary on this work, he writes : “T",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 102550,
+            "match_text": "son",
+            "context": "Page 59 --- ARYABHATIYA-BHASYA 1९ followed in the works of Maskarj, etc., appears to have been the same as found in later works. The names Maskari and Purana occur in the manuscripts together as Maskariptrana and it is difficult to say whether Maskari and Purana are the names of two different persons or Maskari-Pirana is the name of one and the same person. Maskari-Purana as one name is mentioned by Acarya Srutasagara Siri (1525 A.D.) in his commentary on the Bodhaprabhyta (gatha 53) and the Bhavaprabhrta (gathas 84 and 135) of Acdrya Kunda-kunda (०. 450 A.D.). 7-42. Passages from mathematical works Nineteen passages dealing with mathematics have been quoted, fully or partly, from contemporary or anterior works. Of these, fourteen are in Sanskrit and five in Prakyta gathas. From the Sans",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 105476,
+            "match_text": "son",
+            "context": "sed by Bhaskara I. The main target of his attack is the value of a=4/10, which was then regarded as the accurate value. Bhaskara I has demonstrated that these formulae lead to inconsistent results. The following formula, taken from some work written in Sanskrit, is also criticised for the above reason : 6. arc of segment of a circle = /10 (c/4+a/2)3, where ‘a’ is the arrow of the arc and ‘c’ the bounding chord. Bhaskara I concludes by saying : “So I bow to ./10 whose grace is not well-conceived.”” 7-43. Astronomers and astronomical works THE FIVE SIDDHANTAS Bhaskara I mentions the names of the five well-known siddhantas, (viz., Syayambhuva-siddhanta,\\ Vasistha-siddhanta, Saurya-siddhanta*, Romaka-siddhanta and Paulisa-siddhanta), and refers to a number of 1. The same as Paitamaha-siddh",
+            "pattern_hit": "son"
+          },
+          {
+            "position": 116041,
+            "match_text": "son",
+            "context": "re altogether three references to Acarya Latadeva. In the first reference,5 he is stated to have written that “the winter solstice occurs (when the Sun is) at the beginning of Capricorn, and the summer solstice (when the Sun is) at the beginning of Cancer’, and further that “the durations of the seasons gisira (winter), vasanta (spring), grisma (summer), ghanagama (rainy season), Sarada (autumn), and himagama (beginning of winter) are respectively equivalent to the times of the Sun’s stay in the successive pairs of beginning with Capricorn, In the second reference,® ‘tadeva is said to have defined the solar, civil, and sidereal units of lime with reference to true velocity. The third reference? shows that 1. See Nilakantha’s comm. on A, iii 2. 11 scems to us that whether Bhaskara I critici",
+            "pattern_hit": "son"
+          }
+        ]
+      },
+      "B14": {
+        "name": "Career indicators",
+        "passage_count": 4,
+        "passages": [
+          {
+            "position": 5678,
+            "match_text": "vocation",
+            "context": "rial Note : see cxiii i. Manuscript material cxiii ii. Presentation of the Text and Commentary ८४ iii. Editorial innovations ९४४ iv. Appendices exvi 3. Acknowledgements we exvi --- Page 8 --- iv ARYABHATIYA ARYABHATIYA WITH THE BHASYA OF BHASKARA गीतिकापादः (GITIKA SECTION) मद्भलाचरणम्‌ (Invocation) = संख्याविन्यासे परिभाषा (Method of writing numbers) ज्योतिषशास्त्रप्रादृभवि व्यास्याकारमतम्‌ (Views of the commentator on the origin of astronomy) tee बेदाड्रेषु ज्योतिषशास्त्रप्राधान्यन्‌ (Superiority of astronomy among the ancillaries of the Veda) लोकव्यवहारे ज्योतिषशास्त्रोपादेयता (Use of astronomy in everyday life) ॥ प्रहाणं युगभगगा: (Revolution-numbers of Planets in a yuga) प्रहोच्चयुगभगणा: (Rev. numbers of the Moon’s Apogee and of Sighroccas of Planets) nse पातयुगभगणाः (Rev. number",
+            "pattern_hit": "vocation"
+          },
+          {
+            "position": 7042,
+            "match_text": "vocation",
+            "context": "(Manda and Sighra epicycles in even quadrants) . Page ११ १३ १६ २१ २३ २३ २४ २६ qs ३१ RR ३७ (41 --- Page 9 --- CONTENTS खतुविशतिज्यार्धानि (The 24 Rsines) दश्गीतिकासूत्र परिज्ञानफलम्‌ (Advantage of the study of the Ten Gitika-sutras) गणितपाद: (MATHE MATICS SECTiON) अङ्गलाचरणम्‌ (Invocation) प्रतिपादवस्तुनिदेंशः (Enunciation of the topics discussed) ऋक्कधास्थाननिरुपणम्‌ (Places of notation) दिम ‘(Square and Squaring) खलबरिकर्म (Cube and Cubing) मूलम्‌ (Square root) नलम्‌ (Cube root) Saget q (Area of a Triangle) बजक्षिघनफलम्‌ (Volume of a Right pyramid) बूंसलैसफलम्‌ (Area of a Circle) भोलघनफलस्‌ (Volume of a Sphere) लैमलस्बचतुर्मुजफलम्‌ (Area of a Trapezium) क्षेत्रफल प्रत्ययकरणञ्च (Arca of any Plane figure and veri- fication thereof) ब्यासार्धतुल्यज्या (Chord of one-sixth of a",
+            "pattern_hit": "vocation"
+          },
+          {
+            "position": 11273,
+            "match_text": "vocation",
+            "context": "चस्य (For Venus’ Sighrocca) शने: (For Saturn) चन्द्रकेन्द्रस्य (For Moon’s anomaly) अधिदिवसस्य (For intercalary days) अवमदिवसस्य (For Omitted days) tee सुर्यापक्रमस्य (For Sun’s declination) ae अधिमासस्य (For Intercalary months) ct कालक्रियापादः (SECTION ON RECKONING OF TIME) मड्भलाचरणम्‌ (Invocation) - *** कालविभाग: क्षेत्रविभागश्च (Time-divisions and circular divisions) *** द्वियोगपरिज्ञानम्‌ (Conjunctions of Planets) नि युगे व्यतीपातसंब्या (Vyatipatas in a Yuga) git प्रहोच्चनी चभगणा: (Anomalistic and Synodic revolutions of planets in a Yuga) . AMARA Yasar: (Jovian years, Asvayuj etc, ) सौरचान्द्रसावननाक्षत्रमानानि (Solar, Lunar, Civil and Sidereal measures of time) अधिमासावमदिनानि (Intercalary months and Omitted days) सानुषपितृदेववर्षप्रमाणानि (Year measures of Men, Manes and God",
+            "pattern_hit": "vocation"
+          },
+          {
+            "position": 14128,
+            "match_text": "vocation",
+            "context": "the beginning or end of the tithi) wee सूर्याचन्द्रमसोः समलिप्तोकरणम्‌ (Calculation of the Sun and Moon at conjunction or opposition) wee चन्द्रनक्षत्रप्रतिपच्छेदपरिज्ञानमू (Computation of the beginning or end of the Moon’s naksatra) ws गोलपाद: (SECTION ON THE CELESTIAL SPHERE) मड्भूलाचरणम्‌ (Invocation) tte गोलबन्ध: (Armillary sphere) ae भगोले अपकरममण्डलम्‌ (Ecliptic on the Sphere of asterisms) *** अपक्रममण्डलचारिणः (Celestial bodies moving along the ecliptic) one विक्षेपमण्डलचारिणः (Celestial bodies moving along planetary orbits) 7 प्रहाणां कलांशाः (Degrees of time for visibility of the planets) oe भूग्रहादीनां प्रकाशहेतु: (Reason for the brightness of the Earth and of the planets) oe चन्द्रस्य सितभाग: (Lighted part of the Moon) tee Page २३२ २३४ २३४ २३६ २३६ २३७ २३८ RRs २४० २४०",
+            "pattern_hit": "vocation"
+          }
+        ]
+      },
+      "B15": {
+        "name": "Wealth indicators",
+        "passage_count": 13,
+        "passages": [
+          {
+            "position": 207916,
+            "match_text": "wealth",
+            "context": "eeds to illustrate the calculation of the latitude for Madurai from the gnomonic shadow, and derives it as 9° 28’. The same latitude is derived also from another example under LBh, iii. 33, but without the indication of the name of the place. The wide reading of the commentator is evidenced by the wealth of quotations from a large number of works cited to corroborate his comments. Besides the more common authorities like Aryabhata, Brahmagupta, Surya-siddhanta, Patica-siddhantika, Ratna-kosa, Siddhanta-sekhara and Ratna-mala, some comparatively obscure texts like Siddhanta-tilaka and Sarva-siddhi, are also found quoted. Anumber of quotations are given anonymously. The commentary Sundari by Udayadivakara on the LBh also comes in for quotation. The available manuscript is, as already stated, inco",
+            "pattern_hit": "wealth"
+          },
+          {
+            "position": 724535,
+            "match_text": "wealth",
+            "context": "strong horses bearing auspicious marks and money in hand amounting to 100 (rupakas) ; with the second (merchant) there are 9 horses and money amounting to 80 (rupakas). If the two merchants be equally rich and the price of each horse be the same, tell (me) the,price of one horse and also the equal wealth (with them)? [Page 127, Ex. 1] 89. A certain person has 8 palas of saffron and money amounting to 90 rapakas ; another person possesses 12 palas of saffron and 30 rupakas ; (and the two persons are equally rich). If the two persons have bought the saffron at the same rate per pala, I want to know the price of one pala (of saffron) and also the equal wealth with the two. [Page 127-28, Ex. 2] 90. 7 yavattavat+7 rapaka==2 yavattavat+-12 rapaka, What is the value of 1 yavattavat ? [Page 128, Ex.",
+            "pattern_hit": "wealth"
+          },
+          {
+            "position": 724895,
+            "match_text": "wealth",
+            "context": "has 8 palas of saffron and money amounting to 90 rapakas ; another person possesses 12 palas of saffron and 30 rupakas ; (and the two persons are equally rich). If the two persons have bought the saffron at the same rate per pala, I want to know the price of one pala (of saffron) and also the equal wealth with the two. [Page 127-28, Ex. 2] 90. 7 yavattavat+7 rapaka==2 yavattavat+-12 rapaka, What is the value of 1 yavattavat ? [Page 128, Ex. 3] 91. 9 gulika+ 7 rapaka=3 gulika+-13 rupaka. What is the price of 1 gulika? [Page 128, Ex. 4] 92. 9 gulika—24 mpaka==2 gulika+-18 rapaka. Say what the price of 1 gulika is, [Page 128, Ex. 5] 48. Meeting of two travellers 93. One (man) goes from Valabhi at the speed of 1} yojanas a day ; another (man) comes (along the same route) from Harukaccha at the s",
+            "pattern_hit": "wealth"
+          },
+          {
+            "position": 19817,
+            "match_text": "dhana",
+            "context": "¢| ( | ~> ८ + ks tr av | a अ --- Page 20 --- MBh PG PSi SiDVr SiSe SiSi Sasi Tris LIST OF ABBREVIATIONS Aryabhatiya of Aryabhata I \\ Bhaskara 1705 Bijaganita of Varahamihira Brhat-jataka of Varahamihira Brhat-samhita of Varahamihira Brahma-s phuta-siddhanta of Brahmagupta Graha-cara-nibandhana of Haridatta Ganita-sara-sangraha of Mahavira Ganita-Kaumudi of Narayana Ganita-tilaka of Sripati Indian Historical Quarterly Indian Journal of History of Science Lilavati of Bhaskara II Laghu-Bhaskariya of Bhaskara I Laghu-manasa of Maiijula (Mufijala) Maha-Bhaskariya of Bhaskara I Patiganita of Sridhara Paiica-siddhantika of Varahamihira Sisya-dhi-vrddhida of Lalla Siddhanta-sekhara of Sripati Siddhanta-siromani of Bhaskara I Surya-siddhanta Trisatika of Sridhara xvi --- Page 21 --- INTR",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 52752,
+            "match_text": "dhana",
+            "context": "ks in one another it is evident that they are from the pen of the same writer (Bhaskara I). 42. No other work Sankaranarayana (869 A.D.) states, in the introductory remarks to his commentary on the Laghu-Bhaskariya, that Bhaskara (the author of the Laghu-Bhaskariya) wrote three compositions (nibandhana-traya) in exposition of the Aryabhatiya, which are (1) the Maha-Bhaskariya, (2) the Laghu-Bhaskariya, and (3) a commentary on the Aryabhatiya. Other writers have also ascribed to Bhaskara I the authorship of the same three works only. So it appears that Bhaskara I wrote the above mentioned three works only. Grahakarma-nibandha : Comm. on LBh, viii. 19. Brhat- (graha)-karma-nibandha ; Comm. on LBh, 7. 26, 27, 33; iii. 1-3 ; v. 45 vii. 1-2; viii. 4, 17, 18, 19. Samksipta-grahakarma-nibandha : Co",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 53374,
+            "match_text": "dhana",
+            "context": "arma-nibandha : Comm. on LBh, viii. 19. Brhat- (graha)-karma-nibandha ; Comm. on LBh, 7. 26, 27, 33; iii. 1-3 ; v. 45 vii. 1-2; viii. 4, 17, 18, 19. Samksipta-grahakarma-nibandha : Comm. on LBh, i, opening lines ; viii. 19. Sankaranarayana has also called the works of Bhaskara I as Graha-karma-nibundhana (Comm. on LBh, i. opening lines). Likewise he has called the larger work Brhat-(graha)- karma-nibandhana. See his comm. on LBA, viii. 1-3. 2. Graha-karma-nibandha: Comm. on LBh, opening lines. Maha-(graha)-karma-nibandha ; Comm. on LBh, ii. 9-10. --- Page 37 --- BHASKARA'S WORKS 1 43. Chronological order Sankaranarayana tells us that Bhaskara I first wrote his commentary on the Aryabhatiya, then the Maha-Bhaskariya, and thereafter the Laghu-Bhaskariya The first part of his statement, viz.,",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 73580,
+            "match_text": "dhana",
+            "context": "term is apakrama. apagama (declination). ayanati (meridian zenith distance). avanama (meridian zenith distance). kastha (arc, direction). kilaka (the Rsine of the altitude). kilakagra (=Sankvagra). The word kilaka (meaning a post or pillar) has been used as a synonym of Saiku, (gnomon). 8. kotisadhana (=kotiphala). 9. khanda (half), as in golakhanda (the semi-diameter of a sphere) and dyuvyasa-khanda (the semi-diameter of the diurnal circle). 10. pronnati (altitude). 11. bheda (half), as in : gola-bheda (the semj-diameter of a sphere). > 9 ~ ॐ ७ {> {~ ~A. Bh 6 --- Page 46 --- slit INTRODUCTION divasa-vistara-bheda (the semi-diameter of the diurnal circle). dyuvyasa-bheda (the semi-diameter of the diurnal circle). viskambha-bheda (semi-diameter). 12. madhyajatalambaka (the Rsine of the",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 77213,
+            "match_text": "dhana",
+            "context": "of finding the distances of the Sun and Moon and of the planets are specially interesting. According to Bhaskara 1, the manda-karna should be determined by the Process of iteration and the sighra-karna by applying the tule only once. Calculation of eclipses by the method of ten Rsines (dasajya- vidhana). (MBh, ch. v.). The method of ten Rsines was used in the earlier works on Hindu astronomy but was later teplaced by better methods. The Maha-Bhaskariya is the only available text where this method is found to occur. The method was criticised by Brahmagupta, who wrote : “Since the Jambana, in ghatis or minutes, as determined by the method of ten Rsines from the drggatis of the Sun and the Moon is not equal to its correct value, therefore the Jambana calculated by the rule of ten Rsines is gro",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 84532,
+            "match_text": "dhana",
+            "context": "longitude. Some of the methods given in the Maha-Bhaskariya have been adopted in the Laghu-Bhaskariya after revision and simplification. For example, the rule given in MBA, iii. 37-38, which is defective, has been correctly stated in LBA, iii. 21-23. Similarly, the method of ten Rsines (dasa- jya-vidhana) for calculating parallax in a solar eclipse has been replaced by the method of five Rsines (patica-jya-vidhana). More- over, the author has not made use of parallax in calculating the lunar eclipse, which is a contradiction of: what he did in the Maha-Bhas- kariya but which is an improvement. The arrangement of the topics in the Laghu-Bhaskariya is judicious and in general agreement with that found in the other works on Hindu astronomy. The language used in the Laghu-Bhaskariya is simple, cl",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 154035,
+            "match_text": "dhana",
+            "context": "s = 1 kuduvya 4 kuduvas = 1 prastha (iii) Money measures lrapaka = 20 vimnsopakas* The usual term is sankalita. The usual term is yargasankalita. The usual term is ghanasankalita. The usual term is sankalita-sankalita. Cf. PG, definition 10; Tris, def. 5; Kautilya’s Arthasastra, ii, ch. xix; Abhidhanappadipika, gathas 479-80; GK, def. 5; L, def. 4; Raghunatha-raja’s comm. on A, ii. 2. 6. Cf. GT, def. 7; Anuyogadvarasutra. The latter is quoted by H.R. Kapadia in the introduction क. xxxvii) to his edition of the GT. 7. Vimsopaka really means ‘one-twentieth part’, So one- twentieth of any measure may be called a virnsopaka of that measure. „८ > ५ pr --- Page 85 --- ARYABHATIYA-BHASYA feaxi Other measures used by Bhaskara I are the same as stated by Aryabhata I. 7. Classification of the Pu",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 199026,
+            "match_text": "dhana",
+            "context": "ons from bis work occur also in Udayadivakara’s commentary on the Laghu-Bhaskartya and Sankara’s commentary on the Lilavati. It is interesting to note that all these quotations are in the arya metre. Acarya Haridatta, quoted in the commentary, is the same person as the author of the Graha-cara-nibandhana? for the three verses ascribed to him are found to occur in that work.* Quotations from the Brahma-sphuta-siddhanta and the Khanda- khadyaka also occur in the commentary, and the latter work is mentioned by name. The Brhad-Bhaskariya of Bhaskara 1 is also mentioned and quoted. 2. Udayadivakara’s commentary, Sundari Manuscripts of this commentary are available at Trivandrum and a transcript in the Lucknow University Library. The beginning and end of it are as follows : Beginning : नध्वा समस्",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 773039,
+            "match_text": "dhana",
+            "context": "s derived from the root yuj ; niyojya, yukta, yukti, yuktya, yoga, yojayitavyam, yojayet, yojita, yojyam, yojya, yojyate, yojyante, yojyah, viniyojya, samyukta, sarnyoga, samyojita, sanyojya, samyojyamana. (xiii) Other terms and forms : adhika, adhya (antonym of vihina), ektkrta, kalpa (addition), dhana (addition), udaya (addition). 2. Subtraction (—) The terms for the operation of subtraction are derived from the roots as (with prefix apa ; to throw away, to discard), i (with prefix apa; to leave, to omit), un (to lessen), r (to give up), ksi (to decay or waste, to cause to waste away, to diminish), grah (to take away), ci (with prefix apa; to diminish), tyaj (to abandon, to discard), ni (with prefix apa ; to remove or take away), pat (to reduce, subtract, or deduct), yuj (with prefix vi, t",
+            "pattern_hit": "dhana"
+          },
+          {
+            "position": 775267,
+            "match_text": "dhana",
+            "context": "risodhya, pravisuddha, pravisodhayet, pravigodhya, visuddha, visodhayet, visodhita, visodhite, visodhyam, visodhya, visodhyate, visodhyante, visodhya, suddham, Syddha, suddhi, suddhe, Suddhyati, suddhy- --- Page 464 --- TERMS FOR MATHEMATICAL OPERATIONS 343 anti, Suddhyante, suddhyet, Sodhita, $odhanam, Sodhaniyam, sodhayitva, sodhayet, sodhyam, Sodhya, sodhyate, sodhya, satnsuddha, sarnsuddhi. (xvii) Forms derived from the root Sis: ayislista, vislista, viSlesa, vislesita. (xviii) Forms derived from the root ha: parihina, vihina, hitva, hina. (xix) Form derived from the root hras : hrasa. (xx) Other relevent terms : agra (remainder, residue), antara (difference). 3. Multiplication ( x ) ‘The terms denoting the operation of multiplication are derived from the roots as (with prefix ab",
+            "pattern_hit": "dhana"
+          }
+        ]
+      },
+      "B18": {
+        "name": "Death timing",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 169720,
+            "match_text": "death",
+            "context": "ing with the manuyuga correction) were seen by me in Sankaranarayana’s commentary on the Laghu-Bhaskariya. Govinda-svami, too, did not see the verses giving the bija correction, beginning with bhavabhanu. He saw only one nibandha-correction, That has been stated in the Govinda-kyti, ss. vive On the death of Govinda-svami, his pupil Sankaranarayana, having obtained the Bhata-correction beginning with vagbhavonat, and observing a solar eclipse at Mahodayapura, informed King KulaSekhara of his discovery. By him, this was popularised in Kerala.” But this passage does not seem to state the facts correctly. For Sankaranarayana who is said tobe the discoverer of the Bhata- correction, has nothing to do with this correction. In fact, this correction was known in Kerala much earlier. It is found to be",
+            "pattern_hit": "death"
+          }
+        ]
+      }
+    },
+    "C. CLASSIFICATIONS": {
+      "C1": {
+        "name": "Planet-planet relationships (natural + temporary)",
+        "passage_count": 17,
+        "passages": [
+          {
+            "position": 80038,
+            "match_text": "sama",
+            "context": "lv The rules prescribed by Bhaskara I are correct and do not call for any criticism. 9. Discussion of planetary conjunction in longitude. (MBh, vi. 5-7, 49-54). In the Brahma-sphuta-siddhanta and other later works, study is made of planetary conjunction along the secondary 10 the prime vertical (samaprotiya-vrtta). Bhaskara I deals with the conjunction of a planet with another planet or of a planet with a star, in celestial longitude. It is interesting to note in this connection that Brahmagupta! criticises Aryabhata I for making a study of planetary conjunction in celestial longitude, although there is no reference to it in the Aryabhatiyz. 10. Statement of the differing parameters and methods of the “other tantra” of Aryabhata I which followed midnight day-reckoning. (MBh, vii. 21-35).",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 100276,
+            "match_text": "sama",
+            "context": "mercial mathematics, or Patiganita), which is thus of eight classes, there are four bijas (methods of analysis), viz., first, second, third and fourth, i.e., yavattavat (theory of the simple equation), yargavarga (theory of the quadratic equation), ghana- ghana (theory of the cubic equations) and visama (theory of equations involving several unknowns). Rules and examples pertaining to each one of these have been compiled (in inde- pendent works) by the masters Maskari, Purana, Mudgala, and others. How can that be stated by the Acarya (i.e., Acarya Aryabhata 1) in a small work (the Aryabhotiya)? So we have rightly said ‘a bit of mathematics’.” Discussing the rule in A, ii. 9 (p. 67), he argues : “Doubt : 1 the areas of all the (plane) figures can be determined by this rule, then the statement",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 121510,
+            "match_text": "sama",
+            "context": "atadeSa or Ladhadega (southern Gujarat). 3 PRABHAKARA Acarya Prabhakara has been referred to twice in the commen- tary, both in connection with the textual interpretation of the Aryabhatiya, The first reference occurs in the commentary on verse 11 of the Ganita-padu, where, commenting on the word samavytta- paridhipadah, Bhaskara I observes : “That (plane) figure whose periphery is a perfect circle is samavrttaparidhi ; one-fourth of that is samavrtta-paridhi- padah, If this be the interpretation, then (by samarrtia- paridhipadah) we are to understand a certain area (which is wrong). Acarya Prabhakara has given this very interpretation (॥1., has expounded the compound word samavrttaparidhipadah in this very manner). He is a teacher (guru), bethinking thus, Tam not censuring him. Moreover, 1",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 121725,
+            "match_text": "sama",
+            "context": "curs in the commentary on verse 11 of the Ganita-padu, where, commenting on the word samavytta- paridhipadah, Bhaskara I observes : “That (plane) figure whose periphery is a perfect circle is samavrttaparidhi ; one-fourth of that is samavrtta-paridhi- padah, If this be the interpretation, then (by samarrtia- paridhipadah) we are to understand a certain area (which is wrong). Acarya Prabhakara has given this very interpretation (॥1., has expounded the compound word samavrttaparidhipadah in this very manner). He is a teacher (guru), bethinking thus, Tam not censuring him. Moreover, 1115 correct to say that there exists an arc which is equal to its Rsine; it is known even to one who is ignorant of the science (of mathematics). But the very same (Acarya) has criticised the equality of arc and Rsi",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 123142,
+            "match_text": "sama",
+            "context": "hantika, p. xxx. According to 3.8. Diksita, Sudhakara Dvivedi and Al-Birtini, the year 505 A.D. mentioned in PSi, i. 8 indicates the time of writing the PSi. 2. Cf. SiOVz, Goladhyaya, vii. 35 (a+b); SiSi, Goladhyaya, iii, 13. --- Page 69 --- ARYABHATIY A-BHASYA Inv (The correct interpretation of samayrttaparidhipadah is the following): The periphery (of a plane figure) which is a perfect circle, is samavyttaparidhih ; one-fourth of the sama- vrttaparidhih is samavrttaparidhipadah.” The second reference occurs in the commentary on verse 12 (pp. 84-85) of the same chapter. Having explained that verse, Bhaskara I adds : “This interpretation too is the one given by Acarya Prabhakara, It is improper and meaningless to interpret the text without pointing out its defect. How is it meaningless ?",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 145581,
+            "match_text": "sama",
+            "context": "eometrical mathematics, not of algebra, as in modern mathematics. 3. The four bijas of Ganita and their nomenclature BhaskaraI refers to the four bijos of Gonita, and calls them prathama (first), dvitiya (second), trtiva (third), and caturtha (fourth), or yavattavat, vargavarga, ghanaghana, and visama.s Bija means ‘method of analysis’. It is stated to be of four kinds, because in - Hindu mathematics equations are classified into four varicties.4 Each class of equations has its own method of analysis. The yavattavat-bija js the ‘method of solving simple equations’, the yargavarga-bija is the ‘method of solving quadratic equations’, the ghanaghana-bija is the ‘method of solving cubic equations’, and the visama-bija is the ‘method of solving equations with more than one unknown’. The above nom",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 145996,
+            "match_text": "sama",
+            "context": "are classified into four varicties.4 Each class of equations has its own method of analysis. The yavattavat-bija js the ‘method of solving simple equations’, the yargavarga-bija is the ‘method of solving quadratic equations’, the ghanaghana-bija is the ‘method of solving cubic equations’, and the visama-bija is the ‘method of solving equations with more than one unknown’. The above nomenclature of four bijas has not been found in any other known work on Hindu mathematics. In an anonymous commentary on the Kuttakadhyaya (a chapter of the Brahma-sphuta- siddhanta)® the quartet of the four bijas is said to consist of (i) the theory of solving simple equations (ekayarna-samikarana), (ii) the Quoted by Prthtidaka in his comm. on BrSpSi, xii. 2. PG, English translation, p. 66. See Bhaskara I’s com",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 148893,
+            "match_text": "sama",
+            "context": "ation of yavattavadvarga (‘the square of the unknown quantity’, i.e. x2) ; ra stands for rapa (‘absolute term’). Thus we see that, according to the algebraic symbolism of the Hindus, yava stands for yavattavad-varga 1. See BBi, ekavarna-samikarana, 1-3 (comm.). 2. Comm. on ii. 3, ए. 47. हि 3. Cf. sama-karana, meaning ‘making equal’, or ‘equating’, or ‘equation’ (sama= equal, karana=making). --- Page 82 --- Irxvili INTRODUCTION (‘the square of any quantity whatever’). Yavakarana, therefore, means ‘making the square of any quantity’, i.e, ‘squaring a quantity’, or simply ‘squaring’. The term yavakarana was evidently coined after the symbolism on which it is based was developed in India. Bhaskara I mentions that word as one of the synonyms of yarga (‘squaring’), but nowhere in his commentary",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 162627,
+            "match_text": "sama",
+            "context": "Bhaskariya. 6. Paramegvara (1431 A.D.), who wrote (i) a commentary on the Laghu-Bhaskariya, (ii) a sub-commentary on Govinda-svami’s commentary on the Maha-Bhaskariya, and (iii) a commentary on the Maha-BhasRariya. --- Page 89 --- SCHOLIASTS OF BHASKARA मस्य 7. Sankara (b. 1494 A.D.), of the Mahisamangalam family of Nampltiri brahmanas, who wrote a commentary on the Laghu-Bhaskariya in Malayalam. 8. Anonymous : (i) the authors of commentaries on the Laghu-Bhaskariya in Malayalam, and (ii) the author of a commentary on the Laghu-Bhaskariya in old Malayalam. The details of the above-mentioned commentaries, and the light thrown by them on their authors and other aspects of historical interest are furnished in the following sections. 8:1. Commentaries on the Maha-Bhaskariya 1. Govinda-syami’",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 209522,
+            "match_text": "sama",
+            "context": "पेण भास्करनाल चोल्लप्पेद्‌ट्‌ कषिञ्जु । इति भास्करोये अष्टमोऽध्यायः । 6. Balasaikaram by Saikaran Nampitiri @. 1494 A.D.) Another Malayalam commentary on the LBh available in manuscript form in the said Kerala University Library (No. €. 2146-A) is the Balasankaram of Sankaran Nampltiri of the Mahisamangalam family. This lucid exposition of LBh commences with an obeisance followed by three introductory verses : एण्टे वाषमावेलिक्कु नमस्कारम्‌ । तुम्पतिजूकोदु ty त्य चूटुमप्पनुटेयोमलुण्णिकछ । बालकाय गणितड्डब्य भाषयाय्‌ चोल्लुबानिह तुणप्पताक में ॥ बालानां भास्करीयार्थ तेल्ियुम्मारु चोल्लुवान्‌ 1 वाणिमातेड्डक् नाविन्मेल्‌ विगयाटुक साम्प्रतम्‌ ॥ भास्करादीन्‌ वणङ्डीद्‌दु गुरं च परमेश्वरम्‌ | चेरुतोट्टेषुतुमतण्टु भास्क रीयत्तिलेप्पोरु्‌ ॥ In the last verse, the author pays obeisance to his teache",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 210727,
+            "match_text": "sama",
+            "context": "े पुरुवने बल्‍्लीप्रामे महिषमज्भले 1 जातोऽयं हंसतुल्ये'शह्न जातो यः ETAT ॥ गणिते यतमानेन तेन व्याकरणाध्वनि । पदप्रचारहीनेनाप्येष बालकृते कृता ॥ सदोषा स्यात्‌ पद्धतिश्चेद्‌ गमनं नहि शोभनम्‌ । तस्माद्‌ विशोधनीयेयं विद्वद्धिर्वोतसत्सरें: ॥ Sankaran Nampiitiri, belonged to the scholarly family of Mahisamangalam settled at Valligrama (Mal. Vallikkunnu) at Puru- vana (Mal. Peruvanam), near Trichur in Central Kerala. His teacher was ParameSvara who is identified with a well-known astrologer of the family of Vazhamaveli at Chengannoor. It is he who is referred to by the expression ‘ente Vazhamavelikku namaskaram’ at the beginn- ing of the commentary (see above ए. cvii). The author was born on Kali day 1678168 represented by the chronogram jatoyam harnsatulye expressed in the katapayadi notation, cor",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 771166,
+            "match_text": "sama",
+            "context": "141 C. Solution of ax+1=by. If x=a, yf be a solution of ax—l=by, then x=b—a, yoa—p is a solution of ax+1=by. --- Page 461 --- APPENDIX Ill BHASKARA’S TERMS FOR MATHEMATICAL OPERATIONS 1. Addition (+) The terms used to denote the operation of addition are derived from the roots as (with prefix sama ; to be united or added), i (with prefix anu, upa, sama, or saha; to be connected, united or added), kal (with prefix sarn; to add or sum up), ksip (to throw, to add), ci (with prefix upa ; to increase), da (to give), pind (to unite), pre (with prefix sam; to unite or add, to be united or added), misr (to combine, to add), vrdh (to increase), yu (to unite, mix or combine) and yuj (to unite, to add). The following forms have been used by Bhaskara I : 4 (i) Forms derived from the root as : samas",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 771665,
+            "match_text": "sama",
+            "context": "ncrease), da (to give), pind (to unite), pre (with prefix sam; to unite or add, to be united or added), misr (to combine, to add), vrdh (to increase), yu (to unite, mix or combine) and yuj (to unite, to add). The following forms have been used by Bhaskara I : 4 (i) Forms derived from the root as : samasta, samasa, samasita. (ii) Forms derived from the root i : anyita, upeta, samanyita, samaveta, sameta, sahita. (iii) Forms derived from the root kal : samkalana, samkalita. (iv) Forms derived from the root ksip : ksipa, ksipta, ksiptam, ksiptva, ksipet, ksipyate, ksipyante, ksepa, ksepyam, kgepya, pariksipya, pariksipyante, praksipet, praksipta, praksipya, praksi- pyate, prakstpyante, praksepa, viniksipet, samksepa. (v) Forms derived from the root ci : upacaya, upacita, upaciyante, upaciyamana",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 774466,
+            "match_text": "sama",
+            "context": "e root ksi: ksaya. Form derived from the root grah : pragrhya. Forms derived from the root ci : apacaya, apacayatmaka, apaciyate, apaciyante. Forms derived from the root tyaj : tyaktva, tyajet, tyajyante. Forms derived from the root ni : apanayana, apanayet, apanite, apaniya, apaniyate, apaniyante, samapaniya. Forms derived from the root pat : nipatita, nipatya, patita, patayitva, patita, patyate. Forms derived from the root yuj : viyukti, viyoga. Forms derived from the root rah : rahita, yirahita. Forms derived from the root vy : vivara, vivarakam. Forms derived from the root एं : varjita, vivarjita. Forms derived from the root sis : avasista, avasesa, visista, visisyate, visesa, visesana, visesita, viSegyate, Sista, sigyate, Sesa, Sesayet. Forms derived from the root sudh : parisuddha, paris",
+            "pattern_hit": "sama"
+          },
+          {
+            "position": 776145,
+            "match_text": "sama",
+            "context": "ample down, strike against, crush under the feet, to pound down), gun (to multiply), tad (to beat or strike), vyj (to hurt, injure or kill), vrt (with prefix ut), and han (to kill). The following forms have been used by Bhaskara I. (i) Forms derived from the root as : abhyasta, abhyasya, abhyasa, samabhyasta, samabhyasya. ` (ii) Forms derived from the root ksud : ksunna, samnksunna. (iii) Forms derived from the root gun: guna, gunaka, gunakara, gunana, gunayitva, gunayet, gunita, gunya, gunyate, gunyah, gunyat, sanguna, sangunayya, sanguna, sahgunita, sangunah sangunya,. (iv) Forms derived from the root tad : abhitagita, tadita. (v) Form derived from the root vyj 7 samvarga.> (vi) Form derived from the root vt: udvartana. 1. Bhattotpala (in his comm. on Byhajjataka, vii. 13) uses the wor",
+            "pattern_hit": "sama"
+          }
+        ]
+      },
+      "C2": {
+        "name": "House types (kendra/trikona/dusthana/etc)",
+        "passage_count": 3,
+        "passages": [
+          {
+            "position": 72233,
+            "match_text": "kendra",
+            "context": "air nirapyate, guruprasadat pratibuddha- buddhibhih, vyavarnayanti ganak@ —bhatasastracittah, ucyate kramena taj jfiatacaranicayaih sada budhaih, etc. --- Page 45 --- BHASKARA'S WORKS xii Sometimes lengthy substitutes have been used for ordinary words to suit the metre. For example: mahibhujam sukendranamnam gatavarsasangraham for Sakayarsa, tribhayunasya gunapratanam and vyasakh ndanicayah for trijya, etc. At places, the author has indulged in poetic fancies Thus, for example, instead of saying ‘moon’ in plain words, he writes— “the moon, who is the mirror for the faces of the directions and who exhibits all excellent phases and whose round body looks like the face of a damsel and is marked by the figure of a hare.” Similarly, he describes the motion of the shadow-tip of the gnomon as follo",
+            "pattern_hit": "kendra"
+          },
+          {
+            "position": 192029,
+            "match_text": "kendra",
+            "context": "Arabia. It is the Coilam of Marco Polo ; and the Columbum of several ecclesiastical --- Page 103 --- SCHOLIASTS OF BHASKARA xcix In the commentary on verses 4-8 of the first chapter, the commentator writes : “When so many years (i. ९, 3179) of Kaliyuga had elapsed, there was an emperor called Sakendra, who, in the lands (conquered by him), for the sake of self-renown, got the subsequent years of Kaliyuga associated with his name. So that (association) is remembered by the astronomers and the succession of their pupils and pupils’ pupils. In this way the Saka years (elapsed) now are known to us to be 791.\" The Saka year 791 (elapsed) corresponds to 869 A.D., and denotes the time when this commentary was written. Again, in the commentary on verses 31-32 of the fourth chapter, the commentator",
+            "pattern_hit": "kendra"
+          },
+          {
+            "position": 780215,
+            "match_text": "kendra",
+            "context": "iijala-Mahabhasya, 13, 22, 36, 37, 67, 72, 185, 188, 222, 231 Paulisa (=siddhanta), 46 Pauranika, 197, 198, 261 Prabhakara, 77, 84 Purana, 29, 261 Purana, 7, 67 Pitana, 67 Ratna-pariksa, 257 Romakah (=followers of the Romaka-siddhanta), 183, 186, 202 Romaka(-siddhanta), 46 Sahasraksara, 206 Sakendra, 206 Samhitakara, 185, 188, 189, 206 Sastrantara, 205 Satapatha(-brahmana), 12, 16, 208 APPENDIX IV Saugatah, 258 Saurya-siddhanta), 46 Sithharaja, 206, 207 Smrti, 208 Sphujidhvaja Yavanesvara, 215, 218 ईषणा), 14, 207 Sugatamatavalambinah, (=follo- wers of the Buddha), 212 Svatantrantara ( = Dasagitika- sutra), 188 Svayambhuva-siddhanta, 45, 46 Taittiriya-brahmana, 16 Taittiriya-samhita, 183, 258 Vajasaneya-samhita, 257 Vakyapadiyam, 22 Vasistha(-siddhanta), 46 Vayu-purana, 4",
+            "pattern_hit": "kendra"
+          }
+        ]
+      }
+    },
+    "D. REMEDIES": {
+      "D5": {
+        "name": "Donations (daan)",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 711462,
+            "match_text": "charity",
+            "context": "ifference is 11 and the first term 7, the number of terms is 25. Quickly say the ultimate and penultimate terms of that series and also say what is the twentieth term. [Page 106, Ex. 3] 30. Partial sums of a series in A.P. 52. In the month of Kartika a certain king daily gives away some money (in charity) starting with 2 on the first day (of the month) and increasing that by 3 per day. Fifteen days having passed, there arrived a Brahmana well-versed in the Vedas. The amount for the next ten days was given to him ; that for the (remaining) five days (of the month), to someone else. Say what do the last two persons get. [Page 106, Ex. 4] 53. (Ina series in A.P.) in which the first term is 15, the common difference is stated to be 18 and the number of terms 30. Quickly calculate the sum of the t",
+            "pattern_hit": "charity"
+          }
+        ]
+      },
+      "D6": {
+        "name": "Temple worship",
+        "passage_count": 1,
+        "passages": [
+          {
+            "position": 47382,
+            "match_text": "temple",
+            "context": "it was ruled by a Ksatriya king Dhruvabhatta, a nephew of Siliditya, the former king of Malava, and a son-in-law of Siladitya reigning at Kanyakubja (Kannauja).t According to Yuan Chwang, Valabhi was a great seat of learning. It had a number of Buddhist monasteries and also a large number of Hindu temples. 1. Cf. T. Watters, On Yuan Chwang’s Travels in India, edited by T.W. Rhys Davids and S.W. Bushell, vol. 11, London, 1905, p. 246, --- Page 34 --- | 11 INTRODUCTION The king, though a Buddhist, encouraged Hindu sciences and culture. Bhaskara I might have been a court astronomer of Dhruvabhatta. The above surmise is further supported by Bhaskara I’s reference to Surastra in his commentary. In connection with the difference prevailing amongst the various schools of Hindu astronomy and people",
+            "pattern_hit": "temple"
+          }
+        ]
+      }
+    },
+    "H. MUHURTA / PANCHANGA": {
+      "H1": {
+        "name": "Muhurta selection (auspicious moments)",
+        "passage_count": 4,
+        "passages": [
+          {
+            "position": 184486,
+            "match_text": "Muhurta",
+            "context": "y from Damodara, son of Parameévara, author of the Drgganita. The author of the Drgganita was the same Parameévara as the author of the Siddhanta-dipika.* K. Sambagiva Sastri and the author of Keraliya Samskyta Sahitya Caritram identified the above Damodara with the author of the astrological work Muhurtabharana but K. Mahadeva Sastri has proved that identification to be incorrect.t From the evidence furnished by the other works of Paramegvara we learn that he was a pupil of Rudra and belonged to Bhrgu gotra. 6. Paramesyara’s Karmadipika Parameévara’s Karmadipika is his independent commentary on the Maha-Bhaskariya. This has been edited by B.D. Apte and published in Anandasrama Sanskrit Series (No. 126). From the third opening stanza of the commentary and the colophons at the ends of the chap",
+            "pattern_hit": "muhurta"
+          },
+          {
+            "position": 186848,
+            "match_text": "Muhurta",
+            "context": "ut for understanding the astronomical processes (stated in the Maha-Bhaskariya) only by those who are not qualified to go through the bhagya.”* The verse occurring at the end of the Karma-dipika, after the colophon, shows that Paramesvara was the author of the following works, called dipika ~ 1. Muhurtastaka-dipika. (Untraced so far) 2. Siddhanta-dipika. Noticed above. 3. Vakya-dipika. This is the Astaiga-hydaya-vyakhya (Vakya- pradipika). A manuscript of this work occurs in the Government Oriental Manuscripts Library, Madras.¢ The colophon at the end of the sixteenth chapter runs : इति नी>तीरगताश्वत्थप्रामबा[सिना परमेश्वरद्विजोत्तमेन कृतायामष्टाडू- हृदयव्यास्यायां वाक्यप्रदीषिकायां निदानस्थाने षोडशोऽध्यायः समाप्तः । This shows that the author of the Vakya-pradipika is 1. See the opening s",
+            "pattern_hit": "muhurta"
+          },
+          {
+            "position": 211577,
+            "match_text": "Muhurta",
+            "context": "iting elucidatory works on Jyotisa, both in astronomy and astrology, in simple Malayalam. His original works include Ganitasara, Candragenitakrama, Ayanacalandadiganita, Jatakasara, Jatakakrama, Kaladipaka and. Prasnamala. He has also written commentaries in Malayalam on Paficabodha, Kaladipaka and Muhurta- padayvi, all under the name Balasankaram as in the case of Laghu- bhaskariya. Ye is also said to have compiled a ‘Register of muhtrtas for 1000 years’. 7. Another anonymous comm. in Malayalam The fourth Malayalam commentary on the LBh preserved in the said Kerala Univ. Library is also anonymous, and begins with the following five introductory verses : एल्लाक्कुमुछूकिले निल्कुं मानत्तयूं नटप्पवन्‌ 1 कतिरोनेम्नभीष्टड्डकू एल्लाप्पोषुं बरुत्तुक ॥ ACERS आतेटे मुखमुन्य्गबन्‌ । मातेवन्मकनेनन्‌च्छि",
+            "pattern_hit": "muhurta"
+          },
+          {
+            "position": 717292,
+            "match_text": "muhurta",
+            "context": "us } palas of ginger. [Page 117, Ex. 2] 68. 1} palas of musk are to be had for 8 plus 4 (rapakas). Let Krtavirya find out how much of musk will be had for 1 plus द (rupakas)2 [Page 118, Ex. 3] 69. A serpent of 20 cubits in length enters into a hole, moving forward at the rate of करण an angula per muhurta’ and backward at the rate of 2 of an aigula (per muherta) ; in how many days does he get into the hole completely ?4 [Page 118, Ex, 4] 40. Proportion and Partnership 70. (Out of 11 cattle) 8 are tamed and 3 to be tamed —so are the cattle described. Out of 1001 cattle, then, how many are tamed and how many to be tamed ?5 [Page 118, Ex. 5] 1, Ex. 66 reappears in Yallaya’s comm. on A, ii, 26-27 (a-b). 2. Ex, 68 reappears in Yallaya’s comm. on A, ii, 26-27 (a-b). 3. 1 muhtrta=48 minutes. 4. Ex.",
+            "pattern_hit": "muhurta"
+          }
+        ]
+      },
+      "H2": {
+        "name": "Tithi selection",
+        "passage_count": 13,
+        "passages": [
+          {
+            "position": 13856,
+            "match_text": "tithi",
+            "context": "भूताराग्रहान्तरालम्‌ (Distance between the Earth and the planets) नि ताराग्रहाणां स्फुटयोजनक्णनियनम्‌ (Computation of the distance in yojana-s of the planets) ग्रहस्फूटीकरणे विशेष: (Specialities in planetary computation) *** तिथिप्रतिपच्छेदपरिज्ञानम्‌ (Computation of the beginning or end of the tithi) wee सूर्याचन्द्रमसोः समलिप्तोकरणम्‌ (Calculation of the Sun and Moon at conjunction or opposition) wee चन्द्रनक्षत्रप्रतिपच्छेदपरिज्ञानमू (Computation of the beginning or end of the Moon’s naksatra) ws गोलपाद: (SECTION ON THE CELESTIAL SPHERE) मड्भूलाचरणम्‌ (Invocation) tte गोलबन्ध: (Armillary sphere) ae भगोले अपकरममण्डलम्‌ (Ecliptic on the Sphere of asterisms) *** अपक्रममण्डलचारिणः (Celestial bodies moving along the ecliptic) one विक्षेपमण्डलचारिणः (Celestial bodies moving along planeta",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 48073,
+            "match_text": "tithi",
+            "context": "commentary. In connection with the difference prevailing amongst the various schools of Hindu astronomy and peoples of Bharatavarsa about the beginning of the year, month, etc , Bhaskara I observes : 1. “In Surastra the year, month, and day begin from Kartika- éukla-pratipad (i.e., from the first tithi of the light half of the month Kartika) and end on A§vayuja-krsna-paticadasi (i.e., on the fifteenth tithi of the dark half of the month Aévina) and in Magadha the year, month, and day begin from Asadha-krsna-pratipad (i.e., from the first tithi of the dark half of the month Asadha) and end on Asadha- sita-paricadasi (i.e., the fifteenth tithi_ of the light half of the month दत्ताय). 2. “There do exist countries which use months ending in dark fortnight. These are Surastra, ९०.7१ Of the vario",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 48319,
+            "match_text": "tithi",
+            "context": "in from Kartika- éukla-pratipad (i.e., from the first tithi of the light half of the month Kartika) and end on A§vayuja-krsna-paticadasi (i.e., on the fifteenth tithi of the dark half of the month Aévina) and in Magadha the year, month, and day begin from Asadha-krsna-pratipad (i.e., from the first tithi of the dark half of the month Asadha) and end on Asadha- sita-paricadasi (i.e., the fifteenth tithi_ of the light half of the month दत्ताय). 2. “There do exist countries which use months ending in dark fortnight. These are Surastra, ९०.7१ Of the various year-beginnings prevalent in Bharatavarsa,* is it a mere chance that he mentioned only the two current in Surastra and Magadha? Or, does it signify something more than that ? Magadha was the country which, in the near past, had the privilege o",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 75187,
+            "match_text": "tithi",
+            "context": "used for sa/aka (needle). This has been done deliberately to suit metrical requirements. It is interesting to note that the term vi, used to mean ‘celestial latitude’, is a tachygraphic abbreviation of the usual term viksepa. “ Numbers have been expressed exclusively by means of words. Two words, tithi and salin, used to denote 30 and 1, respectively, deserve special notice. The former is usually taken to denote 15, and the latter is used in that sense in the Maha-Bhaskariya only. The word jyau, used as a synonym of Jupiter, is probably derived from the Greek word Zeus. 54. Special features of MBh Amongst the important features of the Maha-Bhaskariya which deserve the special notice of the historian, mention may be made of the following : ॥ 1. Application of indeterminate equations of the",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 91696,
+            "match_text": "tithi",
+            "context": "to the longitude of the local place (desantara-sams- kara), (ii) correction for the equation of the centre due to the eccentricity of the ecliptic (bhujantara-sainskars), and (iii) correction due to the Sun’s ascensional difference (cara-samskara), and with the elements of the Hindu pujficaiga, the tithi and the naksatra. Similarly, in his commentary on the Gola-pada, he deals with the problems of the Moon, such as (i) the phases of the Moon, (ii) rising of the Moon, and (iii) graphical representation of the elevation of the Moon's horns. 72. Scope of A. Bhisya Bhaskara I’s commentary on the Aryabhatiya, as its name suggests, is of the vyakhya or bhasya type, and aims at a full exposition of the text and the contents of the Aryabhatiya, “Those who want to know everything written by Aryabhata",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 96343,
+            "match_text": "tithi",
+            "context": "diameter. (pp. 29-30) “The Earth’s diameter may also be obtained by calculation as follows: In a solar eclipse, the true fithi for the time of apparent con- junction of the Sun and Moon is indeed obtained in the eastern and > western halves of the celestial sphere. There (in order to get the true tithi for the time of sunrise or sunset) four ghatis' are added to or subtracted from the mean fithi (‘time of geocentric conjunction of the Sun and Moon’). At that time (of sunrise or sunset), the Rsine of the zenith distance (of the Sun or Moon) is equal to the radius (i.e., 3438’), the mean parallax of the Sun is 3’56\", and the mean parallax of the Moon is 52} minutes of arc. By the method of inversion, multiplying the distance of the Sun or Moon, in yojanas, by its own parallax and dividing by th",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 97432,
+            "match_text": "tithi",
+            "context": "es, and D = the distance of the Sun (Moon).” (4) Characteristic feature of the yuga (planetary cycle). (p. 200) “Now, what is the characteristic feature of a yuga? This is being explained. The time which a planet, starting from the junction of Pisces and Aries at half sunrise at Lanka on the first tithi in the light half of Caitra, takes in returning to the junction of Pisces and Aries at 1. One ghati = 24 minutes. --- Page 57 --- ARYABHATIYA-BHASYA lili half sunrise on the first tithi in the light half of Caitra is called its yuga (cycle). So has been said : ‘The yuga (cycle of a planet) is the time by which the planet, starting from (the junction of ) the first point of Aries and the last point of Pisces at half sunrise at the equator (i.e, Lanka) in the beginning of the light half of Cai",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 200628,
+            "match_text": "tithi",
+            "context": "b). --- Page 107 --- SCHOLIASTS OF BHASKARA elit ‘There is no reference in the commentary to the time or place of the commentator. At one 918०९, however, the commentator cites an example where he states the aharguna (‘the number of civil days elapsed since the beginning of Kaliyuga’) for the 10th tithi, Vaisakha, light half (Suk/a-paksa), Saka year 995. This epoch corresponds to Friday, April 19, 1073 A.D. It is usual to give the ahargana for the current date. So we infer that this commentary was written about the year 1073 of the Christian era. This commentary is of immense historical interest, as it is in this commentary that we, for the first time, come across the name of the well-known Hindu mathematician S$ridharacarya and quotations from his work on arithmetic and mensuration. Moreover",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 790347,
+            "match_text": "tithi",
+            "context": "angle), 98 --- Page 476 --- GLOSSARY OF TECHNICAL TERMS 355 अधंबिस्तर (radius), 280, 281 अरधर्यतचतुरधक्षेव्र॒ (_right-angled triangle), 279 अबगाहशर (arrow of intercepted arc), 104 अवनति (== नति), 261; (difference between the natis of the Sun and Moon), 275; (+--स्फुटविक्षेप), 275 अवम (omitted tithi), 185, 189, 191-95, 204 अवमरात्र (omitted tithi), 191 अवमशेष (residue of the omitted tithis), 195 अवर्गस्थान (even place), 9, 10, 19 अवलम्ब (1. the vertical side of a right-angled triangle), 90 ; (2, plumb), 87; (3. Rsine of co-latitude), 268 अवलम्बक (अवलम्ब), 55-57, 59, 63-65, 68, 79, 85, 87-90, 256, 268, 269 etc. अविशिष्ट (obtained by the process of iteration), 252, 253 अविशिष्टकर्ण (hypotenuse obtained by the process of iteration), 224 अविशेष (absence of difference ; same as अविशिष्ट",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 801952,
+            "match_text": "tithi",
+            "context": "on of Earth’s shadow- cone at the Moon’s dis- tance), 104 तारक (star), 262 तारकप्रह (= तारप्रह्‌), 196 ताराप्रह (star-planets, i.e, the planets Mars, Mercury, Jupiter, Venus and Saturn), 236, 283 --- Page 483 --- 362 APPENDIX VIII fafa (lunar date), 16, 29, 190 तिथिप्रलय ( --अवम, te, omitted tithi), 173 तिथ्यन्त (end of new moon tithi or full moon tithi), 283 TR (= उच्च), 200 तुला (sign Libra), 32, 241 तुलाधरनर (sign Libra), 144 तोलिन्‌ (sign Libra), 243 ब्रसरेणु (a unit of linear measure), 173 तरिच्छेदाग्र (€ number which yields the given remainders when divided by the three given divisors), 151 faqa (triangle), 48, 54, 55, 57, 68, 77, 78, 85, 99 तव्रिसमचतुरश्र (3 trapezium with three equal sides), 65 afe (a unit of time), 175 Gat (one of the four smaller yugas), 25, 197 त्र",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 805944,
+            "match_text": "tithi",
+            "context": "d in days), 285 निरप्रकुट्टाकार (non-residual pulve- riser), 133, 135 fazaafaa (completely abraded), 138, 142, 144, 147, 148 नीच (perigee or perihelion), 179, 217, 230 नोचपरिवतं (= उच्चनीचपरिवतं), 179 पक्ष (light or dark half of a lunar month), 5 पक्षच्छिद्रतिथि (4th, 6th, 8th, 9th, 12th, and 14th tithis), 17 पञ्चराक्ि (--पञ्चराशिक), 115, 119 पञ्चराशिक (rule of five), 116 पणव = (drum-shaped musical instrument), 70 प्रणबाकृति (panava-shaped), 70 पद (1, square root); (2. quadrant of a circle), 38-40; (3. terms of a series), 105, 107, 109, 125 पदधन (sum of a specified number of terms of a series), 108 पदस्तर (term-layers), 111 पर (west) परक्रान्ति (-- परमापक्रम), 281 LATINA (greatest declination ; obliquity’ of the ecliptic), 272, 277 परावतं (round, cycle, revolution), 177 परिकर्म (ma",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 811357,
+            "match_text": "tithi",
+            "context": "onal number), 132 मत्स्यविधान (the fish-method for drawing a perpendicular), 255 सत्स्यविधि (--मत्स्यविधान), 279 मध्चु (7070 of Caitra), 183 अध्यच्छाया (midday shadow), 254 मध्यज्या (meridian sine, i.e., Rsine of the zenith-distance of the meridian: ecliptic point), 268, 274-76 मध्यतिथि (mean tithi), 275 मध्य(घन) (middle term), 105 मध्यम (mean), 22, 193, 196, 211, 217, 222, 225, 226, 230-31, 233, 236 मध्यमगति (mean daily motion), 185, 198 मध्यमप्रह (mean planet), 211, 216, 224-26, 228, 232 मध्यमतिथि (mean tithi), 190 मध्यलग्न (meridian ecliptic point), 254, 268 मध्याह्नच्छाया (midday shadow), 261 मनु (8 period of time, equal to 72 yugas, according to Aryabhata 1), 24, 25 मन्द (slow, apogee of slow motion, मन्‍्दोच्च), 22 मन्दकणं (hypotenuse associated with मन्दोच्च), 236 मन्दकं",
+            "pattern_hit": "tithi"
+          },
+          {
+            "position": 811579,
+            "match_text": "tithi",
+            "context": "zenith-distance of the meridian: ecliptic point), 268, 274-76 मध्यतिथि (mean tithi), 275 मध्य(घन) (middle term), 105 मध्यम (mean), 22, 193, 196, 211, 217, 222, 225, 226, 230-31, 233, 236 मध्यमगति (mean daily motion), 185, 198 मध्यमप्रह (mean planet), 211, 216, 224-26, 228, 232 मध्यमतिथि (mean tithi), 190 मध्यलग्न (meridian ecliptic point), 254, 268 मध्याह्नच्छाया (midday shadow), 261 मनु (8 period of time, equal to 72 yugas, according to Aryabhata 1), 24, 25 मन्द (slow, apogee of slow motion, मन्‍्दोच्च), 22 मन्दकणं (hypotenuse associated with मन्दोच्च), 236 मन्दकं (manda-operation), 40 मन्दकेनद्र (manda anomaly), 222, 228 मन्दकेनद्रफल (manda correction, equation of the centre), 228, 229 मन्दनीचोच्च(वृत्त) (manda epicycle), 234 --- Page 489 --- 368 APPENDIX VIIL मन्दर (Meru mo",
+            "pattern_hit": "tithi"
+          }
+        ]
+      },
+      "H5": {
+        "name": "Karana selection",
+        "passage_count": 47,
+        "passages": [
+          {
+            "position": 28890,
+            "match_text": "karana",
+            "context": "es of ParameSvara, although the verse in question is not to be found in the place referred to by him in his edition of the Laghu-Bhaskariya. Subsequently, three more manuscripts of the Laghu-Bhaskariya were acquired by the present writer ; (1) containing the text together with the commentary of Sankaranarayana (A.D. 869), (2) containing the text together with the commentary of Udayadivakara (A.D. 1073), and (3) containing the text together with the commentary of Paramesvara (A.D. 1431). The verse in question does not form part of the text in any ‘one of these manuscripts. In the commentaries of Sankaranarayana and Udayadivakara, there is no trace of the verse nor of the subject matter. The verse is present in Paramesvara’s commentary,? but from certain remarks made by Paramesvara it is evident",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 29196,
+            "match_text": "karana",
+            "context": "rayana (A.D. 869), (2) containing the text together with the commentary of Udayadivakara (A.D. 1073), and (3) containing the text together with the commentary of Paramesvara (A.D. 1431). The verse in question does not form part of the text in any ‘one of these manuscripts. In the commentaries of Sankaranarayana and Udayadivakara, there is no trace of the verse nor of the subject matter. The verse is present in Paramesvara’s commentary,? but from certain remarks made by Paramesvara it is evident that it has been inserted by him as a quotation and does not form part of the text of the Laghu-Bhaskariya.® वि There are other conclusive grounds against the said verse being a composition of Bhaskara I : 1. The correction stated in that verse is not found to occur in the author’s bigger work, the Maha",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 51780,
+            "match_text": "karana",
+            "context": "distinguished them by the qualifying adjectives maha (‘large, extensive’) or brhat (‘large’) and laghu (‘small, short’) or sarmksipta (‘abridged or brief?) -Maha- Bhaskariya or Brhad-Bhaskariya and Laghu-Bhaskariya or Sarnksipta- Bhaskariya. And these names became current later on. Commentator Saakaranarayana (869 A.D.) has called them Grahakarmanibandha too, and has distinguished them as Brhat- (graha)-karmanibandha and Sarnksipta-graha-karma-nibandha» These names are found also in the commentary of Uduyadivakara (1073 A.D.).2. These two works of Bhaskara I, as their original names by the author imply, are compendiums (nibandha) of the astronomical processes (karma) taught by Aryabhata 1. The third known work of Bhaskara I, is, as its name implies, ‘a commentary (bhasya or vyakhya) of the Ar",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 52567,
+            "match_text": "karana",
+            "context": "vyakhya) of the Aryabiatiya (‘work of Aryabhata 1) and is made up of two parts: (i) Dasagitika-sutra- yyakhya and (ii) Aryabhata-tantra-bhasya. Froin cross references to the three works in one another it is evident that they are from the pen of the same writer (Bhaskara I). 42. No other work Sankaranarayana (869 A.D.) states, in the introductory remarks to his commentary on the Laghu-Bhaskariya, that Bhaskara (the author of the Laghu-Bhaskariya) wrote three compositions (nibandhana-traya) in exposition of the Aryabhatiya, which are (1) the Maha-Bhaskariya, (2) the Laghu-Bhaskariya, and (3) a commentary on the Aryabhatiya. Other writers have also ascribed to Bhaskara I the authorship of the same three works only. So it appears that Bhaskara I wrote the above mentioned three works only. Graha",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 53301,
+            "match_text": "karana",
+            "context": "pears that Bhaskara I wrote the above mentioned three works only. Grahakarma-nibandha : Comm. on LBh, viii. 19. Brhat- (graha)-karma-nibandha ; Comm. on LBh, 7. 26, 27, 33; iii. 1-3 ; v. 45 vii. 1-2; viii. 4, 17, 18, 19. Samksipta-grahakarma-nibandha : Comm. on LBh, i, opening lines ; viii. 19. Sankaranarayana has also called the works of Bhaskara I as Graha-karma-nibundhana (Comm. on LBh, i. opening lines). Likewise he has called the larger work Brhat-(graha)- karma-nibandhana. See his comm. on LBA, viii. 1-3. 2. Graha-karma-nibandha: Comm. on LBh, opening lines. Maha-(graha)-karma-nibandha ; Comm. on LBh, ii. 9-10. --- Page 37 --- BHASKARA'S WORKS 1 43. Chronological order Sankaranarayana tells us that Bhaskara I first wrote his commentary on the Aryabhatiya, then the Maha-Bhaskariya, and",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 53693,
+            "match_text": "karana",
+            "context": ", i. opening lines). Likewise he has called the larger work Brhat-(graha)- karma-nibandhana. See his comm. on LBA, viii. 1-3. 2. Graha-karma-nibandha: Comm. on LBh, opening lines. Maha-(graha)-karma-nibandha ; Comm. on LBh, ii. 9-10. --- Page 37 --- BHASKARA'S WORKS 1 43. Chronological order Sankaranarayana tells us that Bhaskara I first wrote his commentary on the Aryabhatiya, then the Maha-Bhaskariya, and thereafter the Laghu-Bhaskariya The first part of his statement, viz., that the commentary on the Aryabhatiya was written earlier than the Maha-Bhaskariya, is incorrect. For Bhaskara I himself has referred to his Karma-nibandha or Maha-Bhaskariya in his commentary on the Aryabhatiya. The Laghu-Bhaskariya seems to have been written after the commentary on the Aryabhatiya, as is suggested b",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 55537,
+            "match_text": "karana",
+            "context": "tance The works of Bhaskara I contain detailed exposition of the astronomy briefly set forth in the Aryabhatiya of Aryabhata I and later developed by his disciples of the ASmaka school to which the author himself belonged, and throw light on the development of Hindu 1. See the opening lines of Sankaranarayana’s comm. on LBh. 2. See p. xx, lines 9-10, of the introduction to his edition of the Maha-Bhaskariya. A, Bh, 5 --- Page 38 --- txtiv iNTRODUCTION astronomy in the sixth and seventh centuries A.D. Apart from their historical importance, they possess the merit of being standard works on the subject. The Laghu-Bhaskariya and the Maha-Bhaskariya continued to be studied as text-books on astronomy up to the end of the fifteenth century A.D., or even after, and a number of commen- taries were",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 56180,
+            "match_text": "karana",
+            "context": "Maha-Bhaskariya continued to be studied as text-books on astronomy up to the end of the fifteenth century A.D., or even after, and a number of commen- taries were written on them. Quotations from the works of Bhaskara I occur in later writings up to the sixteenth century A.D. A work known as Vakya-karana, written about 1300 A.D., on the basis of the larger work of Bhiaskara I, attempts to present a simplified version of the teachings contained in that work for the benefit of the paticanga-makers. The greatest testimony to the excellence of the writings of Bhaskara I is the survival of his works for more than thirteen hundred years. Although scores of text-books were written, none of them succeeded in replacing the works of Bhaskara L 45. Appreciation The works of Bhaskara I were highly apprec",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 57100,
+            "match_text": "Karana",
+            "context": "u-Bhaskariya were recognized as text- books par excellence and were taught to students from the seventh century A.D. right up to the end of the fifteenth century A.D. As early as 689 A.D., we find the South Indian astronomer Deva incorporating four and a half verses from the Laghu-Bhaskariya in his Karana-ratna. The popularity of the above works of Bhaskara I necessitated the composition of commentaries on them. A number of commentaries were written and all these commentators, excepting Stryadeva (४. 1191 AD.) and Makkibhatta (1377 A.D.), belonged to Kerala. These commentators themselves learnt astronomy through the works of Bhiaskara 1 and regarded Bhaskara I as their parama-guru. Thus, commentator Sankaranarayana, while paying homage to ancient teachers in the beginning of his commentary on th",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 57512,
+            "match_text": "karana",
+            "context": "em. A number of commentaries were written and all these commentators, excepting Stryadeva (४. 1191 AD.) and Makkibhatta (1377 A.D.), belonged to Kerala. These commentators themselves learnt astronomy through the works of Bhiaskara 1 and regarded Bhaskara I as their parama-guru. Thus, commentator Sankaranarayana, while paying homage to ancient teachers in the beginning of his commentary on the Loghu-Bhaskariya, addresses Bhaskara I as Srimad-guru : “Having paid homage by properly lowering my head to Acarya Aryabhata, Varahamihira, Srimad-guru Bhaskara, Govinda and Haridatta, 1 give out, ...” So also says commentator Udayadivakara : “Having bowed to Murari, the lord of the entire world, and having paid respectful homage to Acarya Aryabhata, I write an extensive exposition of the smaller work on",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 81449,
+            "match_text": "karana",
+            "context": "to the Maha-Bhaskariya by writing two illucidatory works dealing with it : 1. The Karma-dipika, which is a running commentary on the Maha-Bhaskariya ; and 2. The Siddhanta-dipika, which is an illucidation of Govinda- svami’s commentary on the Maha-Bhaskariya. Other commentaries were written by Sankaranarayana (869 A.D.), Stiryadeva (b. 1191 A.D.) and Makkibhatta (1377 A.D.). References to and quotations from the Maha-Bhaskariya occur in the works of Saikarandrayana (869 A.D.), Udayadivakara (1073 1. See BrSpSi, ix. 11-12. 2. See supra, p. xxxv. --- Page 50 --- alvi INTRODUCTION A.D.), Stiryadeva (b. 1191 A.D.), Makkibhatta (1377 A.D.), Param- eévara (1431 A.D.), and Nilakantha (1500 A.D.). Quotations from the Maha-Bhaskariya are found to occur also in Visnu Sarma’s commentary (c. 1363 A.D.",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 82140,
+            "match_text": "karana",
+            "context": "(1500 A.D.). Quotations from the Maha-Bhaskariya are found to occur also in Visnu Sarma’s commentary (c. 1363 A.D.) on the Vidya-Madhaviya and in a commentary, entitled Dasadhyayi, by Govinda Bhatta (1237-95 A.D.) on the Brhajjataka of Varahamihira (d. 587 A.D.). A calendrical work known as Vakya-karana was written about A.D. 1300, on the basis of the Maha-Bhaskariya. This fact has been openly acknowledged by its author in the invocatory stanza : “Having bowed to the lotus-eyed effulgence (mohah), situated at Kari-Saila (i.e., Hasti-Saila), 1 write this small work on + astronomy on the basis of the Bhaskariya.” The Vakya-karana was commented upon by Sundararaja about 1500 A.D. 6. LAGHU-BHASKARIYA The Laghu-Bhaskari उ is a revised and abridged edition of the Maha-Bhaskariya, and was written",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 82473,
+            "match_text": "karana",
+            "context": "0, on the basis of the Maha-Bhaskariya. This fact has been openly acknowledged by its author in the invocatory stanza : “Having bowed to the lotus-eyed effulgence (mohah), situated at Kari-Saila (i.e., Hasti-Saila), 1 write this small work on + astronomy on the basis of the Bhaskariya.” The Vakya-karana was commented upon by Sundararaja about 1500 A.D. 6. LAGHU-BHASKARIYA The Laghu-Bhaskari उ is a revised and abridged edition of the Maha-Bhaskariya, and was written for younger and immature students of astronomy, as the author himself says in the concluding stanza of that work. Like the Maha-Bhaskariya, this work also is a tantra and reckons the day from sunrise. 61. Contents of the Laghu-Bhaskariya The contents of the Laghu-Bhaskariya are arranged in eight chapters as follows : Ch. 1. Cal",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 92215,
+            "match_text": "karana",
+            "context": "tion of the Moon's horns. 72. Scope of A. Bhisya Bhaskara I’s commentary on the Aryabhatiya, as its name suggests, is of the vyakhya or bhasya type, and aims at a full exposition of the text and the contents of the Aryabhatiya, “Those who want to know everything written by Aryabhata I,” writes Sankaranarayana, “should study the bhasya and the Brhat-karma-nibandha (of Bhaskara 1).”* 7:3. Its language and style The language used in the commentary is refined and scholarly, but not difficult to comprehend, The commentary explains the text word by word or phrase by phrase and, where necessary, gives synonyms Of technical terms and expounds compound words. The subject-matter is discussed by raising questions and cross-questions and giving appropriate answers and providing illustrative examples, wh",
+            "pattern_hit": "karana"
+          },
+          {
+            "position": 92931,
+            "match_text": "karana",
+            "context": "and cross-questions and giving appropriate answers and providing illustrative examples, where necessary. Earlier scholars are quoted either to substantiate the views expressed in the text or to reject their views. Whatever topic is touched upon is discussed thoroughly in all its aspects. 1, See Sankaranarayana’s comm. on LBA, viii. 19. --- Page 55 --- ARYABHATIYA-BHASY A 1 We give below some extracts from the commentary which will give some idea of the style of the commentary. The topics have been selected so as to be of interest to the reader. (1) Sphericity of the Earth and the planets. (p. 250) “Question : How are these planets etc. proved to be spherical in shape. Others consider the Earth to be like a cart! or like a circular mirror? Answer: This isnot so. The Earth has been proved to",
+            "pattern_hit": "karana"
+          }
+        ]
+      }
+    }
+  }
+}

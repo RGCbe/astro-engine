@@ -1,0 +1,33 @@
+{
+  "item_code": "H4",
+  "item_name": "Yoga selection",
+  "books_covering": [
+    "Brihat_Parashara_v2",
+    "Hora_Sara"
+  ],
+  "total_passages": 6,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 4,
+      "context": "llent virtues and eloquent disposition. Though the text does not mention, additional effects are: a happy life, health, wealth, longevity, fame etc. These additional effects will not fully mature by a single ordinary benefice in the ascendant. A malefic or malefics in these places will produce Ashubha Yoga or inauspicious yoga. Each yoga is increasingly malefic. As a result, the subject will be libidinous, will indulge in unethical and sinful deeds and be capable of bracketing others' possessions. While a single malefic may not give so bad results, two or three in such positions will indeed pr"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "िराथयुक्॥२॥ 1-2. BENEFICE & MALEFIC YOGAS: If there be a benefice in the ascendant shubha yoga is produced while a malefic therein causes Ashubha yoga. Similarly, benefices in both the 12th and the 2nd cause Shubha yoga. Malefic in both the 12th and the 2nd also cause Ashubha yoga. One born in Shubha yoga will be eloquent, charming and virtuous while his counterpart will be sensuous, will do sinful acts and will enjoy (or swallow) others' wealth. Notes: Shubha yoga is of two kinds. It can be formed by a single benefice in the ascendant. It can also be formed by a benefice in the 2nd and by ano"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "unterpart will be sensuous, will do sinful acts and will enjoy (or swallow) others' wealth. Notes: Shubha yoga is of two kinds. It can be formed by a single benefice in the ascendant. It can also be formed by a benefice in the 2nd and by another simultaneously in the 12th. Obviously, the latter Shubha Yoga is still superior. (Need less to mention that if the ascendant; 2nd and 12th are simultaneously occupied by 3 benefices, even then Shubha Yoga of a very great order is established.) This yoga gives physical beauty, excellent virtues and eloquent disposition. Though the text does not mention,"
+    }
+  ],
+  "constants_extracted": [],
+  "pyjhora_reference": {
+    "module": "horoscope/chart/yoga.py",
+    "function": "all_yoga_details"
+  }
+}

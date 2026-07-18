@@ -1,0 +1,51 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 40 – Complete Dasha Interpretation
+Database Specification
+Purpose
+This manual defines the master database schema for Vimshottari Dasha interpretation. It
+standardizes Mahadasha, Bhukti and Antardasha records into structured knowledge objects that
+drive the timeline engine and report generator.
+Entity
+Purpose
+Example Fields
+Mahadasha
+Primary life chapter
+Planet, Duration
+Bhukti
+Sub-period
+Parent Dasha, Planet
+Antardasha
+Fine-grained timing
+Hierarchy, Dates
+Themes
+Life focus
+Career, Family, Wealth
+Event Rules
+Activation logic
+Trigger IDs
+Timeline
+Chapter mapping
+Age, Period
+Narratives
+Reusable paragraphs
+Template IDs
+Evidence
+Validation
+Confidence Weights
+Knowledge Graph
+Cross-links
+Related Objects
+Versioning
+Lifecycle
+Revision, Status
+Database Schema
+Each timing record stores planetary ruler, timing hierarchy, activation rules, supported life domains,
+narrative templates, validation metadata and multilingual labels.
+Recommended Fields
+Dasha ID, parent period, planet, duration, themes, evidence rules, transition rules, event links,
+paragraph IDs, confidence scores, graph edges and version history.
+Developer Specification
+Expose immutable IDs, indexed retrieval, timeline APIs, semantic metadata and audit-friendly
+version control.
+Next Volume
+Volume 41 – Complete Timeline Experience Database Specification.

@@ -1,0 +1,47 @@
+AstroReport OS – Version 4 Data Encyclopedia
+Volume 36 – Complete Planet Database
+Specification
+Purpose
+Defines the master structured database for planetary knowledge used by the reasoning engine,
+knowledge graph and report generator.
+Entity
+Purpose
+Key Fields
+Planet
+Master object
+ID, Name, Keywords
+Sign Rules
+Planet in signs
+Weights, Narrative
+House Rules
+Planet in houses
+Domains, Effects
+Aspect Rules
+Interactions
+Type, Strength
+Yoga Links
+Combinations
+Rule IDs
+Dasha Rules
+Timeline
+Activation
+Transit Rules
+Forecasts
+Triggers
+Narrative Library
+Reusable text
+Template IDs
+Validation
+Quality
+Confidence
+Knowledge Graph
+Cross-links
+Related IDs
+Schema Rules
+Every planet must have structured records, semantic metadata, evidence rules, timeline links,
+multilingual labels and reusable report paragraphs.
+Implementation
+Use immutable IDs, versioning, indexed search, graph relationships and API-ready schemas for
+every planetary record.
+Next Volume
+Volume 37 – Complete House Database Specification.

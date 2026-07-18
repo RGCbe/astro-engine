@@ -1,0 +1,195 @@
+{
+  "name": "Steve Jobs",
+  "birth": {
+    "year": 1955,
+    "month": 2,
+    "day": 24,
+    "hour": 19,
+    "min": 15,
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "place": "San Francisco, California, USA",
+    "tz": -8.0,
+    "weekday": "Thursday"
+  },
+  "lagna": "Leo",
+  "lagna_idx": 4,
+  "lagna_deg": 29.0556,
+  "lagna_lord": "Sun",
+  "ayanamsa": 23.230654,
+  "positions": {
+    "Sun": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 12.5124,
+      "lon_abs": 312.5124,
+      "nak": "Shatabhisha",
+      "nak_idx": 23,
+      "nak_lord": "Rahu",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 1.0061,
+      "house": 7
+    },
+    "Moon": {
+      "rasi": "Pisces",
+      "rasi_idx": 11,
+      "deg": 14.5115,
+      "lon_abs": 344.5115,
+      "nak": "Uttara Bhadrapada",
+      "nak_idx": 25,
+      "nak_lord": "Saturn",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 14.1755,
+      "house": 8
+    },
+    "Mars": {
+      "rasi": "Aries",
+      "rasi_idx": 0,
+      "deg": 5.8548,
+      "lon_abs": 5.8548,
+      "nak": "Ashwini",
+      "nak_idx": 0,
+      "nak_lord": "Ketu",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.7018,
+      "house": 9
+    },
+    "Mercury": {
+      "rasi": "Capricorn",
+      "rasi_idx": 9,
+      "deg": 21.126,
+      "lon_abs": 291.126,
+      "nak": "Shravana",
+      "nak_idx": 21,
+      "nak_lord": "Moon",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.033,
+      "house": 6
+    },
+    "Jupiter": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 27.2722,
+      "lon_abs": 87.2722,
+      "nak": "Punarvasu",
+      "nak_idx": 6,
+      "nak_lord": "Jupiter",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.0631,
+      "house": 11
+    },
+    "Venus": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 27.9362,
+      "lon_abs": 267.9362,
+      "nak": "Uttara Ashadha",
+      "nak_idx": 20,
+      "nak_lord": "Sun",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 1.1367,
+      "house": 5
+    },
+    "Saturn": {
+      "rasi": "Libra",
+      "rasi_idx": 6,
+      "deg": 27.927,
+      "lon_abs": 207.927,
+      "nak": "Vishakha",
+      "nak_idx": 15,
+      "nak_lord": "Jupiter",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.0071,
+      "house": 3
+    },
+    "Rahu": {
+      "rasi": "Sagittarius",
+      "rasi_idx": 8,
+      "deg": 9.2693,
+      "lon_abs": 249.2693,
+      "nak": "Mula",
+      "nak_idx": 18,
+      "nak_lord": "Ketu",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 5
+    },
+    "Ketu": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 9.2693,
+      "lon_abs": 69.2693,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 11
+    }
+  },
+  "janma_nakshatra": "Uttara Bhadrapada",
+  "janma_nakshatra_lord": "Saturn",
+  "moon_rasi": "Pisces",
+  "moon_pada": 4,
+  "rodden_rating": "A",
+  "birth_time_note": "Birth time 7:15 PM PST from adoption records cited in Walter Isaacson's biography",
+  "known_events": [
+    {
+      "date": "1976-04-01",
+      "event": "Co-founded Apple Computer with Steve Wozniak and Ronald Wayne in Los Altos garage"
+    },
+    {
+      "date": "1984-01-24",
+      "event": "Launched Macintosh \u2014 revolutionary GUI personal computer"
+    },
+    {
+      "date": "1985-09-17",
+      "event": "Forced out of Apple by board after power struggle with John Sculley"
+    },
+    {
+      "date": "1986-02-03",
+      "event": "Bought The Graphics Group from Lucasfilm (renamed Pixar) for $5M"
+    },
+    {
+      "date": "1991-03-18",
+      "event": "Married Laurene Powell at Yosemite National Park"
+    },
+    {
+      "date": "1997-09-16",
+      "event": "Returned to Apple as interim CEO after Apple acquired NeXT"
+    },
+    {
+      "date": "2001-10-23",
+      "event": "Launched iPod \u2014 defined digital music era"
+    },
+    {
+      "date": "2003-10-01",
+      "event": "Diagnosed with pancreatic neuroendocrine tumor"
+    },
+    {
+      "date": "2007-01-09",
+      "event": "Launched iPhone at Macworld \u2014 defined smartphone era"
+    },
+    {
+      "date": "2010-01-27",
+      "event": "Launched iPad \u2014 defined tablet category"
+    },
+    {
+      "date": "2011-08-24",
+      "event": "Resigned as Apple CEO due to deteriorating health"
+    },
+    {
+      "date": "2011-10-05",
+      "event": "Died of pancreatic cancer at Palo Alto home \u2014 age 56"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "item_code": "E5",
+  "item_name": "Chara Dasha",
+  "books_covering": [
+    "BPHS_Vol2",
+    "Brihat_Parashara_v2",
+    "Jaimini_Sutras"
+  ],
+  "total_passages": 17,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Jaimini_Sutras",
+      "rule_words": 4,
+      "context": "me time cantaining a world of meaning If Mesha or Dhanus becomes Karakamsa with a benefic there, there will be the highest Bliss. If Mesha or Dhanus becomes the 12th from Karakamsa and Kethu is there, there will be the highest Bliss or Moksha. Kethu is not a full benefic. Kethu becomes a benefic in Chara Dasa and not otherwise. Therefore he cannot be classified as ४ subhagrahz. But astrology ascribes to him the highest spiritual power of emancipation from all births and re-births and give man Moksha. . ७१, पापेरन्यथा ॥ Su. 71. Papairanyatha. If the 12th from the Karakamsa is occupied by evil p"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 3,
+      "context": "and Trikona Dasa, the paka and Bhoga should be determined in this manner. If paka and Bhoia rasis Ue associated with malefics, there will be pain in the body and mental agony. There witl be enjoymenet if they be associated with benefics. Notes : We have to workout the order of the Antardasa in the Chara Dasa of Aquarius. Aquarius is a fixed and odd rasi. Therefore, starting from Aquarius there will be in onwards the Antardasa of every sixth Rasi. Thus the first Antardasa will be of Aquarius, then of Cancer, the sixth rasi Chapter 5l 623 tr|{r qnqrfNtrit rra.rr Tqm qqh tqt sqa: r 624 Brihat Par"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 3,
+      "context": "Trikona Dasha, the Paka and Bhoga should be determined in this manner. If Paka and Bhoga rāśhis be associated with malefic, there will be pain in the body and mental agony. There will be enjoyment if they be associated with benefices. Notes: We have to work out the order of the Antardasa in the Chara Dasha of Aquarius. Aquarius is a fixed and odd rashi. Therefore, starting from Aquarius there will be in onwards the Antardasa of every sixth Rashi. Thus, the first Antardasa will be of Aquarius, then of Cancer, the sixth rashi from it, and later of Sagittarius, the sixth Page 492 rashi from Cance"
+    },
+    {
+      "book": "BPHS_Vol2",
+      "rule_words": 2,
+      "context": "Amongst tbe lords of the Asceiidant Saturn and Rahu' Rahu is associated with a planct. Therefore, Rahu is more powerful than Saturn. Therefore, counting should bc done up io Rahu. Aquarius is in even pada, thcrefore, counting has to be done from Aguarius up io Rahu in the reverse ordcr by which the Chara Dasa i.rr Aquarius would come to 8 ycars' Aries is in odd pada. Tberefore, the Chara Dasa for Arics will be one year\" The Dasa of other signs should bc calculated in the same manner. Illustretive Teble Signs Aquarius Pisces Aries Taurus Gemini Cancer Dasa Years Signs Leo Virgo Libra Scorpio Sa"
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "rule_words": 2,
+      "context": "ngst the lords of the Ascendant Saturn and Rahu, Rahu is associated with a planet. Therefore, Rahu is more powerful than Saturn. Therefore, counting should be done up to Rahu. Aquarius is in even Pada, therefore, counting has to be done from Aquarius up to Rahu in the reverse order by which the Chara Dasha for Aquarius would come to 8 years. Aries is in odd Pada. Therefore, the Chara Dasha for Aries will be one year. The Dasha of other signs should be calculated in the same manner. Illustrative Table Signs Aquarius Pisces Aries Taurus Gemini Cancer Dasha Years 8 1 1 9 8 1 Page 440 Signs Leo Vi"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "wards. The Chara Dasa of Aquarius is of 8 years and Sthira Dasa is also of 8 years. The"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "s of 8 years and Sthira Dasa is also of 8 years. The Dasa of Aquarius in the Yogardha D"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "dha Dasa system will consequently be of 8 years (| of 8+8). The Chara Dasa of Pisccs is"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "isccs is one year and Sthira Dasa is of 9 years. Thus the Dasa of Fisces here will b? o"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "Thus the Dasa of Fisces here will b? of 5 years (* of l-r9). The Dasas of thc rcnaining"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "tivc Trble Sign Aquarius Pisces Dasa\" 8 5 Years Taurus Gemini Canccr 8+811 Aries 4 Sagi"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "s more. Therefore, 'the Dasa will be of 8 years. The )'ears of Dasa of othcr siens may "
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "months",
+      "context": "e Antardasas of the 12 rasis will be of 8 months each. Ilh:stretirc Table Rasi Aqu"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": " Chara Dasha for Aquarius would come to 8 years. Aries is in odd Pada. Therefore, the C"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "ards. The Chara Dasha of Aquarius is of 8 years and Sthira Dasha is also of 8 years. Th"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": " of 8 years and Sthira Dasha is also of 8 years. The Dasha of Aquarius in the Yogardha "
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "ha Dasha system will consequently be of 8 years (½ of 8+8). The Chara Dasha of Pisces i"
+    },
+    {
+      "type": "period",
+      "value": 9,
+      "unit": "years",
+      "context": "sces is one year and Sthira Dasha is of 9 years. Thus, the Dasha of Pisces here will be"
+    },
+    {
+      "type": "period",
+      "value": 5,
+      "unit": "years",
+      "context": "us, the Dasha of Pisces here will be of 5 years (½ of 1 +9). The Dasha of the remaining"
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "years",
+      "context": "4 more. Therefore, the Dasha will be of 8 years. The years of Dasha of other sign, may "
+    },
+    {
+      "type": "period",
+      "value": 8,
+      "unit": "months",
+      "context": "e Antardasa of the 12 rāśhis will be of 8 months each. Illustrative Table Rashi Aquarius"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "horoscope/dhasa/graha/vimsottari.py",
+    "function": "vimsottari_dhasa"
+  }
+}

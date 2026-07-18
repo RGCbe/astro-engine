@@ -1,0 +1,12 @@
+{
+    "total_charts_processed": 30,
+    "total_execution_time_sec": 99.10697650909424,
+    "total_events_generated": 183370,
+    "confidence_bands": {
+        "Strong": 183370,
+        "Moderate": 0,
+        "Weak": 0
+    },
+    "contradictions_flagged": 0,
+    "avg_time_per_chart_sec": 3.3035658836364745
+}

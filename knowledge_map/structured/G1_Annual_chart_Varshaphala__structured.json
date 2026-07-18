@@ -1,0 +1,75 @@
+{
+  "item_code": "G1",
+  "item_name": "Annual chart (Varshaphala)",
+  "books_covering": [
+    "Uttara_Kalamrita"
+  ],
+  "total_passages": 8,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 6,
+      "context": ".9 A.M. Actual calculation gives H 3.49.44 A.M. 164 Uttara Kalamrita Dr. B.V. Raman has given a table on page 247 of his Hindu Predictive Astrology (Edn, 1986) and stated that he corrected it in his book Varshaphal. The 1982 editionofthe second book gives for the completion of 69 years the time of solar return as 3.38.9 A.M. on January 22, 1989. This is not correct as per the calculations made by us. Mr. V.S. Sastri in his edition of Uttara Kalamrtta (1951), page 200 gives a table. The native whose example we have taken was born at gh. 10.57. This table gives the solar return as H. 2.51.19 A.M"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 5,
+      "context": "d Mr. Lahiri have given tables for the annual solar return. These tables are not to be accepted blindly. They have to be verified by calculating the exact time when the Sun returns to the natal position. The day of return coin- cides with the date of the Christian calender. Lahiri's tables give the solar return for 1989 at H 3.38.9 A.M. Actual calculation gives H 3.49.44 A.M. 164 Uttara Kalamrita Dr. B.V. Raman has given a table on page 247 of his Hindu Predictive Astrology (Edn, 1986) and stated that he corrected it in his book Varshaphal. The 1982 editionofthe second book gives for the compl"
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "rule_words": 4,
+      "context": "tion of 69 years the time of solar return as 3.38.9 A.M. on January 22, 1989. This is not correct as per the calculations made by us. Mr. V.S. Sastri in his edition of Uttara Kalamrtta (1951), page 200 gives a table. The native whose example we have taken was born at gh. 10.57. This table gives the solar return as H. 2.51.19 A.M. (I.S.T.). There is an error of nearly 58 minutes. This is just to show that the tables given are not to be trusted. One should calculate for a given time. There is also a problem. Should we calculate the lagna and other bhavas, for the latitude of the place ofbirth or"
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 256363,
+      "unit": "days",
+      "context": " of the sidereal (nirayana) year as 365.256363 days, and of the tropical (sayana) year as 3"
+    },
+    {
+      "type": "period",
+      "value": 242193,
+      "unit": "days",
+      "context": "nd of the tropical (sayana) year as 365.242193 days. The duration of the solar year as per "
+    },
+    {
+      "type": "period",
+      "value": 69,
+      "unit": "years",
+      "context": "second book gives for the completion of 69 years the time of solar return as 3.38.9 A.M."
+    },
+    {
+      "type": "period",
+      "value": 69,
+      "unit": "years",
+      "context": "second book gives for the completion of 69 years the time of solar return as 3.38.9 A.M."
+    },
+    {
+      "type": "period",
+      "value": 69,
+      "unit": "years",
+      "context": "tion of 69 years the time of solar return as 3.38.9 A.M."
+    },
+    {
+      "type": "period",
+      "value": 33,
+      "unit": "years",
+      "context": "nerally reckoned from lagna till one is 33 years old. For the next 33 years the count is"
+    },
+    {
+      "type": "period",
+      "value": 33,
+      "unit": "years",
+      "context": " till one is 33 years old. For the next 33 years the count is r'rom the- Moon sign at bi"
+    }
+  ],
+  "pyjhora_reference": {
+    "module": "horoscope/dhasa/annual/annual.py",
+    "function": "annual_dhasa"
+  }
+}

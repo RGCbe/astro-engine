@@ -1,0 +1,68 @@
+AstroReport OS Specification
+Volume 10L – Spirituality, Purpose & Inner Growth
+Knowledge Base
+Purpose
+Define structured question records related to life purpose, spirituality, inner development and
+personal transformation. These records help the report engine describe meaning, values and
+growth throughout the life timeline.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0111
+What is my life purpose?
+Purpose
+Whole Life
+Foundation
+Q0112
+How do I discover deeper meaning?
+Purpose
+Adult
+Timeline
+Q0113
+Which spiritual practices suit me?
+Spirituality
+Whole Life
+Timeline
+Q0114
+How do I develop inner peace?
+Inner Growth
+Whole Life
+Summary
+Q0115
+What role does meditation or prayer play?
+Spirituality
+Adult
+Timeline
+Q0116
+How can I transform difficult experiences into wisdom?
+Personal Growth
+Adult
+Timeline
+Q0117
+How important are charity and service?
+Service
+Whole Life
+Timeline
+Q0118
+How does intuition guide me?
+Inner Wisdom
+Whole Life
+Timeline
+Q0119
+What values should define my legacy?
+Legacy
+Later Adult
+Summary
+Q0120
+How do purpose and spirituality connect across my life?
+Purpose
+Whole Life
+Legacy
+Implementation Rules
+Present spirituality as personal growth, values and reflection. Respect different beliefs and avoid
+claiming certainty about spiritual outcomes. Integrate these themes naturally with the person's life
+timeline.
+Next Volume
+Volume 10M – Reputation, Leadership & Social Influence Knowledge Base.

@@ -1,0 +1,56 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 17 – Complete House Interpretation Manual
+Purpose
+This manual defines a standardized interpretation framework for the twelve houses. It explains how
+each house contributes to the life timeline and how house meanings are transformed into narrative
+report chapters.
+House
+Primary Theme
+Key Life Domains
+1st
+Self
+Identity, body, personality
+2nd
+Resources
+Family, speech, wealth
+3rd
+Effort
+Communication, siblings, courage
+4th
+Foundation
+Home, mother, property
+5th
+Creation
+Education, children, creativity
+6th
+Service
+Work, routines, challenges
+7th
+Partnership
+Marriage, contracts, relationships
+8th
+Transformation
+Shared resources, change, research
+9th
+Higher Meaning
+Faith, mentors, long journeys
+10th
+Achievement
+Career, reputation, leadership
+11th
+Gains
+Networks, aspirations, income
+12th
+Release
+Reflection, foreign lands, spirituality
+Interpretation Sequence
+For each house evaluate: house meaning → house lord → occupants → aspects → dignity of the
+lord → yogas → divisional chart confirmation → Dasha activation → timeline impact.
+Narrative Rules
+Explain how the house is experienced in everyday life before introducing astrological reasoning.
+Connect every active house to the reader's age and life stage.
+Developer Specification
+Store keywords, life domains, related questions, report templates, weighting rules, validation
+checks and timeline triggers for every house.
+Next Volume
+Volume 18 – Complete Yoga & Combination Interpretation Manual.

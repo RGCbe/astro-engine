@@ -1,0 +1,49 @@
+AstroReport OS – Version 5 Knowledge Population
+Volume 51 – Complete Timeline Experience
+Knowledge Base
+Purpose
+This manual defines how AstroReport OS stores real-life experience patterns across the human
+lifespan. These knowledge records allow the report engine to narrate life chronologically by
+combining astrological timing with age-appropriate human experiences.
+Knowledge Set
+Coverage
+Target Records
+Birth & Infancy
+0–5 years
+500+
+Childhood
+6–12 years
+1000+
+Teen Years
+13–19 years
+1000+
+Young Adult
+20–35 years
+2000+
+Midlife
+36–55 years
+2000+
+Later Life
+56+ years
+1500+
+Emotional Library
+Inner experiences
+3000+
+Milestones
+Life events
+3000+
+Narrative Blocks
+Reusable timeline text
+10000+
+Knowledge Record Template
+Each record stores experience ID, age range, life stage, emotions, common milestones, related
+Dasha patterns, astrological triggers, narrative blocks, child explanation, expert explanation,
+confidence score, cross references and version history.
+Population Strategy
+Separate universal human experiences from chart-specific interpretations. The report engine
+merges these records with astrological evidence to create a personalized life story.
+Developer Specification
+Support multilingual content, semantic retrieval, vector embeddings, graph links, immutable IDs,
+API access, validation metadata and audit history.
+Next Volume
+Volume 52 – Complete Client Question & Answer Knowledge Base.

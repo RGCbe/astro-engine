@@ -1,0 +1,50 @@
+AstroReport OS – Version 2 Implementation Series
+Volume 24 – Prompt Engineering, AI Orchestration
+& LLM Integration Manual
+Purpose
+This manual defines how AI components coordinate with the astrology engine, knowledge base and
+report engine to produce consistent reports from structured inputs.
+Module
+Role
+Output
+Input Normalizer
+Validate user/chart data
+Structured input
+Retriever
+Fetch relevant knowledge
+Evidence package
+Reasoning Engine
+Combine evidence
+Interpretation
+Prompt Builder
+Create task prompts
+LLM-ready prompt
+Narrative Generator
+Write chapters
+Draft report
+Validator
+Check quality
+Approved content
+Renderer
+Create PDF/HTML
+Final report
+Audit Logger
+Store decisions
+Traceability
+Version Manager
+Track prompts
+Reproducibility
+Prompt Design Principles
+Keep prompts modular. Separate retrieval, reasoning, narrative generation and validation into
+independent stages. Pass structured data instead of raw text whenever possible.
+Context Management
+Include only relevant chart facts, timeline events and knowledge objects. Avoid unnecessary
+context to improve consistency and efficiency.
+Quality Controls
+Use automated validation after generation to check completeness, consistency, unsupported
+claims, formatting and readability before final rendering.
+Developer Specification
+Maintain prompt templates, version numbers, model compatibility notes, evaluation datasets,
+fallback strategies and orchestration workflows.
+Next Volume
+Volume 25 – Production Operations, Monitoring & Continuous Improvement Manual.

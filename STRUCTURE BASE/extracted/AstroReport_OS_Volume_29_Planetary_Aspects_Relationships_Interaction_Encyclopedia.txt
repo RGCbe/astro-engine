@@ -1,0 +1,49 @@
+AstroReport OS – Version 3 Knowledge
+Encyclopedia
+Volume 29 – Complete Planetary Aspects,
+Relationships & Interaction Encyclopedia
+Purpose
+This manual standardizes how planets influence one another through aspects, conjunctions,
+relationships and special conditions. It defines how interaction evidence is combined into consistent
+report narratives.
+Interaction
+Meaning
+Report Use
+Conjunction
+Planets combine
+Merged themes
+Planetary Aspects (Drishti)
+Influence at a distance
+Support or tension
+Friendship
+Natural harmony
+Reinforcing effects
+Enmity
+Natural friction
+Growth challenges
+Neutrality
+Balanced interaction
+Moderate influence
+Parivartana
+Exchange of signs
+Linked life areas
+Combustion
+Near the Sun
+Modified expression
+Retrograde
+Apparent reverse motion
+Reflective emphasis
+Planetary War
+Close planetary interaction
+Priority resolution
+Interpretation Workflow
+Evaluate each planet individually, then analyze conjunctions, aspects, friendships, exchanges and
+special conditions. Integrate all interaction evidence before drawing conclusions.
+Standard Interaction Template
+Store interaction type, participating planets, strength, affected life domains, supporting evidence,
+timing activation, confidence score, narrative template and validation rules.
+Developer Specification
+Maintain reusable interaction objects with weighting, precedence, conflict-resolution rules,
+cross-references and timeline triggers.
+Next Volume
+Volume 30 – Planetary Strength, Dignity & Advanced Strength Calculations Manual.

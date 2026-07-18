@@ -1,0 +1,32 @@
+{
+  "item_code": "D4",
+  "item_name": "Fasting/upavasa days",
+  "books_covering": [
+    "Vedanga_Jyotisa"
+  ],
+  "total_passages": 6,
+  "formulas_found": [],
+  "tables_found": [],
+  "rules_found": [
+    {
+      "book": "Vedanga_Jyotisa",
+      "rule_words": 2,
+      "context": "right fortnight of the month of Magha links the naksatra of the last day of the pre- vious year (viz. Sravana) with Sravistha, (that is, it is common to both). (र 34). JIndological Truths ====== PAGE 69 ====== V DAILY TITHI, NAKSATRA ETC. 67 Note 1. This verse 18 not found im the Y-W/. Note 2. Upavasatha day 1s the day of which the previous day 1s the ddhdana or diksa day, that day itself 1s the pmdapitryajia day and the next day is the ist: day. Note 3. The Moon rising just after sunrise indicates that the time 1s near new moon. By contrast, 1f the Moon rises before sunrise, and becomes what "
+    }
+  ],
+  "constants_extracted": [
+    {
+      "type": "period",
+      "value": 64,
+      "unit": "days",
+      "context": " have also passed. Now, 415+€=66 tithis=64 days. So the day-time 1s (64X%2--61)+12=14,8"
+    },
+    {
+      "type": "period",
+      "value": 11,
+      "unit": "days",
+      "context": "ount of the lunar year being shorter by 11 days, and this accumulating to almost one mo"
+    }
+  ],
+  "pyjhora_reference": null
+}

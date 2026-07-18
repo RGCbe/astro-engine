@@ -1,0 +1,2300 @@
+{
+  "book_key": "Phaladeepika",
+  "filename": "Phaladeepika.pdf",
+  "total_pages": 476,
+  "total_words": 113609,
+  "total_chars": 633869,
+  "is_scanned": false,
+  "top_100_words": [
+    {
+      "word": "house",
+      "count": 722
+    },
+    {
+      "word": "sloka",
+      "count": 591
+    },
+    {
+      "word": "person",
+      "count": 409
+    },
+    {
+      "word": "xxi",
+      "count": 400
+    },
+    {
+      "word": "lord",
+      "count": 389
+    },
+    {
+      "word": "moon",
+      "count": 384
+    },
+    {
+      "word": "planets",
+      "count": 366
+    },
+    {
+      "word": "through",
+      "count": 331
+    },
+    {
+      "word": "planet",
+      "count": 312
+    },
+    {
+      "word": "lagna",
+      "count": 299
+    },
+    {
+      "word": "sun",
+      "count": 288
+    },
+    {
+      "word": "dasa",
+      "count": 280
+    },
+    {
+      "word": "good",
+      "count": 277
+    },
+    {
+      "word": "saturn",
+      "count": 254
+    },
+    {
+      "word": "xiv",
+      "count": 250
+    },
+    {
+      "word": "effects",
+      "count": 246
+    },
+    {
+      "word": "xxv",
+      "count": 246
+    },
+    {
+      "word": "birth",
+      "count": 231
+    },
+    {
+      "word": "born",
+      "count": 229
+    },
+    {
+      "word": "yoga",
+      "count": 223
+    },
+    {
+      "word": "effect",
+      "count": 222
+    },
+    {
+      "word": "mars",
+      "count": 220
+    },
+    {
+      "word": "xxvi",
+      "count": 217
+    },
+    {
+      "word": "rasi",
+      "count": 217
+    },
+    {
+      "word": "other",
+      "count": 213
+    },
+    {
+      "word": "jupiter",
+      "count": 209
+    },
+    {
+      "word": "xix",
+      "count": 207
+    },
+    {
+      "word": "venus",
+      "count": 206
+    },
+    {
+      "word": "houses",
+      "count": 203
+    },
+    {
+      "word": "wealth",
+      "count": 190
+    },
+    {
+      "word": "native",
+      "count": 184
+    },
+    {
+      "word": "sign",
+      "count": 179
+    },
+    {
+      "word": "time",
+      "count": 172
+    },
+    {
+      "word": "suffer",
+      "count": 169
+    },
+    {
+      "word": "occupied",
+      "count": 162
+    },
+    {
+      "word": "bhava",
+      "count": 159
+    },
+    {
+      "word": "during",
+      "count": 156
+    },
+    {
+      "word": "occupy",
+      "count": 150
+    },
+    {
+      "word": "adh",
+      "count": 147
+    },
+    {
+      "word": "xvi",
+      "count": 145
+    },
+    {
+      "word": "mercury",
+      "count": 145
+    },
+    {
+      "word": "wife",
+      "count": 145
+    },
+    {
+      "word": "death",
+      "count": 142
+    },
+    {
+      "word": "loss",
+      "count": 137
+    },
+    {
+      "word": "own",
+      "count": 135
+    },
+    {
+      "word": "become",
+      "count": 135
+    },
+    {
+      "word": "transit",
+      "count": 129
+    },
+    {
+      "word": "children",
+      "count": 128
+    },
+    {
+      "word": "life",
+      "count": 125
+    },
+    {
+      "word": "xxiv",
+      "count": 125
+    },
+    {
+      "word": "benefic",
+      "count": 125
+    },
+    {
+      "word": "xii",
+      "count": 124
+    },
+    {
+      "word": "concerned",
+      "count": 124
+    },
+    {
+      "word": "posited",
+      "count": 123
+    },
+    {
+      "word": "king",
+      "count": 121
+    },
+    {
+      "word": "several",
+      "count": 120
+    },
+    {
+      "word": "signs",
+      "count": 111
+    },
+    {
+      "word": "position",
+      "count": 108
+    },
+    {
+      "word": "one's",
+      "count": 106
+    },
+    {
+      "word": "viii",
+      "count": 105
+    },
+    {
+      "word": "places",
+      "count": 102
+    },
+    {
+      "word": "aspected",
+      "count": 102
+    },
+    {
+      "word": "disease",
+      "count": 101
+    },
+    {
+      "word": "navamsa",
+      "count": 99
+    },
+    {
+      "word": "case",
+      "count": 99
+    },
+    {
+      "word": "number",
+      "count": 98
+    },
+    {
+      "word": "enemies",
+      "count": 95
+    },
+    {
+      "word": "strength",
+      "count": 95
+    },
+    {
+      "word": "same",
+      "count": 95
+    },
+    {
+      "word": "trouble",
+      "count": 95
+    },
+    {
+      "word": "bhukti",
+      "count": 93
+    },
+    {
+      "word": "xxii",
+      "count": 92
+    },
+    {
+      "word": "adhyaya",
+      "count": 89
+    },
+    {
+      "word": "yogas",
+      "count": 88
+    },
+    {
+      "word": "etc",
+      "count": 86
+    },
+    {
+      "word": "iii",
+      "count": 83
+    },
+    {
+      "word": "tlie",
+      "count": 83
+    },
+    {
+      "word": "period",
+      "count": 82
+    },
+    {
+      "word": "xxl",
+      "count": 82
+    },
+    {
+      "word": "respectively",
+      "count": 81
+    },
+    {
+      "word": "cause",
+      "count": 80
+    },
+    {
+      "word": "index",
+      "count": 80
+    },
+    {
+      "word": "malefic",
+      "count": 80
+    },
+    {
+      "word": "danger",
+      "count": 80
+    },
+    {
+      "word": "bhavas",
+      "count": 79
+    },
+    {
+      "word": "diseases",
+      "count": 79
+    },
+    {
+      "word": "rahu",
+      "count": 79
+    },
+    {
+      "word": "strong",
+      "count": 79
+    },
+    {
+      "word": "kendra",
+      "count": 76
+    },
+    {
+      "word": "under",
+      "count": 76
+    },
+    {
+      "word": "exaltation",
+      "count": 76
+    },
+    {
+      "word": "acquisition",
+      "count": 75
+    },
+    {
+      "word": "years",
+      "count": 74
+    },
+    {
+      "word": "woman",
+      "count": 73
+    },
+    {
+      "word": "lords",
+      "count": 71
+    },
+    {
+      "word": "ketu",
+      "count": 70
+    },
+    {
+      "word": "caused",
+      "count": 70
+    },
+    {
+      "word": "happen",
+      "count": 70
+    },
+    {
+      "word": "vii",
+      "count": 69
+    },
+    {
+      "word": "evil",
+      "count": 68
+    }
+  ],
+  "calculations": [
+    {
+      "type": "degree_measure",
+      "value": "20 degrees",
+      "context": "- lar) signs of the planets from the Sun onwards. The first 20 degrees of Simhav the last 27 degrees of Vrishabha (27 degrees after"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27\ndegrees",
+      "context": "om the Sun onwards. The first 20 degrees of Simhav the last 27 degrees of Vrishabha (27 degrees after the highest exaltation degree"
+    },
+    {
+      "type": "degree_measure",
+      "value": "27 degrees",
+      "context": "irst 20 degrees of Simhav the last 27 degrees of Vrishabha (27 degrees after the highest exaltation degree), the first 12 degrees o"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12 degrees",
+      "context": "(27 degrees after the highest exaltation degree), the first 12 degrees of Mesha, the 5 degrees following the highest exaltation deg"
+    },
+    {
+      "type": "degree_measure",
+      "value": "5 degrees",
+      "context": "hest exaltation degree), the first 12 degrees of Mesha, the 5 degrees following the highest exaltation degree of Mercury in Kanya"
+    },
+    {
+      "type": "degree_measure",
+      "value": "10 degrees",
+      "context": "degree of Mercury in Kanya (/. e., IS\"\" to 20\"\"), the first 10 degrees in Dhanus, the first five degrees in Tula and the first 20 d"
+    },
+    {
+      "type": "degree_measure",
+      "value": "15°",
+      "context": "d portion of a sign), (Hora or i of a sign, i.e., an arc of 15°), nrsrtsr (Trimsamsa or ^<7 portion of a sign, i.e., an arc"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1 °",
+      "context": "rsrtsr (Trimsamsa or ^<7 portion of a sign, i.e., an arc of 1 °), (Saptamsa or -Jth portion of a sign, i.e , an arc of 4|°)"
+    },
+    {
+      "type": "degree_measure",
+      "value": "12°",
+      "context": "j°) and (Kalamsa or iV por- tion of a sign, i.e., an arc of 12°)— these along with the g[I^?[rT5r (Dwadasamsa or portion of"
+    },
+    {
+      "type": "degree_measure",
+      "value": "1°",
+      "context": "for the union of 9 Vargas. Suppose Jupiter's position is 8—*1°- -25'“~-r' or the 2nd deg^*^© df Dhanus. He occupies his (1"
+    },
+    {
+      "type": "time_period",
+      "value": "12 years",
+      "context": "n for the Lagna at a birth. 3—4. The life of children under 12 years cannot be calculated for the reasons stated. 5. Remedies to"
+    },
+    {
+      "type": "time_period",
+      "value": "15 days",
+      "context": "year, a Muhurta (2 ghatikas), a day, two months, one month, 15 days and a year respectively. Venus and Jupiter are Brahmins; th"
+    },
+    {
+      "type": "time_period",
+      "value": "50 years",
+      "context": "e face, and on the leg.  22 Adh. IE The Sun. is a person of 50 years. The Moon is one- of 70 year s; Mars is 16 years old. Mercu"
+    },
+    {
+      "type": "time_period",
+      "value": "70 year",
+      "context": "h. IE The Sun. is a person of 50 years. The Moon is one- of 70 year s; Mars is 16 years old. Mercury is a lad of 20 years. Jupi"
+    },
+    {
+      "type": "time_period",
+      "value": "16 years",
+      "context": "person of 50 years. The Moon is one- of 70 year s; Mars is 16 years old. Mercury is a lad of 20 years. Jupiter is a person 30 y"
+    },
+    {
+      "type": "time_period",
+      "value": "20\nyears",
+      "context": "ne- of 70 year s; Mars is 16 years old. Mercury is a lad of 20 years. Jupiter is a person 30 years old. Venus ista child of 7yea"
+    },
+    {
+      "type": "time_period",
+      "value": "30 years",
+      "context": "ears old. Mercury is a lad of 20 years. Jupiter is a person 30 years old. Venus ista child of 7years. Saturn and Rahu are each 1"
+    },
+    {
+      "type": "time_period",
+      "value": "7years",
+      "context": "ears. Jupiter is a person 30 years old. Venus ista child of 7years. Saturn and Rahu are each 100 years old. Sloka 33.—Rahu is"
+    },
+    {
+      "type": "time_period",
+      "value": "100 years",
+      "context": "s old. Venus ista child of 7years. Saturn and Rahu are each 100 years old. Sloka 33.—Rahu is black in colour, tall in stature, .a"
+    },
+    {
+      "type": "time_period",
+      "value": "80\nyears",
+      "context": "e will be.arul^r of the  ;!S 1 . 16-18 53 earth, living for 80 years and of a spotless character. If a female be born under this"
+    },
+    {
+      "type": "time_period",
+      "value": "70 years",
+      "context": "dhyamayus) or middle age when the period of life extends to 70 years. It is (Purnayus) when the period of life extends to 100 ye"
+    },
+    {
+      "type": "time_period",
+      "value": "5yr",
+      "context": "in some limb, and will associate with courtezans. %5r3 3r?'K5yrm: ;Tm^ra!fTtr^?Tr!r:  51. Bd-2 ‘2-1^ Sloka 84,—What has bee"
+    },
+    {
+      "type": "time_period",
+      "value": "120 years",
+      "context": "om lue Sun onwards is ^th of the maximum aggregate perivjd (120 years and 5 days). In this Ayurdaya also all the reductions are e"
+    },
+    {
+      "type": "time_period",
+      "value": "5 days",
+      "context": "ards is ^th of the maximum aggregate perivjd (120 years and 5 days). In this Ayurdaya also all the reductions are enjoined. Th"
+    },
+    {
+      "type": "time_period",
+      "value": "5\ndays",
+      "context": "in the case of men and elephants is given as 120 years and 5 days, while in that of horses it is 32 years. It is 25 in the ca"
+    },
+    {
+      "type": "time_period",
+      "value": "32 years",
+      "context": "iven as 120 years and 5 days, while in that of horses it is 32 years. It is 25 in the case of asses and camels and 24 for bulls"
+    },
+    {
+      "type": "time_period",
+      "value": "2\nyr",
+      "context": "1 - 8 ftrattoTTgRrnq’ XIV -2 Rr^'or^orvr^r XXI-21 Vl -66 IM2 yr^rgvT XV-24 VII 1-30 5^snBar XX-6 53ft 5T^r% XXIII-3 5^5Tt X"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "5/0",
+      "context": ". I-I4,  INDEX OASA DASA X-13, 14; XLIMS. 25, .XJX-1, 2, 4. 5/0, 7, 9, 10, 11, 12. 13, 14. 15, 10, 17. 18, 19; 20, 21, 22,"
+    },
+    {
+      "type": "fraction_ratio",
+      "value": "1/17",
+      "context": "X-i4. To liave - got in war. XXI-28. To have immense— . Y 1 1/17, 18. To have wide— XIX G, 10; XXL82. FAMILY. YI-25, 4G, 55;"
+    },
+    {
+      "type": "significant_number",
+      "value": 9,
+      "context": "e I Definitions •••• 1 II Planets and their vairieties •••• 9 III Divisions of the Zodiac 24 IV Determination of the Shad"
+    },
+    {
+      "type": "significant_number",
+      "value": 12,
+      "context": "he effects of the Bhavas ... 152 XVI General effects of the 12 Bhavas ... 1G3 XVII Exit from the World ... 175 XVIII Conju"
+    },
+    {
+      "type": "significant_number",
+      "value": 7,
+      "context": "igns. Uchcha (^80*) and Paramochcha Neecha and Paramaneecha 7. Which signs and what portions are Moola- trikonas and of w"
+    },
+    {
+      "type": "significant_number",
+      "value": 16,
+      "context": "odd and even ; Male and female ; Eastern, Western, etc. 10—16. The 12 bhavas and their names. Leenastthanas 17. Dusstthan"
+    },
+    {
+      "type": "significant_number",
+      "value": 17,
+      "context": "n, etc. 10—16. The 12 bhavas and their names. Leenastthanas 17. Dusstthana (;^:^T»r) and Subhastthana (^iT- ^r) explained."
+    },
+    {
+      "type": "significant_number",
+      "value": 18,
+      "context": "- ^r) explained. Kendra Kantaka and Chatushtaya (=5rgiS?l). 18. The terms Panaphara (’TOT'KT:), Apokliiha (3TT»ft%»T), Cha"
+    },
+    {
+      "type": "significant_number",
+      "value": 20,
+      "context": "he points of the compass of which the planets are lords. 17—20. Additional informations (other than what are' contained in"
+    },
+    {
+      "type": "significant_number",
+      "value": 27,
+      "context": "vely. The five senses an dthe planets representing by them. 27. Planets—benefic and malefic—male, female, and hermaphrodit"
+    },
+    {
+      "type": "significant_number",
+      "value": 28,
+      "context": "ities presiding over them. The elements which they control. 28. The grains appropriate to the planets. The countries signi"
+    },
+    {
+      "type": "significant_number",
+      "value": 30,
+      "context": "ignified by them. 29. The precious stones ascribed to them. 30. Substances pertaining to the planets. Their articles of ap"
+    },
+    {
+      "type": "significant_number",
+      "value": 36,
+      "context": "tals and apparel. Their friends and enemies.  CON'l’ENTS xi 36. When are planets said to be badly placed and when well-pla"
+    },
+    {
+      "type": "significant_number",
+      "value": 19,
+      "context": "use, a’spected by or associated with a friendly planet. 18— 19. The several states or conditions of planets. 20. The exten"
+    },
+    {
+      "type": "significant_number",
+      "value": 40,
+      "context": "efic if associated with Rahu will prove malefic a^ the end. 40* The Maraka places defined* Conditions when , the Dasas of"
+    },
+    {
+      "type": "significant_number",
+      "value": 60,
+      "context": "death of a person. 59. When will a Dasa prove auspicious ? 60—61. The ^ood or evil to be experienced in a Dasa dependent"
+    },
+    {
+      "type": "significant_number",
+      "value": 108,
+      "context": "the lords of the 6th, 8th and 12th houses. q:# <Trf?n eir^  108 Adh. X Sloka 7.—When the 2nd and 7th houses are either occu"
+    },
+    {
+      "type": "significant_number",
+      "value": 120,
+      "context": "tnicting wo got 4— 0''~18'—fo\" wo get , 43- S ’- 4f/— lo'- -120\" 1S' l5\" = llth Tithi - =218' 45' 45\"- fifth Title ^ Ukacks"
+    },
+    {
+      "type": "significant_number",
+      "value": 360,
+      "context": "ut the signs. Multiply the total Ayus by this and divide by 360. The whole Ayurdaya should be reduc- ed by this result. If"
+    },
+    {
+      "type": "significant_number",
+      "value": 1000,
+      "context": "e- period of a man is the time taken by the Moon for making 1000 revolutions. But we are of opinion that the full period of"
+    }
+  ],
+  "connections": {
+    "planet_house": [
+      {
+        "planet": "Sun",
+        "house": 1,
+        "snippet": "Sun while in transit if associated with a malefic. aJid in Vetlhii causes— , XX\\ 1 - 20 . , d'lio'-t l) house"
+      },
+      {
+        "planet": "Sun",
+        "house": 2,
+        "snippet": "Sun is in the 2nd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun, the Moon, and other planets, in the nativity as the Lagna (Ascendant). 3 cTrsi^mij; i Sloka Find the house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun. His brothers, character, etc., must be ascertained from the 3rd house"
+      },
+      {
+        "planet": "Sun",
+        "house": 3,
+        "snippet": "Sun gives good results when he is in the 6th, 3rd and 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 4,
+        "snippet": "Sun and Venus situated in the 4th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 4,
+        "snippet": "Sun be in the 4th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 4,
+        "snippet": "Sun in tlie 4th c&nse j the house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun's rays, loss of wife is certain. Venus in conjunction with a malefic occupying the 7th, 5th or 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun is posited in the 5th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 5,
+        "snippet": "Sun's transit in the 5th house. The Sun in the 6th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun be in the 6th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun gives good results when he is in the 6th, 3rd and 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 6,
+        "snippet": "Sun's transit in the 5th house. The Sun in the 6th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun and Rahu be in the 7th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 7,
+        "snippet": "Sun's rays, loss of wife is certain. Venus in conjunction with a malefic occupying the 7th, 5th or 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun or Moon will only give good effects during his Dasa when he hap- pens to own the 8th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun should be in the 8th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 8,
+        "snippet": "Sun. Sloka 5 .—When the Moon transits the Rasi or Navamsa occupied by the lord of the 8th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun's rays, loss of wife is certain. Venus in conjunction with a malefic occupying the 7th, 5th or 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun's rays and if the lord of the Lagna be stronger than him and if the Sun be in the 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 9,
+        "snippet": "Sun's transit in the 9th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun when he has his full Dig-bala {i.e., when he is in the 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 10,
+        "snippet": "Sun gives good results when he is in the 6th, 3rd and 10th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 11,
+        "snippet": "Sun in the 11th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 11,
+        "snippet": "Sun's transit in the 11th house"
+      },
+      {
+        "planet": "Sun",
+        "house": 12,
+        "snippet": "Sun be in the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 1,
+        "snippet": "Moon be in the 12th, 11th, 1st, 6th, 5th, or the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 1,
+        "snippet": "Moon in conjunction with a malefic, is in the 1st, 5th, 7th, or 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 2,
+        "snippet": "Moon and if Jupiter happens to be the lord of the 2nd, the 5th or the 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 3,
+        "snippet": "Moon, and other planets, in the nativity as the Lagna (Ascendant). 3 cTrsi^mij; i Sloka Find the house"
+      },
+      {
+        "planet": "Moon",
+        "house": 3,
+        "snippet": "Moon be in the 3rd house"
+      },
+      {
+        "planet": "Moon",
+        "house": 3,
+        "snippet": "Moon occupies an Upachaya (3rd, 6th, 10th and 11th) house"
+      },
+      {
+        "planet": "Moon",
+        "house": 4,
+        "snippet": "Moon and Yen us being also associated there. XI- 4. Effect of— being in the 4th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 4,
+        "snippet": "Moon be in the 4th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 4,
+        "snippet": "Moon's Ashtakavarga should be multiplied by the number representing the benefic dots in the 4th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 4,
+        "snippet": "Moon. XIV*3. Mars during his transit in the 4th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon be in the 12th, 11th, 1st, 6th, 5th, or the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon and if Jupiter happens to be the lord of the 2nd, the 5th or the 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 5,
+        "snippet": "Moon occupies the 11th, and the 5th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon be in the 12th, 11th, 1st, 6th, 5th, or the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon in a Kendra position to Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 6,
+        "snippet": "Moon be in the 6th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon be in the 12th, 11th, 1st, 6th, 5th, or the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon in conjunction with a malefic, is in the 1st, 5th, 7th, or 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 7,
+        "snippet": "Moon in the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon will only give good effects during his Dasa when he hap- pens to own the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon in a Kendra position to Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 8,
+        "snippet": "Moon is in the 8th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 9,
+        "snippet": "Moon be occupied or as- pected by the lord of the 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 9,
+        "snippet": "Moon in conjunction with a malefic, is in the 1st, 5th, 7th, or 9th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 10,
+        "snippet": "Moon occu- pying good or bad positions. XVI- 10. The 4th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 10,
+        "snippet": "Moon be in Karkataka identical with the 10th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 10,
+        "snippet": "Moon occupies an Upachaya (3rd, 6th, 10th and 11th) house"
+      },
+      {
+        "planet": "Moon",
+        "house": 11,
+        "snippet": "Moon be in the 12th, 11th, 1st, 6th, 5th, or the 7th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 11,
+        "snippet": "Moon and if Jupiter happens to be the lord of the 2nd, the 5th or the 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 11,
+        "snippet": "Moon be in the 11th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon in her travels through the 12 house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon in a Kendra position to Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon be in the 12th house"
+      },
+      {
+        "planet": "Moon",
+        "house": 12,
+        "snippet": "Moon be in the 5th and malefics should occupy the 12th, 7th and the 1st house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars and Mercury occupying the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 2,
+        "snippet": "Mars be in the 2nd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 3,
+        "snippet": "Mars will cause tear, hot words, and loss of wealth. In the 3rd house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars occupying each other’s Rasi or Amsa, and the Tiagna, Moon and Yen us being also associated there. XI- 4. Effect of— being in the 4th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars during his transit in the 4th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "MARS , MAYA Ketu is similar to— in giving ; effects. VflI-34 i — arif] t;lie Sun in tlie 4th c&nse j the house"
+      },
+      {
+        "planet": "Mars",
+        "house": 4,
+        "snippet": "Mars and the— in the 4th cause the house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars will cause ear-disease to the native. Mars (a malefic) in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 5,
+        "snippet": "Mars in the 5th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 6,
+        "snippet": "Mars will cause ear-disease to the native. Mars (a malefic) in the 5th house in conjunction with the lord of the 6th or the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars in the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars is posited in Meena identical with the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 7,
+        "snippet": "Mars occupies it (the 7th), the female born will, become a widow ; if the planets in the 7th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars be in the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 8,
+        "snippet": "Mars (a malefic) in the 5th house in conjunction with the lord of the 6th or the 8th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 10,
+        "snippet": "Mars in the 10th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 11,
+        "snippet": "Mars should be in the 11th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 12,
+        "snippet": "Mars occupies the 12th house"
+      },
+      {
+        "planet": "Mars",
+        "house": 12,
+        "snippet": "Mars in his transit in the 12th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury occupying the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 2,
+        "snippet": "Mercury be in the 2nd house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury occupying the 2nd house from the Lagna; (3) the Sun and Venus situated in the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 4,
+        "snippet": "Mercury occupying the 4th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury be in the 5th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 5,
+        "snippet": "Mercury similarly placed will not give many while Jupiter in the Moon's sigh identical with the 5th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 6,
+        "snippet": "Mercury in the 6th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 6,
+        "snippet": "Mercury is the lord of the community 11-24. SUEFEEINGS. Obe’s—should bp guessed from the 6th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 8,
+        "snippet": "Mercury should be posited in the 8th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 10,
+        "snippet": "Mercury be in the 10th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 11,
+        "snippet": "Mercury in the 11th house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 12,
+        "snippet": "Mercury in his transit through the 12 house"
+      },
+      {
+        "planet": "Mercury",
+        "house": 12,
+        "snippet": "Mercury be in the 12th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter happens to be the lord of the 2nd, the 5th or the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 2,
+        "snippet": "Jupiter and occupy • Trikona or Kendra positions, or if benefics be posited in the 2nd, the 7th and the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 3,
+        "snippet": "Jupiter be in the 3rd house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 4,
+        "snippet": "Jupiter occupies the 4th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter happens to be the lord of the 2nd, the 5th or the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter in the 5th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 5,
+        "snippet": "Jupiter in the Moon's sigh identical with the 5th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 6,
+        "snippet": "Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 6,
+        "snippet": "Jupiter's passage through the 5th house. In the 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter be in the 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter occupies the 7th and is in depression, or when Saturn or Mars is posited in Meena identical with the 7th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 7,
+        "snippet": "Jupiter and occupy • Trikona or Kendra positions, or if benefics be posited in the 2nd, the 7th and the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 8,
+        "snippet": "Jupiter be posited in the 8th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 9,
+        "snippet": "Jupiter, the child will be long-lived and happy. Sloka 25.— If Saturn owning the 9th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter should be in the 10th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 10,
+        "snippet": "Jupiter's passage through the 9th house, the person concerned will succeed in enjoying all prosperity. In the 10th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 11,
+        "snippet": "Jupiter happens to be the lord of the 2nd, the 5th or the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 11,
+        "snippet": "Jupiter is posited in the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 11,
+        "snippet": "Jupiter and occupy • Trikona or Kendra positions, or if benefics be posited in the 2nd, the 7th and the 11th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 12,
+        "snippet": "Jupiter brings on %^6r (Kesari) Yoga. The Moon in the 12th/ 8th or 6th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 12,
+        "snippet": "Jupiter be in the 12th house"
+      },
+      {
+        "planet": "Jupiter",
+        "house": 12,
+        "snippet": "Jupiter's transit through the 11th house. In the 12th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 3,
+        "snippet": "Venus in the 3rd house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus conjunction— . XVII E5. Effect of Venus occu])ying a Varga of—or having the aspect of—. X-4. 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus situated in the 4th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 4,
+        "snippet": "Venus should be in the 4th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus be in the 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus in conjunction with a malefic occupying the 7th, 5th or 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 5,
+        "snippet": "Venus be also similarly situated (that is, in an even sign) and if the lords of the 5th and 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 6,
+        "snippet": "Venus occupies the 6th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus 11*19, Re: a one should guess through Satuin. II-7. Term for denoting the 5th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus should be posited in the 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus in conjunction with a malefic occupying the 7th, 5th or 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 7,
+        "snippet": "Venus. I 3Trr: ffr^T ll^Jl Sloka 6.—dt is through the (number of) planets in the 7th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 8,
+        "snippet": "Venus in the 8th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 9,
+        "snippet": "Venus in conjunction with a malefic occupying the 7th, 5th or 9th house"
+      },
+      {
+        "planet": "Venus",
+        "house": 12,
+        "snippet": "Venus occupies the 12th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 2,
+        "snippet": "SATURN INDEX 61 SATURN and 12th houses. VITI-24. Effect of— in the* 2nd and 3rd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "Saturn is posited in the 3rd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 3,
+        "snippet": "SATURN INDEX 61 SATURN and 12th houses. VITI-24. Effect of— in the* 2nd and 3rd house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn be in the 4th with its lord the house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 4,
+        "snippet": "Saturn's transit in the 4th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn occupy similar positions, the Yoga formed is called fcrftf^ (Virinchi). 3TrrJTT = lord of the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn should be posited in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 5,
+        "snippet": "Saturn and Mars will cause ear-disease to the native. Mars (a malefic) in the 5th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 6,
+        "snippet": "Saturn occupies the 6th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn in the 7th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 7,
+        "snippet": "Saturn or Mars is posited in Meena identical with the 7th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn is in ihe 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn transits a Rasi so far removed from the Rasi occupied by the lord of the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 8,
+        "snippet": "Saturn goes to the house occupied by the lord of the decanate of the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn is” in the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 9,
+        "snippet": "Saturn owning the 9th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 10,
+        "snippet": "Saturn and Ketu be posited in the 10th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "Saturn wears a—garment. 1 1-1 4. ! BLACK GEAM. The grain be- longing to Eahu is— . 11*28. j BLACK SMITH. 11-20 BLAME. A name for the 8th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "Saturn in the 11th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 11,
+        "snippet": "Saturn in the 11th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 12,
+        "snippet": "Saturn is in the 12.th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 12,
+        "snippet": "Saturn in the 12th house"
+      },
+      {
+        "planet": "Saturn",
+        "house": 12,
+        "snippet": "SATURN INDEX 61 SATURN and 12th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 2,
+        "snippet": "Rahu in the 2nd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 3,
+        "snippet": "Rahu in the 3rd house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 4,
+        "snippet": "Rahu or Saturn be in the 4th with its lord the house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 5,
+        "snippet": "Rahu should be posited in the 5th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 6,
+        "snippet": "Rahu be in the 6th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 7,
+        "snippet": "Rahu occupies the 7th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 7,
+        "snippet": "Rahu be in the 7th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 8,
+        "snippet": "Rahu, the lord of the 22nd decanate and the lord of the 8th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 9,
+        "snippet": "Rahu happens to be in the 9th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 10,
+        "snippet": "Rahu in the 10th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 10,
+        "snippet": "Rahu, Saturn and Ketu be posited in the 10th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 11,
+        "snippet": "Rahu be in the 11th house"
+      },
+      {
+        "planet": "Rahu",
+        "house": 12,
+        "snippet": "Rahu during his transit through the 12th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 3,
+        "snippet": "Ketu in the 3rd house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 4,
+        "snippet": "Ketu be in the 4th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 4,
+        "snippet": "Ketu is similar to— in giving ; effects. VflI-34 i — arif] t;lie Sun in tlie 4th c&nse j the house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 5,
+        "snippet": "Ketu in the 5th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 5,
+        "snippet": "Ketu in coiijunction with Mandi be in the 5th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 7,
+        "snippet": "Ketu is posited in the 7th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 8,
+        "snippet": "Ketu be in the 8th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 9,
+        "snippet": "Ketu, the native's next abode will be Hell. IP.yil Sloka 24.—“It is the lord of the 9th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 10,
+        "snippet": "Ketu occupies the 10th house"
+      },
+      {
+        "planet": "Ketu",
+        "house": 10,
+        "snippet": "Ketu be posited in the 10th house"
+      }
+    ],
+    "planet_rasi": [
+      {
+        "planet": "Sun",
+        "rasi": "Taurus",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Mesha",
+        "count": 6
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Vrishabha",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Mithuna",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Kanya",
+        "count": 2
+      },
+      {
+        "planet": "Sun",
+        "rasi": "Kumbha",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Taurus",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Leo",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Virgo",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Scorpio",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Mesha",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Vrishabha",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Mithuna",
+        "count": 3
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Simha",
+        "count": 4
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Kanya",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Tula",
+        "count": 2
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Kumbha",
+        "count": 1
+      },
+      {
+        "planet": "Moon",
+        "rasi": "Meena",
+        "count": 2
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Mesha",
+        "count": 4
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Vrishabha",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Simha",
+        "count": 3
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Tula",
+        "count": 1
+      },
+      {
+        "planet": "Mars",
+        "rasi": "Meena",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Vrishabha",
+        "count": 2
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Mithuna",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Simha",
+        "count": 1
+      },
+      {
+        "planet": "Mercury",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Tula",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Makara",
+        "count": 1
+      },
+      {
+        "planet": "Jupiter",
+        "rasi": "Meena",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Vrishabha",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Mithuna",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Simha",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Tula",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Makara",
+        "count": 1
+      },
+      {
+        "planet": "Venus",
+        "rasi": "Meena",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Tula",
+        "count": 2
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Makara",
+        "count": 1
+      },
+      {
+        "planet": "Saturn",
+        "rasi": "Meena",
+        "count": 5
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Mesha",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Vrishabha",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Kumbha",
+        "count": 1
+      },
+      {
+        "planet": "Rahu",
+        "rasi": "Meena",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Kanya",
+        "count": 1
+      },
+      {
+        "planet": "Ketu",
+        "rasi": "Meena",
+        "count": 1
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Mesha",
+        "count": 3
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Vrishabha",
+        "count": 3
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Mithuna",
+        "count": 4
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Simha",
+        "count": 4
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Kanya",
+        "count": 4
+      },
+      {
+        "planet": "Chandra",
+        "rasi": "Tula",
+        "count": 2
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Vrishabha",
+        "count": 4
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Mithuna",
+        "count": 4
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Simha",
+        "count": 5
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Kanya",
+        "count": 4
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Tula",
+        "count": 5
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Makara",
+        "count": 6
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Kumbha",
+        "count": 7
+      },
+      {
+        "planet": "Kuja",
+        "rasi": "Meena",
+        "count": 8
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Mesha",
+        "count": 5
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Vrishabha",
+        "count": 4
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Mithuna",
+        "count": 3
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Simha",
+        "count": 8
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Kanya",
+        "count": 3
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Tula",
+        "count": 5
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Makara",
+        "count": 2
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Kumbha",
+        "count": 2
+      },
+      {
+        "planet": "Budha",
+        "rasi": "Meena",
+        "count": 4
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Mesha",
+        "count": 4
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Vrishabha",
+        "count": 4
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Mithuna",
+        "count": 4
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Simha",
+        "count": 4
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Kanya",
+        "count": 3
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Tula",
+        "count": 4
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Makara",
+        "count": 7
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Kumbha",
+        "count": 7
+      },
+      {
+        "planet": "Guru",
+        "rasi": "Meena",
+        "count": 3
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Mesha",
+        "count": 3
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Vrishabha",
+        "count": 3
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Mithuna",
+        "count": 2
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Kanya",
+        "count": 2
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Tula",
+        "count": 3
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Makara",
+        "count": 6
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Kumbha",
+        "count": 4
+      },
+      {
+        "planet": "Sani",
+        "rasi": "Meena",
+        "count": 4
+      }
+    ],
+    "yogas": [
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga. Effect of a birth in which ore, t vo, three four or all the five yogas are present. 5. Sunapha Anapha (sTSTW) and Duru- dhara yogas Femadruma (%Tr5JT) yoga. 6. Effect of birth in the Sunaph.i and An"
+      },
+      {
+        "yoga": "Yoga",
+        "snippet": "yoga. 13. Effects of birth in Susubha Subha* kartari and other yog^as are only similar to that of Sunapha (g?nTr) and other yogas caused by btoefics, etc.  xiv PHALADEJPIKA 14. ' Mahabhagya (JT^IVTF^)) Ke"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "Raja Yoga. If the lords of a Kendra and a Kona be similarly placed, i. e., be in conjunction in an auspi- cious Bhava, the resulting Yoga is called (Sankha) . snpJrT: Sloka ,?a—The person who has his birth in"
+      },
+      {
+        "yoga": "Raja Yoga",
+        "snippet": "RAJA YOGA. Vl<37,.38; VII- 24 ; XX-54 ; XXVII-7 ; XXVIIT-14. RAJYA. 1-12. RAM. 11-18, 20. RAMAYANA. Xri-17, RAAIBLING. To have fruit- less— XX-18. RAMKSWARAM. Xri-24. RANDHRA. 1-14. RANK. 1-15. RASA. II-IG. RA"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "Kemadruma yogas. 8.. Subhaveshi Subhavasi (wVTWife), Subhobhayachari and’ the cor- responding Papaveshi (qiq%^) and other yogas explained. Subhakarthari and Papakarthari and Susubha yogas explained. 9. Effect"
+      },
+      {
+        "yoga": "Kemadruma",
+        "snippet": "Kemadruma) Yoga. There are some who decKire that there is no (Kemadruma) where  SI- 6-8 .49^ a Kendra or the Moon is associated with a planet, or where planets occupy a Kendra house reckoned from the Moon. ^^T"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa and Malavya yogas. 4. Effect of birth in a Sasa (^5r) yoga. Effect of a birth in which ore, t vo, three four or all the five yogas are present. 5. Sunapha Anapha (sTSTW) and Duru- dhara yogas Femadru"
+      },
+      {
+        "yoga": "Hamsa",
+        "snippet": "Hamsa), (Malava) and (Sasa) are the five Yogas which-  SI. 2-3 47 are formed by the planets Mars, Mercury, ^Jupiter, Venus and Saturn respectively when each* of them oc- cupies a Kendra identical with its"
+      },
+      {
+        "yoga": "Malavya",
+        "snippet": "Malavya yogas. 4. Effect of birth in a Sasa (^5r) yoga. Effect of a birth in which ore, t vo, three four or all the five yogas are present. 5. Sunapha Anapha (sTSTW) and Duru- dhara yogas Femadruma (%Tr5JT)"
+      },
+      {
+        "yoga": "Malavya",
+        "snippet": "Malavya) Yoga will have strong limbs, will b| resolute, wealthy, endowed with wife, children and good fortune'  48 Adh. V will be prosperous, will eat good meals, enjoy pleasures, command good vehicles, and"
+      },
+      {
+        "yoga": "Ruchaka",
+        "snippet": "Ruchaka and Bhadra (wJT) yogas. 3. Effect of birth in Hamsa and Malavya yogas. 4. Effect of birth in a Sasa (^5r) yoga. Effect of a birth in which ore, t vo, three four or all the five yogas are present. 5."
+      },
+      {
+        "yoga": "Ruchaka",
+        "snippet": "Ruchaka), ttIT (Bhadra), (Hamsa), (Malava) and (Sasa) are the five Yogas which-  SI. 2-3 47 are formed by the planets Mars, Mercury, ^Jupiter, Venus and Saturn respectively when each* of them oc- cupies a Ke"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra (wJT) yogas. 3. Effect of birth in Hamsa and Malavya yogas. 4. Effect of birth in a Sasa (^5r) yoga. Effect of a birth in which ore, t vo, three four or all the five yogas are present. 5. Sunapha Ana"
+      },
+      {
+        "yoga": "Bhadra",
+        "snippet": "Bhadra), (Hamsa), (Malava) and (Sasa) are the five Yogas which-  SI. 2-3 47 are formed by the planets Mars, Mercury, ^Jupiter, Venus and Saturn respectively when each* of them oc- cupies a Kendra identical"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa (^5r) yoga. Effect of a birth in which ore, t vo, three four or all the five yogas are present. 5. Sunapha Anapha (sTSTW) and Duru- dhara yogas Femadruma (%Tr5JT) yoga. 6. Effect of birth in the Suna"
+      },
+      {
+        "yoga": "Sasa",
+        "snippet": "Sasa) are the five Yogas which-  SI. 2-3 47 are formed by the planets Mars, Mercury, ^Jupiter, Venus and Saturn respectively when each* of them oc- cupies a Kendra identical with its (Swakshetra) or (Swoc"
+      },
+      {
+        "yoga": "Vimala",
+        "snippet": "Vimala (firR5r) yogas and their effects. 70, Another kind of Duryoga ADHYAYA 7. 1—5. Certain self-evident Rajayogas.  .contents XV 6. A Rajayoga caused by the lord of the • Lagna or the Sun. 7. A Rajayoga c"
+      },
+      {
+        "yoga": "Vimala",
+        "snippet": "Vimala yoga). ^^rf: frrTj: II^CII Sloka S3.--The man born in an 3T^^3T (Avayoga) will be insignificant. He will suffer from extreme poverty and will^be short-lived. He will be humiliated, he will associate"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata (gifir^irT) ; the union of 3 Vargas is termed Uttama *? that of 4 , Gopura (^5?:). When 5 Vargas combine, it is called Simhasana The union of 6 Vargas is called Paravata The combination of 7 Vargas i"
+      },
+      {
+        "yoga": "Parijata",
+        "snippet": "Parijata) Yoga will always be in the midst of festivities (or auspicious ceremonies), will become a King, will be come the lord of much hoarded wealth, will own a large family, will be intent on hearing stori"
+      }
+    ],
+    "dasha_mentions": [
+      {
+        "term": "kalachakra",
+        "count": 9
+      }
+    ],
+    "nakshatra_mentions": [
+      {
+        "nakshatra": "Bharani",
+        "count": 7
+      },
+      {
+        "nakshatra": "Krittika",
+        "count": 8
+      },
+      {
+        "nakshatra": "Rohini",
+        "count": 8
+      },
+      {
+        "nakshatra": "Ardra",
+        "count": 5
+      },
+      {
+        "nakshatra": "Pushya",
+        "count": 3
+      },
+      {
+        "nakshatra": "Hasta",
+        "count": 1
+      },
+      {
+        "nakshatra": "Chitra",
+        "count": 1
+      },
+      {
+        "nakshatra": "Swati",
+        "count": 1
+      },
+      {
+        "nakshatra": "Anuradha",
+        "count": 1
+      },
+      {
+        "nakshatra": "Mula",
+        "count": 5
+      },
+      {
+        "nakshatra": "Revati",
+        "count": 1
+      }
+    ]
+  },
+  "chapters_found": [
+    {
+      "page": 14,
+      "heading": "ADHYAYA\n2.\n‘ 1—"
+    },
+    {
+      "page": 18,
+      "heading": "ADHYAYA\n5.\n1—8"
+    },
+    {
+      "page": 19,
+      "heading": "ADHYAYA\n7.\n1—5."
+    },
+    {
+      "page": 21,
+      "heading": "ADHYAYA\n10.\nYoga leading to the aquisition or loss of a wife"
+    },
+    {
+      "page": 22,
+      "heading": "ADHYAYA\n11.\nThe"
+    },
+    {
+      "page": 22,
+      "heading": "ADHYAYA 12.\nYoga$ under which the acquisition of children"
+    },
+    {
+      "page": 25,
+      "heading": "ADHYAYA\n15.\nWhen will the bhavas produce good"
+    },
+    {
+      "page": 31,
+      "heading": "ADHYAYA 21.\nSub-division of a Dasa into Bhuktis."
+    },
+    {
+      "page": 31,
+      "heading": "ADHYAYA 22.\nStars grouped by triads. The order"
+    },
+    {
+      "page": 32,
+      "heading": "ADHYAYA 23.\nPurpose"
+    },
+    {
+      "page": 34,
+      "heading": "ADHYAYA\n25.\nThe nine Upagrahas enumerated."
+    },
+    {
+      "page": 37,
+      "heading": "ADHYAYA 28.\n1—4."
+    },
+    {
+      "page": 38,
+      "heading": "ADHYAYA\nI.\nSloka"
+    },
+    {
+      "page": 47,
+      "heading": "ADHYAYA\nII.\nSloka"
+    },
+    {
+      "page": 61,
+      "heading": "ADHYAYA\nIII.\nSloka"
+    },
+    {
+      "page": 70,
+      "heading": "ADHYAYA IV.\nSloka"
+    },
+    {
+      "page": 80,
+      "heading": "ADHYAYA V.\nSJoka"
+    },
+    {
+      "page": 83,
+      "heading": "ADHYAYA VI.\n* Sloka 7-—"
+    },
+    {
+      "page": 109,
+      "heading": "ADHYAYA VII.\nSlokr:"
+    },
+    {
+      "page": 119,
+      "heading": "ADHYAYA VIII.\nSiokj"
+    },
+    {
+      "page": 135,
+      "heading": "ADHYAYA IX.\nBhk .1"
+    },
+    {
+      "page": 142,
+      "heading": "ADHYAYA X.\nSioka i.— ' If the 5th and"
+    },
+    {
+      "page": 147,
+      "heading": "ADHYAYA\nXI.\nSi'oka 1.— Whatever"
+    },
+    {
+      "page": 153,
+      "heading": "ADHYAYA XII.\nSloki"
+    },
+    {
+      "page": 167,
+      "heading": "ADHYAYA XIII.\nSloka"
+    },
+    {
+      "page": 178,
+      "heading": "ADHYAYA XIV.\nf^f^TfJTPT dTrvrrsrfWH^Im"
+    },
+    {
+      "page": 189,
+      "heading": "ADHYAYA XV.\nSloka"
+    },
+    {
+      "page": 200,
+      "heading": "ADHYAYA XVI.\nSloka /.-“The native will correspond in mein"
+    },
+    {
+      "page": 212,
+      "heading": "ADHYAYA XVII.\nSloko"
+    },
+    {
+      "page": 221,
+      "heading": "ADHYAYA XVIII.\nSJoka L—If, at the birth of any person,"
+    },
+    {
+      "page": 229,
+      "heading": "ADHYAYA XIX.\nSlolca I .—The"
+    },
+    {
+      "page": 238,
+      "heading": "ADHYAYA XX.\nSloka L—What"
+    },
+    {
+      "page": 258,
+      "heading": "ADHYAYA XXI.\nNature of Bhuktis and Antaras."
+    },
+    {
+      "page": 280,
+      "heading": "ADHYAYA XXIi.\nSloka 2.—The"
+    },
+    {
+      "page": 294,
+      "heading": "ADHYAYA XXllI.\nPint"
+    },
+    {
+      "page": 314,
+      "heading": "ADHYAYA XXV.\nSloka"
+    },
+    {
+      "page": 323,
+      "heading": "ADHYAYA XXVI.\nSloka L—Of all"
+    },
+    {
+      "page": 356,
+      "heading": "ADHYAYA XXVII.\nSloka"
+    },
+    {
+      "page": 360,
+      "heading": "ADHYAYA XXVIII.\nSlokas 1-4 .—This work consists of 27 chapters treat-"
+    }
+  ],
+  "summary": {
+    "unique_words_sampled": 100,
+    "calculations_found": 47,
+    "planet_house_connections": 177,
+    "planet_rasi_connections": 92,
+    "yoga_mentions": 20,
+    "nakshatra_mentions": 11,
+    "dasha_mentions": 1,
+    "chapters_detected": 39
+  }
+}

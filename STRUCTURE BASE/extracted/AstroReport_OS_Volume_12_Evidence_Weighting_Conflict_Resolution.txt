@@ -1,0 +1,49 @@
+AstroReport OS Specification
+Volume 12 – Astrological Evidence Weighting &
+Conflict Resolution System
+Purpose
+This specification defines how the reasoning engine weighs multiple astrological indicators,
+resolves conflicting evidence and produces a consistent interpretation for the report engine.
+Priority
+Evidence Type
+Purpose
+1
+Birth Chart Foundation (D1)
+Primary context
+2
+House Lords & House Strength
+Core life areas
+3
+Planetary Strength
+Functional influence
+4
+Yogas & Major Combinations
+Amplify or modify results
+5
+Divisional Charts (D9, D10, etc.)
+Specialized confirmation
+6
+Mahadasha
+Major timeline
+7
+Bhukti / Antardasha
+Short-term activation
+8
+Transit Support
+Current influence
+9
+Ashtakavarga / Other Scores
+Additional evidence
+10
+Final Confidence Score
+Report output
+Conflict Resolution Rules
+Never base a conclusion on a single indicator. Prefer interpretations confirmed by multiple
+independent sources. When evidence conflicts, explain the dominant trend while acknowledging
+limiting influences. Assign High, Medium or Low confidence based on the amount and quality of
+supporting evidence.
+Reasoning Output
+Return: Life Domain, Supporting Evidence, Opposing Evidence, Timeline, Confidence Score, Final
+Interpretation and Validation Status.
+Next Volume
+Volume 13 – Report Composition Engine & Chapter Assembly System.

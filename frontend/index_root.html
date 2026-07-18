@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AstroMystic - Discover Your Destiny</title>
+    <meta name="description" content="AI-powered astrology, daily horoscopes, and cosmic insights.">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="star-container"></div>
+    <main class="cosmic-wrapper">
+        <header class="glass-header">
+            <h1 class="logo">AstroMystic</h1>
+            <nav>
+                <ul>
+                    <li><a href="#horoscope">Daily Horoscope</a></li>
+                    <li><a href="#chart">Natal Chart</a></li>
+                    <li><a href="#compatibility">Compatibility</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section class="hero" id="hero-section">
+            <div class="hero-content">
+                <h2 class="hero-title">Written in the <span class="glow-text">Stars</span></h2>
+                <p class="hero-subtitle">Unlock celestial wisdom derived from ancient Nadi manuscripts and Vedic Jyotisham.</p>
+                <div class="services-grid">
+                    <div class="service-card" id="btn-jathagam">
+                        <div class="icon">📜</div>
+                        <h3>Jathagam Reader</h3>
+                        <p>Discover your Rasi & Nakshatra</p>
+                    </div>
+                    <div class="service-card" id="btn-nadi">
+                        <div class="icon">👁️</div>
+                        <h3>Nadi Search</h3>
+                        <p>Ancient palm leaf scanning</p>
+                    </div>
+                    <div class="service-card" id="btn-prasannam">
+                        <div class="icon">✨</div>
+                        <h3>Prasannam</h3>
+                        <p>Instant answers to cosmic questions</p>
+                    </div>
+                    <div class="service-card" id="btn-numerology">
+                        <div class="icon">🔢</div>
+                        <h3>En Kanitham</h3>
+                        <p>Numerology & Lucky Numbers</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Results Section -->
+    <section id="results-section" class="hero hidden">
+        <div class="hero-content">
+            <h2 class="hero-title" id="results-greeting">Welcome, Seeker</h2>
+            <div class="zodiac-wheel-container">
+                <div class="glowing-orb" style="animation: none; filter: blur(5px);">
+                    <h1 id="zodiac-sign" class="glow-text" style="font-size: 3rem; margin-top: 50px;">Sign</h1>
+                </div>
+            </div>
+            <p class="hero-subtitle" id="zodiac-desc">Your cosmic path awaits.</p>
+            <button class="primary-btn" id="reset-btn">Calculate Another</button>
+        </div>
+    </section>
+
+    <!-- Modal Portal -->
+    <div id="chart-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button class="close-btn" id="close-modal">&times;</button>
+            <h2 class="modal-title" id="dynamic-modal-title">Enter Details</h2>
+            
+            <!-- Jathagam Form -->
+            <form id="natal-form" class="dynamic-form hidden">
+                <div class="form-group">
+                    <label>Your Name</label>
+                    <input type="text" id="name" required placeholder="Seeker" />
+                </div>
+                <div class="form-group">
+                    <label>Date of Birth</label>
+                    <input type="date" id="dob" required />
+                </div>
+                <div class="form-group">
+                    <label>Time of Birth</label>
+                    <input type="time" id="time" required value="12:00" />
+                </div>
+                <div class="form-group" style="display: flex; gap: 10px;">
+                    <div style="flex: 1;">
+                        <label>Latitude</label>
+                        <input type="number" id="lat" step="any" value="11.0" required />
+                    </div>
+                    <div style="flex: 1;">
+                        <label>Longitude</label>
+                        <input type="number" id="lon" step="any" value="77.0" required />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Primary Focus (Prashna)</label>
+                    <select id="focus" style="width:100%; padding: 12px; background: rgba(255, 255, 255, 0.1); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 8px; color: white; margin-top: 5px;">
+                        <option value="general" style="color: black;">General Reading</option>
+                        <option value="career" style="color: black;">Career & Wealth</option>
+                        <option value="marriage" style="color: black;">Marriage & Relationships</option>
+                        <option value="health" style="color: black;">Health & Longevity</option>
+                        <option value="spiritual" style="color: black;">Spiritual Path</option>
+                    </select>
+                </div>
+                <button type="submit" class="primary-btn submit-btn">Read Jathagam</button>
+            </form>
+
+            <!-- Nadi Thumbprint Form -->
+            <form id="nadi-form" class="dynamic-form hidden">
+                <div class="thumbprint-box">
+                    <p>Place thumb to scan</p>
+                    <div id="thumb-scanner"></div>
+                </div>
+                <button type="submit" class="primary-btn submit-btn">Scan Palm Leaves</button>
+            </form>
+
+            <!-- Prasannam Form -->
+            <form id="prasannam-form" class="dynamic-form hidden">
+                <div class="form-group">
+                    <label>Ask down your question</label>
+                    <input type="text" id="question" required placeholder="Will my venture succeed?" />
+                </div>
+                <button type="submit" class="primary-btn submit-btn">Consult the Cosmos</button>
+            </form>
+
+            <!-- Numerology Form -->
+            <form id="numerology-form" class="dynamic-form hidden">
+                <div class="form-group">
+                    <label>Enter Full Name</label>
+                    <input type="text" id="num-name" required placeholder="e.g. Raj" />
+                </div>
+                <div class="form-group">
+                    <label>Date of Birth</label>
+                    <input type="date" id="num-dob" required />
+                </div>
+                <button type="submit" class="primary-btn submit-btn">Calculate Numbers</button>
+            </form>
+
+        </div>
+    </div>
+    <script src="tamil-data-sets.js"></script>
+    <script src="astro-data.js"></script>
+    <script src="script.js?v=4"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+AstroReport OS Specification
+Volume 10N – Retirement, Wisdom & Legacy
+Knowledge Base
+Purpose
+Define structured question records for retirement, wisdom, reflection, mentoring and legacy. These
+records help the report engine describe the final chapters of life as a period of contribution and
+meaning.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0131
+How do I prepare for retirement?
+Retirement
+Later Adult
+Timeline
+Q0132
+What gives me purpose after my main career?
+Purpose
+Later Adult
+Timeline
+Q0133
+How can I share my knowledge with others?
+Mentorship
+Later Adult
+Timeline
+Q0134
+What wisdom do my life experiences teach?
+Wisdom
+Whole Life
+Summary
+Q0135
+How should I simplify my life?
+Lifestyle
+Later Adult
+Timeline
+Q0136
+What legacy do I leave beyond wealth?
+Legacy
+Later Adult
+Legacy
+Q0137
+How do I strengthen family bonds in later life?
+Family
+Later Adult
+Timeline
+Q0138
+How do I contribute to my community?
+Service
+Later Adult
+Timeline
+Q0139
+What values should future generations remember?Legacy
+Later Adult
+Summary
+Q0140
+How does my entire life journey come together?
+Life Review
+Later Adult
+Final Chapter
+Implementation Rules
+Present retirement as a transition into wisdom, mentoring and reflection. Emphasize purpose,
+contribution and healthy ageing. Avoid deterministic statements about lifespan or specific end-of-life
+events.
+Next Volume
+Volume 10O – Daily Habits, Productivity & Decision Making Knowledge Base.

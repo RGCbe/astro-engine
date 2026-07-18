@@ -1,0 +1,287 @@
+{
+  "name": "Joseph Vijay (Thalapathy)",
+  "birth": {
+    "year": 1974,
+    "month": 6,
+    "day": 22,
+    "hour": 12,
+    "min": 0,
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "place": "Chennai (Madras), Tamil Nadu, India",
+    "tz": 5.5,
+    "weekday": "Saturday"
+  },
+  "lagna": "Virgo",
+  "lagna_idx": 5,
+  "lagna_deg": 4.3499,
+  "lagna_lord": "Mercury",
+  "ayanamsa": 23.50051,
+  "positions": {
+    "Sun": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 6.9669,
+      "lon_abs": 66.9669,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 0.9544,
+      "house": 10
+    },
+    "Moon": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 5.8761,
+      "lon_abs": 95.8761,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 1,
+      "retrograde": false,
+      "speed": 14.9637,
+      "house": 11
+    },
+    "Mars": {
+      "rasi": "Cancer",
+      "rasi_idx": 3,
+      "deg": 14.603,
+      "lon_abs": 104.603,
+      "nak": "Pushya",
+      "nak_idx": 7,
+      "nak_lord": "Saturn",
+      "pada": 4,
+      "retrograde": false,
+      "speed": 0.6147,
+      "house": 11
+    },
+    "Mercury": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 19.4582,
+      "lon_abs": 79.4582,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 4,
+      "retrograde": true,
+      "speed": -0.3076,
+      "house": 10
+    },
+    "Jupiter": {
+      "rasi": "Aquarius",
+      "rasi_idx": 10,
+      "deg": 23.9819,
+      "lon_abs": 323.9819,
+      "nak": "Purva Bhadrapada",
+      "nak_idx": 24,
+      "nak_lord": "Jupiter",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 0.0489,
+      "house": 6
+    },
+    "Venus": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 2.1131,
+      "lon_abs": 32.1131,
+      "nak": "Krittika",
+      "nak_idx": 2,
+      "nak_lord": "Sun",
+      "pada": 2,
+      "retrograde": false,
+      "speed": 1.177,
+      "house": 9
+    },
+    "Saturn": {
+      "rasi": "Gemini",
+      "rasi_idx": 2,
+      "deg": 13.7521,
+      "lon_abs": 73.7521,
+      "nak": "Ardra",
+      "nak_idx": 5,
+      "nak_lord": "Rahu",
+      "pada": 3,
+      "retrograde": false,
+      "speed": 0.1296,
+      "house": 10
+    },
+    "Rahu": {
+      "rasi": "Scorpio",
+      "rasi_idx": 7,
+      "deg": 25.2972,
+      "lon_abs": 235.2972,
+      "nak": "Jyeshtha",
+      "nak_idx": 17,
+      "nak_lord": "Mercury",
+      "pada": 3,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 3
+    },
+    "Ketu": {
+      "rasi": "Taurus",
+      "rasi_idx": 1,
+      "deg": 25.2972,
+      "lon_abs": 55.2972,
+      "nak": "Mrigashira",
+      "nak_idx": 4,
+      "nak_lord": "Mars",
+      "pada": 1,
+      "retrograde": true,
+      "speed": -0.053,
+      "house": 9
+    }
+  },
+  "janma_nakshatra": "Pushya",
+  "janma_nakshatra_lord": "Saturn",
+  "moon_rasi": "Cancer",
+  "moon_pada": 1,
+  "rodden_rating": "B",
+  "birth_time_note": "Birth time 12:00 Chennai per Antigravity vijay_lifeline.md + family records",
+  "known_events": [
+    {
+      "date": "1984-09-21",
+      "event": "Child actor debut: Vetri (father directed) at age 10",
+      "atro_category": "career"
+    },
+    {
+      "date": "1992-12-04",
+      "event": "Lead actor debut: Naalaiya Theerpu (flop)",
+      "atro_category": "career"
+    },
+    {
+      "date": "1993-12-24",
+      "event": "First hit: Sendhoorapandi",
+      "atro_category": "career"
+    },
+    {
+      "date": "1996-02-15",
+      "event": "Breakthrough blockbuster: Poove Unakkaga \u2014 became Tamil superstar",
+      "atro_category": "career"
+    },
+    {
+      "date": "1999-06-04",
+      "event": "Thullatha Manamum Thullum mega-hit \u2014 defined romantic-hero era",
+      "atro_category": "career"
+    },
+    {
+      "date": "2003-01-14",
+      "event": "Thirumalai blockbuster Pongal release",
+      "atro_category": "career"
+    },
+    {
+      "date": "2007-04-13",
+      "event": "Pokkiri huge hit \u2014 mass-hero brand consolidated",
+      "atro_category": "career"
+    },
+    {
+      "date": "2012-04-27",
+      "event": "Nanban blockbuster (3 Idiots remake)",
+      "atro_category": "career"
+    },
+    {
+      "date": "2017-04-14",
+      "event": "Mersal mega Diwali release \u2014 political controversy",
+      "atro_category": "career"
+    },
+    {
+      "date": "2021-01-13",
+      "event": "Master pandemic-era blockbuster \u2014 Pongal record",
+      "atro_category": "career"
+    },
+    {
+      "date": "2023-01-12",
+      "event": "Varisu Pongal blockbuster",
+      "atro_category": "career"
+    },
+    {
+      "date": "2023-10-19",
+      "event": "Leo released \u2014 career-biggest hit, \u20b9600+ cr global",
+      "atro_category": "career"
+    },
+    {
+      "date": "2024-09-05",
+      "event": "GOAT released \u2014 Greatest Of All Time",
+      "atro_category": "career"
+    },
+    {
+      "date": "1995-08-04",
+      "event": "Triple-flop month \u2014 Rajavin Parvaiyile, Vishnu, Chandralekha all flopped",
+      "atro_category": "wealth_loss"
+    },
+    {
+      "date": "2022-04-13",
+      "event": "Beast released \u2014 major flop after Master",
+      "atro_category": "wealth_loss"
+    },
+    {
+      "date": "2017-08-15",
+      "event": "Won Tamil Nadu State Film Award for Theri",
+      "atro_category": "honor"
+    },
+    {
+      "date": "2021-03-21",
+      "event": "Master won several state-level honors",
+      "atro_category": "honor"
+    },
+    {
+      "date": "1999-08-25",
+      "event": "Married Sangeetha Sornalingam (London-based Sri Lankan Tamil)",
+      "atro_category": "marriage"
+    },
+    {
+      "date": "2000-08-01",
+      "event": "Son Sanjay born",
+      "atro_category": "children"
+    },
+    {
+      "date": "2005-10-04",
+      "event": "Daughter Divya born",
+      "atro_category": "children"
+    },
+    {
+      "date": "2024-04-05",
+      "event": "Father S. A. Chandrasekhar died at age 87",
+      "atro_category": "father"
+    },
+    {
+      "date": "2014-09-15",
+      "event": "Hospitalized for back injury during Kaththi shoot",
+      "atro_category": "health"
+    },
+    {
+      "date": "1999-08-25",
+      "event": "Marriage in London \u2014 first major overseas trip",
+      "atro_category": "travel"
+    },
+    {
+      "date": "2019-05-15",
+      "event": "Cannes Film Festival visit",
+      "atro_category": "travel"
+    },
+    {
+      "date": "2024-02-02",
+      "event": "Founded political party TVK (Tamizhaga Vetri Kazhagam) \u2014 religious-cultural shift",
+      "atro_category": "spiritual"
+    },
+    {
+      "date": "2021-01-13",
+      "event": "Master fee record + Vijay TV brand peak",
+      "atro_category": "wealth"
+    },
+    {
+      "date": "2023-10-19",
+      "event": "Leo earnings \u2014 became highest-paid Tamil actor",
+      "atro_category": "wealth"
+    },
+    {
+      "date": "2010-06-15",
+      "event": "Bought luxury bungalow in Neelankarai Chennai",
+      "atro_category": "property"
+    }
+  ]
+}

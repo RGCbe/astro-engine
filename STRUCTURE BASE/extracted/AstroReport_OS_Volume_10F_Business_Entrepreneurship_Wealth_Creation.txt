@@ -1,0 +1,67 @@
+AstroReport OS Specification
+Volume 10F – Business, Entrepreneurship &
+Wealth Creation Knowledge Base
+Purpose
+Define structured question records for business, entrepreneurship, wealth creation and long-term
+financial growth. These records support timeline-aware report generation for business and finance.
+ID
+Canonical Question
+Domain
+Life Stage
+Placement
+Q0051
+Am I naturally suited for business?
+Business
+Young Adult
+Timeline
+Q0052
+Should I start my own company?
+Entrepreneurship
+Adult
+Timeline
+Q0053
+Is partnership business suitable for me?
+Business
+Adult
+Timeline
+Q0054
+How do I create long-term wealth?
+Wealth
+Whole Life
+Summary
+Q0055
+What investment style suits me?
+Investments
+Adult
+Timeline
+Q0056
+How should I manage financial risk?
+Finance
+Adult
+Timeline
+Q0057
+Will I benefit from real estate investments?
+Property
+Adult
+Timeline
+Q0058
+How do I improve cash flow?
+Business Finance
+Adult
+Timeline
+Q0059
+What habits increase financial success?
+Wealth
+Whole Life
+Summary
+Q0060
+How can I achieve financial independence?
+Wealth
+Whole Life
+Legacy
+Implementation Rules
+Business questions should evolve with the person's timeline. Early chapters discuss aptitude and
+preparation, middle chapters cover growth, investment and expansion, while later chapters
+emphasize wealth preservation, succession and legacy.
+Next Volume
+Volume 10G – Marriage, Love & Relationship Knowledge Base.

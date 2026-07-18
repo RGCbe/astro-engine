@@ -1,0 +1,1028 @@
+{
+  "books_targeted": 23,
+  "books_complete": 22,
+  "incomplete": [
+    "Unknown_6945"
+  ],
+  "totals": {
+    "techniques": 1098,
+    "rules": 3085,
+    "yogas": 906,
+    "formulas": 458,
+    "remedies": 385,
+    "tables": 346,
+    "unique_concepts": 756
+  },
+  "rows": [
+    {
+      "book": "Aryabhatiya_v1",
+      "gemma": {
+        "present": true,
+        "size_kb": 62.55078125,
+        "chunks": 2,
+        "errors": 0,
+        "techniques": 17,
+        "rules": 18,
+        "yogas": 3,
+        "formulas": 34,
+        "remedies": 0,
+        "tables": 17,
+        "unique_concepts": 14,
+        "total": 103
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1097.0205078125,
+        "items": 731
+      }
+    },
+    {
+      "book": "Aryabhatiya_v2",
+      "gemma": {
+        "present": true,
+        "size_kb": 57.623046875,
+        "chunks": 4,
+        "errors": 0,
+        "techniques": 24,
+        "rules": 16,
+        "yogas": 5,
+        "formulas": 21,
+        "remedies": 0,
+        "tables": 9,
+        "unique_concepts": 20,
+        "total": 95
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 2028.076171875,
+        "items": 1326
+      }
+    },
+    {
+      "book": "BPHS_Vol1",
+      "gemma": {
+        "present": true,
+        "size_kb": 256.654296875,
+        "chunks": 26,
+        "errors": 7,
+        "techniques": 79,
+        "rules": 268,
+        "yogas": 90,
+        "formulas": 33,
+        "remedies": 10,
+        "tables": 24,
+        "unique_concepts": 61,
+        "total": 565
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1219.998046875,
+        "items": 658
+      }
+    },
+    {
+      "book": "BPHS_Vol2",
+      "gemma": {
+        "present": true,
+        "size_kb": 213.0322265625,
+        "chunks": 26,
+        "errors": 7,
+        "techniques": 64,
+        "rules": 196,
+        "yogas": 35,
+        "formulas": 26,
+        "remedies": 37,
+        "tables": 29,
+        "unique_concepts": 50,
+        "total": 437
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 971.3388671875,
+        "items": 455
+      }
+    },
+    {
+      "book": "Bhrigu_Samhita",
+      "gemma": {
+        "present": true,
+        "size_kb": 108.4462890625,
+        "chunks": 28,
+        "errors": 14,
+        "techniques": 42,
+        "rules": 106,
+        "yogas": 29,
+        "formulas": 18,
+        "remedies": 30,
+        "tables": 16,
+        "unique_concepts": 31,
+        "total": 272
+      },
+      "logic": {
+        "present": false,
+        "size_kb": 0,
+        "items": 0
+      }
+    },
+    {
+      "book": "Brihat_Jataka",
+      "gemma": {
+        "present": true,
+        "size_kb": 110.47265625,
+        "chunks": 32,
+        "errors": 11,
+        "techniques": 54,
+        "rules": 52,
+        "yogas": 37,
+        "formulas": 22,
+        "remedies": 24,
+        "tables": 21,
+        "unique_concepts": 34,
+        "total": 244
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1119.607421875,
+        "items": 243
+      }
+    },
+    {
+      "book": "Brihat_Parashara_v2",
+      "gemma": {
+        "present": true,
+        "size_kb": 694.8291015625,
+        "chunks": 56,
+        "errors": 11,
+        "techniques": 172,
+        "rules": 820,
+        "yogas": 202,
+        "formulas": 63,
+        "remedies": 93,
+        "tables": 47,
+        "unique_concepts": 124,
+        "total": 1521
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 2924.802734375,
+        "items": 1197
+      }
+    },
+    {
+      "book": "Hora_Sara",
+      "gemma": {
+        "present": true,
+        "size_kb": 193.2216796875,
+        "chunks": 18,
+        "errors": 6,
+        "techniques": 40,
+        "rules": 312,
+        "yogas": 35,
+        "formulas": 13,
+        "remedies": 9,
+        "tables": 16,
+        "unique_concepts": 33,
+        "total": 458
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 604.98828125,
+        "items": 452
+      }
+    },
+    {
+      "book": "Jaimini_Sutras",
+      "gemma": {
+        "present": true,
+        "size_kb": 45.810546875,
+        "chunks": 10,
+        "errors": 5,
+        "techniques": 24,
+        "rules": 34,
+        "yogas": 11,
+        "formulas": 11,
+        "remedies": 9,
+        "tables": 6,
+        "unique_concepts": 16,
+        "total": 111
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 501.4140625,
+        "items": 274
+      }
+    },
+    {
+      "book": "Jataka_Parijata",
+      "gemma": {
+        "present": true,
+        "size_kb": 20.947265625,
+        "chunks": 1,
+        "errors": 0,
+        "techniques": 6,
+        "rules": 21,
+        "yogas": 2,
+        "formulas": 3,
+        "remedies": 0,
+        "tables": 2,
+        "unique_concepts": 3,
+        "total": 37
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 192.4248046875,
+        "items": 81
+      }
+    },
+    {
+      "book": "Laghu_Parashari",
+      "gemma": {
+        "present": true,
+        "size_kb": 39.4970703125,
+        "chunks": 2,
+        "errors": 0,
+        "techniques": 11,
+        "rules": 31,
+        "yogas": 12,
+        "formulas": 4,
+        "remedies": 0,
+        "tables": 5,
+        "unique_concepts": 6,
+        "total": 69
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 478.48046875,
+        "items": 278
+      }
+    },
+    {
+      "book": "Muhurtha_Chintamani",
+      "gemma": {
+        "present": true,
+        "size_kb": 21.4091796875,
+        "chunks": 1,
+        "errors": 0,
+        "techniques": 9,
+        "rules": 13,
+        "yogas": 4,
+        "formulas": 3,
+        "remedies": 3,
+        "tables": 4,
+        "unique_concepts": 4,
+        "total": 40
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 151.3095703125,
+        "items": 46
+      }
+    },
+    {
+      "book": "Pancha_Siddhantika",
+      "gemma": {
+        "present": true,
+        "size_kb": 7.833984375,
+        "chunks": 2,
+        "errors": 0,
+        "techniques": 3,
+        "rules": 3,
+        "yogas": 2,
+        "formulas": 1,
+        "remedies": 0,
+        "tables": 1,
+        "unique_concepts": 8,
+        "total": 18
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 59.2353515625,
+        "items": 43
+      }
+    },
+    {
+      "book": "Phaladeepika",
+      "gemma": {
+        "present": true,
+        "size_kb": 203.240234375,
+        "chunks": 22,
+        "errors": 2,
+        "techniques": 95,
+        "rules": 139,
+        "yogas": 97,
+        "formulas": 40,
+        "remedies": 31,
+        "tables": 27,
+        "unique_concepts": 73,
+        "total": 502
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1148.775390625,
+        "items": 1150
+      }
+    },
+    {
+      "book": "Prashna_Marga",
+      "gemma": {
+        "present": true,
+        "size_kb": 317.2705078125,
+        "chunks": 20,
+        "errors": 1,
+        "techniques": 93,
+        "rules": 412,
+        "yogas": 52,
+        "formulas": 62,
+        "remedies": 71,
+        "tables": 32,
+        "unique_concepts": 84,
+        "total": 806
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1116.361328125,
+        "items": 697
+      }
+    },
+    {
+      "book": "Saravali",
+      "gemma": {
+        "present": true,
+        "size_kb": 290.5087890625,
+        "chunks": 21,
+        "errors": 2,
+        "techniques": 116,
+        "rules": 288,
+        "yogas": 109,
+        "formulas": 38,
+        "remedies": 26,
+        "tables": 24,
+        "unique_concepts": 60,
+        "total": 661
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1123.78125,
+        "items": 501
+      }
+    },
+    {
+      "book": "Sarvartha_Chintamani",
+      "gemma": {
+        "present": true,
+        "size_kb": 37.6171875,
+        "chunks": 2,
+        "errors": 0,
+        "techniques": 12,
+        "rules": 32,
+        "yogas": 13,
+        "formulas": 4,
+        "remedies": 1,
+        "tables": 6,
+        "unique_concepts": 5,
+        "total": 73
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 631.7216796875,
+        "items": 140
+      }
+    },
+    {
+      "book": "Surya_Siddhanta",
+      "gemma": {
+        "present": true,
+        "size_kb": 131.4677734375,
+        "chunks": 5,
+        "errors": 0,
+        "techniques": 78,
+        "rules": 32,
+        "yogas": 38,
+        "formulas": 18,
+        "remedies": 1,
+        "tables": 12,
+        "unique_concepts": 28,
+        "total": 207
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1657.046875,
+        "items": 711
+      }
+    },
+    {
+      "book": "Unknown_6945",
+      "gemma": {
+        "present": true,
+        "size_kb": 0.5830078125,
+        "chunks": 1,
+        "errors": 1,
+        "techniques": 0,
+        "rules": 0,
+        "yogas": 0,
+        "formulas": 0,
+        "remedies": 0,
+        "tables": 0,
+        "unique_concepts": 0,
+        "total": 0
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 44.4560546875,
+        "items": 41
+      }
+    },
+    {
+      "book": "Uttara_Kalamrita",
+      "gemma": {
+        "present": true,
+        "size_kb": 58.046875,
+        "chunks": 2,
+        "errors": 0,
+        "techniques": 15,
+        "rules": 68,
+        "yogas": 9,
+        "formulas": 5,
+        "remedies": 4,
+        "tables": 5,
+        "unique_concepts": 6,
+        "total": 112
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 498.68359375,
+        "items": 326
+      }
+    },
+    {
+      "book": "Vedanga_Jyotisa",
+      "gemma": {
+        "present": true,
+        "size_kb": 18.62890625,
+        "chunks": 1,
+        "errors": 0,
+        "techniques": 11,
+        "rules": 3,
+        "yogas": 0,
+        "formulas": 2,
+        "remedies": 1,
+        "tables": 2,
+        "unique_concepts": 4,
+        "total": 23
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 379.1640625,
+        "items": 327
+      }
+    },
+    {
+      "book": "Yavanajataka_1",
+      "gemma": {
+        "present": true,
+        "size_kb": 19.978515625,
+        "chunks": 1,
+        "errors": 0,
+        "techniques": 8,
+        "rules": 1,
+        "yogas": 36,
+        "formulas": 0,
+        "remedies": 0,
+        "tables": 0,
+        "unique_concepts": 2,
+        "total": 47
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 217.76171875,
+        "items": 202
+      }
+    },
+    {
+      "book": "Yavanajataka_2",
+      "gemma": {
+        "present": true,
+        "size_kb": 278.5078125,
+        "chunks": 48,
+        "errors": 15,
+        "techniques": 125,
+        "rules": 220,
+        "yogas": 85,
+        "formulas": 37,
+        "remedies": 35,
+        "tables": 41,
+        "unique_concepts": 90,
+        "total": 633
+      },
+      "logic": {
+        "present": true,
+        "size_kb": 1809.3115234375,
+        "items": 848
+      }
+    }
+  ],
+  "top_cross_techniques": [
+    {
+      "name": "planetary aspects",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "kemadruma yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "ashtakavarga",
+      "books": [
+        "BPHS_Vol2",
+        "Bhrigu_Samhita",
+        "Hora_Sara",
+        "Phaladeepika",
+        "Prashna_Marga"
+      ]
+    },
+    {
+      "name": "yoga formation",
+      "books": [
+        "BPHS_Vol2",
+        "Bhrigu_Samhita",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Phaladeepika"
+      ]
+    },
+    {
+      "name": "navamsa",
+      "books": [
+        "Hora_Sara",
+        "Phaladeepika",
+        "Prashna_Marga",
+        "Saravali",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "trimsamsa",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "antardasa calculation",
+      "books": [
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "adhi yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "dasa",
+      "books": [
+        "BPHS_Vol2",
+        "Phaladeepika",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "prasna lagna",
+      "books": [
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Hora_Sara"
+      ]
+    },
+    {
+      "name": "ayurdaya calculation",
+      "books": [
+        "Brihat_Jataka",
+        "Jataka_Parijata",
+        "Phaladeepika"
+      ]
+    },
+    {
+      "name": "ashtakavarga system",
+      "books": [
+        "Brihat_Jataka",
+        "Phaladeepika",
+        "Prashna_Marga"
+      ]
+    },
+    {
+      "name": "ashtaka varga",
+      "books": [
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "rule of three",
+      "books": [
+        "Aryabhatiya_v1",
+        "Vedanga_Jyotisa"
+      ]
+    },
+    {
+      "name": "shadbala calculation",
+      "books": [
+        "BPHS_Vol1",
+        "Phaladeepika"
+      ]
+    },
+    {
+      "name": "adhana lagna",
+      "books": [
+        "BPHS_Vol1",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "akshavedamsa",
+      "books": [
+        "BPHS_Vol1",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "shashtiamsa",
+      "books": [
+        "BPHS_Vol1",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "aspectual diagram",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "pada calculations",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "karakas",
+      "books": [
+        "BPHS_Vol1",
+        "Phaladeepika"
+      ]
+    },
+    {
+      "name": "lagnadhi yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "sunapha yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "vesi yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "raja yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Bhrigu_Samhita"
+      ]
+    },
+    {
+      "name": "pindayu",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "nisargayu",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "amsayu",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "trikona sodhana",
+      "books": [
+        "BPHS_Vol2",
+        "Prashna_Marga"
+      ]
+    },
+    {
+      "name": "ekadhipatya sodhana",
+      "books": [
+        "BPHS_Vol2",
+        "Prashna_Marga"
+      ]
+    }
+  ],
+  "top_yogas": [
+    {
+      "name": "Raja Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Bhrigu_Samhita",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Prashna_Marga",
+        "Saravali",
+        "Uttara_Kalamrita",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Rajayoga",
+      "books": [
+        "BPHS_Vol1",
+        "BPHS_Vol2",
+        "Jaimini_Sutras",
+        "Laghu_Parashari",
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_1"
+      ]
+    },
+    {
+      "name": "Kemadruma Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2",
+        "Jaimini_Sutras",
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Dhana Yoga",
+      "books": [
+        "BPHS_Vol2",
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Uttara_Kalamrita",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "None",
+      "books": [
+        "BPHS_Vol1",
+        "BPHS_Vol2",
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Gaja Kesari Yoga",
+      "books": [
+        "Bhrigu_Samhita",
+        "Brihat_Jataka",
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Vyatipata",
+      "books": [
+        "Aryabhatiya_v1",
+        "Aryabhatiya_v2",
+        "Brihat_Parashara_v2",
+        "Surya_Siddhanta"
+      ]
+    },
+    {
+      "name": "Adhi Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Uttara_Kalamrita"
+      ]
+    },
+    {
+      "name": "Sunapha Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Saravali",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Gada Yoga",
+      "books": [
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2",
+        "Saravali",
+        "Sarvartha_Chintamani"
+      ]
+    },
+    {
+      "name": "Rajju",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Nala",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Vajra",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Surya_Siddhanta"
+      ]
+    },
+    {
+      "name": "Yava",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Yupa",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Yuga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Kedara",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Pasa",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Yavanajataka_2"
+      ]
+    },
+    {
+      "name": "Gulika Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Phaladeepika"
+      ]
+    },
+    {
+      "name": "Brahma Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Jaimini_Sutras"
+      ]
+    },
+    {
+      "name": "Anapha Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "Vesi Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "Ubhayachari Yoga",
+      "books": [
+        "BPHS_Vol1",
+        "Brihat_Parashara_v2",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "Kendra Yoga",
+      "books": [
+        "BPHS_Vol2",
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "Trikona Yoga",
+      "books": [
+        "BPHS_Vol2",
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2"
+      ]
+    },
+    {
+      "name": "Vajra Yoga",
+      "books": [
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "Sarpa Yoga",
+      "books": [
+        "Brihat_Jataka",
+        "Brihat_Parashara_v2",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "Musala Yoga",
+      "books": [
+        "Brihat_Parashara_v2",
+        "Phaladeepika",
+        "Saravali"
+      ]
+    },
+    {
+      "name": "Sasa Yoga",
+      "books": [
+        "Brihat_Parashara_v2",
+        "Hora_Sara",
+        "Phaladeepika"
+      ]
+    },
+    {
+      "name": "Sunapha",
+      "books": [
+        "Phaladeepika",
+        "Saravali",
+        "Yavanajataka_2"
+      ]
+    }
+  ],
+  "unique_yogas_total": 649
+}

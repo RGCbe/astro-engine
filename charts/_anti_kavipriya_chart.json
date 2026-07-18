@@ -1,0 +1,101 @@
+{
+  "birth": {
+    "year": 2001,
+    "month": 10,
+    "day": 19,
+    "hour": 5,
+    "min": 28,
+    "lat": 11.0168,
+    "lon": 76.9558,
+    "tz_hours": 5.5
+  },
+  "ayanamsa": 23.6792,
+  "ayanamsa_mode": "thirukanitham",
+  "ayanamsa_name": "Thirukanitham (திருக்கணிதம்)",
+  "lagna_idx": 5,
+  "positions": {
+    "Sun": {
+      "deg": 1.9962999999999909,
+      "rasi_idx": 6,
+      "rasi": "Thulaam",
+      "lon": 181.9963,
+      "longitude": 181.9963,
+      "house": 2
+    },
+    "Moon": {
+      "deg": 1.2495000000000118,
+      "rasi_idx": 7,
+      "rasi": "Viruchigam",
+      "lon": 211.2495,
+      "longitude": 211.2495,
+      "house": 3
+    },
+    "Mars": {
+      "deg": 0.43779999999998154,
+      "rasi_idx": 9,
+      "rasi": "Makaram",
+      "lon": 270.4378,
+      "longitude": 270.4378,
+      "house": 5
+    },
+    "Mercury": {
+      "deg": 22.029799999999994,
+      "rasi_idx": 5,
+      "rasi": "Kanni",
+      "lon": 172.0298,
+      "longitude": 172.0298,
+      "house": 1
+    },
+    "Jupiter": {
+      "deg": 21.665899999999993,
+      "rasi_idx": 2,
+      "rasi": "Mithunam",
+      "lon": 81.6659,
+      "longitude": 81.6659,
+      "house": 10
+    },
+    "Venus": {
+      "deg": 10.682400000000001,
+      "rasi_idx": 5,
+      "rasi": "Kanni",
+      "lon": 160.6824,
+      "longitude": 160.6824,
+      "house": 1
+    },
+    "Saturn": {
+      "deg": 20.859299999999998,
+      "rasi_idx": 1,
+      "rasi": "Rishabam",
+      "lon": 50.8593,
+      "longitude": 50.8593,
+      "house": 9
+    },
+    "Rahu": {
+      "deg": 6.601299999999995,
+      "rasi_idx": 2,
+      "rasi": "Mithunam",
+      "lon": 66.6013,
+      "longitude": 66.6013,
+      "house": 10
+    },
+    "Ketu": {
+      "deg": 6.601300000000009,
+      "rasi_idx": 8,
+      "rasi": "Dhanusu",
+      "lon": 246.6013,
+      "longitude": 246.6013,
+      "house": 4
+    },
+    "Lagna": {
+      "deg": 20.345100000000002,
+      "rasi_idx": 5,
+      "rasi": "Kanni",
+      "lon": 170.3451,
+      "longitude": 170.3451,
+      "house": 1
+    }
+  },
+  "name": "Kavipriya",
+  "moon_rasi": "Viruchigam",
+  "janma_nakshatra": "Vishakha"
+}

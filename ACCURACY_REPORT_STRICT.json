@@ -1,0 +1,388 @@
+{
+  "timestamp": "2026-07-05T19:43:47.897256",
+  "mode": "strict",
+  "overall_accuracy_pct": 78.4,
+  "total_events": 125,
+  "total_hits": 98,
+  "per_celebrity": [
+    {
+      "name": "Sachin Tendulkar",
+      "slug": "sachin_tendulkar",
+      "total_events": 10,
+      "categorized": 9,
+      "hits": 9,
+      "misses": 0,
+      "accuracy_pct": 100.0,
+      "pred_count": 3437,
+      "miss_details": []
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "slug": "amitabh_bachchan",
+      "total_events": 9,
+      "categorized": 9,
+      "hits": 8,
+      "misses": 1,
+      "accuracy_pct": 88.9,
+      "pred_count": 2804,
+      "miss_details": [
+        [
+          "1999-07-09",
+          "ABCL declared bankrupt \u2014 55 legal cases, Rs 90 crore debt",
+          [
+            "wealth"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Narendra Modi",
+      "slug": "narendra_modi",
+      "total_events": 7,
+      "categorized": 5,
+      "hits": 5,
+      "misses": 0,
+      "accuracy_pct": 100.0,
+      "pred_count": 3124,
+      "miss_details": []
+    },
+    {
+      "name": "MS Dhoni",
+      "slug": "ms_dhoni",
+      "total_events": 8,
+      "categorized": 6,
+      "hits": 6,
+      "misses": 0,
+      "accuracy_pct": 100.0,
+      "pred_count": 3251,
+      "miss_details": []
+    },
+    {
+      "name": "A.R. Rahman",
+      "slug": "ar_rahman",
+      "total_events": 12,
+      "categorized": 10,
+      "hits": 7,
+      "misses": 3,
+      "accuracy_pct": 70.0,
+      "pred_count": 2971,
+      "miss_details": [
+        [
+          "1976-09-30",
+          "Father died (age 9) \u2014 began playing piano professionally to ",
+          [
+            "father"
+          ]
+        ],
+        [
+          "2003-01-06",
+          "Son A.R. Ameen born (shares birthday with father)",
+          [
+            "children"
+          ]
+        ],
+        [
+          "2020-12-28",
+          "Mother Kareema Begum died in Chennai",
+          [
+            "mother"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Rekha",
+      "slug": "rekha",
+      "total_events": 9,
+      "categorized": 7,
+      "hits": 7,
+      "misses": 0,
+      "accuracy_pct": 100.0,
+      "pred_count": 2865,
+      "miss_details": []
+    },
+    {
+      "name": "Virat Kohli",
+      "slug": "virat_kohli",
+      "total_events": 10,
+      "categorized": 10,
+      "hits": 7,
+      "misses": 3,
+      "accuracy_pct": 70.0,
+      "pred_count": 3028,
+      "miss_details": [
+        [
+          "2013-02-22",
+          "Married actress Anushka Sharma \u2014 wait, this was 2017",
+          [
+            "marriage"
+          ]
+        ],
+        [
+          "2017-12-11",
+          "Married actress Anushka Sharma in Tuscany, Italy",
+          [
+            "marriage"
+          ]
+        ],
+        [
+          "2021-01-11",
+          "Birth of daughter Vamika",
+          [
+            "children"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "slug": "shah_rukh_khan",
+      "total_events": 10,
+      "categorized": 8,
+      "hits": 7,
+      "misses": 1,
+      "accuracy_pct": 87.5,
+      "pred_count": 2772,
+      "miss_details": [
+        [
+          "2008-04-19",
+          "Acquired Kolkata Knight Riders IPL franchise",
+          [
+            "career",
+            "wealth"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Sourav Ganguly",
+      "slug": "sourav_ganguly",
+      "total_events": 10,
+      "categorized": 7,
+      "hits": 4,
+      "misses": 3,
+      "accuracy_pct": 57.1,
+      "pred_count": 2965,
+      "miss_details": [
+        [
+          "1992-01-11",
+          "ODI debut vs West Indies \u2014 dropped after one match",
+          [
+            "career"
+          ]
+        ],
+        [
+          "1996-06-20",
+          "Test debut at Lord's vs England \u2014 scored 131, first Indian t",
+          [
+            "career"
+          ]
+        ],
+        [
+          "2008-11-09",
+          "Retired from international cricket \u2014 last Test vs Australia,",
+          [
+            "career"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Aishwarya Rai",
+      "slug": "aishwarya_rai",
+      "total_events": 8,
+      "categorized": 7,
+      "hits": 6,
+      "misses": 1,
+      "accuracy_pct": 85.7,
+      "pred_count": 2765,
+      "miss_details": [
+        [
+          "2011-11-16",
+          "Birth of daughter Aaradhya Bachchan",
+          [
+            "children"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Indira Gandhi",
+      "slug": "indira_gandhi",
+      "total_events": 11,
+      "categorized": 7,
+      "hits": 5,
+      "misses": 2,
+      "accuracy_pct": 71.4,
+      "pred_count": 2945,
+      "miss_details": [
+        [
+          "1944-08-20",
+          "Birth of son Rajiv Gandhi",
+          [
+            "children"
+          ]
+        ],
+        [
+          "1946-12-14",
+          "Birth of son Sanjay Gandhi",
+          [
+            "children"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "slug": "mahatma_gandhi",
+      "total_events": 11,
+      "categorized": 8,
+      "hits": 3,
+      "misses": 5,
+      "accuracy_pct": 37.5,
+      "pred_count": 3044,
+      "miss_details": [
+        [
+          "1885-11-16",
+          "Father Karamchand Gandhi died \u2014 Gandhi was 16",
+          [
+            "father"
+          ]
+        ],
+        [
+          "1888-09-04",
+          "Sailed to London to study law at Inner Temple",
+          [
+            "travel"
+          ]
+        ],
+        [
+          "1893-05-23",
+          "Arrived in South Africa for legal work \u2014 thrown off train at",
+          [
+            "travel"
+          ]
+        ],
+        [
+          "1915-01-09",
+          "Returned to India from South Africa after 21 years",
+          [
+            "travel"
+          ]
+        ],
+        [
+          "1944-02-22",
+          "Wife Kasturba died at Aga Khan Palace prison \u2014 widowhood at ",
+          [
+            "widowhood"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Steve Jobs",
+      "slug": "steve_jobs",
+      "total_events": 12,
+      "categorized": 9,
+      "hits": 9,
+      "misses": 0,
+      "accuracy_pct": 100.0,
+      "pred_count": 3136,
+      "miss_details": []
+    },
+    {
+      "name": "Stephen Hawking",
+      "slug": "stephen_hawking",
+      "total_events": 11,
+      "categorized": 8,
+      "hits": 7,
+      "misses": 1,
+      "accuracy_pct": 87.5,
+      "pred_count": 3256,
+      "miss_details": [
+        [
+          "1965-07-14",
+          "Married Jane Wilde at Trinity Hall, Cambridge",
+          [
+            "marriage"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Lata Mangeshkar",
+      "slug": "lata_mangeshkar",
+      "total_events": 9,
+      "categorized": 9,
+      "hits": 5,
+      "misses": 4,
+      "accuracy_pct": 55.6,
+      "pred_count": 3000,
+      "miss_details": [
+        [
+          "1942-04-01",
+          "Father Deenanath Mangeshkar died \u2014 Lata age 13, became famil",
+          [
+            "father"
+          ]
+        ],
+        [
+          "1942-04-15",
+          "First playback singing in Marathi film Kiti Hasaal (her fath",
+          [
+            "career",
+            "father"
+          ]
+        ],
+        [
+          "2019-11-12",
+          "Hospitalized at Breach Candy Hospital \u2014 first major COVID-er",
+          [
+            "health"
+          ]
+        ],
+        [
+          "2022-02-06",
+          "Died from COVID-19 complications at Breach Candy Hospital, M",
+          [
+            "health",
+            "death_self"
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "Mukesh Ambani",
+      "slug": "mukesh_ambani",
+      "total_events": 9,
+      "categorized": 6,
+      "hits": 3,
+      "misses": 3,
+      "accuracy_pct": 50.0,
+      "pred_count": 3195,
+      "miss_details": [
+        [
+          "1985-03-08",
+          "Married Nita Ambani in Mumbai",
+          [
+            "marriage"
+          ]
+        ],
+        [
+          "2002-07-06",
+          "Father Dhirubhai Ambani died \u2014 Mukesh inherited Reliance lea",
+          [
+            "father"
+          ]
+        ],
+        [
+          "2020-04-22",
+          "Facebook invested $5.7 billion in Jio Platforms \u2014 biggest te",
+          [
+            "wealth"
+          ]
+        ]
+      ]
+    }
+  ]
+}

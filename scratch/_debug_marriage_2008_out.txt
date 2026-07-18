@@ -1,0 +1,92 @@
+﻿Chart: Manoj  birth=1996-05-25  lagna=Sagittarius
+7L from lagna_idx=8: Mercury (Venus in H7 natal)
+========================================================================
+SAMPLE DATES - dasha + marriage-related pattern hits
+========================================================================
+
+--- 2008-06-03  age=12.02  MD/AD/PD=Venus/Jupiter/Saturn ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2008-06-13  age=12.05  MD/AD/PD=Venus/Jupiter/Saturn ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2008-07-01  age=12.10  MD/AD/PD=Venus/Jupiter/Mercury ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2008-09-01  age=12.27  MD/AD/PD=Venus/Jupiter/Mercury ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2009-01-01  age=12.60  MD/AD/PD=Venus/Jupiter/Ketu ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2009-06-01  age=13.02  MD/AD/PD=Venus/Jupiter/Venus ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2010-01-01  age=13.60  MD/AD/PD=Venus/Jupiter/Rahu ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2: no marriage-domain category hits
+
+--- 2011-07-02  age=15.10  MD/AD/PD=Venus/Saturn/Venus ---
+  [event_marriage] None (age gate or threshold)
+  [event_marriage_arranged] None (age gate or threshold)
+  [event_marriage_love] None (age gate or threshold)
+  [event_engagement] None (age gate or threshold)
+  ALL_PATTERNS_V2 marriage-domain hits:
+    event_first_love: sev=2 cat=first_love score~2
+      why: Venus MD in youth
+    event_saham_kalatra: sev=3 cat=saham_kalatra score~3
+      why: Venus (karaka) MD
+      why: Jupiter well-placed in H1
+      why: transit Venus active
+
+========================================================================
+MONTHLY 2008-2009 - any marriage-domain category (min sev 1)
+========================================================================
+
+========================================================================
+scan_year_v2 2008-2011 (sample_days=10, min_severity=1)
+========================================================================
+  2010: First love/infatuation
+    cat=first_love sev=2 first=2010-05-31 last=2010-12-27
+    why: Venus MD in youth
+  2011: First love/infatuation
+    cat=first_love sev=2 first=2011-01-01 last=2011-12-27
+    why: Venus MD in youth
+  2011: Saham Kalatra (spouse point) activation Event
+    cat=saham_kalatra sev=3 first=2011-05-31 last=2011-09-28
+    why: Venus (karaka) MD
+    why: Jupiter well-placed in H1
+    why: transit Venus active
+
+Collapsed marriage-domain bands:
+  2010-05-31 -> 2011-12-27  age=14.0  cat=first_love  sev=2  fit=typical
+    event: First love/infatuation
+  2011-05-31 -> 2011-09-28  age=15.0  cat=saham_kalatra  sev=3  fit=typical
+    event: Saham Kalatra (spouse point) activation Event

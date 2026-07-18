@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "lagnam": "Makaram",
+  "janma_rasi": "Meenam",
+  "janma_rasi_tamil": "மீனம்",
+  "janma_nakshatra": "Uttara Bhadrapada",
+  "rasi_lord": "Jupiter (Guru)",
+  "rasi_description": "Pisces is represented by two fish moving in opposite directions. It is a watery sign, powerful during the night. It denotes spirituality, compassion, imagination and dissolution of boundaries.",
+  "rasi_positive_traits": [
+    "Compassionate",
+    "Intuitive",
+    "Artistic",
+    "Spiritual",
+    "Gentle"
+  ],
+  "rasi_negative_traits": [
+    "Escapist",
+    "Overly idealistic",
+    "Indecisive",
+    "Impressionable"
+  ],
+  "nakshatra_deity": "Ahir Budhnya (Serpent of Deep)",
+  "nakshatra_description": "The nakshatra of depth and wisdom. These natives are wise, compassionate, deeply spiritual and often serve as pillars of support for families and communities.",
+  "nakshatra_gana": "Manushya",
+  "current_dasha": "Saturn",
+  "dasha_years": 19,
+  "dasha_meaning": "Period of hard work, discipline, karma, obstacles, delays and eventual lasting rewards.",
+  "all_planet_positions": {
+    "Sun": {
+      "longitude": 311.9464,
+      "rasi": "Kumbam",
+      "rasi_tamil": "கும்பம்",
+      "nakshatra": "Shatabhisha",
+      "nakshatra_pada": 2,
+      "nakshatra_lord": "Rahu"
+    },
+    "Moon": {
+      "longitude": 336.5587,
+      "rasi": "Meenam",
+      "rasi_tamil": "மீனம்",
+      "nakshatra": "Uttara Bhadrapada",
+      "nakshatra_pada": 1,
+      "nakshatra_lord": "Saturn"
+    },
+    "Mars": {
+      "longitude": 5.4599,
+      "rasi": "Mesham",
+      "rasi_tamil": "மேஷம்",
+      "nakshatra": "Ashwini",
+      "nakshatra_pada": 2,
+      "nakshatra_lord": "Ketu"
+    },
+    "Mercury": {
+      "longitude": 291.1627,
+      "rasi": "Makaram",
+      "rasi_tamil": "மகரம்",
+      "nakshatra": "Shravana",
+      "nakshatra_pada": 4,
+      "nakshatra_lord": "Moon"
+    },
+    "Jupiter": {
+      "longitude": 87.3082,
+      "rasi": "Mithunam",
+      "rasi_tamil": "மிதுனம்",
+      "nakshatra": "Punarvasu",
+      "nakshatra_pada": 3,
+      "nakshatra_lord": "Jupiter"
+    },
+    "Venus": {
+      "longitude": 267.2972,
+      "rasi": "Dhanusu",
+      "rasi_tamil": "தனுசு",
+      "nakshatra": "Uttara Ashadha",
+      "nakshatra_pada": 1,
+      "nakshatra_lord": "Sun"
+    },
+    "Saturn": {
+      "longitude": 207.9228,
+      "rasi": "Thulaam",
+      "rasi_tamil": "துலாம்",
+      "nakshatra": "Vishakha",
+      "nakshatra_pada": 3,
+      "nakshatra_lord": "Jupiter"
+    },
+    "Rahu": {
+      "longitude": 249.2991,
+      "rasi": "Dhanusu",
+      "rasi_tamil": "தனுசு",
+      "nakshatra": "Mula",
+      "nakshatra_pada": 3,
+      "nakshatra_lord": "Ketu"
+    },
+    "Ketu": {
+      "longitude": 69.2991,
+      "rasi": "Mithunam",
+      "rasi_tamil": "மிதுனம்",
+      "nakshatra": "Ardra",
+      "nakshatra_pada": 1,
+      "nakshatra_lord": "Rahu"
+    }
+  },
+  "house_predictions": [
+    {
+      "planet": "Sun",
+      "house": 2,
+      "rasi": "Kumbam",
+      "nakshatra": "Shatabhisha",
+      "prediction": "The native will not be wealthy and will not be a man of learning. He will have an issueless wife and will speak harsh words."
+    },
+    {
+      "planet": "Moon",
+      "house": 3,
+      "rasi": "Meenam",
+      "nakshatra": "Uttara Bhadrapada",
+      "prediction": "The native will be brave but miserly. He may have strained relations with siblings."
+    },
+    {
+      "planet": "Mars",
+      "house": 4,
+      "rasi": "Mesham",
+      "nakshatra": "Ashwini",
+      "prediction": "The native will not have happiness from lands, property or mother. He will have heart ailments and troubled mind."
+    },
+    {
+      "planet": "Mercury",
+      "house": 1,
+      "rasi": "Makaram",
+      "nakshatra": "Shravana",
+      "prediction": "The native will be witty, industrious, scholarly, and will have command over many languages. He will have a keen intellect."
+    },
+    {
+      "planet": "Jupiter",
+      "house": 6,
+      "rasi": "Mithunam",
+      "nakshatra": "Punarvasu",
+      "prediction": "The native will overcome diseases and enemies. He will win over opposition through righteousness."
+    },
+    {
+      "planet": "Venus",
+      "house": 12,
+      "rasi": "Dhanusu",
+      "nakshatra": "Uttara Ashadha",
+      "prediction": "The native will spend extravagantly on pleasures. He will enjoy the company of women."
+    },
+    {
+      "planet": "Saturn",
+      "house": 10,
+      "rasi": "Thulaam",
+      "nakshatra": "Vishakha",
+      "prediction": "The native will achieve great success in life through hard work and discipline. Fame comes after struggles."
+    },
+    {
+      "planet": "Rahu",
+      "house": 12,
+      "rasi": "Dhanusu",
+      "nakshatra": "Mula",
+      "prediction": "The native will have foreign travels, spiritual inclinations and may settle in foreign lands."
+    },
+    {
+      "planet": "Ketu",
+      "house": 6,
+      "rasi": "Mithunam",
+      "nakshatra": "Ardra",
+      "prediction": "The native will overcome enemies through detachment and spiritual strength."
+    }
+  ]
+}
