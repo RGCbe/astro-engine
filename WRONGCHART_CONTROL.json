@@ -1,0 +1,154 @@
+{
+ "pooled_own_pct": 35.2,
+ "pooled_wrong_pct": 26.7,
+ "chart_specific_edge_pts": 8.5,
+ "subjects_own_beats_wrong": 10,
+ "subjects_total": 16,
+ "mean_own_rank": 4.75,
+ "per_subject": [
+  {
+   "name": "Sachin Tendulkar",
+   "categorized": 9,
+   "own_hits": 5,
+   "own_pct": 55.6,
+   "wrong_mean_pct": 27.4,
+   "own_minus_wrong": 28.1,
+   "own_rank_of_16": 1
+  },
+  {
+   "name": "Amitabh Bachchan",
+   "categorized": 9,
+   "own_hits": 3,
+   "own_pct": 33.3,
+   "wrong_mean_pct": 22.2,
+   "own_minus_wrong": 11.1,
+   "own_rank_of_16": 2
+  },
+  {
+   "name": "Narendra Modi",
+   "categorized": 5,
+   "own_hits": 0,
+   "own_pct": 0.0,
+   "wrong_mean_pct": 25.3,
+   "own_minus_wrong": -25.3,
+   "own_rank_of_16": 12
+  },
+  {
+   "name": "MS Dhoni",
+   "categorized": 6,
+   "own_hits": 2,
+   "own_pct": 33.3,
+   "wrong_mean_pct": 35.6,
+   "own_minus_wrong": -2.2,
+   "own_rank_of_16": 7
+  },
+  {
+   "name": "A.R. Rahman",
+   "categorized": 10,
+   "own_hits": 2,
+   "own_pct": 20.0,
+   "wrong_mean_pct": 25.3,
+   "own_minus_wrong": -5.3,
+   "own_rank_of_16": 9
+  },
+  {
+   "name": "Rekha",
+   "categorized": 7,
+   "own_hits": 2,
+   "own_pct": 28.6,
+   "wrong_mean_pct": 34.3,
+   "own_minus_wrong": -5.7,
+   "own_rank_of_16": 8
+  },
+  {
+   "name": "Virat Kohli",
+   "categorized": 10,
+   "own_hits": 4,
+   "own_pct": 40.0,
+   "wrong_mean_pct": 32.0,
+   "own_minus_wrong": 8.0,
+   "own_rank_of_16": 4
+  },
+  {
+   "name": "Shah Rukh Khan",
+   "categorized": 8,
+   "own_hits": 1,
+   "own_pct": 12.5,
+   "wrong_mean_pct": 26.7,
+   "own_minus_wrong": -14.2,
+   "own_rank_of_16": 10
+  },
+  {
+   "name": "Sourav Ganguly",
+   "categorized": 7,
+   "own_hits": 4,
+   "own_pct": 57.1,
+   "wrong_mean_pct": 29.5,
+   "own_minus_wrong": 27.6,
+   "own_rank_of_16": 2
+  },
+  {
+   "name": "Aishwarya Rai",
+   "categorized": 7,
+   "own_hits": 1,
+   "own_pct": 14.3,
+   "wrong_mean_pct": 29.5,
+   "own_minus_wrong": -15.2,
+   "own_rank_of_16": 12
+  },
+  {
+   "name": "Indira Gandhi",
+   "categorized": 7,
+   "own_hits": 1,
+   "own_pct": 14.3,
+   "wrong_mean_pct": 11.4,
+   "own_minus_wrong": 2.9,
+   "own_rank_of_16": 3
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "categorized": 8,
+   "own_hits": 2,
+   "own_pct": 25.0,
+   "wrong_mean_pct": 8.3,
+   "own_minus_wrong": 16.7,
+   "own_rank_of_16": 1
+  },
+  {
+   "name": "Steve Jobs",
+   "categorized": 9,
+   "own_hits": 5,
+   "own_pct": 55.6,
+   "wrong_mean_pct": 34.1,
+   "own_minus_wrong": 21.5,
+   "own_rank_of_16": 1
+  },
+  {
+   "name": "Stephen Hawking",
+   "categorized": 8,
+   "own_hits": 5,
+   "own_pct": 62.5,
+   "wrong_mean_pct": 27.5,
+   "own_minus_wrong": 35.0,
+   "own_rank_of_16": 1
+  },
+  {
+   "name": "Lata Mangeshkar",
+   "categorized": 9,
+   "own_hits": 4,
+   "own_pct": 44.4,
+   "wrong_mean_pct": 32.6,
+   "own_minus_wrong": 11.9,
+   "own_rank_of_16": 2
+  },
+  {
+   "name": "Mukesh Ambani",
+   "categorized": 6,
+   "own_hits": 3,
+   "own_pct": 50.0,
+   "wrong_mean_pct": 24.4,
+   "own_minus_wrong": 25.6,
+   "own_rank_of_16": 1
+  }
+ ]
+}
