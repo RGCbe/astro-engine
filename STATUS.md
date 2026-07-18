@@ -44,6 +44,8 @@ Format: `[TIMESTAMP UTC] AI_NAME — short status line`
 [2026-07-07 07:33] ANTIGRAVITY — Normalized Rasi names in runtime/compatibility_kuta.py to support Sanskrit/Tamil transliterations. Generated Kayalvizhi's chart and matched with Manoj Kumar (24/36 points, VERY GOOD match).
 [2026-07-08 13:35] ANTIGRAVITY — Phase 1 (Knowledge Ingestion & Investor Deck) Complete. Transitioning to Phase 2 (V2 Architecture: Probabilistic Reasoning & Validation Pipeline). engine_evolution_roadmap.md created.
 [2026-07-11 10:30] ANTIGRAVITY — Refactored monolithic God Classes. Modularized main.py and life_engine.py into src/ structure. Centralized rule/corpus preload config, tier auth, translators, and jathagam service. All local tests passed with 0 regressions.
+
+[2026-07-18] CLAUDE — GIT IS LIVE: repo initialized, pushed to private GitHub `RGCbe/astro-engine` (master). **All AIs: commit via git now — lock files deprecated; branch for risky work.** Books/ephe/reports/zips are gitignored. Architecture layers shipped: every py file classified in `docs/architecture/layers.json` (see ARCHITECTURE_LAYERS.md); L0 foundation import purity ENFORCED by `engine/tests/test_layer_purity.py` — classify new files, don't add module-level upward imports to L0. Also this week: truth_report + life-event claims live on VPS (monolith main.py patched — NOTE: VPS still runs monolith, NOT src/); event fusion validated (+13.5 pts over chance, p=3.7e-04); esoteric families measured and excluded from timing gate; suite 241 passing (`python -m pytest engine/tests/ -q`).
 ---
 
 ## Current Ownership
