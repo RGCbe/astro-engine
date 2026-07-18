@@ -159,6 +159,38 @@ class FusionGateTests(unittest.TestCase):
         self.assertEqual(len(fused), 1)
         self.assertEqual(fused[0]["category"], "honor")
 
+    def test_same_bell_two_families_do_not_fuse(self):
+        # Trap 2: parashari and divisional both firing on "Saturn MD" is ONE
+        # clock ringing twice, not two independent confirmations.
+        events = [
+            dict(_ev("career", "2014-01-01", "2014-08-01"),
+                 max_why=["10L (Saturn) MD brings authority"]),
+            dict(_ev("d10_career_sub", "2014-02-01", "2014-07-01"),
+                 max_why=["Saturn MD activates D10 lagna"]),
+        ]
+        self.assertEqual(fuse_events(events), [])
+        # but with dedupe off (research mode) they would fuse
+        self.assertEqual(len(fuse_events(events, dedupe_triggers=False)), 1)
+
+    def test_different_bells_fuse(self):
+        # dasha clock + annual clock = genuinely independent timing evidence
+        events = [
+            dict(_ev("career", "2014-01-01", "2014-08-01"),
+                 max_why=["10L (Saturn) MD"]),
+            _ev("saham_karya", "2014-02-01", "2014-07-01"),  # tajik -> annual clock
+        ]
+        fused = fuse_events(events)
+        self.assertEqual(len(fused), 1)
+
+    def test_opaque_clocks_still_count_per_family(self):
+        # events without parseable timing evidence keep one distinct vote per
+        # family (conservative: unknown is not assumed to be the same bell)
+        events = [
+            _ev("health", "2011-02-01", "2011-06-01"),
+            _ev("saham_roga", "2011-01-01", "2011-05-01"),
+        ]
+        self.assertEqual(len(fuse_events(events)), 1)
+
     def test_output_is_deterministic_and_sorted(self):
         events = [
             _ev("kp_career_sub", "2014-04-01", "2014-12-01"),

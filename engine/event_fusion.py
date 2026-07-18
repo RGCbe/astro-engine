@@ -168,6 +168,49 @@ def topic_for_category(category: str) -> str | None:
     return _CATEGORY_TO_TOPIC.get(str(category).lower())
 
 
+# ── Timing signatures (trap 2: same clock, same bell) ───────────────────────
+#
+# A vote is only as independent as its CLOCK. If parashari fires because
+# "Saturn MD" and a divisional sub also fires because "Saturn MD", those are
+# one bell, not two. Each event gets a timing signature — the set of
+# (clock_source, key) pairs that make it fire NOW — parsed from its why/max_why
+# evidence strings. Families whose entire signatures are identical inside a
+# cluster collapse into one effective vote.
+
+_PLANETS_RX = r"(Sun|Moon|Mars|Mercury|Jupiter|Venus|Saturn|Rahu|Ketu)"
+_DASHA_RX = re.compile(rf"(?:{_PLANETS_RX}\s*\)?\s*(MD|AD|PD)\b)|(?:\b(MD|AD|PD)\s*\(\s*{_PLANETS_RX})|(?:\b(\d+L)\s+(MD|AD|PD)\b)")
+_TRANSIT_RX = re.compile(rf"(?:transit\s+{_PLANETS_RX})|(?:{_PLANETS_RX}\s+over\s+{_PLANETS_RX})|(?:{_PLANETS_RX}\s+Return)", re.I)
+_SADE_RX = re.compile(r"sade\s*sati", re.I)
+
+_ANNUAL_FAMILIES = {"tajik"}
+
+
+def _as_list(value: Any) -> list[Any]:
+    return list(value) if isinstance(value, (list, tuple)) else []
+
+
+def _timing_signature(event: Mapping[str, Any], family: str) -> frozenset:
+    """The set of clocks that make this event fire now."""
+    pairs: set[tuple[str, str]] = set()
+    for why in _as_list(event.get("max_why")) + _as_list(event.get("why")):
+        text = str(why)
+        for m in _DASHA_RX.finditer(text):
+            planet = m.group(1) or m.group(4) or m.group(5) or "?"
+            pairs.add(("dasha", planet))
+        for m in _TRANSIT_RX.finditer(text):
+            planet = next((g for g in m.groups() if g), "?")
+            pairs.add(("transit", planet.title()))
+        if _SADE_RX.search(text):
+            pairs.add(("transit", "Saturn"))
+    if family in _ANNUAL_FAMILIES:
+        pairs.add(("annual", "solar_return"))
+    if not pairs:
+        # opaque clock — conservatively unique per family so it still counts,
+        # but never merges with a parsed clock
+        pairs.add(("opaque", family))
+    return frozenset(pairs)
+
+
 # ── Fusion ──────────────────────────────────────────────────────────────────
 
 _DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}")
@@ -207,6 +250,7 @@ def fuse_events(
     max_window_days: int = 540,
     slack_days: int = 30,
     gating_families: frozenset[str] = GATING_FAMILIES,
+    dedupe_triggers: bool = True,
 ) -> list[dict[str, Any]]:
     """Emit convergence-gated events from a raw prediction list.
 
@@ -246,6 +290,14 @@ def fuse_events(
                 return
             if (cur_end - cur_start).days > max_window_days:
                 return
+            # Trap-2 gate: families ringing the SAME bell collapse to one vote.
+            if dedupe_triggers:
+                family_sigs: dict[str, set] = {}
+                for m in cluster:
+                    family_sigs.setdefault(m[2], set()).update(_timing_signature(m[3], m[2]))
+                effective = len({frozenset(sig) for sig in family_sigs.values()})
+                if effective < min_families:
+                    return
             midpoint = cur_start + (cur_end - cur_start) / 2
             valences = Counter(
                 str(m[3].get("predicted_valence"))
