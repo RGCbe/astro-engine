@@ -222,12 +222,9 @@ def generate(chart_path, out_name):
         except Exception as exc:
             print(f"[{name}] WARNING: {exc}")
 
-    # Bhava cusp chart — English builder (Tamil-isation pending)
-    try:
-        flow.extend(page_bhava_chart(chart, st))
-        flow.append(PageBreak())
-    except Exception as exc:
-        print(f"[bhava] WARNING: {exc}")
+    # (Bhava cusps are already covered in Tamil by page_sripati_cusps_ta above,
+    #  using the correct unequal Sripati division — the old English
+    #  page_bhava_chart used a naive equal-house approximation, so it is dropped.)
 
     # Numerology (Tamil)
     flow.extend(page_lucky_vidhi_ta(chart))
