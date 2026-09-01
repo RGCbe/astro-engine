@@ -76,6 +76,125 @@ def page_sripati_cusps_ta(chart):
     return flow
 
 
+_ENG = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
+        "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
+_TA_ROMAN2 = {n: i for i, n in enumerate(
+    ["Mesham", "Rishabam", "Mithunam", "Kadagam", "Simmam", "Kanni",
+     "Thulaam", "Viruchigam", "Dhanusu", "Makaram", "Kumbam", "Meenam"])}
+_PL_TA_ORDER = [("Sun", "சூரியன்"), ("Moon", "சந்திரன்"), ("Mars", "செவ்வாய்"),
+                ("Mercury", "புதன்"), ("Jupiter", "குரு"), ("Venus", "சுக்கிரன்"),
+                ("Saturn", "சனி"), ("Rahu", "ராகு"), ("Ketu", "கேது")]
+_HDR = HexColor("#312e81")
+_CREAM = HexColor("#faf6e8")
+
+
+def _tbl_style(header=True):
+    s = [("GRID", (0, 0), (-1, -1), 0.4, GREY_LT), ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+         ("ALIGN", (1, 0), (-1, -1), "CENTER"), ("TOPPADDING", (0, 0), (-1, -1), 3),
+         ("BOTTOMPADDING", (0, 0), (-1, -1), 3), ("LEFTPADDING", (0, 0), (-1, -1), 4)]
+    if header:
+        s += [("BACKGROUND", (0, 0), (-1, 0), _HDR), ("TEXTCOLOR", (0, 0), (-1, 0), _CREAM)]
+    return TableStyle(s)
+
+
+def _ta_sign(idx):
+    from tamil_translations import RASIS_TA
+    ta = ["மேஷம்", "ரிஷபம்", "மிதுனம்", "கடகம்", "சிம்மம்", "கன்னி",
+          "துலாம்", "விருச்சிகம்", "தனுசு", "மகரம்", "கும்பம்", "மீனம்"]
+    return ta[idx % 12]
+
+
+def page_ashtakavarga_ta(chart):
+    """சர்வாஷ்டகவர்க்கம் — per-sign bindus + directional strength (Tamil)."""
+    flow = [TP("அஷ்டகவர்க்கம் (சர்வாஷ்டகம்)", "h1"), divider()]
+    try:
+        class C:
+            def __init__(s, l, p): s.lagna_lon = l; s.positions = p
+        pos = {p: d["lon_abs"] for p, d in chart["positions"].items() if p not in ("Lagna", "Maandi")}
+        from engine.ashtakavarga import summary as _sav
+        r = _sav(C(chart["positions"]["Lagna"]["lon_abs"], pos))["sarva_ashtakavarga"]
+        per = r.get("totals_per_sign")
+        if isinstance(per, dict):
+            per = [per[k] for k in sorted(per)]
+    except Exception as exc:
+        flow.append(TP(f"(அஷ்டகவர்க்கம் தோல்வி: {exc})", "small"))
+        return flow
+
+    rows = [[TP("ராசி", "cell_bold", color=_CREAM), TP("பிந்து", "cell_bold", color=_CREAM)]]
+    for i in range(12):
+        rows.append([TP(_ta_sign(i), "cell"), TP(str(per[i]), "cell")])
+    rows.append([TP("மொத்தம்", "cell_bold"), TP(str(sum(per)), "cell_bold")])
+    t = Table(rows, colWidths=[4 * cm, 3 * cm]); t.setStyle(_tbl_style())
+    # Directional strength (4 groups of 3 signs)
+    E = per[0] + per[4] + per[8]; S = per[1] + per[5] + per[9]
+    W = per[2] + per[6] + per[10]; N = per[3] + per[7] + per[11]
+    drows = [[TP("கிழக்கு", "cell_bold", color=_CREAM), TP("தெற்கு", "cell_bold", color=_CREAM), TP("மேற்கு", "cell_bold", color=_CREAM), TP("வடக்கு", "cell_bold", color=_CREAM)],
+             [TP(str(E), "cell"), TP(str(S), "cell"), TP(str(W), "cell"), TP(str(N), "cell")]]
+    dt = Table(drows, colWidths=[3.4 * cm] * 4); dt.setStyle(_tbl_style())
+    flow += [t, Spacer(1, 0.4 * cm), TP("திசை பலம்", "h2"), dt]
+    return flow
+
+
+def page_dasavarga_ta(chart):
+    """தசவர்க்கம் — 10 divisional charts, sign per planet (Tamil)."""
+    flow = [TP("தசவர்க்கம் (10 வர்க்கங்கள்)", "h1"), divider()]
+    vargas = [("D1", "ராசி"), ("D2", "ஹோரை"), ("D3", "திரேக்காணம்"), ("D7", "சப்தாம்சம்"),
+              ("D9", "நவாம்சம்"), ("D12", "துவாதசாம்சம்"), ("D10", "தசாம்சம்"),
+              ("D16", "ஷோடசாம்சம்"), ("D30", "திரிம்சாம்சம்"), ("D60", "ஷஷ்டியாம்சம்")]
+    try:
+        from engine.vargas import all_vargas
+        av = all_vargas(chart)
+    except Exception:
+        av = {}
+    _SHORT = {"Sun": "சூ", "Moon": "சந்", "Mars": "செ", "Mercury": "பு", "Jupiter": "கு",
+              "Venus": "சுக்", "Saturn": "சனி", "Rahu": "ரா", "Ketu": "கே"}
+    header = [TP("வர்க்கம்", "cell_bold", color=_CREAM)] + [TP(_SHORT[p], "cell_bold", color=_CREAM) for p, _ in _PL_TA_ORDER]
+    rows = [header]
+    for vg, vta in vargas:
+        signmap = {}
+        dv = av.get(vg)
+        if dv and dv.get("positions"):
+            for p, _ in _PL_TA_ORDER:
+                pr = dv["positions"].get(p, {}).get("rasi", "")
+                signmap[p] = _ENG.index(pr) if pr in _ENG else (_TA_ROMAN2.get(pr) if pr in _TA_ROMAN2 else None)
+        row = [TP(vta, "cell_small")]
+        for p, _ in _PL_TA_ORDER:
+            idx = signmap.get(p)
+            row.append(TP(_ta_sign(idx)[:4] if idx is not None else "-", "cell_small"))
+        rows.append(row)
+    t = Table(rows, colWidths=[2.4 * cm] + [1.35 * cm] * 9); t.setStyle(_tbl_style())
+    flow.append(t)
+    return flow
+
+
+def page_vimshottari_ta(chart):
+    """விம்சோத்தரி தசா-புக்தி — MD list + running-MD buktis (Tamil)."""
+    flow = [TP("விம்சோத்தரி தசா புக்தி", "h1"), divider()]
+    _PLTA = dict(_PL_TA_ORDER)
+    try:
+        from granular_dasha import build_full_timeline
+        tl = build_full_timeline(chart, levels=2)
+    except Exception as exc:
+        flow.append(TP(f"(தசா தோல்வி: {exc})", "small")); return flow
+    mds = [r for r in tl if r.get("level") == 1]
+    rows = [[TP("#", "cell_bold", color=_CREAM), TP("தசா", "cell_bold", color=_CREAM), TP("தொடக்கம்", "cell_bold", color=_CREAM), TP("முடிவு", "cell_bold", color=_CREAM)]]
+    for i, m in enumerate(mds, 1):
+        rows.append([TP(str(i), "cell"), TP(_PLTA.get(m.get("md"), m.get("md")), "cell"),
+                     TP(str(m.get("start"))[:10], "cell"), TP(str(m.get("end"))[:10], "cell")])
+    t = Table(rows, colWidths=[0.9 * cm, 3.5 * cm, 3.5 * cm, 3.5 * cm]); t.setStyle(_tbl_style())
+    flow += [TP("மகா தசா வரிசை (120 ஆண்டு)", "h2"), t, Spacer(1, 0.4 * cm)]
+    # buktis of the first (running-at-birth) MD
+    ads = [r for r in tl if r.get("level") == 2 and r.get("md") == mds[0].get("md")]
+    if ads:
+        brows = [[TP("புக்தி", "cell_bold", color=_CREAM), TP("தொடக்கம்", "cell_bold", color=_CREAM), TP("முடிவு", "cell_bold", color=_CREAM)]]
+        for a in ads:
+            brows.append([TP(_PLTA.get(a.get("ad"), a.get("ad")), "cell"),
+                          TP(str(a.get("start"))[:10], "cell"), TP(str(a.get("end"))[:10], "cell")])
+        bt = Table(brows, colWidths=[3.5 * cm, 3.5 * cm, 3.5 * cm]); bt.setStyle(_tbl_style())
+        flow += [TP(f"{_PLTA.get(mds[0].get('md'), mds[0].get('md'))} தசா — புக்திகள்", "h2"), bt]
+    return flow
+
+
 def generate(chart_path, out_name):
     with open(chart_path, encoding="utf-8") as f:
         chart = json.load(f)
@@ -91,16 +210,24 @@ def generate(chart_path, out_name):
     # Sripati cusps (Tamil)
     flow.extend(page_sripati_cusps_ta(chart)); flow.append(PageBreak())
 
-    # Technical tables (English interim — Tamil-isation pending)
-    for name, fn in (("bhava", page_bhava_chart), ("vargas", page_all_vargas),
-                     ("ashtakavarga", page_ashtakavarga), ("vimshottari", page_vimshottari_full)):
+    # Tamil technical tables (dasavarga, ashtakavarga, vimshottari)
+    for name, fn in (("dasavarga_ta", page_dasavarga_ta),
+                     ("ashtakavarga_ta", page_ashtakavarga_ta),
+                     ("vimshottari_ta", page_vimshottari_ta)):
         try:
-            section = fn(chart, st)
+            section = fn(chart)
             if section:
                 flow.extend(section)
                 flow.append(PageBreak())
         except Exception as exc:
             print(f"[{name}] WARNING: {exc}")
+
+    # Bhava cusp chart — English builder (Tamil-isation pending)
+    try:
+        flow.extend(page_bhava_chart(chart, st))
+        flow.append(PageBreak())
+    except Exception as exc:
+        print(f"[bhava] WARNING: {exc}")
 
     # Numerology (Tamil)
     flow.extend(page_lucky_vidhi_ta(chart))
