@@ -15,3 +15,8 @@ class BirthData(BaseModel):
     focus: str = "general"
     lang: str = "en"
     api_key: Optional[str] = None
+    # Optional identity fields for traditional-print style reports
+    name: Optional[str] = None
+    father_name: Optional[str] = None
+    mother_name: Optional[str] = None
+    birth_place: Optional[str] = None

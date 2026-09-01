@@ -131,12 +131,13 @@ def page_birth_details(chart, st):
         pass
 
     try:
-        from panchanga import compute_panchanga
-        p = compute_panchanga(birth_dt)
+        # Drik panchanga from the chart's sidereal longitudes (matches print).
+        from engine.jathagam_extras import panchanga_from_chart
+        p = panchanga_from_chart(chart)
         panch_rows.extend([
             ["Tithi (Lunar day)", f"{p.get('tithi','?')}  ({p.get('paksha','?')} paksha)"],
-            ["Vara (Weekday)", f"{p.get('vara','?')}  (ruled by {p.get('vara_lord','?')})"],
-            ["Nakshatra (transit-time)", f"{p.get('nakshatra','?')}  pada {p.get('pada','?')}"],
+            ["Vara (Weekday)", f"{b.get('weekday','?')}"],
+            ["Nakshatra", f"{chart.get('janma_nakshatra','?')}"],
             ["Yoga", f"{p.get('yoga','?')}"],
             ["Karana", f"{p.get('karana','?')}"],
         ])
@@ -307,6 +308,30 @@ def page_planet_positions(chart, st):
 # South Indian box layout — each rasi has a fixed grid cell.
 # Order: top row Pis/Ari/Tau/Gem, right col Can/Leo, bottom row Vir/Lib/Sco/Sag, left col Cap/Aqu
 # Returns dict: rasi_name → (row, col) in a 4x4 grid
+_ENGLISH_SIGNS = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
+                  "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
+_TA_SIGNS = ["Mesham", "Rishabam", "Mithunam", "Kadagam", "Simmam", "Kanni",
+             "Thulaam", "Viruchigam", "Dhanusu", "Makaram", "Kumbam", "Meenam"]
+_TA_TO_IDX = {t: i for i, t in enumerate(_TA_SIGNS)}
+
+
+def _english_sign(pd_or_name):
+    """Map a position dict (with rasi_idx/rasi) or a sign name to English.
+    Charts built from the API carry Tamil rasi names; SI_LAYOUT is English."""
+    if isinstance(pd_or_name, dict):
+        ri = pd_or_name.get("rasi_idx")
+        if ri is not None:
+            return _ENGLISH_SIGNS[int(ri) % 12]
+        name = pd_or_name.get("rasi", "")
+    else:
+        name = pd_or_name or ""
+    if name in _ENGLISH_SIGNS:
+        return name
+    if name in _TA_TO_IDX:
+        return _ENGLISH_SIGNS[_TA_TO_IDX[name]]
+    return name
+
+
 SI_LAYOUT = {
     "Pisces":    (0, 0), "Aries":     (0, 1), "Taurus":    (0, 2), "Gemini":    (0, 3),
     "Aquarius":  (1, 0),                                                "Cancer":    (1, 3),
@@ -368,31 +393,32 @@ def page_rasi_navamsa(chart, st):
         st["small"]))
     flow.append(Spacer(1, 0.3*cm))
 
-    # Build D1 positions_by_rasi
+    # D1 (rasi) + D9 (navamsa) built from the SAME chart longitudes so both
+    # grids agree with the Nirayana positions table. Navamsa uses the
+    # continuous formula (sign = floor(lon / 3°20') mod 12), which is the
+    # Thirukanitham/Logic-Vision convention.
     pos = chart["positions"]
-    d1_by_rasi = {}
-    for p, pd in pos.items():
-        rasi = pd.get("rasi", "")
-        abbr = PLANET_ABBR.get(p, p[:2])
-        d1_by_rasi.setdefault(rasi, []).append(abbr)
-    lagna_rasi = chart.get("lagna", "")
+    _BODIES = ("Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn",
+               "Rahu", "Ketu", "Lagna")
+
+    def _lon(pd):
+        return float(pd.get("lon_abs", pd.get("lon", 0.0))) % 360.0
+
+    d1_by_rasi, d9_by_rasi = {}, {}
+    for p in _BODIES:
+        pd = pos.get(p)
+        if not pd:
+            continue
+        abbr = "La" if p == "Lagna" else PLANET_ABBR.get(p, p[:2])
+        d1_by_rasi.setdefault(_english_sign(pd), []).append(abbr)
+        d9_idx = int(_lon(pd) / (30.0 / 9.0)) % 12
+        d9_by_rasi.setdefault(_ENGLISH_SIGNS[d9_idx], []).append(abbr)
+
+    lagna_rasi = _english_sign(pos.get("Lagna") or {"rasi": chart.get("lagna", "")})
+    d9_lagna = _ENGLISH_SIGNS[int(_lon(pos.get("Lagna", {})) / (30.0 / 9.0)) % 12] if pos.get("Lagna") else ""
 
     d1_chart = _build_chart_box(d1_by_rasi, lagna_rasi, f"RASI (D1)<br/>Lagna: {lagna_rasi}", st)
-
-    # Build D9 positions_by_rasi
-    try:
-        from divisional_charts import build_divisional_chart
-        d9 = build_divisional_chart(chart, varga="D9")
-        d9_by_rasi = {}
-        for p, pd in d9["positions"].items():
-            rasi = pd.get("rasi", "")
-            abbr = PLANET_ABBR.get(p, p[:2])
-            d9_by_rasi.setdefault(rasi, []).append(abbr)
-        d9_lagna = ["Aries","Taurus","Gemini","Cancer","Leo","Virgo","Libra","Scorpio",
-                    "Sagittarius","Capricorn","Aquarius","Pisces"][d9["lagna_idx"]]
-        d9_chart = _build_chart_box(d9_by_rasi, d9_lagna, f"NAVAMSA (D9)<br/>Lagna: {d9_lagna}", st)
-    except Exception:
-        d9_chart = Paragraph("(D9 chart computation failed)", st["body"])
+    d9_chart = _build_chart_box(d9_by_rasi, d9_lagna, f"NAVAMSA (D9)<br/>Lagna: {d9_lagna}", st)
 
     # Side-by-side layout
     side_by_side = Table([[d1_chart, d9_chart]], colWidths=[8.5*cm, 8.5*cm])

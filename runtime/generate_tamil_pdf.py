@@ -361,11 +361,14 @@ def page_birth_panchanga(chart, st_unused):
         pass
 
     try:
-        from panchanga import compute_panchanga
-        p = compute_panchanga(birth_dt)
+        # Drik panchanga from the chart's own sidereal longitudes (matches the
+        # Thirukanitham print). The mean-based compute_panchanga was off by one
+        # yoga (gave Harshanam instead of the correct Vyaghata).
+        from engine.jathagam_extras import panchanga_from_chart
+        p = panchanga_from_chart(chart)
         panch_rows.extend([
             (_ta_label("Tithi"), f"{TITHIS_TA.get(p.get('tithi', ''), p.get('tithi', '?'))} ({PAKSHA_TA.get(p.get('paksha',''), p.get('paksha','?'))})"),
-            (_ta_label("Vara"), _ta_weekday(p.get('vara', '?'))),
+            (_ta_label("Vara"), _ta_weekday(b.get('weekday', '?'))),
             (_ta_label("Yoga"), YOGAS_PANCH_TA.get(p.get('yoga', ''), p.get('yoga', '?'))),
             (_ta_label("Karana"), KARANAS_TA.get(p.get('karana', ''), p.get('karana', '?'))),
         ])
@@ -1026,32 +1029,45 @@ def page_rasi_navamsa_ta(chart):
         "small", color=ACCENT))
     flow.append(Spacer(1, 0.3*cm))
 
+    # D1 (rasi) + D9 (navamsa) built from the same longitudes so both grids
+    # agree with the positions table. Navamsa uses the continuous formula
+    # (Thirukanitham convention). Grids are keyed by ENGLISH sign names to
+    # match SI_LAYOUT_TA (labels come via RASIS_TA[english] -> Tamil).
+    _ENGLISH = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
+                "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
+    _TA_ROMAN = {"Mesham": 0, "Rishabam": 1, "Mithunam": 2, "Kadagam": 3, "Simmam": 4,
+                 "Kanni": 5, "Thulaam": 6, "Viruchigam": 7, "Dhanusu": 8, "Makaram": 9,
+                 "Kumbam": 10, "Meenam": 11}
+    _BODIES = ("Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn",
+               "Rahu", "Ketu", "Lagna")
     pos = chart["positions"]
-    d1_by_rasi = {}
-    for p, pd in pos.items():
-        rasi = pd.get("rasi", "")
-        d1_by_rasi.setdefault(rasi, []).append(p)
-    lagna_rasi = chart.get("lagna", "")
-    d1_chart = _build_si_chart_ta(d1_by_rasi, lagna_rasi,
-                                    f"ராசி (D1)  லக்.: {_ta_rasi(lagna_rasi)}",
-                                    cell_size=2.0)
 
-    # D9 Navamsa
-    try:
-        from divisional_charts import build_divisional_chart
-        d9 = build_divisional_chart(chart, varga="D9")
-        d9_by_rasi = {}
-        for p, pd in d9["positions"].items():
-            rasi = pd.get("rasi", "")
-            d9_by_rasi.setdefault(rasi, []).append(p)
-        SIGNS_EN = ["Aries","Taurus","Gemini","Cancer","Leo","Virgo",
-                     "Libra","Scorpio","Sagittarius","Capricorn","Aquarius","Pisces"]
-        d9_lagna = SIGNS_EN[d9["lagna_idx"]]
-        d9_chart = _build_si_chart_ta(d9_by_rasi, d9_lagna,
-                                        f"நவாம்சம் (D9)  லக்.: {_ta_rasi(d9_lagna)}",
-                                        cell_size=2.0)
-    except Exception:
-        d9_chart = TP("(நவாம்சம் கணக்கீடு தோல்வி)", "small")
+    def _lon(pd):
+        return float(pd.get("lon_abs", pd.get("lon", 0.0))) % 360.0
+
+    def _d1_idx(pd):
+        ri = pd.get("rasi_idx")
+        if ri is not None:
+            return int(ri) % 12
+        return _TA_ROMAN.get(pd.get("rasi", ""), int(_lon(pd) // 30))
+
+    d1_by_rasi, d9_by_rasi = {}, {}
+    for p in _BODIES:
+        pd = pos.get(p)
+        if not pd:
+            continue
+        d1_by_rasi.setdefault(_ENGLISH[_d1_idx(pd)], []).append(p)
+        d9_by_rasi.setdefault(_ENGLISH[int(_lon(pd) / (30.0 / 9.0)) % 12], []).append(p)
+
+    lg = pos.get("Lagna", {})
+    lagna_eng = _ENGLISH[_d1_idx(lg)] if lg else _ENGLISH[int(chart.get("lagna_idx", 0)) % 12]
+    d1_chart = _build_si_chart_ta(d1_by_rasi, lagna_eng,
+                                    f"ராசி (D1)  லக்.: {_ta_rasi(lagna_eng)}",
+                                    cell_size=2.0)
+    d9_lagna = _ENGLISH[int(_lon(lg) / (30.0 / 9.0)) % 12] if lg else ""
+    d9_chart = _build_si_chart_ta(d9_by_rasi, d9_lagna,
+                                    f"நவாம்சம் (D9)  லக்.: {_ta_rasi(d9_lagna)}",
+                                    cell_size=2.0)
 
     # Side-by-side
     side_by_side = Table([[d1_chart, d9_chart]], colWidths=[8.5*cm, 8.5*cm])
@@ -1431,7 +1447,80 @@ def build_truth_report_section_ta(chart):
             ("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
         ]))
         flow.append(t_cov)
-        
+
+    return flow
+
+
+_BHAVA_TA = ["லக்னம்", "தனம்", "சகோதரர்", "மாதுர்", "புத்திர", "சத்ரு",
+             "களத்திர", "ஆயுள்", "பாக்கியம்", "கர்ம", "லாபம்", "விரய"]
+
+
+def build_traditional_extras_section_ta(chart):
+    """பாரம்பரிய திருக்கணித விவரங்கள் — சூரிய உதயம்/அஸ்தமனம், நட்சத்திர விவரம்,
+    சந்திராஷ்டமம், ஸ்ரீபதி பாவ ஸந்தி."""
+    _HDR = HexColor("#1a1d3a"); _CREAM = HexColor("#faf6e8")
+    flow = []
+    te = chart.get("traditional_extras") or {}
+    ident = chart.get("identity") or {}
+    if not te and not ident:
+        return flow
+
+    flow.append(PageBreak())
+    flow.append(TP("பாரம்பரிய திருக்கணித விவரங்கள்", "h1"))
+    flow.append(TP("பஞ்சாங்கம் · நட்சத்திர விவரம் · ஸ்ரீபதி பாவ ஸந்தி", "subtitle"))
+    flow.append(divider())
+
+    st = te.get("sun_times", {}) or {}
+    rows = []
+    if ident.get("father_name"):
+        rows.append([TP("தந்தை", "cell_bold"), TP(str(ident["father_name"]), "cell")])
+    if ident.get("mother_name"):
+        rows.append([TP("தாய்", "cell_bold"), TP(str(ident["mother_name"]), "cell")])
+    if ident.get("birth_place"):
+        rows.append([TP("பிறந்த ஊர்", "cell_bold"), TP(str(ident["birth_place"]), "cell")])
+    if st.get("sunrise"):
+        rows.append([TP("சூரிய உதயம்", "cell_bold"), TP(str(st["sunrise"]), "cell")])
+    if st.get("sunset"):
+        rows.append([TP("சூரிய அஸ்தமனம்", "cell_bold"), TP(str(st["sunset"]), "cell")])
+    if rows:
+        t = Table(rows, colWidths=[3.5*cm, 10.0*cm])
+        t.setStyle(TableStyle([("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
+            ("VALIGN", (0,0), (-1,-1), "MIDDLE"), ("TOPPADDING", (0,0), (-1,-1), 4),
+            ("BOTTOMPADDING", (0,0), (-1,-1), 4), ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
+        flow.append(Spacer(1, 0.4*cm))
+
+    nr = te.get("nakshatra_reference") or {}
+    if nr.get("known"):
+        flow.append(TP("பிறப்பு நட்சத்திர விவரம்:", "h2"))
+        parts = [f"கணம்: {nr.get('gana','')}", f"யோனி: {nr.get('yoni','')} ({nr.get('yoni_gender','')})",
+                 f"நாடி: {nr.get('nadi','')}", f"மரம்: {nr.get('tree','')}"]
+        if nr.get("bird"):
+            parts.append(f"பட்சி: {nr['bird']}")
+        flow.append(TP("  ·  ".join(parts), "body"))
+        flow.append(Spacer(1, 0.3*cm))
+
+    ch = te.get("chandrashtama_nakshatras") or []
+    if ch:
+        flow.append(TP("சந்திராஷ்டம நட்சத்திரங்கள்: " + ", ".join(ch), "body"))
+        flow.append(Spacer(1, 0.4*cm))
+
+    cusps = te.get("bhava_cusps") or []
+    if cusps:
+        flow.append(TP("ஸ்ரீபதி பாவ ஸந்தி (சம அளவற்ற பாவங்கள்):", "h2"))
+        trows = [[TP("பா", "cell_bold"), TP("பாவம்", "cell_bold"), TP("தொடக்கம்", "cell_bold"),
+                  TP("மத்தி", "cell_bold"), TP("முடிவு", "cell_bold")]]
+        for c in cusps:
+            h = c.get("house", 0)
+            trows.append([TP(str(h), "cell"), TP(_BHAVA_TA[h-1] if 1 <= h <= 12 else "", "cell"),
+                          TP(c.get("start_dms",""), "cell"), TP(c.get("mid_dms",""), "cell"),
+                          TP(c.get("end_dms",""), "cell")])
+        t = Table(trows, colWidths=[0.9*cm, 3.4*cm, 3.1*cm, 3.1*cm, 3.1*cm])
+        t.setStyle(TableStyle([("BACKGROUND", (0,0), (-1,0), _HDR), ("TEXTCOLOR", (0,0), (-1,0), _CREAM),
+            ("GRID", (0,0), (-1,-1), 0.5, GREY_LT), ("VALIGN", (0,0), (-1,-1), "MIDDLE"),
+            ("TOPPADDING", (0,0), (-1,-1), 4), ("BOTTOMPADDING", (0,0), (-1,-1), 4),
+            ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
     return flow
 
 
@@ -1502,6 +1591,12 @@ def generate(chart_path, out_path):
         topMargin=1.8*cm, bottomMargin=2.0*cm,
         title=f"{chart.get('name', '?')} — Tamil Life Reading",
     )
+    # Append Traditional Thirukanitham extras
+    try:
+        flow.extend(build_traditional_extras_section_ta(chart))
+    except Exception as exc:
+        print(f"  WARN: build_traditional_extras_ta failed: {exc}")
+
     # Append Truth Report section
     try:
         truth_flow = build_truth_report_section_ta(chart)

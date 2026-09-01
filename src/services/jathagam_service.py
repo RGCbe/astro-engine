@@ -536,6 +536,28 @@ async def jathagam(data: BirthData):
     # Add synthesis
     response_data["synthesis"] = generate_synthesis(response_data)
 
+    # Identity block (traditional-print header: name, parents, place).
+    response_data["identity"] = {
+        "name": getattr(data, "name", None) or "Seeker",
+        "father_name": getattr(data, "father_name", None),
+        "mother_name": getattr(data, "mother_name", None),
+        "birth_place": getattr(data, "birth_place", None),
+    }
+
+    # Traditional Thirukanitham extras missing from the base payload:
+    # sunrise/sunset, nakshatra reference (gana/yoni/tree/bird),
+    # chandrashtama nakshatras, and Sripati (unequal) bhava cusps.
+    try:
+        from engine.traditional_extras import traditional_extras
+        core.setdefault("birth", {
+            "year": data.year, "month": data.month, "day": data.day,
+            "lat": data.lat, "lon": data.lon, "tz": data.tz_hours,
+        })
+        response_data["traditional_extras"] = traditional_extras(core)
+    except Exception as e:
+        print(f"traditional_extras error: {e}")
+        response_data["traditional_extras"] = {}
+
     # Life-event adapter: horizon-limited scan + convergence gate. Failure here
     # must not break the report — coverage will show life_event: not_run.
     fused_life_events = None
