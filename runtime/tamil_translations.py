@@ -39,6 +39,7 @@ PLANETS_TA = {
 PLANETS_TA_SHORT = {
     "Sun": "சூ", "Moon": "ச", "Mars": "செ", "Mercury": "பு",
     "Jupiter": "கு", "Venus": "சுக்", "Saturn": "சனி", "Rahu": "ரா", "Ketu": "கே",
+    "Mandi": "மா", "Gulika": "கு்",
 }
 
 # ─── 27 Nakshatras (நட்சத்திரங்கள்) ─────────────────────────────────────────

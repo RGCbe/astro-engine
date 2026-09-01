@@ -569,23 +569,20 @@ def page_planets(chart, st_unused):
         TP("—", "cell", align="center"),
         TP("", "cell"),
     ])
-    try:
-        from upagrahas import compute_upagrahas
-        upg = compute_upagrahas(chart)
-        for upg_name in ["Mandi", "Gulika"]:
-            if upg_name in upg:
-                u = upg[upg_name]
-                rows.append([
-                    TP(_ta_planet(upg_name), "cell_bold", color=ACCENT),
-                    TP(_ta_rasi(u.get("rasi", "—")), "cell"),
-                    TP(f"{u.get('house', '?')}", "cell", align="center"),
-                    TP(_dms(u.get("deg", 0)), "cell_small"),
-                    TP("—", "cell", align="center"),
-                    TP("—", "cell", align="center"),
-                    TP("", "cell"),
-                ])
-    except Exception:
-        pass
+    # Maandi (Gulika) — from the chart's own day-part computation
+    # (chart_builder), not the upagraha placeholder. Note: this convention
+    # can differ from a given almanac's Gulika/Mandi placement.
+    md = pos.get("Mandi")
+    if md:
+        rows.append([
+            TP(_ta_planet("Mandi"), "cell_bold", color=ACCENT),
+            TP(_ta_rasi(md.get("rasi", "—")), "cell"),
+            TP(f"{md.get('house', '?')}", "cell", align="center"),
+            TP(_dms(md.get("deg", md.get("lon", 0) % 30)), "cell_small"),
+            TP(_ta_nak(md.get("nak", md.get("nakshatra", "—"))), "cell"),
+            TP(str(md.get("pada", "—")), "cell", align="center"),
+            TP("", "cell"),
+        ])
 
     # Wider column for planet name (allows long names), narrow for house # only
     t = Table(rows, colWidths=[2.4*cm, 2.5*cm, 1.0*cm, 2.5*cm, 4.2*cm, 1.0*cm, 1.4*cm])
@@ -1039,7 +1036,7 @@ def page_rasi_navamsa_ta(chart):
                  "Kanni": 5, "Thulaam": 6, "Viruchigam": 7, "Dhanusu": 8, "Makaram": 9,
                  "Kumbam": 10, "Meenam": 11}
     _BODIES = ("Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn",
-               "Rahu", "Ketu", "Lagna")
+               "Rahu", "Ketu", "Mandi", "Lagna")
     pos = chart["positions"]
 
     def _lon(pd):

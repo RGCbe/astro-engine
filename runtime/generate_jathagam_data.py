@@ -63,6 +63,13 @@ def page_positions_table(chart, st):
         rows.append([str(i), p, d.get("rasi", ""), _dms(lon_abs % 30),
                      d.get("nak", ""), str(d.get("pada", "")),
                      d.get("nak_lord", ""), nav])
+    # Maandi (Gulika) row — engine day-part computation
+    md = pos.get("Mandi")
+    if md:
+        md_lon = md.get("lon_abs", md.get("lon", 0.0))
+        rows.append(["", "Mandi", md.get("rasi", ""), _dms(md_lon % 30),
+                     md.get("nak", ""), str(md.get("pada", "")), md.get("nak_lord", ""),
+                     RASIS[int(md_lon / (10 / 3)) % 12]])
     # Lagna row
     if "Lagna" in pos or chart.get("lagna"):
         lg = pos.get("Lagna", {})

@@ -340,7 +340,8 @@ SI_LAYOUT = {
 }
 
 PLANET_ABBR = {"Sun":"Su", "Moon":"Mo", "Mars":"Ma", "Mercury":"Me",
-               "Jupiter":"Ju", "Venus":"Ve", "Saturn":"Sa", "Rahu":"Ra", "Ketu":"Ke"}
+               "Jupiter":"Ju", "Venus":"Ve", "Saturn":"Sa", "Rahu":"Ra", "Ketu":"Ke",
+               "Mandi":"Md", "Gulika":"Gk"}
 
 
 def _build_chart_box(positions_by_rasi, lagna_rasi, title, st):
@@ -399,7 +400,7 @@ def page_rasi_navamsa(chart, st):
     # Thirukanitham/Logic-Vision convention.
     pos = chart["positions"]
     _BODIES = ("Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn",
-               "Rahu", "Ketu", "Lagna")
+               "Rahu", "Ketu", "Mandi", "Lagna")
 
     def _lon(pd):
         return float(pd.get("lon_abs", pd.get("lon", 0.0))) % 360.0
