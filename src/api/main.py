@@ -290,7 +290,16 @@ async def download_pdf(data: BirthData):
         "lagna_deg": english_data["all_planet_positions"]["Lagna"]["longitude"] % 30,
         "lagna_lon": english_data["all_planet_positions"]["Lagna"]["longitude"],
         "truth_report": english_data.get("truth_report"),
+        "traditional_extras": english_data.get("traditional_extras"),
+        "identity": english_data.get("identity"),
     }
+
+    # Carry the seeker's identity into the print header when supplied.
+    _ident = english_data.get("identity") or {}
+    if _ident.get("name"):
+        chart_dict["name"] = _ident["name"]
+    if _ident.get("birth_place"):
+        chart_dict["birth"]["place"] = _ident["birth_place"]
 
     # Save to temp file
     temp_dir = tempfile.gettempdir()

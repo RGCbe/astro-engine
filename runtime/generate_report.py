@@ -2181,10 +2181,90 @@ def build_truth_report_section(chart):
             ("TOPPADDING", (0,0), (-1,-1), 4),
             ("BOTTOMPADDING", (0,0), (-1,-1), 4),
             ("LEFTPADDING", (0,0), (-1,-1), 6),
-            ("GRID", (0,0), (-1,-1), 0.5, SAND_DK),
+            ("GRID", (0,0), (-1,-1), 0.5, GOLD_DK),
         ]))
         flow.append(t_cov)
         
+    return flow
+
+
+def build_traditional_extras_section(chart):
+    """Thirukanitham print-style extras: parents, sunrise/sunset, nakshatra
+    reference (gana/yoni/tree/bird), chandrashtama nakshatras, and unequal
+    Sripati bhava cusps. Reads the `traditional_extras` + `identity` blocks
+    embedded from the /api/jathagam response."""
+    from reportlab.platypus import HRFlowable
+    flow = []
+    te = chart.get("traditional_extras") or {}
+    ident = chart.get("identity") or {}
+    if not te and not ident:
+        return flow
+
+    flow.append(PageBreak())
+    flow.append(to_para("TRADITIONAL THIRUKANITHAM DETAILS", h1))
+    flow.append(to_para("Panchangam · nakshatra reference · Sripati bhava cusps", h1_sub))
+    flow.append(HRFlowable(width="100%", thickness=0.8, color=GOLD, spaceAfter=8))
+
+    # Identity + panchangam facts
+    st = te.get("sun_times", {}) or {}
+    fact_rows = []
+    if ident.get("father_name"):
+        fact_rows.append([Paragraph("<b>Father</b>", body_small), Paragraph(str(ident["father_name"]), body_small)])
+    if ident.get("mother_name"):
+        fact_rows.append([Paragraph("<b>Mother</b>", body_small), Paragraph(str(ident["mother_name"]), body_small)])
+    if ident.get("birth_place"):
+        fact_rows.append([Paragraph("<b>Birth place</b>", body_small), Paragraph(str(ident["birth_place"]), body_small)])
+    if st.get("sunrise"):
+        fact_rows.append([Paragraph("<b>Sunrise</b>", body_small), Paragraph(str(st["sunrise"]), body_small)])
+    if st.get("sunset"):
+        fact_rows.append([Paragraph("<b>Sunset</b>", body_small), Paragraph(str(st["sunset"]), body_small)])
+    if fact_rows:
+        t = Table(fact_rows, colWidths=[3.5*cm, 10.0*cm])
+        t.setStyle(TableStyle([("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
+            ("BACKGROUND", (0,0), (-1,-1), SHEET_BG), ("VALIGN", (0,0), (-1,-1), "MIDDLE"),
+            ("TOPPADDING", (0,0), (-1,-1), 4), ("BOTTOMPADDING", (0,0), (-1,-1), 4),
+            ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
+        flow.append(Spacer(1, 0.4*cm))
+
+    # Nakshatra reference
+    nr = te.get("nakshatra_reference") or {}
+    if nr.get("known"):
+        flow.append(to_para("<b>Birth Star Reference:</b>", h2))
+        parts = [f"Gana: <b>{nr.get('gana','')}</b>",
+                 f"Yoni: <b>{nr.get('yoni','')} ({nr.get('yoni_gender','')})</b>",
+                 f"Nadi: <b>{nr.get('nadi','')}</b>"]
+        if nr.get("tree"):
+            parts.append(f"Tree: <b>{nr['tree']}</b>")
+        if nr.get("bird"):
+            parts.append(f"Bird: <b>{nr['bird']}</b>")
+        flow.append(to_para(" &nbsp;·&nbsp; ".join(parts), body))
+        flow.append(Spacer(1, 0.3*cm))
+
+    ch = te.get("chandrashtama_nakshatras") or []
+    if ch:
+        flow.append(to_para(
+            "<b>Chandrashtama (avoid) nakshatras:</b> &nbsp;" + ", ".join(ch), body))
+        flow.append(Spacer(1, 0.4*cm))
+
+    # Sripati bhava cusps
+    cusps = te.get("bhava_cusps") or []
+    if cusps:
+        flow.append(to_para("<b>Sripati Bhava Cusps (unequal houses):</b>", h2))
+        flow.append(to_para("Bhava start / middle (madhya) / end — Porphyry division", body_small))
+        rows = [["H", "SIGNIFICATION", "START", "MIDDLE", "END"]]
+        for c in cusps:
+            rows.append([str(c.get("house","")), c.get("name",""),
+                         c.get("start_dms",""), c.get("mid_dms",""), c.get("end_dms","")])
+        t = Table(rows, colWidths=[0.8*cm, 4.6*cm, 3.0*cm, 3.0*cm, 3.0*cm])
+        t.setStyle(TableStyle([("BACKGROUND", (0,0), (-1,0), INDIGO),
+            ("TEXTCOLOR", (0,0), (-1,0), CREAM), ("FONTNAME", (0,0), (-1,0), "Helvetica-Bold"),
+            ("FONTSIZE", (0,0), (-1,-1), 8), ("LINEBELOW", (0,0), (-1,0), 1, GOLD),
+            ("ROWBACKGROUNDS", (0,1), (-1,-1), [white, GREY_LT]), ("VALIGN", (0,0), (-1,-1), "MIDDLE"),
+            ("TOPPADDING", (0,0), (-1,-1), 4), ("BOTTOMPADDING", (0,0), (-1,-1), 4),
+            ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
+
     return flow
 
 
@@ -4187,6 +4267,13 @@ def generate(chart_path,out_name):
         ParagraphStyle("c",parent=body,alignment=TA_CENTER,textColor=PURPLE)))
 
     
+    # ─── TRADITIONAL THIRUKANITHAM EXTRAS (parents, sunrise/sunset,
+    #     nakshatra reference, chandrashtama, Sripati bhava cusps) ───
+    try:
+        flow.extend(build_traditional_extras_section(chart))
+    except Exception as exc:
+        print(f"[traditional_extras] WARNING: {exc}")
+
     # ─── TRUTH REPORT SECTION ───
     try:
         truth_flow = build_truth_report_section(chart)
