@@ -56,11 +56,26 @@ NADI = (
     "Adi", "Madhya", "Antya",
 )
 
-# Tree (vanaspati) and bird (pakshi) per janma nakshatra.
-# Only rows confirmed against a reference are populated; None => not asserted.
-# Magha is confirmed from the AstroSign print (Banyan / male eagle-vulture).
-NAK_TREE_BIRD: dict[str, tuple[Optional[str], Optional[str]]] = {
-    "Magha": ("Banyan (Aal)", "Male Eagle (Kazhugu)"),
+# Nakshatra tree (vanaspati) — classical Brihat Samhita tradition, indexed by
+# nakshatra order. Widely reproduced; regional almanacs vary on a few species.
+NAK_TREE = (
+    "Poison Nut (Strychnos)", "Indian Gooseberry (Amla)", "Cluster Fig (Udumbara)",
+    "Java Plum (Jamun)", "Catechu (Khadira)", "Agarwood (Krishnaguru)",
+    "Bamboo (Venu)", "Sacred Fig (Peepal)", "Ironwood (Nagakesara)",
+    "Banyan (Aal / Vata)", "Flame of the Forest (Palasha)", "Wavy-leaf Fig (Plaksha)",
+    "Jasmine (Mullai)", "Bael (Bilva)", "Arjuna", "Wood Apple (Vikankata)",
+    "Bakula (Maulsari)", "Silk Cotton (Ilavu)", "Black Ebony (Karungali / Sal)",
+    "Rattan (Vetasa)", "Jackfruit (Panasa)", "Milkweed (Arka / Erukku)",
+    "Shami (Vanni)", "Kadamba", "Mango (Amra)", "Neem (Vembu / Nimba)",
+    "Mahua (Madhuka / Iluppai)",
+)
+
+# Nakshatra bird (pakshi) — per-nakshatra bird associations differ sharply
+# between traditions, so only the value confirmed against a reference print
+# is asserted here. Magha is from the AstroSign booklet. The rest stay None
+# (project truth policy: no filler presented as fact) until a source is given.
+NAK_BIRD: dict[str, str] = {
+    "Magha": "Male Eagle (Kazhugu)",
 }
 
 
@@ -81,15 +96,14 @@ def nakshatra_reference(janma_nak: str) -> dict[str, Any]:
     idx = _nak_index(janma_nak)
     if idx < 0:
         return {"nakshatra": janma_nak, "known": False}
-    tree, bird = NAK_TREE_BIRD.get(NAKSHATRAS[idx], (None, None))
     return {
         "nakshatra": NAKSHATRAS[idx],
         "gana": GANA[idx],
         "yoni": YONI[idx],
         "yoni_gender": YONI_GENDER[idx],
         "nadi": NADI[idx],
-        "tree": tree,
-        "bird": bird,
+        "tree": NAK_TREE[idx],
+        "bird": NAK_BIRD.get(NAKSHATRAS[idx]),
         "known": True,
     }
 

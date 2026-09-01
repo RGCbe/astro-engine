@@ -1431,7 +1431,80 @@ def build_truth_report_section_ta(chart):
             ("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
         ]))
         flow.append(t_cov)
-        
+
+    return flow
+
+
+_BHAVA_TA = ["லக்னம்", "தனம்", "சகோதரர்", "மாதுர்", "புத்திர", "சத்ரு",
+             "களத்திர", "ஆயுள்", "பாக்கியம்", "கர்ம", "லாபம்", "விரய"]
+
+
+def build_traditional_extras_section_ta(chart):
+    """பாரம்பரிய திருக்கணித விவரங்கள் — சூரிய உதயம்/அஸ்தமனம், நட்சத்திர விவரம்,
+    சந்திராஷ்டமம், ஸ்ரீபதி பாவ ஸந்தி."""
+    _HDR = HexColor("#1a1d3a"); _CREAM = HexColor("#faf6e8")
+    flow = []
+    te = chart.get("traditional_extras") or {}
+    ident = chart.get("identity") or {}
+    if not te and not ident:
+        return flow
+
+    flow.append(PageBreak())
+    flow.append(TP("பாரம்பரிய திருக்கணித விவரங்கள்", "h1"))
+    flow.append(TP("பஞ்சாங்கம் · நட்சத்திர விவரம் · ஸ்ரீபதி பாவ ஸந்தி", "subtitle"))
+    flow.append(divider())
+
+    st = te.get("sun_times", {}) or {}
+    rows = []
+    if ident.get("father_name"):
+        rows.append([TP("தந்தை", "cell_bold"), TP(str(ident["father_name"]), "cell")])
+    if ident.get("mother_name"):
+        rows.append([TP("தாய்", "cell_bold"), TP(str(ident["mother_name"]), "cell")])
+    if ident.get("birth_place"):
+        rows.append([TP("பிறந்த ஊர்", "cell_bold"), TP(str(ident["birth_place"]), "cell")])
+    if st.get("sunrise"):
+        rows.append([TP("சூரிய உதயம்", "cell_bold"), TP(str(st["sunrise"]), "cell")])
+    if st.get("sunset"):
+        rows.append([TP("சூரிய அஸ்தமனம்", "cell_bold"), TP(str(st["sunset"]), "cell")])
+    if rows:
+        t = Table(rows, colWidths=[3.5*cm, 10.0*cm])
+        t.setStyle(TableStyle([("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
+            ("VALIGN", (0,0), (-1,-1), "MIDDLE"), ("TOPPADDING", (0,0), (-1,-1), 4),
+            ("BOTTOMPADDING", (0,0), (-1,-1), 4), ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
+        flow.append(Spacer(1, 0.4*cm))
+
+    nr = te.get("nakshatra_reference") or {}
+    if nr.get("known"):
+        flow.append(TP("பிறப்பு நட்சத்திர விவரம்:", "h2"))
+        parts = [f"கணம்: {nr.get('gana','')}", f"யோனி: {nr.get('yoni','')} ({nr.get('yoni_gender','')})",
+                 f"நாடி: {nr.get('nadi','')}", f"மரம்: {nr.get('tree','')}"]
+        if nr.get("bird"):
+            parts.append(f"பட்சி: {nr['bird']}")
+        flow.append(TP("  ·  ".join(parts), "body"))
+        flow.append(Spacer(1, 0.3*cm))
+
+    ch = te.get("chandrashtama_nakshatras") or []
+    if ch:
+        flow.append(TP("சந்திராஷ்டம நட்சத்திரங்கள்: " + ", ".join(ch), "body"))
+        flow.append(Spacer(1, 0.4*cm))
+
+    cusps = te.get("bhava_cusps") or []
+    if cusps:
+        flow.append(TP("ஸ்ரீபதி பாவ ஸந்தி (சம அளவற்ற பாவங்கள்):", "h2"))
+        trows = [[TP("பா", "cell_bold"), TP("பாவம்", "cell_bold"), TP("தொடக்கம்", "cell_bold"),
+                  TP("மத்தி", "cell_bold"), TP("முடிவு", "cell_bold")]]
+        for c in cusps:
+            h = c.get("house", 0)
+            trows.append([TP(str(h), "cell"), TP(_BHAVA_TA[h-1] if 1 <= h <= 12 else "", "cell"),
+                          TP(c.get("start_dms",""), "cell"), TP(c.get("mid_dms",""), "cell"),
+                          TP(c.get("end_dms",""), "cell")])
+        t = Table(trows, colWidths=[0.9*cm, 3.4*cm, 3.1*cm, 3.1*cm, 3.1*cm])
+        t.setStyle(TableStyle([("BACKGROUND", (0,0), (-1,0), _HDR), ("TEXTCOLOR", (0,0), (-1,0), _CREAM),
+            ("GRID", (0,0), (-1,-1), 0.5, GREY_LT), ("VALIGN", (0,0), (-1,-1), "MIDDLE"),
+            ("TOPPADDING", (0,0), (-1,-1), 4), ("BOTTOMPADDING", (0,0), (-1,-1), 4),
+            ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
     return flow
 
 
@@ -1502,6 +1575,12 @@ def generate(chart_path, out_path):
         topMargin=1.8*cm, bottomMargin=2.0*cm,
         title=f"{chart.get('name', '?')} — Tamil Life Reading",
     )
+    # Append Traditional Thirukanitham extras
+    try:
+        flow.extend(build_traditional_extras_section_ta(chart))
+    except Exception as exc:
+        print(f"  WARN: build_traditional_extras_ta failed: {exc}")
+
     # Append Truth Report section
     try:
         truth_flow = build_truth_report_section_ta(chart)

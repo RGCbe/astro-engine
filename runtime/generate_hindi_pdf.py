@@ -1335,7 +1335,80 @@ def build_truth_report_section_hi(chart):
             ("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
         ]))
         flow.append(t_cov)
-        
+
+    return flow
+
+
+_BHAVA_HI = ["लग्न", "धन", "सहज", "मातृ", "पुत्र", "शत्रु",
+             "कलत्र", "आयु", "भाग्य", "कर्म", "लाभ", "व्यय"]
+
+
+def build_traditional_extras_section_hi(chart):
+    """पारंपरिक थिरुकणितम विवरण — सूर्योदय/सूर्यास्त, नक्षत्र संदर्भ,
+    चंद्राष्टम, श्रीपति भाव संधि।"""
+    _HDR = HexColor("#1a1d3a"); _CREAM = HexColor("#faf6e8")
+    flow = []
+    te = chart.get("traditional_extras") or {}
+    ident = chart.get("identity") or {}
+    if not te and not ident:
+        return flow
+
+    flow.append(PageBreak())
+    flow.append(TP("पारंपरिक थिरुकणितम विवरण", "h1"))
+    flow.append(TP("पंचांग · नक्षत्र संदर्भ · श्रीपति भाव संधि", "subtitle"))
+    flow.append(divider())
+
+    st = te.get("sun_times", {}) or {}
+    rows = []
+    if ident.get("father_name"):
+        rows.append([TP("पिता", "cell_bold"), TP(str(ident["father_name"]), "cell")])
+    if ident.get("mother_name"):
+        rows.append([TP("माता", "cell_bold"), TP(str(ident["mother_name"]), "cell")])
+    if ident.get("birth_place"):
+        rows.append([TP("जन्म स्थान", "cell_bold"), TP(str(ident["birth_place"]), "cell")])
+    if st.get("sunrise"):
+        rows.append([TP("सूर्योदय", "cell_bold"), TP(str(st["sunrise"]), "cell")])
+    if st.get("sunset"):
+        rows.append([TP("सूर्यास्त", "cell_bold"), TP(str(st["sunset"]), "cell")])
+    if rows:
+        t = Table(rows, colWidths=[3.5*cm, 10.0*cm])
+        t.setStyle(TableStyle([("GRID", (0,0), (-1,-1), 0.5, GREY_LT),
+            ("VALIGN", (0,0), (-1,-1), "MIDDLE"), ("TOPPADDING", (0,0), (-1,-1), 4),
+            ("BOTTOMPADDING", (0,0), (-1,-1), 4), ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
+        flow.append(Spacer(1, 0.4*cm))
+
+    nr = te.get("nakshatra_reference") or {}
+    if nr.get("known"):
+        flow.append(TP("जन्म नक्षत्र संदर्भ:", "h2"))
+        parts = [f"गण: {nr.get('gana','')}", f"योनि: {nr.get('yoni','')} ({nr.get('yoni_gender','')})",
+                 f"नाडी: {nr.get('nadi','')}", f"वृक्ष: {nr.get('tree','')}"]
+        if nr.get("bird"):
+            parts.append(f"पक्षी: {nr['bird']}")
+        flow.append(TP("  ·  ".join(parts), "body"))
+        flow.append(Spacer(1, 0.3*cm))
+
+    ch = te.get("chandrashtama_nakshatras") or []
+    if ch:
+        flow.append(TP("चंद्राष्टम नक्षत्र: " + ", ".join(ch), "body"))
+        flow.append(Spacer(1, 0.4*cm))
+
+    cusps = te.get("bhava_cusps") or []
+    if cusps:
+        flow.append(TP("श्रीपति भाव संधि (असमान भाव):", "h2"))
+        trows = [[TP("भा", "cell_bold"), TP("भाव", "cell_bold"), TP("आरंभ", "cell_bold"),
+                  TP("मध्य", "cell_bold"), TP("अंत", "cell_bold")]]
+        for c in cusps:
+            h = c.get("house", 0)
+            trows.append([TP(str(h), "cell"), TP(_BHAVA_HI[h-1] if 1 <= h <= 12 else "", "cell"),
+                          TP(c.get("start_dms",""), "cell"), TP(c.get("mid_dms",""), "cell"),
+                          TP(c.get("end_dms",""), "cell")])
+        t = Table(trows, colWidths=[0.9*cm, 3.4*cm, 3.1*cm, 3.1*cm, 3.1*cm])
+        t.setStyle(TableStyle([("BACKGROUND", (0,0), (-1,0), _HDR), ("TEXTCOLOR", (0,0), (-1,0), _CREAM),
+            ("GRID", (0,0), (-1,-1), 0.5, GREY_LT), ("VALIGN", (0,0), (-1,-1), "MIDDLE"),
+            ("TOPPADDING", (0,0), (-1,-1), 4), ("BOTTOMPADDING", (0,0), (-1,-1), 4),
+            ("LEFTPADDING", (0,0), (-1,-1), 6)]))
+        flow.append(t)
     return flow
 
 
@@ -1404,6 +1477,10 @@ def generate(chart_path, out_path):
         title=f"{chart.get('name', '?')} — Hindi Life Reading",
     )
     # Append Truth Report section
+    try:
+        flow.extend(build_traditional_extras_section_hi(chart))
+    except Exception as exc:
+        print(f"  WARN: build_traditional_extras_hi failed: {exc}")
     try:
         truth_flow = build_truth_report_section_hi(chart)
         flow.extend(truth_flow)
