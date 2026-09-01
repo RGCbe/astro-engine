@@ -361,11 +361,14 @@ def page_birth_panchanga(chart, st_unused):
         pass
 
     try:
-        from panchanga import compute_panchanga
-        p = compute_panchanga(birth_dt)
+        # Drik panchanga from the chart's own sidereal longitudes (matches the
+        # Thirukanitham print). The mean-based compute_panchanga was off by one
+        # yoga (gave Harshanam instead of the correct Vyaghata).
+        from engine.jathagam_extras import panchanga_from_chart
+        p = panchanga_from_chart(chart)
         panch_rows.extend([
             (_ta_label("Tithi"), f"{TITHIS_TA.get(p.get('tithi', ''), p.get('tithi', '?'))} ({PAKSHA_TA.get(p.get('paksha',''), p.get('paksha','?'))})"),
-            (_ta_label("Vara"), _ta_weekday(p.get('vara', '?'))),
+            (_ta_label("Vara"), _ta_weekday(b.get('weekday', '?'))),
             (_ta_label("Yoga"), YOGAS_PANCH_TA.get(p.get('yoga', ''), p.get('yoga', '?'))),
             (_ta_label("Karana"), KARANAS_TA.get(p.get('karana', ''), p.get('karana', '?'))),
         ])
@@ -1026,32 +1029,45 @@ def page_rasi_navamsa_ta(chart):
         "small", color=ACCENT))
     flow.append(Spacer(1, 0.3*cm))
 
+    # D1 (rasi) + D9 (navamsa) built from the same longitudes so both grids
+    # agree with the positions table. Navamsa uses the continuous formula
+    # (Thirukanitham convention). Grids are keyed by ENGLISH sign names to
+    # match SI_LAYOUT_TA (labels come via RASIS_TA[english] -> Tamil).
+    _ENGLISH = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
+                "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
+    _TA_ROMAN = {"Mesham": 0, "Rishabam": 1, "Mithunam": 2, "Kadagam": 3, "Simmam": 4,
+                 "Kanni": 5, "Thulaam": 6, "Viruchigam": 7, "Dhanusu": 8, "Makaram": 9,
+                 "Kumbam": 10, "Meenam": 11}
+    _BODIES = ("Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn",
+               "Rahu", "Ketu", "Lagna")
     pos = chart["positions"]
-    d1_by_rasi = {}
-    for p, pd in pos.items():
-        rasi = pd.get("rasi", "")
-        d1_by_rasi.setdefault(rasi, []).append(p)
-    lagna_rasi = chart.get("lagna", "")
-    d1_chart = _build_si_chart_ta(d1_by_rasi, lagna_rasi,
-                                    f"ராசி (D1)  லக்.: {_ta_rasi(lagna_rasi)}",
-                                    cell_size=2.0)
 
-    # D9 Navamsa
-    try:
-        from divisional_charts import build_divisional_chart
-        d9 = build_divisional_chart(chart, varga="D9")
-        d9_by_rasi = {}
-        for p, pd in d9["positions"].items():
-            rasi = pd.get("rasi", "")
-            d9_by_rasi.setdefault(rasi, []).append(p)
-        SIGNS_EN = ["Aries","Taurus","Gemini","Cancer","Leo","Virgo",
-                     "Libra","Scorpio","Sagittarius","Capricorn","Aquarius","Pisces"]
-        d9_lagna = SIGNS_EN[d9["lagna_idx"]]
-        d9_chart = _build_si_chart_ta(d9_by_rasi, d9_lagna,
-                                        f"நவாம்சம் (D9)  லக்.: {_ta_rasi(d9_lagna)}",
-                                        cell_size=2.0)
-    except Exception:
-        d9_chart = TP("(நவாம்சம் கணக்கீடு தோல்வி)", "small")
+    def _lon(pd):
+        return float(pd.get("lon_abs", pd.get("lon", 0.0))) % 360.0
+
+    def _d1_idx(pd):
+        ri = pd.get("rasi_idx")
+        if ri is not None:
+            return int(ri) % 12
+        return _TA_ROMAN.get(pd.get("rasi", ""), int(_lon(pd) // 30))
+
+    d1_by_rasi, d9_by_rasi = {}, {}
+    for p in _BODIES:
+        pd = pos.get(p)
+        if not pd:
+            continue
+        d1_by_rasi.setdefault(_ENGLISH[_d1_idx(pd)], []).append(p)
+        d9_by_rasi.setdefault(_ENGLISH[int(_lon(pd) / (30.0 / 9.0)) % 12], []).append(p)
+
+    lg = pos.get("Lagna", {})
+    lagna_eng = _ENGLISH[_d1_idx(lg)] if lg else _ENGLISH[int(chart.get("lagna_idx", 0)) % 12]
+    d1_chart = _build_si_chart_ta(d1_by_rasi, lagna_eng,
+                                    f"ராசி (D1)  லக்.: {_ta_rasi(lagna_eng)}",
+                                    cell_size=2.0)
+    d9_lagna = _ENGLISH[int(_lon(lg) / (30.0 / 9.0)) % 12] if lg else ""
+    d9_chart = _build_si_chart_ta(d9_by_rasi, d9_lagna,
+                                    f"நவாம்சம் (D9)  லக்.: {_ta_rasi(d9_lagna)}",
+                                    cell_size=2.0)
 
     # Side-by-side
     side_by_side = Table([[d1_chart, d9_chart]], colWidths=[8.5*cm, 8.5*cm])

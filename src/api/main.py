@@ -286,7 +286,9 @@ async def download_pdf(data: BirthData):
         "janma_nakshatra_lord": english_data["all_planet_positions"]["Moon"]["nakshatra_lord"],
         "moon_rasi": english_data["janma_rasi"],
         "name": "Seeker",
-        "lagna_lord": english_data["rasi_lord"],
+        # lagna lord = ruler of the ascendant sign (not the Moon-sign lord)
+        "lagna_lord": SIGN_LORD.get(RASIS.index(english_data["lagnam"]), english_data["rasi_lord"])
+        if english_data["lagnam"] in RASIS else english_data["rasi_lord"],
         "lagna_deg": english_data["all_planet_positions"]["Lagna"]["longitude"] % 30,
         "lagna_lon": english_data["all_planet_positions"]["Lagna"]["longitude"],
         "truth_report": english_data.get("truth_report"),

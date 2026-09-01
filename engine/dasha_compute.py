@@ -103,24 +103,46 @@ def calculate_vimshottari(moon_longitude: float, birth_date: datetime.datetime) 
 
             maha_end = current_date + datetime.timedelta(days=_days(maha_years))
 
-            # Build Antardashas inside this Maha Dasha
+            # Build Antardashas inside this Maha Dasha.
             antar_start_idx = lord_idx
             antardashas = []
-            antar_date = current_date
 
-            for antar_i in range(9):
-                antar_lord_idx = (antar_start_idx + antar_i) % 9
-                antar_lord = VIMSHOTTARI_ORDER[antar_lord_idx]
-                antar_full_years = _antardasha_years(maha_lord, antar_lord)
-                antar_years = antar_full_years * antar_scale
-                antar_end = antar_date + datetime.timedelta(days=_days(antar_years))
-                antardashas.append({
-                    "lord": antar_lord,
-                    "start": _fmt(antar_date),
-                    "end": _fmt(antar_end),
-                    "duration_days": round(_days(antar_years)),
-                })
-                antar_date = antar_end
+            if is_balance:
+                # Balance dasha = the TAIL of a full maha dasha already running
+                # at birth. Antardashas run at FULL length from the notional
+                # (pre-birth) dasha start; only those still active after birth
+                # appear, the first one clipped to the birth moment. (Fixes the
+                # old bug that restarted the bukti sequence at birth and
+                # compressed all 9 into the balance window.)
+                elapsed_years = total_maha_years - balance_years
+                notional_start = current_date - datetime.timedelta(days=_days(elapsed_years))
+                antar_date = notional_start
+                for antar_i in range(9):
+                    antar_lord = VIMSHOTTARI_ORDER[(antar_start_idx + antar_i) % 9]
+                    antar_years = _antardasha_years(maha_lord, antar_lord)  # full
+                    antar_end = antar_date + datetime.timedelta(days=_days(antar_years))
+                    if antar_end > current_date:
+                        disp_start = max(antar_date, current_date)
+                        antardashas.append({
+                            "lord": antar_lord,
+                            "start": _fmt(disp_start),
+                            "end": _fmt(antar_end),
+                            "duration_days": round((antar_end - disp_start).days),
+                        })
+                    antar_date = antar_end
+            else:
+                antar_date = current_date
+                for antar_i in range(9):
+                    antar_lord = VIMSHOTTARI_ORDER[(antar_start_idx + antar_i) % 9]
+                    antar_years = _antardasha_years(maha_lord, antar_lord)
+                    antar_end = antar_date + datetime.timedelta(days=_days(antar_years))
+                    antardashas.append({
+                        "lord": antar_lord,
+                        "start": _fmt(antar_date),
+                        "end": _fmt(antar_end),
+                        "duration_days": round(_days(antar_years)),
+                    })
+                    antar_date = antar_end
 
             periods.append({
                 "lord": maha_lord,
